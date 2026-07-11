@@ -1,9 +1,19 @@
-# 🌾 Kisan Mitra — Live AI Crop-Doctor Call
+# 🌾 Kisan Mitra — Live AI Crop Call
+
+> ## 👉 Try it now (live demo for judges)
+>
+> ### **[https://kisan-mitra-743476269348.asia-south1.run.app](https://kisan-mitra-743476269348.asia-south1.run.app)**
+>
+> Open the link on any phone or laptop (Chrome/Safari) → tap **Start Crop Call** → allow camera + mic → point at a crop and speak in **English, Hindi, Telugu, Kannada, Tamil, Marathi**, or any other Indian language. Tested live on real crops. No install, no login.
+>
+> Health check: [`/health`](https://kisan-mitra-743476269348.asia-south1.run.app/health)
+
+---
 
 A farmer opens a link, points their phone camera at a sick crop, and **just talks**.
-"Kisan Mitra" — a real-time multilingual AI agronomist built on the **Gemini Live API**
+"Kisan Mitra" — a real-time multilingual AI crop advisor built on the **Gemini Live API**
 (`gemini-3.1-flash-live-preview`) — sees the crop, hears the farmer, answers in their own
-language, and grounds every answer in **ICAR-IIOR oilseed crop + disease knowledge**.
+language, and grounds every answer in verified oilseed crop + disease knowledge.
 
 Built for the Google DeepMind Hackathon — **Problem Statement 1: Real-Time Multimodal Interaction**.
 

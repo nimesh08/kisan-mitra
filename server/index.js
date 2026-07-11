@@ -149,7 +149,7 @@ wss.on("connection", (client) => {
       // Trigger the opening greeting.
       upstream.send(JSON.stringify({
         clientContent: {
-          turns: [{ role: "user", parts: [{ text: "[system: the farmer has joined and is pointing the camera at their crop. Greet them now as Kisan Mitra and ask them to show the crop.]" }] }],
+          turns: [{ role: "user", parts: [{ text: "[system: the farmer has joined the video call and is pointing the camera at their crop. Greet them NOW in ENGLISH as Kisan Mitra (do NOT mention ICAR, IIOR, or any organization — just say you are Kisan Mitra), briefly mention you can also speak Hindi, Telugu and other Indian languages so they can reply in whichever language they prefer, and ask them to show you the crop. Keep it short.]" }] }],
           turnComplete: true,
         },
       }));

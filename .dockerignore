@@ -1,0 +1,11 @@
+node_modules
+.env
+*.log
+sync-log.json
+.git
+.gitignore
+DEPLOY.md
+README.md
+test
+scripts
+deploy

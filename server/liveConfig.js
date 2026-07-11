@@ -27,7 +27,7 @@ export const FUNCTION_DECLARATIONS = [
   {
     name: "get_crop_knowledge",
     description:
-      "Get ICAR package-of-practices knowledge (varieties, sowing, fertiliser, irrigation, pest & disease management, harvest) for one oilseed crop. Pass the EXACT canonical crop name.",
+      "Get package-of-practices knowledge (varieties, sowing, fertiliser, irrigation, pest & disease management, harvest) for one oilseed crop. Pass the EXACT canonical crop name.",
     parameters: {
       type: "OBJECT",
       properties: {
