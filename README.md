@@ -4,9 +4,23 @@
 >
 > ### **[https://kisan-mitra-743476269348.asia-south1.run.app](https://kisan-mitra-743476269348.asia-south1.run.app)**
 >
-> Open the link on any phone or laptop (Chrome/Safari) → tap **Start Crop Call** → allow camera + mic → point at a crop and speak in **English, Hindi, Telugu, Kannada, Tamil, Marathi**, or any other Indian language. Tested live on real crops. No install, no login.
+> **Best experience: open the link on a phone and point the back camera at a real oilseed crop leaf, then speak.** Any browser (Chrome/Safari) works. On the page tap **Start Crop Call**, allow camera + mic, and speak in **English, Hindi, Telugu, Kannada, Tamil, Marathi**, or any other Indian language. Tested live on real crops. No install, no login.
+>
+> **No real crop nearby?** Open one of the sunflower disease photos below on a laptop screen, then point your phone camera at that screen and start the call. The AI will identify the disease from the image.
 >
 > Health check: [`/health`](https://kisan-mitra-743476269348.asia-south1.run.app/health)
+
+## Test images (point phone camera at these on a screen)
+
+| Disease | Photo |
+|---|---|
+| Alternaria Leaf Spot | ![Alternaria Leaf Spot](data/diseases/Sunflower/images/alternaria_leaf_spot.jpeg) |
+| Downy Mildew | ![Downy Mildew](data/diseases/Sunflower/images/downy_mildew.jpeg) |
+| Head Rot | ![Head Rot](data/diseases/Sunflower/images/head_rot.jpeg) |
+| Powdery Mildew | ![Powdery Mildew](data/diseases/Sunflower/images/powdery_mildew.jpeg) |
+| Sunflower Necrosis | ![Sunflower Necrosis](data/diseases/Sunflower/images/sunflower_necrosis.jpeg) |
+
+Try asking (in any language) *"What is wrong with my sunflower?"* — the AI will diagnose, give the exact chemical dose, dos and donts, and a case card with the nearest KVK helpline.
 
 ---
 
