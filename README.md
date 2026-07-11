@@ -12,14 +12,15 @@
 
 ## Test images (point phone camera at these on a screen)
 
-**Real field photos of castor plants (best for the demo):**
+**Castor Wilt — real field photos (best for the demo):**
+*Caused by* Fusarium oxysporum *f. sp.* ricini*. Symptoms visible in these photos: yellowing and drying of top leaves, loss of turgidity, marginal necrosis, and irreversible wilting with bending of apical leaves.*
 
 | # | Photo |
 |---|---|
-| 1 | ![Castor field photo 1](data/diseases/Castor/images/castor_field_1.jpeg) |
-| 2 | ![Castor field photo 2](data/diseases/Castor/images/castor_field_2.jpeg) |
-| 3 | ![Castor field photo 3](data/diseases/Castor/images/castor_field_3.jpeg) |
-| 4 | ![Castor field photo 4](data/diseases/Castor/images/castor_field_4.jpeg) |
+| 1 | ![Castor wilt 1](data/diseases/Castor/images/castor_wilt_1.jpeg) |
+| 2 | ![Castor wilt 2](data/diseases/Castor/images/castor_wilt_2.jpeg) |
+| 3 | ![Castor wilt 3](data/diseases/Castor/images/castor_wilt_3.jpeg) |
+| 4 | ![Castor wilt 4](data/diseases/Castor/images/castor_wilt_4.jpeg) |
 
 **Sunflower disease reference photos:**
 
@@ -31,7 +32,7 @@
 | Powdery Mildew | ![Powdery Mildew](data/diseases/Sunflower/images/powdery_mildew.jpeg) |
 | Sunflower Necrosis | ![Sunflower Necrosis](data/diseases/Sunflower/images/sunflower_necrosis.jpeg) |
 
-Try asking (in any language) *"What is wrong with my castor?"* or *"What is wrong with my sunflower?"* — the AI will diagnose, give the exact chemical dose, dos and donts, and a case card with the nearest KVK helpline.
+Try asking (in any language) *"What is wrong with my castor?"* or *"My castor leaves are drying and yellow"* or *"What is wrong with my sunflower?"* — the AI will diagnose (e.g. castor wilt), give the exact chemical dose, dos and donts, and a case card with the nearest KVK helpline.
 
 ---
 

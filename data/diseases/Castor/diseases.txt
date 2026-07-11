@@ -1,0 +1,37 @@
+S.No
+Disease
+Scientific Name
+Crop Stages
+Plant part affected
+Vector
+Season
+Favourable climatic condition
+Symptoms
+Control measures
+Chemical control measures
+Photo
+1
+Castor Wilt
+Fusarium oxysporum f. sp. ricini (Nanda & Prasad)
+All stages, especially seedling and vegetative
+Roots, hypocotyl, stem, leaves (whole plant)
+-
+Kharif and rabi
+Warm temperature (25-30°C) with soil moisture stress; continuous castor cropping in the same field; heavy soils with poor drainage
+	•	Discolouration of hypocotyl and loss of turgidity of top leaves; marginal necrosis at the seedling stage.
+	•	On adult plants, gradual yellowing and sick appearance of leaves followed by necrosis.
+	•	Browning of xylem tissues; a dark stripe and pinkish overgrowth on the stem up to the infected leaves.
+	•	Irreversible wilting with bending of apical leaves and branches; root degeneration; necrotic streaks at the base of the stem.
+	•	Chlorosis of leaves and necrosis of affected tissues finally leading to the death of the plant.
+
+	•	Adopt soil solarization for 6 weeks during peak summer.
+	•	Cultivate wilt-resistant / tolerant hybrids and varieties: DCH-177, DCH-519, GCH-7, GCH-8, DCS-107, 48-1 (Jwala), ICH-66, PCH-111, PCH-222, HCH-6, Haritha (PCS-124), Pragati (PCS-262), GC-3 (JI-273), GAC-11.
+	•	Avoid continuous cultivation of castor in the same field; adopt at least 2-year crop rotation.
+	•	Crop rotation with pearl millet, finger millet or other cereals is ideal.
+	•	Remove and destroy wilted plants along with roots; do not leave debris in the field.
+	•	Ensure good drainage; avoid waterlogging.
+
+	•	Seed treatment with carbendazim @ 2 g/kg seed OR Trichoderma viride / T. harzianum @ 10 g/kg seed.
+	•	Soil application of Trichoderma viride / T. harzianum @ 2.5 kg/ha incubated in 125 kg FYM/ha reduces wilt incidence.
+	•	Spot drench with carbendazim @ 1 g/l around affected plants at the first sign of wilting.
+castor_wilt_1.jpeg, castor_wilt_2.jpeg, castor_wilt_3.jpeg, castor_wilt_4.jpeg
