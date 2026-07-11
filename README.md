@@ -12,6 +12,17 @@
 
 ## Test images (point phone camera at these on a screen)
 
+**Real field photos of castor plants (best for the demo):**
+
+| # | Photo |
+|---|---|
+| 1 | ![Castor field photo 1](data/diseases/Castor/images/castor_field_1.jpeg) |
+| 2 | ![Castor field photo 2](data/diseases/Castor/images/castor_field_2.jpeg) |
+| 3 | ![Castor field photo 3](data/diseases/Castor/images/castor_field_3.jpeg) |
+| 4 | ![Castor field photo 4](data/diseases/Castor/images/castor_field_4.jpeg) |
+
+**Sunflower disease reference photos:**
+
 | Disease | Photo |
 |---|---|
 | Alternaria Leaf Spot | ![Alternaria Leaf Spot](data/diseases/Sunflower/images/alternaria_leaf_spot.jpeg) |
@@ -20,7 +31,7 @@
 | Powdery Mildew | ![Powdery Mildew](data/diseases/Sunflower/images/powdery_mildew.jpeg) |
 | Sunflower Necrosis | ![Sunflower Necrosis](data/diseases/Sunflower/images/sunflower_necrosis.jpeg) |
 
-Try asking (in any language) *"What is wrong with my sunflower?"* — the AI will diagnose, give the exact chemical dose, dos and donts, and a case card with the nearest KVK helpline.
+Try asking (in any language) *"What is wrong with my castor?"* or *"What is wrong with my sunflower?"* — the AI will diagnose, give the exact chemical dose, dos and donts, and a case card with the nearest KVK helpline.
 
 ---
 
