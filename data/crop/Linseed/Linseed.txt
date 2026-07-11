@@ -1,0 +1,75 @@
+# Linseed Varieties (2015–2025)
+
+This Markdown file mirrors the structure of the uploaded document, organizing varieties and state-wise recommendations into clean tables for easy reading and reuse.
+
+## Characters of Notified Varieties of Linseed (2015 onwards)
+
+| Variety | Year of Release | Released Centre | Yield potential (Kg/ha) | Oil content (%) | Recommended states | Safety features/traits |
+|---|---:|---|---:|---:|---|---|
+| PKV-NL-260 (NL-260) | 2015 | Nagpur | 960 | 37.67 | Maharashtra | MR to Powdery mildew |
+| Pratap Alsi-2 | 2015 | Kota | 1960 | 41.81 | Rajasthan | Moderately resistant to Alternaria blight, powdery mildew, wilt and bud fly |
+| JLS-79 | 2016 | Sagar | 1730 | 36.85 | Madhya Pradesh | Resistant to rust, powdery mildew, wilt and bud fly |
+| Arpita | 2016 | Keonjhar | 1299 | 35.67 | Odisha | Resistant to powdery mildew |
+| Divya (BAU-06-03) | 2016 | Kanke | 1540 | 39.81 | Punjab, Haryana, Himachal Pradesh & Uttarakhand | Resistant to rust, Alternaria blight, wilt and bud fly |
+| Priyam (BAU-2012-1) | 2017 | Kanke | 1250 | 41.3 | Punjab, Haryana, Himachal Pradesh & Uttarakhand | Moderately resistant to Alternaria blight, wilt, rust and bud fly |
+| Indu (LCK-1108) | 2017 | Kanpur | 960 | 39.00 | Uttar Pradesh | Resistant to rust, powdery mildew and bud fly |
+| Uma (LCK-1101) | 2017 | Kanpur | 870 | 37.68 | Uttar Pradesh | Tolerant to wilt, rust and Alternaria blight |
+| Him Palam Alsi-2 (KL-263) | 2018 | Palampur | 1689 (I) | 35.27 | Himachal Pradesh, Haryana and J&K | Moderately resistant to Alternaria blight, powdery mildew and bud fly; Resistant to rust |
+| Sabour Tisi-1 (BAUP-101) | 2018 | Bihar Agricultural University, Sabour Bhagalpur | 686 | 33.24 | Uttar Pradesh (excluding Bundelkhand), Bihar, Jharkhand, West Bengal and Assam | Suitable for timely sown under utera/rainfed/high/low fertility conditions during rabi season; moderately resistant to Alternaria blight and bud fly |
+| JLS-66 (SLS 66) | 2017 | Sagar | 1200 (R) | 42.85 | Madhya Pradesh | Moderately resistant to Alternaria blight, powdery mildew, wilt and bud fly |
+| Jawahar Linseed Sagar-95 (JLS-95) (SLS-95) | 2018 | Sagar | 1010 (R) | 38.38 | Bundelkhand part of UP, Rajasthan, Madhya Pradesh and Central Peninsular India (Zone-III) | Resistant to rust and wilt |
+| Utera Alsi (RLC-143) | 2018 | IGKVV, Raipur, Chhattisgarh | 570 | 34.16 | Chhattisgarh, Odisha, Madhya Pradesh, Bihar, Jharkhand and Assam | Suitable for moisture-stress rabi (rice-based relay cropping ecosystem); moderately resistant to linseed bud fly |
+| Varsha Alsi (RLC-148) | 2018 | IGKVV, Raipur & ICAR, New Delhi | 1033 | 35.7 | Rajasthan, Madhya Pradesh, Bundelkhand region of Uttar Pradesh, Odisha, Maharashtra, Chhattisgarh and Karnataka | Suitable for rainfed cultivation; moderately resistant to powdery mildew and bud fly |
+| LMS 2015-31 (BUAT Alsi 4) | 2021 | BUAT, Banda | 1260 | 32 | Rajasthan, Madhya Pradesh, Maharashtra, Odisha, Chhattisgarh and Karnataka | Suitable for irrigated condition; moderately resistant to bud fly, powdery mildew and Alternaria leaf blight |
+| LCK 1611 (Aparna) | 2021 | CSAUAT, Kanpur (Uttar Pradesh) | 1342 | 37 | Jammu & Kashmir, Himachal Pradesh, Punjab, Haryana | Suitable for irrigated condition; moderately resistant to rust and bud fly |
+| RLC 164 | 2021 | IGKV, Raipur, Chhattisgarh | 1160 | 32.6 | Jammu & Kashmir, Himachal Pradesh, Punjab, Chhattisgarh | Suitable for rainfed condition; resistant to rust; moderately resistant to Alternaria blight and bud fly |
+| RLC 167 | 2021 | IGKV, Raipur, Chhattisgarh | 1297 | 34.3 | Jammu & Kashmir, Himachal Pradesh, Punjab, Chhattisgarh | Suitable for irrigated condition at J&K, HP, Punjab; 118–122 days at Chhattisgarh; resistant to rust; moderately resistant to bud fly and Alternaria leaf blight |
+| Kota Alsi 6 (RL 13165) | 2021 | Agriculture University, Kota (Rajasthan) | 1177 | 35 | Jharkhand (Kanke), Uttar Pradesh (Kanpur, Faizabad), Bihar (Sabour, Dholi), West Bengal (Berhampore), Silloganiunder | Suitable for irrigated conditions; moderately resistant to wilt, powdery mildew, rust and Alternaria blight |
+| RL 15584 (Kota Barani Alsi 6) | 2021 | Agriculture University, Kota (Rajasthan) | 917 | 32 | Himachal Pradesh (Palampur), Jammu, Punjab (Gurdaspur) | Suitable for rainfed conditions; moderately resistant to wilt, powdery mildew, Alternaria blight and bud fly |
+| Sabour Tisi-3 (BRLS 107-1) | 2021 | Bihar Agricultural University, Sabour, Bhagalpur (Bihar) | 547 | 38.20 | Uttar Pradesh, Bihar, Jharkhand, West Bengal, Assam, Nagaland, Madhya Pradesh, Rajasthan, Maharashtra, Chhattisgarh, Odisha and Karnataka | Resistant to wilt and powdery mildew; moderately resistant to rust; moderately susceptible to Alternaria blight; for utera cultivation |
+| SHUATS - ALSI 2 (SHA-2) | 2021 | SHUATS, Allahabad | 1110 | 37.40 | Uttar Pradesh | Resistant to powdery mildew & rust; moderately resistant to wilt and Alternaria blight |
+| Sabour Tisi-2 (Sabour-101) | 2021 | Bihar Agricultural University, Sabour Bhagalpur (Bihar) | 1520 | 37.80 | Bihar | Resistant reaction against rust, Alternaria blight, wilt, powdery mildew in field condition; Bud fly in natural condition; moderately resistant in artificial condition |
+| Birsa Tisi-1 (BAU-15-03) | 2021 | BAU, Ranchi | 1520 | 37.80 | Jharkhand | Resistant to wilt, rust, powdery mildew; moderately resistant to Alternaria blight |
+| BAU-2012-1 (Priyam) | 2021 | BAU, Ranchi | 1520 | 40.70 | Jharkhand | Resistant to wilt, rust, powdery mildew; moderately resistant to Alternaria blight and bud fly |
+| BAU-06-3 (Divya) | 2021 | BAU, Ranchi | 1538 | 37–40 | Jharkhand | Resistant to rust; moderately resistant to Alternaria blight, powdery mildew and bud fly |
+| Varsha Alsi 2 (RLC-171) | 2023 | AICRP on Linseed, IGKV, Raipur | 1175 | 34.27 | Himachal Pradesh, Jammu & Kashmir, Punjab, Jharkhand, Uttar Pradesh, Assam, Bihar and Nagaland | Suitable for rainfed situation in rabi (rice-based cropping ecosystem) |
+| Birsa Tisi-2 (BAU-14-09) | 2023 | BAU, Ranchi (Jharkhand) | 1383 | 36.76 | Jharkhand | High linolenic acid (56.02%); Resistant to wilt, Alternaria blight, powdery mildew and rust; Resistant to bud fly |
+| DLV-6 (Prabhakanth) | 2023 | AICRP on MULLaRP MARS, UAS, Dharwad | 799 | 39–42 | Karnataka | Moderately resistant to powdery mildew and pod fly (Dasyneura lini) |
+| Sabour Tisi-4 (BRLS 121) | 2023 | AICRP Linseed Centre, Sabour | 1523 (I) | 32.1 | Uttar Pradesh (excluding Bundelkhand), Bihar, Jharkhand, West Bengal, Assam and Nagaland | Maturity: 127 days; Resistant to wilt and powdery mildew; moderately resistant to Alternaria blight |
+| Shuats Alsi-4 (SH-4) | 2023 | AICRP Linseed Centre, SHUATS, Naini | 1035 (I) | 35.1 | Uttar Pradesh | Maturity: 135; Resistant to powdery mildew, rust and wilt; moderately resistant to Alternaria blight and bud fly |
+| Jawahar Linseed Sagar 122 (JLS 122) (SLS-122) | 2023 | AICRP Linseed Centre, Sagar | 874 (R) | 39.27 | Madhya Pradesh | Maturity: 110–116; Moderately resistant to powdery mildew |
+| Azad Pragya (LCK 1516) | 2023 | AICRP Linseed Centre, Kanpur | 1360 (I) | 35 | Uttar Pradesh | Maturity: 128; Resistant to powdery mildew & rust |
+| SHA-5 (SUATS Alsi-5) (SHA-5) | 2024 | AICRP Linseed Centre, SHUATS, Naini | 1338 (I) | 41.7 | Uttar Pradesh (excluding Bundelkhand), Bihar, Jharkhand, West Bengal, Assam | Maturity: 127; Resistant to rust & powdery mildew; moderately resistant to Alternaria blight; moderately susceptible to wilt |
+| BUAT Alsi-5 (LMS 2017-1-12) | 2024 | AICRP Linseed Centre, Mauranipur | 1217 | 36.9 | Himachal Pradesh, Punjab and Jammu | Maturity: 152; Resistant to rust |
+| Anu (LCK 1021) | 2024 | AICRP Linseed Centre, Kanpur | 894 (R) | 37 | Uttar Pradesh | Maturity: 128; Resistant to powdery mildew & Alternaria blight |
+| DLV-7 (Wish-Win) | 2024 | — | — | — | Karnataka | — |
+| RMLS-11 (Raichur Malghatti Local Selection) | 2024 | MARS, Raichur | 900–950 | 34–35 | Karnataka | High-yielding; resistant to powdery mildew; moderately resistant to Alternaria blight; medium brown seeds; fetches higher market price |
+| Kota Barani Alsi 7 (RL-18106) | 2024 | AICRP Linseed Centre, Kota | 1566 | 36–38 | Rainfed conditions of Rajasthan | Maturity: 116–120 days; Moderately resistant to Alternaria blight, wilt and bud fly |
+| Jawahar Linseed Sagar 121 (JLS-121) (SLS-121) | 2024 | AICRP Linseed Centre, Sagar | 840 | 37.3 | Rainfed conditions of Madhya Pradesh | Maturity: 115–118 days; Protein: 22.4%; Omega-3: 57.1%; Moderately resistant to powdery mildew, wilt and Alternaria |
+| Jawahar Linseed Sagar 133 (JLS-133) (SLS-133) | 2024 | AICRP Linseed Centre, Sagar | 1139 | 33.9 | Rainfed conditions of Madhya Pradesh | Maturity: 105–112 days; Protein: 23.3%; Omega-3: 54.8% |
+| BUAT Alsi-3 (LMS-2012-42) | 2024 | AICRP Linseed Centre, Mauranipur | 1003 | 40.3 | Rainfed conditions of Uttar Pradesh | Maturity: 125–130 days; Resistant to rust; moderately resistant to wilt and Alternaria blight |
+
+> Notes: I = irrigated; R = rainfed.
+
+## State-wise Recommended Varieties of Linseed (2015–2025)
+
+| S.No | State | Linseed Varieties (2015–2020) | Linseed Varieties (2021–2025) |
+|---:|---|---|---|
+| 1 | Assam | Utera Alsi (RLC-143) (2018) | Kota Alsi 6 (RL 13165) (2021); Sabour Tisi-3 (BRLS 107-1) (2021); Varsha Alsi 2 (RLC-171) (2023); Sabour Tisi-4 (BRLS 121) (2023); SHA-5 (SUATS Alsi-5) (2024) |
+| 2 | Bihar | Utera Alsi (RLC-143) (2018) | Kota Alsi 6 (RL 13165) (2021); Sabour Tisi-3 (BRLS 107-1) (2021); Sabour Tisi-2 (Sabour-101) (2021); Varsha Alsi 2 (RLC-171) (2023); Sabour Tisi-4 (BRLS 121) (2023); SHA-5 (SUATS Alsi-5) (2024) |
+| 3 | Chhattisgarh | Utera Alsi (RLC-143) (2018); Varsha Alsi (RLC-148) (2018) | LMS 2015-31 (BUAT Alsi 4) (2021); RLC 164 (2021); Sabour Tisi-3 (BRLS 107-1) (2021) |
+| 4 | Haryana | Divya (BAU-06-03) (2016); Priyam (BAU-2012-1) (2017); Him Palam Alsi-2 (KL-263) (2018) | LCK 1611 (Aparna) (2021) |
+| 5 | Jammu & Kashmir | Him Palam Alsi-2 (KL-263) (2018) | LCK 1611 (Aparna) (2021); RLC 164 (2021); RL 15584 (Kota Barani Alsi 6) (2021); Varsha Alsi 2 (RLC-171) (2023); BUAT Alsi-5 (LMS 2017-1-12) (2024) |
+| 6 | Himachal Pradesh | Divya (BAU-06-03) (2016); Priyam (BAU-2012-1) (2017); Him Palam Alsi-2 (KL-263) (2018) | LCK 1611 (Aparna) (2021); RLC 164 (2021); RL 15584 (Kota Barani Alsi 6) (2021); Varsha Alsi 2 (RLC-171) (2023); BUAT Alsi-5 (LMS 2017-1-12) (2024) |
+| 7 | Jharkhand | Utera Alsi (RLC-143) (2018) | Kota Alsi 6 (RL 13165) (2021); Sabour Tisi-3 (BRLS 107-1) (2021); Birsa Tisi-1 (BAU-15-03) (2021); BAU-2012-1 (Priyam) (2021); BAU-06-3 (Divya) (2021); Varsha Alsi 2 (RLC-171) (2023); Birsa Tisi-2 (BAU-14-09) (2023); Sabour Tisi-4 (BRLS 121) (2023); SHA-5 (SUATS Alsi-5) (2024) |
+| 8 | Karnataka | Varsha Alsi (RLC-148) (2018) | LMS 2015-31 (BUAT Alsi 4) (2021); Sabour Tisi-3 (BRLS 107-1) (2021); DLV-6 (Prabhakanth) (2023); DLV-7 (Wish-Win) (2024); RMLS-11 (Raichur Malghatti Local Selection) (2024) |
+| 9 | Madhya Pradesh | JLS-79 (2016); JLS-66 (SLS 66) (2017); JLS-95 (2018); Utera Alsi (RLC-143) (2018); Varsha Alsi (RLC-148) (2018) | LMS 2015-31 (BUAT Alsi 4) (2021); Sabour Tisi-3 (BRLS 107-1) (2021); Jawahar Linseed Sagar 122 (JLS 122) (2023); Jawahar Linseed Sagar 121 (JLS-121) (2024); Jawahar Linseed Sagar 133 (JLS-133) (2024) |
+| 10 | Maharashtra | PKV-NL-260 (NL-260) (2015) | LMS 2015-31 (BUAT Alsi 4) (2021) |
+| 11 | Nagaland | — | Sabour Tisi-3 (BRLS 107-1) (2021); Varsha Alsi 2 (RLC-171) (2023); Sabour Tisi-4 (BRLS 121) (2023) |
+| 12 | Odisha | Arpita (2016); Utera Alsi (RLC-143) (2018); Varsha Alsi (RLC-148) (2018) | LMS 2015-31 (BUAT Alsi 4) (2021); Sabour Tisi-3 (BRLS 107-1) (2021) |
+| 13 | Punjab | Divya (BAU-06-03) (2016); Divya (BAU-06-03) (2017) | LCK 1611 (Aparna) (2021); RLC 164 (2021); RL 15584 (Kota Barani Alsi 6) (2021); Varsha Alsi 2 (RLC-171) (2023); BUAT Alsi-5 (LMS 2017-1-12) (2024) |
+| 14 | Rajasthan | Pratap Alsi-2 (2015); JLS-95 (2018); Varsha Alsi (RLC-148) (2018) | LMS 2015-31 (BUAT Alsi 4) (2021); Sabour Tisi-3 (BRLS 107-1) (2021); Kota Barani Alsi 7 (RL-18106) (2024) |
+| 15 | Uttar Pradesh | Indu (LCK-1108) (2017); Uma (LCK-1101) (2017); JLS-95 (2018); Varsha Alsi (RLC-148) (2018) | Kota Alsi 6 (RL 13165) (2021); Sabour Tisi-3 (BRLS 107-1) (2021); SHUATS - ALSI 2 (SHA-2) (2021); Varsha Alsi 2 (RLC-171) (2023); Sabour Tisi-4 (BRLS 121) (2023); Shuats Alsi-4 (SH-4) (2023); Azad Pragya (LCK 1516) (2023); SHA-5 (SUATS Alsi-5) (2024); Anu (LCK 1021) (2024); BUAT Alsi-3 (LMS-2012-42) (2024) |
+| 16 | Uttarakhand | Divya (BAU-06-03) (2016); Priyam (BAU-2012-1) (2017) | — |
+| 17 | West Bengal | — | Kota Alsi 6 (RL 13165) (2021); Sabour Tisi-3 (BRLS 107-1) (2021); Sabour Tisi-4 (BRLS 121) (2023); SHA-5 (SUATS Alsi-5) (2024) |
+

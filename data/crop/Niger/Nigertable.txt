@@ -1,0 +1,322 @@
+**Characters of notified varieties of Niger from 2014 onwards**
+
+  ----------------------------------------------------------------------------------------------------
+  **Variety**   **Year of   **Released    **Yield     **Oil     **Recommended   **Salient
+                Release**   Centre**      potential   content   regions**       features/traits**
+                                          (Kg/ha)**   (%)**                     
+  ------------- ----------- ------------- ----------- --------- --------------- ----------------------
+  DNS 4                                                         Karnataka       
+
+  JNS-30        2016        ZARS          550-600     35-37     Madhya Pradesh  
+                            Chindwara                                           
+
+  IGPN-8004     2016        AICRP Nasik   500-550     39-41     Maharashtra     Bold seeded resistant
+  (Phule                                                                        to leaf spot and PM
+  Vaitarana)                                                                    
+
+  Jawahar Niger 2017        ZARS          550-650     34-36     All India       Resistant to
+  Sel-28                    Chindwara                                           cercospora and
+  (JNS-28)                                                                      *Alternaria* leaf spot
+
+  GNNIG-3       2017        NRS Varanasi  400-450     46-48     Gujarat         Resistant to
+                                                                                cercospora and
+                                                                                *Alternaria* leaf spot
+
+  JNS 2016-1115 2021        AICRP on      650-700     39-40     All India       Suitable for rainfed
+                            Niger,                                              and irrigated
+                            Chhindwara,                                         condition, tolerant to
+                            JNKVV,                                              cercospora leaf spots,
+                            Jabalpur                                            alternaria leaf spots
+                                                                                & powdery mildew
+                                                                                diseases. Moderately
+                                                                                tolerant to aphids,
+                                                                                semilooper and
+                                                                                caterpillar. Maturity
+                                                                                96 -- 102 days.
+
+  JNS 2015-9    2021        AICRP on      550-600     38        Madhya Pradesh  Suitable for rainfed
+                            Niger,                                              as well as irrigated
+                            Chhindwara,                                         hills and plain
+                            JNKVV,                                              condition. Moderately
+                            Jabalpur                                            tolerant to aphids,
+                                                                                semilooper and
+                                                                                caterpillar. Tolerant
+                                                                                to cercospora and
+                                                                                Alternaria leaf spots
+                                                                                & powdery mildew
+                                                                                diseases under field
+                                                                                conditions. Maturity
+                                                                                99 -- 103 days
+
+  JNS-521       2021        AICRP on      550-600     37-38     Madhya Pradesh  Suitable for rainfed
+                            Niger,                                              as well as irrigated
+                            Chhindwara,                                         hills and plain
+                            JNKVV,                                              condition. Shining
+                            Jabalpur                                            black seed, tolerant
+                                                                                to Alternaria leaf
+                                                                                spots & powdery mildew
+                                                                                diseases under field
+                                                                                condition. Tolerant to
+                                                                                aphids, semilooper and
+                                                                                caterpillar. Maturity
+                                                                                99 -- 109 days.
+
+  JNS 2016-1413 2022        AICRP on      650-750     39.5      Chhattisgarh    Suitable for: Kharif
+                            Niger,                              and Jharkhand   Season. Maturity: 95
+                            Chhindwara,                                         day (av.). Escape of
+                            JNKVV,                                              problem of moisture
+                            Jabalpur                                            scarcity. Tolerant to
+                                                                                cercospora, Alternaria
+                                                                                leaf spot, Powdery
+                                                                                mildew, Niger
+                                                                                caterpiller, White fly
+                                                                                and leaf hopper.
+
+  GNNIG-4       2023        NRS, NAU,     600         37.7%     Gujarat         Suitable for
+  (Kasturi)                 Vansda Dist.                                        kharif/Late kharif
+  NMBP-1907                 Navsari                                             season, bold seeded.
+                            (Gujarat)                                           Resistant to
+                                                                                *Alternaria* and
+                                                                                *Cercospora* leaf spot
+                                                                                diseases, caterpillar
+                                                                                and semi looper under
+                                                                                field conditions
+
+  JNS 2017-13   2024        ZARS,         550-600     36.8      Madhya Pradesh, Tolerant to
+                            Chhindwara,                         Uttar Pradesh,  *Cercospora* leaf
+                            JNKVV,                              Chhattisgarh,   spots, *Alternaria*
+                            Jabalpur                            Gujarat,        leaf spots & powdery
+                                                                Odisha,         mildew diseases.
+                                                                                Moderately tolerant to
+                                                                                white fly and leaf
+                                                                                hopper
+
+  KBN-2         2025        UAS, GKVK,    500-550     37.3      Karnataka,      Suitable for
+                            Bengaluru                           Maharashtra,    rainfed/irrigated
+                                                                Telangana,      condition, black
+                                                                Madhya Pradesh, shining seed,
+                                                                District Ranchi resistant to leaf spot
+                                                                and Uttar       and powdery mildew
+                                                                Pradesh         
+  ----------------------------------------------------------------------------------------------------
+
+**State-wise recommended varieties of Niger from 2015 to 2025**
+
++---+--------+--------------------------+------------------------------+
+| * | **St   | **Niger Varieties from   | **Niger Varieties from       |
+| * | ates** | 2015-2020**              | 2021-2025**                  |
+| S |        |                          |                              |
+| . |        |                          |                              |
+| N |        |                          |                              |
+| o |        |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++===+========+==========================+==============================+
+| * | Andhra | Jawahar Niger Sel-28     | JNS 2016-1115 (2021), JNS    |
+| * | P      | (JNS-29) (2017)          | 2017-13 (2024)               |
+| 1 | radesh |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | Aru    | Jawahar Niger Sel-28     | JNS 2016-1115 (2021)         |
+| * | nachal | (JNS-29) (2017)          |                              |
+| 2 | P      |                          |                              |
+| * | radesh |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | Assam  | Jawahar Niger Sel-28     | JNS 2016-1115 (2021)         |
+| * |        | (JNS-29) (2017)          |                              |
+| 3 |        |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | Bihar  | Jawahar Niger Sel-28     | JNS 2016-1115 (2021)         |
+| * |        | (JNS-29) (2017)          |                              |
+| 4 |        |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | Chhatt | Jawahar Niger Sel-28     | JNS 2016-1115 (2021), JNS    |
+| * | isgarh | (JNS-29) (2017)          | 2016-1413 (2022),            |
+| 5 |        |                          |                              |
+| * |        |                          | JNS 2017-13 (2024)           |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | G      | GNNIG-3 (2017),          | JNS 2016-1115 (2021),        |
+| * | ujarat |                          | GNNIG-4 (Kasturi) NMBP-1907  |
+| 6 |        | Jawahar Niger Sel-28     | (2023), JNS 2017-13 (2024)   |
+| * |        | (JNS-29) (2017)          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | Goa    | Jawahar Niger Sel-28     | JNS 2016-1115 (2021)         |
+| * |        | (JNS-29) (2017)          |                              |
+| 7 |        |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | H      | Jawahar Niger Sel-28     | JNS 2016-1115 (2021)         |
+| * | aryana | (JNS-29) (2017)          |                              |
+| 8 |        |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | Jammu  | Jawahar Niger Sel-28     | JNS 2016-1115 (2021)         |
+| * | &      | (JNS-29) (2017)          |                              |
+| 9 | K      |                          |                              |
+| * | ashmir |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | Jha    | Jawahar Niger Sel-28     | JNS 2016-1115 (2021), JNS    |
+| * | rkhand | (JNS-29) (2017)          | 2016-1413 (2022),            |
+| 1 |        |                          |                              |
+| 0 |        |                          | JNS 2017-13 (2024)           |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | Hi     | Jawahar Niger Sel-28     | JNS 2016-1115 (2021)         |
+| * | machal | (JNS-29) (2017)          |                              |
+| 1 | P      |                          |                              |
+| 1 | radesh |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | Kar    | Jawahar Niger Sel-28     | JNS 2016-1115 (2021), KBN -2 |
+| * | nataka | (JNS-29) (2017)          | (2024)                       |
+| 1 |        |                          |                              |
+| 2 |        |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | Kerala | Jawahar Niger Sel-28     | JNS 2016-1115 (2021)         |
+| * |        | (JNS-29) (2017)          |                              |
+| 1 |        |                          |                              |
+| 3 |        |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | Ladakh | Jawahar Niger Sel-28     | JNS 2016-1115 (2021)         |
+| * |        | (JNS-29) (2017)          |                              |
+| 1 |        |                          |                              |
+| 4 |        |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | Madhya | JNS-30,(2016), Jawahar   | JNS 2016-1115 (2021), JNS    |
+| * | P      | Niger Sel-28 (JNS-29)    | 2015-9 (2021),               |
+| 1 | radesh | (2017)                   |                              |
+| 5 |        |                          | JNS-521 (2021), JNS 2017-13  |
+| * |        |                          | (2024)                       |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | Mahar  | IGPN-8004 (2016),        | JNS 2016-111 (2021)          |
+| * | ashtra | Jawahar Niger Sel-28     |                              |
+| 1 |        | (JNS-29) (2017)          |                              |
+| 6 |        |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | M      | Jawahar Niger Sel-28     | JNS 2016-1115 (2021)         |
+| * | anipur | (JNS-29) (2017)          |                              |
+| 1 |        |                          |                              |
+| 7 |        |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | Meg    | Jawahar Niger Sel-28     | JNS 2016-1115 (2021)         |
+| * | halaya | (JNS-29) (2017)          |                              |
+| 1 |        |                          |                              |
+| 8 |        |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | M      | Jawahar Niger Sel-28     | JNS 2016-1115 (2021)         |
+| * | izoram | (JNS-29) (2017)          |                              |
+| 1 |        |                          |                              |
+| 9 |        |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | Na     | Jawahar Niger Sel-28     | JNS 2016-1115 (2021)         |
+| * | galand | (JNS-29) (2017)          |                              |
+| 2 |        |                          |                              |
+| 0 |        |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | Odisha | Jawahar Niger Sel-28     | JNS 2016-1115 (2021), JNS    |
+| * |        | (JNS-29) (2017)          | 2017-13 (2024)               |
+| 2 |        |                          |                              |
+| 1 |        |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | Pudu   | Jawahar Niger Sel-28     | JNS 2016-1115 (2021)         |
+| * | cherry | (JNS-29) (2017)          |                              |
+| 2 |        |                          |                              |
+| 2 |        |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | Punjab | Jawahar Niger Sel-28     | JNS 2016-1115 (2021)         |
+| * |        | (JNS-29) (2017)          |                              |
+| 2 |        |                          |                              |
+| 3 |        |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | Raj    | Jawahar Niger Sel-28     | JNS 2016-1115 (2021)         |
+| * | asthan | (JNS-29) (2017)          |                              |
+| 2 |        |                          |                              |
+| 4 |        |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | Sikkim | Jawahar Niger Sel-28     | JNS 2016-1115 (2021)         |
+| * |        | (JNS-29) (2017)          |                              |
+| 2 |        |                          |                              |
+| 5 |        |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | Tamil  | Jawahar Niger Sel-28     | JNS 2016-1115 (2021)         |
+| * | Nadu   | (JNS-29) (2017)          |                              |
+| 2 |        |                          |                              |
+| 6 |        |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | Tel    | Jawahar Niger Sel-28     | JNS 2016-1115 (2021)         |
+| * | angana | (JNS-29) (2017)          |                              |
+| 2 |        |                          |                              |
+| 7 |        |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | T      | Jawahar Niger Sel-28     | JNS 2016-1115 (2021)         |
+| * | ripura | (JNS-29) (2017)          |                              |
+| 2 |        |                          |                              |
+| 8 |        |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | Uttar  | Jawahar Niger Sel-28     | JNS 2016-1115 (2021), JNS    |
+| * | P      | (JNS-29) (2017)          | 2017-13 (2024)               |
+| 2 | radesh |                          |                              |
+| 9 |        |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | Uttar  | Jawahar Niger Sel-28     | JNS 2016-1115 (2021)         |
+| * | akhand | (JNS-29) (2017)          |                              |
+| 3 |        |                          |                              |
+| 0 |        |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+
+| * | West   | Jawahar Niger Sel-28     | JNS 2016-1115 (2021)         |
+| * | Bengal | (JNS-29) (2017)          |                              |
+| 3 |        |                          |                              |
+| 1 |        |                          |                              |
+| * |        |                          |                              |
+| * |        |                          |                              |
++---+--------+--------------------------+------------------------------+

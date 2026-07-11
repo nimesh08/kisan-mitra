@@ -1,0 +1,557 @@
+ 
+
+SUNFLOWER
+
+
+
+
+
+
+
+
+PACKAGE OF PRACTICES FOR INCREASING PRODUCTION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICAR-Indian Institute of Oilseeds Research
+Rajendranagar, Hyderabad
+ 
+Citation
+
+SUNFLOWER:
+PACKAGE OF PRACTICES FOR INCREASING PRODUCTION 
+ICAR - Indian Institute of Oilseeds Research
+Rajendranagar, Hyderabad
+
+
+7th Revised Edition: July 2025
+
+
+Editors
+K. Ramesh
+H. P. Meena
+R.D. Prasad
+	P. S. Srinivas 
+
+
+
+
+Published by
+The Director
+ICAR- Indian Institute of Oilseeds Research 
+Rajendranagar, Hyderabad - 500 030
+
+
+
+Computer typesetting
+
+
+
+
+Printed at
+
+
+ 
+
+
+CONTENTS
+
+Introduction								…..		1
+Areas of Cultivation							…..		2
+Production Problems 							…..		2
+Climate									…..		3
+Soils									…..		3
+Hybrids/Varieties								…..		3
+Cropping System								…..		4
+Intercropping							…..		4
+Crop sequences							…..		5
+Crop rotations							…..		7
+Agronomic Management							…..		8
+Tillage and seed bed preparation 					…..		8
+Seeding time							…..		8
+Seed rate							…..		9
+Pre-soaking and seed treatment 					…..		9
+Spacing and plant population 					…..		9
+Thinning								…..		10
+Manures and Fertilizers						…..		10
+Sulphur fertilization						…..		12
+Boron application 							…..		12
+Weeding and interculture						…..		12
+Moisture conservation practices					…..		13
+	Irrigation management ¬						…..		13
+	Supplemental pollination						…..		13
+	Crop Protection							…..		14
+		Bird damage						…..		14
+Harvesting and Threshing							…..		14
+Realizable Yield Potentials							…..		15
+Some Critical Dos and Don’ts						…..		15
+
+
+
+
+ 
+Introduction
+
+Sunflower is an important oilseed crop and its oil is considered as premium because of its high poly unsaturated fatty acid content with high level of linoleic acid and absence of linolenic acid. The average area between 2013-14 to 2017-18 was 4.825 lakh ha with a production of 3.4 lakh t. Low productivity is mainly due to its production under sub-optimal agro-ecological conditions. However, the crop has high realizable productivity potential in the country with the adoption of available improved production technologies. Major fluctuation in cultivated area of sunflower is directly influenced by prevailing market prices whereas fluctuations in productivity are due to biotic and abiotic stresses. The magnitude of variation in productivity can be buffered by adopting sound package of practices resulting in stabilizing the sunflower production in the country. 
+
+Areas of Cultivation
+Sunflower was first cultivated in the southern part of the country to improve oilseed production in 1970's particularly in Andhra Pradesh, Tamil Nadu and Karnataka. The area under sunflower increased from 1.17 lakh ha in 1970-71 to2.12 lakh ha in 1995-96, and thereafter the area started dwindling ostensibly due to competitive crops. Within a span of a decade (1970-80) only Karnataka could maintain a steady increase in its area while in Andhra Pradesh and Tamil Nadu sunflower area was declining. In the late 1990s ,Karnataka's share to all India was about 38.4 to 45.7 per cent and has risen to 61 per cent in 2005-06 (Singha et al., 2014). Karnataka, Maharashtra and Andhra Pradesh (average area during 2013-14 to 2017 was 2.9, 0.59 and 0.37 lakh ha respectively) are the major sunflower growing states in the country. The other sunflower producing states are Tamil Nadu, West Bengal, Bihar, Punjab, Haryana, Odisha and Uttar Pradesh wherein the crop is grown during rabi/spring/summer season. Sizeable area of sunflower can also be found in rice fallow situations in well-irrigated/tank-fed and irrigation command areas of Karnataka, Andhra Pradesh and Tamil Nadu. West Bengal and Odisha are emerging as promising regions for rice fallow sunflower. In Odisha, sunflower is grown on 20000 hectares with a productivity of 1185 kg/ha (GoI, 2017). Karnataka, Odisha and Bihar are the three largest sunflower producing states ofthe country during 2019-20 (GoI, 2021). Notwithstanding these facts, sunflower area in the country has shrunk to 3 lakh ha in 2020-21. 
+
+Production Problems
+
+Traditional Areas
+
+Karnataka, Andhra Pradesh, Maharashtra and Tamil Nadu
+•	Erratic rainfall distribution with occurrence of drought in the growing season
+•	Indiscriminate cropping in marginal soils without proper crop rotation
+•	Absence of thinning to remove excess plant population 
+•	Inadequate and imbalanced fertilization of major, secondary and micro nutrients 
+•	Poor moisture conservation practices. 
+•	Poor plant stand establishment due to soil crust in Alfisols 
+•	Poor seed setting due to continuous rains and cloudy weather during kharif season. 
+•	Pollen desiccation due to high temperature at pollination stage during summer. 
+•	Infestations of capitulum borer, defoliators, sucking pests, mealybug and cut worm. 
+•	Necrosis, Alternaria, rust and downy mildew diseases. 
+•	Bird damage when grown in isolated pockets.
+
+Non-traditional areas
+
+Punjab, Haryana, Bihar, Odisha, Chhattisgarh and West Bengal
+•	Late sowing of the crop after harvest of potato/mustard/cotton/rice 
+•	Non-availability of early maturing hybrids
+•	Timely availability of quality seed
+•	Salinity in West Bengal and Haryana
+•	Capitulum borer, defoliators and sucking pests.
+•	Cut worm succeeding potato crop 
+•	Stem rot, root rot and head rot
+•	Bird damage when grown in isolated pockets.
+
+Climate
+
+Nearly 40% of sunflower in India is grown in kharif and the rest in rabi/summer and spring seasons. In Northern India, the crop is grown mainly in spring/zaid season. The seasonal rainfall requirement for a good crop of sunflower is about 500 mm, although crop can be grown with a well distributed rainfall of 300 mm. The crop requires a cool weather during germination and seedling growth, warm weather from seedling up to flowering and non-cloudy sunny days during flowering to maturity. The ideal conditions for best sunflower production are that, in kharif, flowering period should not coincide with continuous rain/drizzle and in summer, temperature during flowering period does not cross 38-40°C. In general, a temperature of 20¬ to 25°C during the growing period is optimum.
+
+Soils
+
+Sunflower performs well on a wide range of soils such as sandy loams, black soils and alluviums. Nevertheless, it does best on fertile, well-drained neutral soils. As a rainfed crop during rabi season, sunflower can profitably be cultivated in moisture retentive soils like Vertisols. The ideal pH is around 6.5 – 8.0. It can tolerate slight alkaline conditions but not acidity. Water-logging areas should be avoided. Adequate drainage is critical.
+
+
+Cropping Systems
+
+Intercropping
+
+The availability of wide range of early and medium duration varieties and hybrids responsive to inputs and management and its relatively less thermo-and photo-insensitivity renders sunflower an ideal crop for all seasons. This would modify the weed and insect assemblages between sole crop of sunflower and intercrops and to be more diverse and productive in intercrops than in sole sunflower. Due to its wider adaptability, the crop is ideally suited for intercropping system. With major crops and varieties having 120 to 140 days duration, sunflower with 75 to 100 days duration forms a perfect match to provide best time complementarity to achieve higher system productivity with minimum competition under intercropping situations.
+
+Efficient intercropping systems identified in different agro-climatic zones are presented below:
+State	Soil type	Efficient intercropping	Row ratio
+Karnataka	Alfisols	Grounndnut+sunflower	4:2, 3:1
+	Alfisols	Pigeonpea+sunflower	1 :2/1:1
+	Vertisols	Pigeonpea+sunflower	3:1
+	Alfisols	Fingermillet+sunflower	4:2
+Maharashtra	Vertisols	Pigeonpea+sunflower 	3:3
+	Vertisols	Soybean+sunflower	2:1
+	Vertisols	Groundnut+sunflower	6:2
+Andhra Pradesh	Alfisols	Groundnut+sunflower	4:2
+	Alfisols	Pigeonpea+sunflower	1 :2
+	Alfisols	Castor+sunflower	1: 1
+Tamil Nadu	Alfisols	Groundnut+sunflower 	3:1
+	Alfisols	Castor+sunflower	1:1
+Gujarat	Alfisols	Groundnut+sunflower	1:1
+	Vertisols (irrigated)	Castor+sunflower 	1:1
+Non-traditional areas	Inceptisols	Urdbean/mungbean+ sunflower	4:2/3: 1
+Sunflower + pigeonpea and sunflower + groundnut in predetermined row proportions are popular in southern states. The intercropping of sunflower + castor in Andhra Pradesh and Gujarat, sunflower + soybean in Marathwada and Vidarbha region of Maharashtra, sunflower + urdbean in Uttar Pradesh are found to be efficient for increasing productivity and monetary returns. On an average, groundnut + sunflower registered 36% yield advantage while pigeonpea + sunflower gave 23% higher additional yield advantage over sole crop of sunflower. Mungbean/sesame crops were not feasible for intercropping with sunflower in the spring season in Indo gangetic plain region The degree of profitability of intercropping system depends on the pattern of rainfall distribution and the risk factors faced by either of the crops besides the proportion of companion crops.
+
+Crop sequences
+
+It is possible to have double cropping involving sunflower in drylands in areas receiving more than 750 mm rainfall with a soil moisture storage capacity of more than 20 cm of available moisture. A large number of productive and remunerative crop sequences involving sunflower are identified for various regions/states of the country. 
+
+Suggested crop sequences involving sunflower for different states/regions of India
+
+S. No	State	Situation	Crop Sequence
+1.	Karnataka		
+	Southern region	Rainfed	Sunflower-finger millet
+		Irrigated	Rice-sunflower
+			Groundnut-sunflower
+			Sorghum-soybean-sunflower
+			Cotton-sunflower
+			Maize-sunflower -groundnut
+			Sunflower-groundnut
+	North region	Rainfed	Fallow-sunflower
+			Mungbean-sunflower
+			Sunflower-chickpea
+			Sunflower-safflower
+		Irrigated	Cotton-sunflower
+			Rice-sunflower
+			Soybean-sunflower
+			Maize-sunflower
+			Sunflower-chickpea
+			Sunflower-groundnut
+2.	Maharashtra		
+	Vidarbha	Rainfed	Sorghum-sunflower
+			Kharif pulses-sunflower
+			Sunflower-safflower
+			Sunflower-chickpea
+		Irrigated	Cotton-sunflower
+			Sorghum-sunflower
+			Groundnut-sunflower
+	Marathwada	Rainfed	Soybean-sunflower
+			Kharif pulses-sunflower
+			Sunflower-chickpea
+		Irrigated	Ground nut-sunflower-sesame
+			Cotton-sunflower 
+			Pigeon pea-sunflower
+			Pigeonpea-sunflower
+			Sorghum-sunflower
+			Maize-cowpea (F)
+			Groundnut-sunflower
+			Soybean-sunflower
+	Western Maharashtra	Rainfed	Kharif pulses-sunflower
+			Soybean-sunflower
+		Irrigated	Cotton-sunflower
+			Sunflower-groundnut
+3.	Andhra Pradesh (Telangana and Rayalaseema)
+		Rainfed	Kharif pulses-sunflower
+			Millets-sunflower
+			Groundnut-sunflower
+			Sorghum-sunflower
+		Irrigated	Rice-sunflower-mungbean
+			Rice-sunflower
+			Sesame-sunflower-groundnut
+			Groundnut-sunflower
+			Sorghum-sunflower
+4.	Tamil Nadu	Irrigated	Groundnut-sunflower
+			Mungbean-rice-sunflower
+			Sunflower-rice-sesame
+			Sunflower-rice
+5.	Non-traditional areas (Irrigated)	
+	Punjab, Haryana,
+Uttar Pradesh, Bihar		Maize-potato-sunflower
+			Cotton-sunflower
+			Fodder-potato-sunflower
+			Fodder -mustard-sunflower
+			Urdbean-mustard -sunflower
+			Groundnut -mustard-sunflower
+	Orissa, Chhattisgarh,
+West Bengal		Rice-sunflower
+			Soybean-sunflower
+			Rice-potato-sunflower
+
+Profitable new cropping systems 
+Several new cropping systems are evolving over the years in various sunflower growing regions of the country due to weather related issues.
+Area 	Emerging cropping systems 
+Bengaluru 	Cotton-sunflower
+Maize-sunflower
+Soybean-sunflower
+Sunflower-groundnut/chickpea
+Akola 	Soybean-sunflower
+Greengram-sunflower
+Sunflower-chickpea
+Sunflower-sorghum
+Latur	Groundnut- sunflower
+Maize- sunflower
+Soybean- sunflower
+Sunflower-groundnut/chickpea
+Tornala 	Greengram- sunflower
+Maize- sunflower
+Pigeonpea- sunflower
+Bajra- sunflower
+Raichur 	Bajra – sunflower
+Mazie- sunflower
+Soybean- sunflower
+Sunflower-chickpea
+
+Crop rotations
+•	Growing sunflower after sunflower should be avoided as it increases pest and disease complex and depletes the soil nutrients resulting in low yield. 
+•	Prefer legumes in sequence with sunflower for better productivity and sustainability. Sunflower yielded higher succeeding mungbean or cowpea at Raichur, soybean or mungbean at ¬Latur compared to fallow.
+•	The contribution of residual fertility from previous crop should be considered while deciding fertilizer schedule for sunflower in cropping sequence.
+•	Under rice-fallow situation, sowing of sunflower should be done as early as possible i.e., a week after the harvest of rice to realize higher yield of sunflower.
+•	In sunflower-chickpea crop sequence, incorporation of sunflower stalks had no adverse effect on chickpea productivity.
+•	Sunflower after/before groundnut in Alfisols and sunflower after soybean in Vertisols performs well. This forms an essential practice for supporting integrated nutrient and pest management practices.
+Agronomic Management
+Tillage and seed bed preparation
+
+Sunflower requires well prepared seed bed for better germination, establishment and growth. In light textured soils, plough once or twice followed by planking and harrowing for obtaining desired tilth and weed-free seed bed. Wherever soils are medium to heavy, harrow once or twice immediately after rains and/or when soil moisture is favourable. After the tillage and leveling, the land can be laid into ridges and furrows to the required row spacing using tractor or bullock drawn ridger in medium and heavy textured soils while in lighter soils, the sowing can be done in flat bed and later ridges can be formed at 30-35 days after sowing. Ridges and furrows land configuration at Akola, Latur, Raichur and Savalvihir; Broad Bed Furrow at Nandyal are recommended to retain higher moisture under rainfed conditions. Alternatively, reduced tillage (tractor drawn cultivator twice and harrowing once in red soils, tractor drawn cultivator once followed by harrowing twice in black soils) gives similar yields of sunflower as with conventional tillage (ploughing two times and harrowing twice) and is economical. Avoid low lying areas and make necessary provision for safe drainage in ill-drained soils. For growing sunflower after puddled rice, ploughing with tractor drawn mould board plough followed by rotovator twice helps in better germination and seed yield on sandy loam soils.
+
+Seeding time
+
+Although sunflower is recommended for cultivation in all the seasons, its performance is superior in rabi or spring/early summer due to favourable factors such as irrigation support, clear sunny weather and low incidence of insect pests and diseases. During rabi season, prefer early planting to derive the benefit of residual moisture at planting time. Sowing time should be decided in such a way that the flowering and seed filling stages of the crop do not coincide with continuous rainy period or high temperatures above 38°C. The suggested sowing dates for different situations are as follows: 
+For traditional areas, during kharif (rainy season), second fortnight of June to mid July, in light soils and up to second fortnight of August, for heavy soils. In rabi (winter season), the crop can be sown from September to first fortnight of October. 
+Recommended sowing time for sunflower
+Centre	Kharif	Rabi	Summer	Spring
+Maharashtra	July 1st week	1st FN of October	Last week of January to First week of February.	
+Karnataka 	July	2nd FN of September to 1st FN of October	January to 1st FN of February.	
+Tamil Nadu 	July 15	November 1	February 15	
+Andhra Pradesh	July 10 to August 20	2nd FN of November		
+Punjab, Haryana,  Uttar Pradesh, Bihar, West Bengal, Odisha and Chhattisgarh				January to February end 
+FN: Fortnight
+Seed rate
+Optimum seed rate for sunflower depends on the quality of the seed used and the seed bed condition. Normally, a seed rate of 5 kg/ha should be adequate to achieve the required plant stand. Due to uncertainty of adequate soil moisture in the seed zone and germinability of seed lower than the prescribed standard, it is safer to go in for higher seed rates and then thin out the excess seedlings to achieve optimum plant population. A lower seed rate is required for hand dibbling and higher seed rates for placing the seed behind the plough or seed drill through drawtube.
+
+The suggested seed rates for different situations are as follows: 
+                   Rainfed 		            Irrigated
+	Variety       6-7 (kg/ha)		5-6 (kg/ha)
+	Hybrid       5-6 (kg/ha)		4-5 (kg/ha)
+
+Pre-soaking and seed treatment
+
+For quick germination and better stand establishment in dryland conditions, soak the seed in fresh water (1:1 W/V) for about 10 hours and shade dry. Seed should be treated with thiram or captan @ 2-3 g/kg of seed to protect from seed-borne diseases. Seed treatment with metalaxyl @ 6 g/kg can protect the crop against downy mildew disease. Treat the seed with imidacloprid @ 5 g/kg before sowing against insect vectors for the necrosis management.
+
+Spacing and plant population
+
+Sunflower is a mono-head plant and has limited plasticity for adjustment for variations in plant population through varying head diameter up to a certain extent. Hence maintenance of optimum plant population is essential for realizing high yields. 
+
+The inter and intra-row spacing recommended in different soils are:
+Soil	Spacing (cm)		Optimum plant population/ha
+Light	45 x 30	74,000
+Heavy	60 x 30	55,000
+			
+In general, prefer wider spacing of 60 cm between rows and 30 cm within the row for hybrids and long duration populations. For short duration and dwarf varieties (Morden), follow 45 x 30 cm spacing. Either normal planting geometry under ridges and furrows (60 x 30 cm) or broad bed furrow with paired row plating is recommended for optimum yields. 
+
+Thinning
+Though sunflower has wide plasticity for variation in plant population, it is highly susceptible to competition from more than one plant per hill. Maintenance of optimum population by judicious thinning at 10-15 days after germination to retain single healthy plant per hill is essential for obtaining higher yields, besides easy intercultural operations. Additional yield advantage by practicing thinning ranged from 18 to 23% with an additional net returns ranging from Rs.4000/ha to 5100/ha.
+
+Manures and Fertilizers
+Sunflower is a heavy feeder and a tonne of crop removes as much as 63.3 kg N, 19.1 kg P205, 126.2 kg K2O, 11.7 kg S, 68.3 kg Ca, 26.7 kg Mg, 47g Zn and 1075 g Fe. Inadequate or imbalanced use of fertilizer has been one of the critical constraints in sunflower production. Incorporate 7-8 t/ha of well decomposed FYM/compost 2-3 weeks prior to sowing. Apply recommended levels of nutrients based on soil test values.
+For efficient use of applied fertilisers, adopt fertiliser-cum-seed drills. In case seeding is done by country plough, attach tube for proper placement of fertilisers. Prefer single superphosphate as source of P as it also supplies sulphur which plays an important role in increasing oil yield. Depending on specific deficiencies and based on soil test values, take up micronutrient correction in those specific areas. The fertiliser recommendations specific for each state are given below:
+State	Fertilizer (kg/ha)
+	N	P2O5	K20
+Andhra Pradesh			
+Rainfed (Rabi) 	60	60	30
+Irrigated	60	90	30
+Karnataka			
+Rainfed (Rabi)	50	25	25
+Irrigated	60	75	60
+Maharashtra			
+Rainfed	40	60	0
+Irrigated	60	95	60
+Tamil Nadu			
+Rainfed	40	20	20
+Irrigated	60	90	60
+Uttar Pradesh, Punjab, Bihar and Haryana	80	60	40
+Rice fallow situation			
+Rainfed	80	60	40
+Irrigated	40	40	20
+West Bengal, Bihar, Odisha, Chhattisgarh, Madhya Pradesh			
+Irrigated	80	60	40
+Adjust fertilizer dose based on soil test values. Apply 50% of the nitrogen and entire dose of P2O5 and K2O at planting, preferably in the form of band placement. In dry lands, top dress rest of the nitrogen at/around 30 days of crop growth depending on rainfall and soil moisture preferably at the time of interculture. For the irrigated crop, apply the remaining nitrogen in two equal splits first at 30 days after sowing (DAS) and the second at 30 days thereafter.
+Sources of fertilizers: The source of nutrients can be urea (46% N) or DAP (18% N, 46% P2O5) for N, single super phosphate (16% P2O5, 12% S) or DAP for P and muriate of potash (60% K2O) for K.
+Nutrient management in cropping systems 
+The fertilizer schedule may be decided based on the prevailing cropping systems of the region. For intercropping system of soybean + sunflower (2:1) in Vidarbha region of Maharashtra, application of 100% recommended dose of fertilizer (RDF) to soybean and 50% RDF to sunflower as basal on area basis and top dressing of 50% N to sunflower is advocated to get highest yield and returns. In Vertisols of Marathwada region of Maharashtra, fertilize pigeonpea + sunflower (1:1) intercropping system with RDF of pigeonpea on area basis along with 100% N (50% as basal and 50% as top dress) to sunflower component for higher productivity and profit. In groundnut + sunflower (3:1) intercropping system at Coimbatore and Raichur, it is suggested to apply recommended N:P2O5:K2O to groundnut on area basis and recommended P2O5:K2O and 50% N as basal or top dress to sunflower for higher production and net returns. In Telangana region, on Alfisols of Andhra Pradesh, for the intercropping systems of sunflower + groundnut (1:5) and sunflower+pigeonpea (2:1), it is desirable to apply RDF of sunflower to the intercropping systems for maximum returns under rainfed conditions. Balanced fertilization with or without supplementation of FYM @ 5t/ha alongwith RDF to kharif crops (soybean in Akola and Latur, sunflower at raichur) or to spring crop (sunflower at Dholi) or 150% RDF (145:145:90 kg N:P2O5:K2O/ha ) to both crops (groundnut in Bengaluru) was effective. 
+Biofertilizers for reducing nutrient requirement under rainfed condition: The opportunity of reducing the N requirement by use of non¬-symbiotic bioinoculants was assessed of their magnitude of contribution. In Rayalaseema region of Andhra Pradesh (Nandyal) and Vidharba region of Maharashtra (Akola), in Alfisols at Bangaluru, in alluvial soils of Bihar and in Alfisols of Coimbatore seed treatment with Azospirillum and/or Azotobacter can save 50% recommended nitrogen fertilization amounting to a saving of 20-30 kg N/ha. 
+In Northern part of Karnataka for sunflower-chickpea sequence, it is possible to substitute 50% P2O5 needs of chickpea by seed treatment with PSB along with application of 5 t/ha FYM when sunflower is grown with recommended P. In Marathwada region of Maharashtra, in soybean-sunflower cropping system on Vertisols, it is profitable to substitute 50% P2O5 for sunflower by seed treatment with PSB and application of 5 t FYM/ha when the preceding soybean is supplied with recommended P2O5. In high P fixation Alfisols, use of PSB in sunflower – sorghum cropping system can meet 50% of P2O5 (30kg) requirement of sorghum. 
+Incorporation of crop residues of kharif sunflower on the performance of rabi crop (soybean at Coimbatore and Chickpea at Raichur, Latur and Akola) has not shown any adverse affect on the succeeding crop. At Akola in sunflower-chickpea sequence, incorporation of sunflower stalks treated with cellulolitic micro-organisms can reduce fertilizer needs of chickpea by 25% besides increasing net returns.
+Sulphur fertilization: Sulphur is emerging as fourth major nutrient especially for oilseeds due to its involvement in oil synthesis. S deficiency is widespread across soil types and crops. Sunflower has been found to respond to direct and residual sulphur fertilisation. In Vidarbha region of Maharashtra, application of sulphur @ 20 kg/ha through ammonium sulphate or single super phosphate significantly enhances the yield and returns from sunflower. In Vertisols of Marathwada region of Maharashtra 40kg S/ha through single super phosphate gives higher seed yields and profit. In Telangana region of Andhra Pradesh, use of sulphur @ 45 kg/ha once in the cropping system (rice-sunflower and sunflower-groundnut) benefits the seed and oil yield besides maintaining soil fertility especially sulphur. Applying 40 kg S/ha as single super phosphate at Savalvihir and 40 kg S/ha as ammonium sulphate at Nimpith were efficient. Additional yield obtained through sulphur fertilization ranged from 10 to 45%. The additional net returns from sulphur fertilization ranged from Rs.1200 to Rs.3200/ha.
+Boron application: Providing directed spray of borax (0.2% i.e. 2 g/l of water) to capitulum at ray floret opening stage increases seed filling, yield and oil content. A spray mixture of 500 l/ha is required. Dissolve required quantity of borax (2 g/l) in small quantity of hot water and make up the required volume. Alternatively, ‘Solubor’ may be used directly at the recommended concentration. Increase in seed yield due to boron application ranged from 24-30% with additional net returns of Rs.2400 to Rs.2900/ha. Under situations of clear boron deficiency in soils (the critical soil boron concentrations in soil 0.51 mg/kg), for sunflower involved cropping systems apply boron @ 1kg/ha (borax 11kg/ha) in alternate years.
+
+Weeding and interculture
+
+The loss of yield in sunflower due to weeds is to the tune of 26-50%. Major weed flora are Dactyloctenium aegyptium, Echicochloa colona, Cynodon dactylon, Celosia argentia, Abutilon indicum, Amaranthus viridis, Parthenium hysterophorus, Portulaca oleracea, Commelina bengalensis and Cyperus rotundus. Timely weeding and interculture is a must for checking weed growth and obtaining full benefits from applied nutrients and soil moisture. Provide two hoeing followed by one hand weeding at an interval of 15 days commencing from 15-20 DAS. Alternatively, use of alachlor (Lasso 50 EC) 2 lr/ha or pendimethalin (stomp 30 EC) 3.3 lr/ha or fluchloralin (Basalin 45% EC) 2.2 lr/ha in 600 litres of water as pre-emergence spray on the same evening after sowing (ensure enough soil moisture at the time of weedicide spray) followed by one hand weeding and interculture at 30-35 DAS provide effective management of weeds. Alternatively, pendimethalin (stomp 30 EC) 3.3 lr/ha (pre-emergence) + Propaquizafop (Agil 10 EC) @ 620 ml /ha at 15-20 DAS (post emergence) followed by one intercultivation at 30 DAS proved to be efficient in the management of weeds.  Additional net returns of Rs.8300 to Rs. 9500/ha over unweeded control can be realised due to timely weed management. In Vertisols, use of herbicide becomes essential due to unfavourable soil/moisture conditions for manual weed control. Application of pendimethalin @ 1.0 kg a.i./ha as pre-emergence followed by interculture at 21 DAS and hand weeding at 40DAS was effective and profitable resulting in a B:C ratio of 2.98. Application of pendimethalin (stomp 30 EC) 3.3 lr/ha (PE) + Quizalofop-ethyl (Targa Super 5 EC) @ 750 ml/ha (post emergence) at 15-20 DAS is recommended for Vertisols.   Pre-emergence application pendimethalin 30 EC @ 1.0 kg a.i./ha as PE + power weeder at 30 DAS resulted in producing significantly higher seed yield of 2064 kg/ha with a net return of Rs. 21,278 and BCR of 1.40 or Pendimethalin @ 1.0 kg a.i. / ha. (PE) + quizalofop ethyl 10 EC @ 37.5 g a.i. / ha at 15- 20 DAS.
+
+Application of Pendimethalin 30 EC @ 1.0 kg a.i./ha as pre-emergence spray followed by  Propaquizafop (Agil) @ 62.0 g a.i./ha at 15-20 DAS as directed post-emergence spray on weeds was effective in weed management at modified spacing of 75 cm (row) x 25 cm at Bhubaneswar, Tornala and Ludhiana
+Earthing up may be done when the crop is 60-70 cm tall when sown in flat bed to prevent lodging especially in Alfisols.
+
+Moisture conservation practices
+
+As the sunflower is cultivated in Vertisols and Alfisols in large areas, soil moisture conservation techniques play an important role in achieving higher yields under rainfed conditions. In black soils, compartmental bunding is recommended in low rainfall areas. In other areas, levelling of land with field bunds is helpful to control soil and water erosion by increasing the opportunity time for infiltration. In red soil, deep tillage to a depth of 25¬-30 cm is recommended. In both the soils, opening furrows in between rows after 30-35 days of sowing results in enhanced yields to the extent of 16 ¬- 20% over farmers' practice.
+
+Irrigation management
+Depending upon soils and season, apply irrigation water at an interval of 20-25 days in case of black soils and 8-10 days in case of red soils as per the schedule indicated.
+Broad guidelines for irrigation in different soils in different seasons
+Season	Number of irrigations required
+	Light soils	Medium soils	Heavy soils
+Kharif	3-4	2-3	1-2
+Rabi	4-6	3-4	2-3
+Summer	6-6	4-5	3-4
+Avoid excess and too frequent irrigations as such practice predisposes the crop to attack of wilt and root rots. Whenever irrigation water is a constraint, provide irrigation at the three critical crop growth stages mentioned below for realizing optimum response. Avoid moisture stress at these sensitive crop growth stages, as it adversely affects seed set, filling and consequently the yield.
+
+Stage
+	Days after planting
+	Short duration cultivars	Long duration cultivars
+Bud initiation	30-35	35-40
+Flower opening	45-50	55-65
+Seed filling	55-80	65-90
+
+Supplemental pollination
+Honey bees play a very important role in increasing seed set in sunflower more particularly in open-pollinated populations. Maintaining 5 hives/ha provides optimum requirement besides yielding valuable honey. Wherever bee activity is low, resort to supplemental hand pollination on alternate days preferably in the morning hours between 8 and 11 a.m. for about 2 weeks. For this purpose, cover the hands with muslin cloth and gently caress the heads with fingers and also touch the heads of neighbouring plants. Insecticidal spray should be avoided during the blooming period as it affects the visit of pollinators (bees). If absolutely essential, spray or dust with relatively safer insecticides like endosulfan or phosalone preferably after 3 pm.
+Crop Protection
+	The important insect pests and diseases and their management methods are described in Table 2 and 3 respectively.
+
+Bird damage
+	Birds, particularly parrots, pose serious problem to sunflower when it is raised in isolated and stray pockets. To minimise damage from birds, take up sunflower in large contiguous blocks. Safeguard the crop from bird damage during the period from seed filling to harvest through effective bird scaring particularly in the morning and evening hours. Tying bright reflector ribbons above the crop will support to scare away the birds. In addition to birds, rats and squirrels also cause considerable damage to plant establishment by picking the seeds after sowing and emerging seedlings. Manual watch to scare these rodents and birds ensures good crop stand establishment.
+
+Harvesting and Threshing
+Sunflower can be harvested at physiological maturity when the back of the head turns to lemon yellow colour and the bottom leaves start drying and withering. For convenience of safe drying and handling, the crop can be harvested at harvest maturity when all leaves dry. Further, delay in harvesting causes reduction in yield due to lodging, breakage and termite attack. After separation of the heads, dry them for 2-3 days to facilitate easy separation of seed. Thresh the harvested heads either by beating with sticks or rubbing or through manual or power operated threshers. Dry the seed before storage so as to bring the moisture content to around 9-10%. 
+The sunflower thalamus serves as very good animal feed. In the feeding mixture, up to 40% sunflower heads can be used to enhance the milk yield.
+
+Realizable yield potentials
+
+	By adopting the recommended package of practices, on an average, the following yields can be realised under various situations.
+Rainfed:	      		800-1000 kg/ha	  
+Assured rainfall areas:	1000-1500 kg/ha	
+Irrigated:		            2000-2500 kg/ha 
+The cost of cultivation of sunflower per ha varies between Rs. 40000 – 46000 and the net returns works out to be Rs. 20000-30000. 
+	The average results of performance of improved production technologies under real farm situations under varied soil and farming conditions indicate improvement in yield to the extent of 10 to 68% over the prevailing farmers' practices.
+	Performance of improved technologies on sunflower productivity
+Technology	Mean yield increase over farmers’ practice
+Whole package	68
+Cultivars	38
+Fertilizers	23
+Spacing	42
+Seed treatment	9
+Thinning	16
+Biofertilizers	10
+Weed management 	24 (irrigated)
+Plant protection	25
+Sulphur and Boron	35
+
+Rice fallow sunflower 
+1.	Zero tillage at Nandyal with NDSH 1012 at 150% RDF as the best choice for cultivating sunflower under rice fallow conditions.
+2.	Rice fallow sunflower (KBSH-44) under zero tillage was found promising for Bhubaneswar, Odisha.
+3.	Weed management strategy for low land paddy fallow sunflower is highly location specific. While Paraquat spray before sowing + pendimethalin @1.0 kg a.i./ha as pre emergence spray + Quizalofop ethyl 10EC @ 37.5g a.i./ha at 20 DAS as directed post emergence spray on weeds was successful in weed management in Nandyal (AP), Bhubaneswar (Odisha) and Raichur (KA), While with Pendimethalin @1.0 kg a.i./ha as pre emergence spray + one inter-cultivation at 30DAS was effective at Nimpith (WB)
+
+Some Critical Dos and Don’ts	 
+•	Avoid continuous cropping of sunflower in the same field.
+•	Take up sunflower plantings in such a way that flowering does not coincide with continuous rain and temperature above 38-40°C.
+•	Avoid cultivation of sunflower in kharif in traditional areas to avoid necrosis disease.	
+•	The incidence of virus disease is less if sown after 15th August.	
+•	Avoid low lying areas for sunflower cultivation to prevent water logging.	    
+•	Always use certified seed obtained from authorized seed producing/supplying agencies.
+•	Treat the seeds with recommended pesticides before sowing. 
+•	Maintain optimum plant stand recommended for particular region.	 
+•	Maintain one seedling per hill by thinning at 10-15 days after germination.	
+•	Use presoaked seeds wherever soil moisture in the seed zone is insufficient at planting time and to overcome soil crust problem.	
+•	Keep sunflower field weed-free through recommended cultural/ chemical weed control practices during first 45 days of crop period.	 
+•	In the event of moisture stress, irrigate the crop at the critical stages i.e. bud, flowering and seed development stages, spray boron @ 0.2% at ray floret opening stage.	
+•	Do not spray insecticides during the flowering period.
+•	Wherever bee activity is low, resort to hand pollination.	
+•	Protect the predators such as coccinellids and chrysoperla.	
+•	Take up plant protection measures based on the need and in endemic areas, take preventive measures.
+•	In saline soils, sow sunflower on ridges and apply additional 20 kg N/ha. 
+ 
+
+
+ 
+SUNFLOWER PEST MANAGEMENT
+Sunflower is grown in all three (rainy, winter and summer) seasons in different agro-ecological zones in India.  A seed yield loss of 24-40% is reported due to insect pests. Economically important insect pests are head borer, Helicoverpa armigera; defoliators such as hairy caterpillars, tobacco caterpillar, green semilooper, sucking pests like leafhopper, whitefly and thrips. Thrips and whiteflies serve as vectors for viruses that cause sunflower necrosis disease and sunflower leaf curl respectively.
+1. Head borer (Helicoverpa armigera)
+•	Predominantly occur in kharif season.
+•	Infestation begins at star bud stage.
+•	Larvae feed on developing seed and results in yield loss.
+
+Management 
+•	Install Ha-pheromone traps @ 10/ha for monitoring. 
+•	Erect bird perches @ 25 / hectare for larval predation.
+•	Foliar spray of Btk formulation, DOR Bt-127 SC @ 1500 ml/ha or other commercial Btk @ 750g /ha or Ha-NPV @250LE/ha or insecticide, chlorantraniliprole 18.5 SC @ 150 ml/ha or profenophos 50 EC (1000ml/ha).
+2. Tobacco caterpillar (Spodoptera litura)
+•	Predominant during kharif season.
+•	Newly hatched larvae feed gregariously and skeletonise the leaves giving mesh like appearance. 
+•	Sometimes larvae also feed on thalamus. 
+
+Management 
+•	Install sex pheromone trap @ 10 traps/ha for monitoring the pest. 
+•	Collect and destroy egg masses and gregarious larvae along with damaged leaves. 
+•	Spray Sl- NPV @ 250 LE/ha or flubendiamide 39.35 SC @ 150 ml/ha, or chlorantraniliprole @150 ml/ha or profenofos 50 EC @1000 ml ha.
+
+3. Hairy caterpillars (Spilosoma obliqua, Euproctis fraterna)
+•	Predominant in kharif season.
+•	Early instars feed gregariously on leaves. Later stages voraciously feed and defoliate the plant.
+Management 
+•	Collect and destroy egg masses and gregarious stages of the larvae along with damaged leaves. 
+•	Spray 5% neem seed kernel extract or cypermethrin 10 EC @ 750 ml/ha. 
+
+
+4. Green semilooper (Thysanoplusia orichalcea)
+ Larvae feed on leaves and defoliate the plant 
+•	Spray emamectin benzoate 1.9 EC @ 425 ml/ha or chlorantraniliprole @ 150 ml/ha or profenofos 50 E @1000 ml/ha.
+
+5. Thrips (Frankliniella schultzei, Scirtothrips dorsalis, Thrips tabaci, T. palmi)
+•	Predominant in kharif season. Both nymphs and adults suck sap from leaves and flowers. 
+•	Thrips act as vector for sunflower necrosis disease. Carries infected parthenium pollen to sunflower.
+Management 
+•	Seed treatment with Imidacloprid 70WS @ 7g/kg of seed or Thiamethoxam 10g/kg and foliar spray of neem oil @ 2500 ml/ha or Imidacloprid (200 ml/ha) or Thiamethoxam (100 g/ha).
+
+6. Leafhopper (Amrasca biguttula biguttula)
+
+
+•	Occurs in kharif and rabi seasons. But rabi and summer crop suffer more damage. 
+•	Nymphs and adults suck sap from leaves from underside of the leaves. 
+•	Leaves turn yellow from the edges. Later, due to continuous feeding, hopper burn symptoms appear on leaf. Brown patches coalesce and leaves dry. 
+ Management
+•	Seed treatment with imidacloprid 70-WS @ 7g/kg seed or thiamethoxam 30 FS @ 10g/kg seed and foliar spray imidacloprid 17.8 SL (100 ml/ha) 
+7. Whitefly (Bemisia tabaci)
+
+•	Infests the crop in both kharif and rabi seasons but more predominant in rabi season. Mostly adults are noticed on lower surface of the leaves. 
+•	Specs will develop on leaves due to sucking of the sap and leaves turn yellow.
+Management
+•	Seed treatment with imidacloprid 70 WS @ 7g/kg seed and foliar spray imidacloprid 17.8 SL @ 100 ml/ha or diafenthiuron 50 WP @ 500 g/ ha.
+
+SUNFLOWER DISEASES MANAGEMENT
+1. Alternaria leaf spot (Alternaria helianthi)
+•	The fungus produces dark brown to black, circular to oval spots on the leaves, but the spots can also be seen on the stem, sepals and petals.
+•	The spots are often surrounded by a chlorotic zone with necrotic center.
+•	The spots later enlarge in size with concentric rings and become irregular in shape.
+•	 Under high atmospheric humidity, several spots coalesce to show bigger irregular lesions leading to drying and defoliation. 
+•	The disease sometimes cause rotting of flower heads and affects the quality of seeds by reducing the germination percentage.
+
+Management
+•	Early planting in kharif-June. 
+•	Intercropping Sunflower + Groundnut (1:5) 
+•	Spacing of  60x30 cm
+•	Seed treatment –Captan 3 g/kg or Carbendazim 2 g/kg. 
+•	Seed treatment with Carbendazim + Mancozeb |(1:3) 3 g/kg seed followed by Spraying of Propiconazole 1m/l at 30 and 45 days after Sowing.
+•	Foliar spraying of Mancozeb 3 g/l or Propiconazole 1 ml/l 2-3 times at 15 days interval. 
+2. Sunflower necrosis
+•	It affects crop in all seasons and at any stage of the crop.
+•	Virus causes the disease and spread by thrips. 
+•	Necrotic spots/blotching on leaves, streaks on stem, petiole mottling and curling of leaves, paralytic appearance, twisting, stunted growth, deformation of head and death of plant.
+
+Management
+•	Clean cultivation, rouging of infected plants.
+•	Barrier crop 2-3 rows with sorghum/Bajra/Maize. 
+•	Seed treatment with Imidacloprid 70WP 5g/kg followed by insecticidal spray with Imidacloprid 0.4 ml/l or Metasystox 2 ml/l at 15 days interval. 
+3. Head rot (Rhizopus arrhizus)
+•	Head rot generally affects the crop when there is intermittent rain or drizzling during heading stage.
+•	Water soaked lesions on the lower surface of the head, which later turn brown, Head becomes soft and pulpy. 
+•	Disease aggreaveated by insects feeding (Helicoverpa armigera). 
+•	The seeds are converted into black powdery mass.
+
+Management
+•	Seed treatment with carbendazim at 2g/kg.
+•	Control the caterpillars feeding on the heads.
+•	Spraying of Copper Oxychloride 4 g/l or Mancozeb 3 g/l at or flowering stage 
+4. Downy mildew (Plasmopara halstedii)
+•	Chlorosis starts through midribs causing ultimately abnormally thick, down ward curled leaves that show prominent yellow and green epiphyllous mottling. 
+•	Lower side of the leaf downy growth is observed. 
+•	Various kinds of symptoms are being produced by the pathogen like damping off, systemic infection, local lesions and basal rot or stem gall, etc. 
+•	In systemic infections plants are severely stunted. Flower heads of affected plants remain sterile and erect.
+
+Management
+•	Cultural 3 year crop rotation, deep ploughing, roughing of mildew infected seedlings during thinning, removal and destruction of infected plants before flowering reduces spread of the disease.
+•	Seed treatment with Metalaxyl (Apron 35 SD) 6 g/kg followed by foliar Sprays of Metalaxyl (Ridomil MZ) at 2 g/lit. or copper oxy chloride 3 g/lit 2 times at 15days interval provides effective control.
+5. Powdery mildew (Golovinomyces cichoracearum DC. f. sp. helianthi)
+•	Appears primarily as white grey mildew spots on the upper surface of infected leaves; which increase in size, coalesce, develop to cover the plant area with white powdery growth. 
+•	Cool, dry climate during winter months favours the disease. 
+•	The mildew becomes severe on all aerial parts of the plant under heavy infection during the blooming stage of the plant.
+
+Management
+•	Application of wettable sulphur 2g/l or Dinocap (karathane) 1ml/l. or Propiconazole  or Difenoconazole 1ml/l. three times at 15 days interval effectively controls the disease. 
+Bird Control:
+
+When sunflower raised in isolated areas, birds particularly parrots pose serious problem. It is desirable to take up sunflower cultivation in large contiguous blocks. Crop should be protected from bird damage during the period from seed filling to harvest through effective bird scaring particularly in the morning and evening hours. Tying of bright reflector ribbons above the crop will supplement bird scaring. 
+
+

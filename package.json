@@ -1,0 +1,18 @@
+{
+  "name": "krishicall-live",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "KrishiCall - live multilingual AI crop-doctor video call (Gemini 3.1 Flash Live). Grounded in ICAR oilseed crop + disease knowledge.",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "node --test",
+    "confirm-data": "node scripts/confirm-data.mjs",
+    "smoke": "node test/live.smoke.mjs"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "ws": "^8.18.0"
+  }
+}

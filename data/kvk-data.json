@@ -1,0 +1,20 @@
+{
+  "note": "Sample KVK (Krishi Vigyan Kendra) directory for demo. Numbers from public KVK / Kisan Call Centre listings.",
+  "fallback": {
+    "district": "All India",
+    "name": "Kisan Call Centre (Govt. of India)",
+    "phone": "1800-180-1551",
+    "hours": "6 AM - 10 PM, all days",
+    "languages": "22 Indian languages"
+  },
+  "districts": [
+    { "district": "Bengaluru Rural", "name": "KVK Bengaluru Rural (Hadonahalli)", "phone": "080-27651090", "hours": "Mon-Sat 9 AM - 5 PM" },
+    { "district": "Bengaluru Urban", "name": "KVK Bengaluru Urban (GKVK Campus)", "phone": "080-23330153", "hours": "Mon-Sat 9 AM - 5 PM" },
+    { "district": "Kolar", "name": "KVK Kolar", "phone": "08152-260600", "hours": "Mon-Sat 9 AM - 5 PM" },
+    { "district": "Mandya", "name": "KVK Mandya (V.C. Farm)", "phone": "08232-274613", "hours": "Mon-Sat 9 AM - 5 PM" },
+    { "district": "Mysuru", "name": "KVK Mysuru (Suttur)", "phone": "0821-2596218", "hours": "Mon-Sat 9 AM - 5 PM" },
+    { "district": "Tumakuru", "name": "KVK Tumakuru (Hirehalli)", "phone": "0816-2243070", "hours": "Mon-Sat 9 AM - 5 PM" },
+    { "district": "Hyderabad", "name": "KVK Rangareddy (ICAR-IIOR)", "phone": "040-24598178", "hours": "Mon-Sat 9 AM - 5 PM" },
+    { "district": "Latur", "name": "KVK Latur", "phone": "02382-229935", "hours": "Mon-Sat 9 AM - 5 PM" }
+  ]
+}

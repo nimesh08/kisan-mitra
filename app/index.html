@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1" />
+<meta name="theme-color" content="#0d1f12" />
+<link rel="manifest" href="manifest.json" />
+<title>Kisan Mitra — Crop Doctor Call</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- START -->
+  <section id="startScreen" class="screen active">
+    <div class="hero">
+      <div class="logo">🌾</div>
+      <h1>Kisan Mitra</h1>
+      <p class="tagline">Video-call an AI crop doctor.<br/>Show your crop, speak your language, get help now.</p>
+      <div class="chips">
+        <span>ಕನ್ನಡ</span><span>हिंदी</span><span>தமிழ்</span><span>తెలుగు</span><span>मराठी</span><span>English</span>
+      </div>
+      <button id="startBtn" class="btn-primary">📞 Start Crop Call</button>
+      <p class="fineprint">Oilseed crops: Castor · Groundnut · Linseed · Niger · Mustard · Safflower · Sesame · Soybean · Sunflower</p>
+    </div>
+  </section>
+
+  <!-- CALL -->
+  <section id="callScreen" class="screen">
+    <video id="camera" autoplay playsinline muted></video>
+    <div class="call-top">
+      <span id="status" class="pill connecting">Connecting…</span>
+      <span id="timer" class="pill timer">00:00</span>
+    </div>
+    <div id="notice" class="notice hidden"></div>
+    <div class="captions">
+      <div id="userCap" class="cap user"></div>
+      <div id="aiCap" class="cap ai"></div>
+    </div>
+    <div class="controls">
+      <button id="muteBtn" class="ctl" title="Mute">🎙️</button>
+      <button id="endBtn" class="ctl end" title="End call">📞</button>
+      <button id="flipBtn" class="ctl" title="Flip camera">🔄</button>
+    </div>
+  </section>
+
+  <!-- BUSY -->
+  <section id="busyScreen" class="screen">
+    <div class="hero">
+      <div class="logo">🚜</div>
+      <h2>All lines are busy</h2>
+      <p class="tagline">Too many farmers are calling right now.<br/>Please try again in a minute.</p>
+      <button id="busyBackBtn" class="btn-primary">← Back</button>
+    </div>
+  </section>
+
+  <!-- CASE CARD -->
+  <div id="caseModal" class="modal hidden">
+    <div class="card">
+      <div class="card-head"><span>🌾 Kisan Mitra — Case Card</span><span id="cardSev" class="sev">—</span></div>
+      <h3 id="cardDisease">—</h3>
+      <p id="cardCrop" class="muted">—</p>
+      <p id="cardSummary" class="summary"></p>
+      <div class="twocol">
+        <div><h4>✅ Do</h4><ul id="cardDos"></ul></div>
+        <div><h4>🚫 Don't</h4><ul id="cardDonts"></ul></div>
+      </div>
+      <div id="cardChem" class="chem hidden"></div>
+      <div id="cardKvk" class="kvk hidden"></div>
+      <img id="cardImg" class="ref-img hidden" alt="reference" />
+      <div class="card-actions">
+        <a id="waShare" class="btn-primary small" target="_blank" rel="noopener">Share on WhatsApp</a>
+        <button id="cardClose" class="btn-secondary small">Close</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="live-client.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

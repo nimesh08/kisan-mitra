@@ -1,0 +1,1934 @@
+
+SESAME
+TECHNOLOGY FOR MAXIMIZING PRODUCTION
+НГФ ЗАЧ
+ICAR
+All India Co ordinated Research Project on Sesame and Niger
+(Indian Council of Agricultural Research]
+JNKW Campus, Jabalpur - 482 004 (M.P.), INDIA
+Citation: Ranganatha, A.R.G.
+Improved Technology for Maximizing Production of Sesame
+Revised edition:
+December 2013
+Published by:
+Project Coordinator
+All India Coordinated Research Project on Sesame and Niger,
+Indian Council of Agricultural Research,
+JNKVV Campus, Jabalpur-482004 (MP)
+Compiled by:
+Dr. A.R.G. Ranganatha
+Dr. Alok Jyotishi
+Dr. Mohan Ramuji Deshmukh
+Dr. Rajani Bisen
+Dr. A.K. Panday
+Dr. K. N. Gupta
+Smt. Surabhi Jain
+Dr. Seema Paroha
+Cover Page:
+Amit Singh
+2
+SESAME
+TECHNOLOGY FOR MAXIMIZING PRODUCTION
+Sesame (Sesamum indicum L.) is the oldest indigenous oilseed crop, with longest history of
+cultivation in India. Sesame or gingelli is commonly known as til (Hindi, Punjabi, Assamese, Bengali,
+Marathi), tal (Gujarati), nuvvulu, manchi nuvvulu (Telugu), ellu (Tamil, Malayalam, Kannada),
+tila/pitratarpana (Sanskrit) and rasi (Odia) in different parts of India. Sesame seed (contain 50% oil,
+25% protein and 15% carbohydrate) is used in baking, candy making and other food industries. It is an
+integral part of rituals, religion and culture. The oil is used in cooking, salad oils and margarine
+(contains about 40% oleic and 40% linoleic acid). Sesame oil and foods fried in sesame oil have a long
+shelf life because the oil contains an antioxidant called sesamol. The oil can be used in the manufacture
+of soaps, paints, perfumes, pharmaceuticals and insecticides. Sesame meal is an excellent high quality
+protein (40%) feed for poultry and livestock. Sesame seeds are store house of energy and very rich in
+vitamins E, A, B Complex and minerals viz., calcium, phosphorus, iron, copper, magnesium, zinc and
+potassium. It is a best substitute for mother's milk especially incase of milk allergies. Sesame seed
+contains extraordinary quantities of methionine, tryptophan, amino acids with innumerable benefits.
+The oil is used as the base for Ayurvedic preparations and known as the Queen of oils. Sesame seeds are
+called as the seed of immortality. Studies showed that lignans found in sesame seed have remarkable
+antioxidant effect on human body. Til se dil or Til - dil are the ancient Hindi proverbs in India signifying
+the importance of sesame for heart. Sesame oil is considered as anticholesterol and highly beneficial for
+heart ailments. Sesame is energy rich crop, ironically however, grown on energy starved condition.
+India ranks first in world with 16.73 Lakh ha area and 6.5 Lakh tonnes production. The average
+yield of sesame (391 kg/ha) in India is low as compared with other countries in the world. The main
+reasons for low productivity of sesame are its rainfed cultivation in marginal and submarginal lands
+under poor management and input starved conditions. However, improved varieties and agro
+production technologies capable of increasing the productivity levels of sesame are now developed for
+different agro ecological situations in the country. A well managed crop of sesame can yield 1200-1500
+kg/ha under irrigated and 800-1000 kg/ha under rainfed conditions. The crop is grown in almost all
+parts of the country. The area, production and the productivity of the important states growing sesame
+during 2012-13 is given in Table 1.
+Table 1: Area, Production and Productivity in major states of India (2012-13).
+Area
+Productio
+Producti
+State
+Area
+Producti
+Productivi
+State
+('00
+n ('000
+vity
+('000
+on ('000
+ty (kg/ha)
+0
+tonnes)
+(kg/ha)
+ha)
+tonnes)
+ha)
+Andhra Pradesh
+Madhya
+314.5
+157.1
+500
+67.0
+22.0
+328
+Pradesh
+3
+Assam
+12.0
+7.0
+583
+Maharashtra
+31.0
+9.0
+290
+Bihar
+2.5
+2.2
+873
+Odisha
+23.1
+4.4
+191
+Chhatisgarh
+18.8
+5.5
+293
+Punjab
+5.1
+1.7
+133
+Gujarat
+Rajasthan
+415.2
+122.1
+294
+133.
+34.0
+256
+0
+Haryana
+2.8
+1.0
+357
+Tamilnadu
+47.6
+20.9
+439
+Himachal
+Uttar
+345.0
+64.0
+186
+3.0
+1.1
+357
+Pradesh
+Pradesh
+Jammu Kashmir
+4.8
+2.1
+437
+Uttarakhand
+2.0
+1.0
+500
+Jharkhand
+8.0
+2.9
+356
+West Bengal
+187.5
+176.5
+941
+Karnatka
+Others
+9.9
+6.1
+616
+13.0
+325
+40.0
+All India
+1673.0
+653.6
+391
+ANALYSIS OF SESAME SCENARIO: In India sesame is grown practically in all states. However,
+Rajasthan, Gujarat, West Bengal, Maharashtra, Uttar Pradesh, Madhya Pradesh and Andhra Pradesh are
+the major sesame growing states. The productivity of sesame is low in India, because the crop is mainly
+grown in kharif. It is significant to note that since 1965-66, the productivity of sesame increased by 128
+% and the production increased by 54% despite a reduction of 32% in area. In 2012-13 maximum area
+was covered by Rajasthan (415 thousand hectare). The maximum production (176 thousand tonnes)
+and yield (941 kg/ha) was in West Bengal. Since 1965-66, the production of sesame increased by 192 %
+in Madhya Pradesh and 4204 % in West Bengal, area increased by 19 % in Gujarat and 2186 % in West
+Bengal respectively and highest yield increase in Rajasthan in 2012-13.
+Table 2: Change in Area, Production and Productivity of sesame crop over 1965-66
+Area of major sesame growing states ('000 hectares)
+%
+1965-
+1975-
+1985-
+1995-
+2005-
+2011-
+2012-
+Change
+State
+over
+66
+76
+86
+96
+06
+12
+13*
+1965-
+66
+Andhra
+224.20
+136.10
+152.30
+199.40
+116.00
+72.00
+67.0
+-70.12
+Pradesh
+Gujarat
+111.30
+106.90
+126.80
+249.70
+364.00
+247.00
+133.0
+19.50
+Madhya
+346.50
+259.50
+233.00
+182.50
+150.10
+294.90
+314.5
+-9.24
+Pradesh
+Maharashtra
+117.80
+171.10
+227.30
+194.80
+107.00
+46.00
+31.0
+-73.68
+Rajasthan
+630.00
+366.90
+520.00
+329.40
+422.10
+512.80
+415.2
+-34.10
+Uttar
+708.00
+674.20
+278.00
+195.60
+107.10
+345.00
+345.0
+-51.27
+Pradesh
+West Bengal
+8.20
+33.30
+74.80
+115.30
+146.00
+182.10
+187.5
+2186.59
+All India
+2480.00
+2170.00
+2217.00
+1825.70
+1723.20
+1901.50
+1673.0
+-32.54
+*Estimates
+Production of major sesame growing states ('000 tonnes)
+%
+1965-
+1975-
+1985-
+1995-
+2005-
+2011-
+2012-
+Change
+State
+over
+66
+76
+86
+96
+06
+12
+13*
+1965-
+66
+Andhra Pradesh
+39.00
+26.40
+30.70
+54.10
+29.00
+20.00
+22.0
+-43.59
+4
+Gujarat
+25.70
+41.70
+19.60
+92.40
+143.00
+117.00
+34.0
+32.30
+Madhya Pradesh
+53.70
+40.50
+46.70
+46.40
+58.10
+154.90
+157.1
+192.55
+Maharashtra
+27.20
+39.30
+49.90
+48.60
+29.00
+15.00
+9.0
+-66.91
+Rajasthan
+51.40
+64.90
+27.00
+34.30
+62.80
+166.30
+122.1
+137.55
+Uttar Pradesh
+126.90
+86.20
+16.80
+25.40
+27.00
+75.00
+64
+-49.57
+West Bengal
+4.10
+20.70
+44.00
+90.70
+123.10
+167.20
+176.5
+4204.88
+All India
+425.00
+479.50
+501.00
+531.10
+641.10
+810.30
+653.6
+53.79
+*Estimates
+Productivity of major sesame growing states (Kg/ha)
+1965-
+1975
+1985-
+1995-
+2005-
+2011-
+2012-
+% Change
+State
+over 1965-
+66
+-76
+86
+96
+06
+12
+13*
+66
+Andhra
+185.00
+194.00
+202.00
+271.00
+250.00
+278.00
+328.00
+Pradesh
+77.30
+Gujarat
+231.00
+390.00
+155.00
+370.00
+393.00
+474.00
+256.00
+10.82
+Madhya
+155.00
+156.00
+200.00
+254.00
+387.00
+525.00
+500.00
+Pradesh
+222.58
+Maharashtra
+231.00
+230.00
+220.00
+249.00
+271.00
+326.00
+290.00
+25.54
+Rajasthan
+82.00
+177.00
+52.00
+104.00
+149.00
+324.00
+294.00
+258.54
+Uttar Pradesh
+179.00
+128.00
+60.00
+130.00
+252.00
+217.00
+186.00
+3.91
+West Bengal
+500.00
+622.00
+588.00
+787.00
+843.00
+918.00
+941.00
+88.20
+All India
+171.00
+221.00
+226.00
+291.00
+372.00
+426.00
+391.00
+128.65
+*Estimates
+Source: Directorate of Oil Seeds Development, Himayat Nagar,Hyderabad
+CLIMATIC REQUIREMENT: Sesame is grown in almost all the states in large or small areas. It can be
+cultivated up to the latitude of 1600m (India 1200 m). Sesame plant needs fairly high temperature
+during its life cycle. Normally the optimum temperature required during its life cycle is between 25-35
+°C. If the temperature is more than 40 °C with hot winds the oil content reduces. If the temperature goes
+beyond 45 °C or less than 15 °C there is a severe reduction in yield. The pollen become sterile at
+aberrant temperatures. The crop is very sensitive to excessive water in the field. Stagnation of water for
+long period in the standing crop will completely affect the crop. The well distributed rain during kharif
+season results in the good crop. During the last decade drastic changes in the climate have been
+experienced in the country. Aberrations in weather conditions, irregular and unevenly distributed
+rainfall have adverse effect on sesame yield. The abiotic stresses consequently will result in the biotic
+stresses which are difficult to manage. In order to tackle these problems one should evolve appropriate
+varieties to tolerate abrasive weather conditions. Photo and thermo insensitive varieties, responsive to
+fertilizer application depending on moisture and resistant varieties to insect pests and diseases are the
+need of the hour.
+VARIETAL REQUIREMENT: Research on sesame is limited for it being considered as a minor crop.
+Efforts should be intensified to enhance germplasm resources with detailed investigations on wild
+species. There is a wide range of variability in the germplasm reservoir of sesame. Wild species are rich
+5
+sources for resistance to stresses. The wild species possess desirable genes viz., resistance to
+Antigastra, powdery mildew, wilt, drought, tolerance to heavy rainfall and more seeds per capsule.
+High oil, protein, high sesamin, sesmolin, large seed size, colour, rough and easily removable
+seed coat with reduced anti nutritional factors are the important characters for breeding. The leaves
+should be medium to broad at base, narrow lanceolate towards apex with short petiole and high
+photosynthetic efficiency. Capsules with full seed set, short internodes, determinate growth habit with a
+uniform, short ripening period and non shattering type suitable for machine harvest can lead to higher
+yield. An improved harvest index should be stressed, thus reducing unproductive biomass. In sesame,
+harvest index varies from 15 to 20% and possibilities exist to double with improved plant types. The
+genotypes with the potential to respond to added inputs should be developed.
+Most of the sesame varieties are sensitive to photo and thermo periods, which limits cultivation
+across seasons and regions. Therefore, breeding for wider adaptation is important. Cultivars having
+white, bold, high lignans, low free fatty acid, oxalic acid and phytic acid are important for export market.
+Breeding efforts having a combination of improved and conventional breeding is required for sesame
+improvement.
+IMPROVED VARIETIES: Sesame is highly sensitive to seasonal variation in terms of day length and
+temperature. Therefore, varieties recommended for commercial cultivation are location and season
+specific. Farmers generally prefer particular varieties in different regions/states for their popularity on
+the basis of the desirable traits viz., seed colour, resistance to biotic and abiotic stresses and higher
+market prices.
+
+
+spreading branches
+Assam- TKG-21 variety of Madhya Pradesh and Uma variety of Odisha are recommended.
+Chhatisgarh- Sekhar variety of Uttar Pradesh and Amrit variety of Odisha are recommended.
+Jharkhand- PKDS-11 variety of Madhya Pradesh is recommended.
+Jammu and Kashmir- Brijeshwari variety of Himachal Pradesh is recommended.
+North Eastern States TKG-21, TKG-22 and TKG-55 varieties of Madhya Pradesh, Tilottama Variety
+of West Bengal, GT-10 of Gujarat and Uma variety of Odisha are recommended.
+RT-46 and RT-125 are recommended for Punjab, Haryana, and Uttar Pradesh besides Rajasthan
+state.
+RT-54 and RT-103 are also recommended for Gujarat, Maharashtra and Telangana region of
+Andhra Pradesh.
+RT-346 is also recommended for Haryana, Punjab, Himachal Pradesh, Gujarat and adjoining
+areas of western Uttar Pradesh, Maharashtra and Karnataka besides Rajasthan state.
+RT-351 is also recommended for Gujarat, Uttar Pradesh, Maharashtra, Haryana, Punjab and
+Himachal Pradesh besides Rajasthan state.
+TKG-21, TKG-22 and TKG-55 are also recommended for Eastern UP, Bihar, Odisha, West Bengal
+and North Eastern states besides Madhya Pradesh state.
+Uma is also recommended for Uttar Pradesh, Bihar, West Bengal and North Eastern States,
+besides Odisha state.
+Amrit is also recommended for West Bengal besides Odisha state.
+Sekhar is also recommended for Haryana and Bihar besides Uttar Pradesh state.
+PKDS-11 is also recommended for Punjab, Haryana, Uttar Pradesh, Himachal Pradesh and West
+Bengal besides Madhya Pradesh state.
+JTS-8 is also recommended for Uttar Pradesh, Maharashtra and adjoining parts of Andhra
+Pradesh besides Madhya Pradesh state.
+TMV-3 is also recommended for Karnataka besides Tamil Nadu state.
+TC-25 is also recommended for Vidarbha region of Maharashtra besides Punjab state.
+Note: The details of the varieties like seed yield and other salient features are given in the respective
+states.
+Seed Scenario: The breeder seed production in sesame exceed the indents by 2-3 times. The seed
+production chain at foundation and certified stages is weak. The seed replacement rate is low exhibiting
+a range from minimum of 1-2% in Bihar and Madhya Pradesh to a maximum of 10% in Gujarat. The non
+11
+availability of quality seed to the farmers at proper time is one of the important reason for low
+productivity. However, improved varieties and agro production techniques capable of boosting the
+productivity levels have been developed for different agro ecological situations.
+Maintenance of genetic purity: Sesame is highly prone to mechanical mixture due to its very light,
+small seed and shattering habit. Therefore care has to be taken to avoid mixture at all the stages.
+Following precautions are to be taken to maintain the genetic purity. Select the field with no preceding
+crop of Sesame. Use seed from authenticated source after ascertaining genetic purity through grow out
+test. Restrict selection of only true to the type plants. Renewal of seed should be done at least once in
+three years. Follow strict rouging at vegetative, flowering and maturity stages. Apply phorate 10G
+10kg/ha in and around the seed plot to control seed removal and/or mechanical mixture by the ants, a
+serious problem at sowing time. The maturity of the capsules is not synchronous in most of the
+varieties, as a result the earlier capsules start shattering while others are still green. Shattering is the
+main problem and source of mechanical mixture. In spite of very low seed rate and very high
+multiplication ratio, the conversion from one to the other stage of seed multiplication is very low.
+Prolonged exposure to variations in temperature and relative humidity during kharif may lead to
+shrinkage and attack of pathogens. It is sensitive to excessive moisture and highly susceptible to
+Phytophthora and Macrophomina. Crop failure due to these reasons is quite frequent. Very small, light
+seed and shattering of capsules, make the crop prone to mechanical mixture at harvesting, threshing
+and processing stages. To protect the seed from seed borne pathogens and storage fungi, a protective
+spray of systemic fungicide like Carbendazim is recommended but not actually practiced. Like other
+crops, non lifting and delayed lifting of seed is a common problem of breeder seed production process.
+Presently two seed production systems are operating. The formal system is being operated
+through public sector agencies like NSC, SFCI, SSC's, SAUs and oil federations etc. The seed
+multiplication ratio in this system is extremely poor. The main advantage of this system is that the
+identity, genetic purity, quality and source of the seed is known to the farmers. The informal system
+includes multiplication of varieties by private growers or individual farmers and sharing the seed by
+the farmers. The seed of most of sesame varieties under cultivation is being produced and supplied
+through this system. The main disadvantage of this system is that the identity, genetic purity, quality
+and source of the seed is not authenticated. However, the seed produced through this system is less
+expensive and easily available to the farmers. The existing formal system of seed production had been
+hardly sufficient to cope up with the seed requirement. The minor crops like sesame receive least
+priority of seed producing agencies and therefore the production of quality seed for the farmers in
+these crops is pathetic. The possibility of improving the supply of quality seed through the formal
+system in near future appears not to be so bright. Therefore in these crops, alternative systems of seed
+supply may prove worthy for fulfillment of the requirement.
+12
+Both, the formal and informal systems of seed supply, have their own limitations. To overcome
+the limitations of the prevalent informal system and the existing formal seed supply system, the seed
+production can be undertaken by the research institutes and distributed through farmer fairs/field
+days/sale counters. The direct supply is quite feasible and will be rather more effective in view of the
+specific advantages. This system has been quite successful to bring the maximum area under quality
+seed of improved varieties in Gujarat where total area has been occupied by Gujarat Til-1 and Gujarat
+Til-2 and average productivity of the state has gone to 600 kg/ha. Another option to augment the seed
+supply in sesame is seed village concept. The institutes can choose a single variety to grow in one ha
+plot which will easily produce 8-10 q seed sufficient to cover the area of about 250 to 300 ha in one
+village with the single variety. The seed village should grow one and the only one variety. The local or
+other varieties should not be grown in seed village. Clubbing together the programme of
+demonstrations and seed village will prove synergistic for the improvement of seed replacement rate.
+The improved production technologies recommended for different sesame growing areas in the
+country are as follows.
+GROWING SEASONS: Sesame is grown in all the crop growing seasons viz, kharif, late kharif, rabi and
+summer. It is grown in more than one season in some part and in different seasons in other parts of the
+country (Table 5).
+Table 5: Sesame growing seasons in India.
+Season
+Planting
+Harvesting
+Situati
+Ar
+Name of states
+time
+time
+on
+ea
+(%
+)
+Rainy
+June-July
+Oct. Nov.
+Rainfed
+70
+Rajasthan, Uttar Pradesh, Madhya Pradesh,
+(kharif)
+Gujarat, Andhra Pradesh, Maharashtra, Odisha,
+Tamil Nadu and Karnataka
+Late
+Aug. Sept.
+Dec. Jan.
+Rainfed
+10
+Andhra Pradesh, Gujarat, Madhya Pradesh and
+Kharif
+Maharashtra
+Winter
+Oct. Nov.
+Feb. March
+Irrigate
+Rar
+Tamil Nadu, Andhra Pradesh and Odisha
+(rabi)
+d
+e
+Summer
+Jan.
+April June
+Irrigate
+20
+West Bengal, Odisha, Gujarat, Andhra Pradesh,
+March
+d
+Tamil Nadu and Kerala
+Pre
+Apr May
+July
+Rainfed
+10
+Karnataka, Andhra Pradesh
+Kharif
+Normally, the crop is grown in plains but it also comes up successfully up to 1200 m above
+mean sea level. For maximum yield, sesame requires fairly high temperatures (25-35°C) and evenly
+distributed rainfall during its growth period.
+SOILS: Sesame can be grown on a wide range of soils, however well drained light to medium textured
+soils are preferred. It does best on sandy loams with adequate moisture. The optimum pH range is 5.5
+to 8.0. Acidic or alkaline soils are not suitable.
+13
+CROPPING SYSTEM
+Sequence cropping: Sesame is a short duration crop and fits well into a number of multiple cropping
+systems either as a catch crop or a sequence crop. Following are some of the common sequences
+followed in different regions (Table 6).
+Table 6: Sequence cropping with sesame.
+State
+Crop sequence
+Andhra Pradesh
+Rice-Groundnut-Sesame, Sesame-Horse gram, Finger millet/Sorghum/Horse
+gram (Early)-Sesame, Sesame- Upland Rice
+Bihar
+Early Rice -Potato-Summer Sesame/Green gram
+KharifSesame-Maize/Pigeon pea/Rabi gram
+Wheat-Summer Sesame/ Green gram
+Gujarat
+Sesame-Wheat/Mustard
+Karnataka
+Sesame-Horse gram/Chickpea
+Madhya Pradesh
+Sesame-Wheat ,Cotton-Sesame-Wheat, Rice-Summer Sesame
+Maharashtra
+Sesame (Early)-Rabi Sorghum/Safflower/Gram
+Cotton-Summer Sesame (For Vidharbha Region)
+Odisha
+Rice/Potato-Sesame, kharifSesame-Maize/Pigeon pea/ Rabi gram
+Rajasthan
+Sesame-Wheat/Green gram/Barley/Mustarc
+Sesame-Pearlmillet/Green gram/Clusterbean/Mothbear
+Tamil Nadu
+Rice/Groundnut-Sesame, Sesame- Green gram, Sesame-Rabi Sorghum,
+Groundnut-Black gram-Sesame, Sesame-Green gram, Cowpea-Sesame
+Uttar Pradesh
+Sesame (Early)-Gram/Rapeseed-Mustard/Lentil/Pea
+West Bengal
+Potato-Sesame, Rice Sesame
+Inter cropping: Profitable intercropping systems recommended for different states are given in Table
+7.
+Table 7: Inter cropping systems for different states.
+State
+Intercropping system
+Gujarat
+Sesame+Groundnut / Black gram (3:3)
+Sesame+Pearl millet / Cotton (3:1)
+Karnataka
+Sesame+Groundnut (1:4)
+Madhya Pradesh
+Sesame+Green gram / Black gram (2:2 or 3:3)
+Sesame+Soybean (2:1 or 2:2)
+Maharastra
+Sesame+Pearl millet / Black gram (3:1), Sesame+Pigeonpea(4:2)
+Sesame+Green gram(3:3), Sesame+Soybean (2:1), Sesame+Cotton (3:1) (For
+Vidharbha Region)
+Odisha
+Sesame+Green gram /Black gram (2:2)
+Pigeonpea+Sesame (2:2) (In kharif)
+Rajasthan
+Sesame+Green gram(4:2) / Moth bean (1:1)
+Tamil Nadu
+Sesame+Green gram / Black gram (3:3)
+Sesame+Pigeonpea(3:1), Sesame+Groundnut (2:4)
+Uttar Pradesh
+Sesame+Green gram (1:1), Sesame+ Pigeon pea(3:1)
+West Bengal
+Sesame+Groundnut (1:3 or 2:2)
+14
+AGRONOMIC MANAGEMENT
+Land preparation: One or two ploughings followed by harrowing are recommended for pulverization
+and fine tilth required for good germination and plant stand. Keep the field weed free and perfectly
+levelled to avoid water logging to which sesame is highly sensitive.
+Seed rate: A seed rate of 5 kg/ha is needed to achieve the required plant stand. Wherever seed drill is
+used, the seed rate may be reduced to 2.5 to 3 kg/ha from 5 kg/ha. For easy interculture and to realize
+higher yield adopt line sowing.
+Sowing method: In order to facilitate easy seeding and even distribution increase the bulk by mixing
+the seed with either sand or dry soil or well sieved farmyard manure in 1:20 ratio. Use seed drill or
+deshi plough with suitable attachment for line sowing. The optimum depth for seed placement is 2.5 cm.
+Avoid deep seeding as it adversely affects germination and plant stand.
+Optimum time of sowing and spacing: Indian agro climate is so variable that sesame is sown and
+harvested through out the year in all the months in one or the other part of the country. Spacing
+between and within the row depends on the specific variety, plant type and season. The optimum time
+of sowing and spacing recommended for different states/ regions are given in Table 8.
+Table 8: Optimum time of sowing and spacing in different states/ regions.
+State
+Season
+Sowing time
+Spacing
+(cm)
+Andhra Pradesh
+Coastal
+Kharif
+Second fortnight of May
+30 X 15
+Summer
+Second fortnight of January
+30 X 15
+Telangana
+Kharif
+Second fortnight of July
+30 X 10-15
+Gujarat
+Kharif
+Last week of June to second fortnight of
+60 X 15
+Semi-rabi
+July
+60 X 15
+Summer
+Mid September
+30 X 10
+Second fortnight of February
+Madhya Pradesh/
+Kharif
+First week of July
+30 X 10-15
+Chhattisgarh
+Semi-rabi
+Late August-Early September
+30 X 15
+Summer
+Second to last week of February
+30 X 15
+Maharashtra
+Kharif
+Second fortnight of June to First week of
+30 X 15
+Semi-rabi
+July
+30 X 15
+Summer
+Early September
+45 X 15
+Vidharbha Region
+Kharif
+February
+30 X 10
+Semi-rabi
+Last week of June to first fortnight of July
+30 X 10
+Summer
+First fortnight of September
+30 X 10
+Last week of January to first week of
+February
+Rajasthan
+Kharif
+First fortnight of July
+30 X 15 or
+45 X 10
+Odisha
+Kharif
+June-July
+30 X 10-15
+Rabi
+September-October
+30 X 10-15
+Summer
+February
+30 X 10-15
+Uttar Pradesh/
+Kharif
+Second fortnight of July
+30-45 X 15
+Uttaranchal
+Bihar, Jharkhand
+Kharif
+July
+30 X 15
+15
+West Bengal
+Kharif
+End of May-first week of June
+30 X 15
+Rabi
+30 X 15
+Summer
+September-October
+30 X 15
+February-March
+Tamil Nadu
+Kharif
+Second fortnight of May to Second
+30 X 30
+Rabi
+fortnight of June
+30 X 30
+Summer
+November-Decemben
+30 X 30
+Second fortnight of January to March
+Karnataka North
+Kharif
+June-July
+30 X 15
+South
+Pre Kharif
+April-May
+30 X 15
+Assam
+Kharif
+July-August
+30 X 10-15
+Punjab/Haryana
+Kharif
+Second fortnight of July
+30 X 10-15
+Kerala
+Kharif
+August
+30 X 10-15
+Summer
+December
+30 X 15
+Seed Treatment: For the prevention of seed borne diseases, use treated seed with Thiram 2 g/kg +
+Carbendazim 1 g/kg or Trichoderma viride 5 g/kg seed. Wherever bacterial leaf spot disease is a
+problem, soak the seed for 30 minutes in 0.025% solution of Agrimycin-100 prior to seeding.
+Manures and Fertilizers: For improving soil physical conditions and to obtain higher yield, apply
+about 5 tonnes/ha of well decomposed farm yard manure before the last ploughing and incorporate it
+thoroughly in to the soil. Sesame responds well to inorganic fertilizers. The dose of fertilizers would
+however, vary depending on the variety, season, soil fertility status, previous crop, rain fall and soil
+moisture. The optimum doses of N, P and K recommended for different regions/situations are given in
+Table 9.
+Table 9: Recommended doses of fertilizers for different states.
+State/ Situation
+Recommended dose
+Specific recommendation
+of N:P:K (kg/ha)
+Andhra Pradesh
+Coastal region
+40:40:20
+-
+Telangana region
+30:30:20
+Gujarat
+Kharif
+50:25:40
+Apply sulphur 15-20 kg/ha
+Semi-rabi
+25:12.5:0
+I
+Summer
+50:25:0
+-
+Madhya Pradesh/
+Chhattisgarh
+40:30:20
+Apply zinc sulphate 25 kg/ha once in three
+Rainfed
+60:40:20
+years in zinc deficient soils
+Summer
+Maharashtra
+50:0:0
+Half N at 3 weeks after sowing and remaining
+half 6 weeks there after.
+Vidharbha Region
+40:50:0
+For AKT-64 variety
+25:25:0
+For other varieties
+-Half N at sowing and remaining half dose 30
+DAS
+-20 kg Zn and S/ha each at sowing if soils are
+deficient
+Rajasthan
+Heavy soils
+40:20:0
+Apply Gypsum 250 kg /ha
+16
+Light soils
+40:25:0
+Odisha
+Irrigated
+40:20:20
+-
+Rainfed
+30:15:15
+-
+Tamil Nadu
+Irrigated
+35:23:23
+Apply full dose of N, P and K as basal
+Rainfed
+23:13:13
+Seed may be treated with 600 g Azospirillum
+Uttar Pradesh/
+20:10:00
+-
+Uttaranchal
+Haryana
+30:00:00
+-
+Bihar/ Jharkhand
+40:40:00
+-
+West Bengal
+Irrigated
+50:25:25
+No fertilizer if sown after potato.
+Rainfed
+25:13:13
+Assam
+30:30:20
+Entire as basal
+Kerala
+30:15:30
+N may be applied 75% as basal + 25 % as foliar
+2% urea, 30-35 days after sowing
+Karnataka
+37.5:25:25
+Half N + full P and K as basal
+Remaining half N at 30-35 DAS
+Wherever specific mention has not been made, apply half the recommended dose of nitrogen and full
+dose of phosphorus and potash at the time of seeding. The remaining half of nitrogen may be top
+dressed at flower initiation i.e. 30-35 days after sowing. At the time of top dressing, there should be
+sufficient soil moisture or irrigate the field as in case of rabi-summer sesame.
+Weeding and Interculture: The critical crop weed competition period in sesame is up to 40 DAS. The
+crop is very sensitive to weed competition during the first 20-25 days. Two weedings, one after 15-20
+days of sowing and other at 30-35 days after sowing are required to keep the field weed free and for
+moisture and nutrients available to the crop. For interculture, use hand hoes or bullock drawn blade
+harrow. Preplant incorporation of 1 kg a.i./ha fluchloralin or pre emergence application of 1 kg a.i./ha
+Pendimethalin effectively check weed growth. One hand weeding and hoeing at 30 days after sowing
+may be followed.
+Irrigation: Except, when raised during rabi-summer seasons, sesame rarely receives any irrigation.
+Nevertheless, protective irrigation will greatly benefit the kharif crop also whenever there are
+prolonged dry spells. For rabi-summer crop give the irrigation, immediately after sowing to improve
+germination and plant establishment, if soil moisture conditions warrant. The subsequent irrigations
+may be given at an interval of 12-15 days depending on the soil type, weather conditions and season.
+For good seed filling and yield, irrigations at flower initiation and capsule formation are essential.
+CROP PROTECTION: A number of insect pests and diseases may damage sesame at different crop
+stages. Appropriate control measures should be taken up to reduce yield losses. Major insect pests and
+diseases, their characteristic symptoms and measures recommended for their management are
+furnished in Table 10 and 11.
+17
+Table 10: Important insect pests of sesame and their integrated management.
+Insect pest
+Nature of
+Stage
+Period of
+Integrated management
+damage
+when crop
+insect
+is
+activity
+damaged
+Leaf roller
+In early stage
+The first
+July to
+Early sown kharifcrop is less infested than
+and capsule
+of
+crop,
+attack of
+September
+late sown crop
+borer
+caterpillars
+the pest
+Use tolerant varieties viz; RT-46, RT-54,
+(Antigastra
+feed on tender
+starts when
+RT-103, RT-125, Usha, Swetha Til, Tapi,
+catalaunalis
+leaves
+and
+the crop is
+Pragati, TMV-3, Shekhar, Tarun, Amrit,
+Dup.)
+remain inside
+2-3 weeks
+Gujarat Til-3, TKG-306, Hima, PKV-NT-11,
+the leaf web. At
+old.
+TKG-55, TKG-21, TKG-22 and JTS-8
+flowering,
+Removal of larvae from the leaf webs
+larvae
+feed
+during the initial stages of plant growth
+inside
+the
+and destroy them
+flowers and on
+Intercropping with black gram, green
+capsule
+gram, moth bean, pearl millet, pigeon pea
+formation,
+and cowpea proved to be more effective
+larvae
+bore
+than sole crop
+into capsules
+Crop rotation is effective in reducing pest
+and feed on
+population.
+developing
+Birds readily eat the caterpillars and help
+seeds.
+to check when they are numerous, 40-50
+bird perches are required for one hectare
+For effective control of the sesame pest
+particularly at early stage, apply phorate
+10G 10 kg/ha as basal application
+Release of Larval parasite Bracon hebator,
+Bracon geichi Ashm
+Spray NSKE 5 g/l
+Seed treatment with imidachloprid 70 WS
+7.5 g/kg seed or thiamethoxam 25 WG 5
+g/kg seed and one or two foliar sprays of
+NSKE 5 g/l or neem oil 5 ml/l or neem
+gold 0.3% or Spinosad 45 SC 0.15 ml/l.
+or prophenophos 50 EC 2ml/l is found
+effective against major insect pests of
+sesame
+Two sprays of Chloropyriphos 20 EC 1.5
+ml/l or Quinalphos 25 EC 1.5 ml/l or
+Triazophos 40 EC 1 ml/l at 30 and 45
+days after sowing
+Economic threshold level of Antigastra
+catalaunalis is 10 per cent plant infestation
+level
+Gall fly
+Maggots feed
+At the time
+September
+Clipping of the galls, picking and burning
+(Asphondylia
+inside the floral
+of bud
+to
+the shed buds may help as prophylactic
+sesami Folt.)
+bud leading to
+initiation
+November
+measure
+formation of
+Use tolerant varieties like RT-46, Swetha
+gall
+like
+Til, RT-103, OMT-26, Swetha Til, RT-127,
+structure
+Hima and RT-125
+which do not
+Spray NSKE 5 g/l
+develop
+into
+Spray crop at bud initiation stage with any
+flower/
+one of the following insecticides
+capsule.
+The
+dimethoate 1.5 ml/l or Quinalphos 25 EC
+affected
+buds
+1.5 ml/l or Dichlorvos 76 EC 1 ml/l or
+18
+wither
+and
+Triazophos 40 EC 1 ml/l or Imidacloprid
+drop.
+17.8% SL 0.25 ml/l
+Bud fly
+Maggots feed
+At the time
+September
+Use tolerant varieties like MT-75 and
+(Dasynura
+inside the floral
+of bud
+to October
+Shekhar
+sesami G&P)
+bud leading to
+initiation
+Management as in the case of gall fly
+formation of
+gall
+like
+structure
+which do not
+develop into
+flower/capsule.
+The affected
+buds wither
+and drop.
+Sesame leaf
+Nymph and
+From
+July to end
+Seed treatment with imidachloprid 70 WS
+hoppers
+adults suck the
+vegetative
+of
+7.5 g/kg seed or thiamethoxam 25 WG 5
+(Orosius
+sap of tender
+to capsule
+September
+g/kg seed protects the crop from all
+albicinctus
+parts of the
+stage
+sucking pests for about a month
+Dist.)
+plants.
+The
+Intercrop with Redgram
+jassid or leaf
+Remove and destroy infected plants
+hopper is a
+Use Predator : Brumus sutugalis (Early
+serious pest of
+instar nymphs)
+sesame and is
+Spray NSKE 5 g/l
+known
+to
+Spray Dimethoate 30 EC 1.5 ml/l or
+transmit
+Imidacloprid 17.8% SL 0.25ml/l or
+phyllody
+Acetamaprid 0.3 g/l or Thiamethoxam
+disease.
+0.25 g/l or Thiochloprid 1 ml/l
+Hawk moth
+Caterpillars
+Throughout
+August to
+Deep ploughing exposes the pupae for
+(Acherontia
+feed on the
+the crop.
+October
+birds
+styxW.)
+leaves and
+Collection and destruction of caterpillars
+defoliates the
+Use bioagents Trichogramma spp.
+plant.
+(Egg. Parasite) or Apanteles
+achorantiae (larval parasite)
+Spray NSKE 5 g/l
+Two sprayings of Quinalphos 25 EC 1.5
+ml/l or Chloropyriphos 20 EC 2 ml/l
+Two rounds of dusting with phosalone 4%
+or malathion 5% dust 25 kg/ha, first at 30
+DAS and second at 45 DAS
+Bihar Hairy
+In the early
+Starting
+August to
+After harvesting of kharifcrop, field should
+caterpillar
+stages, larvae
+from
+October
+ploughed to expose larvae and pupae for
+(Spilosoma
+are gregarious
+vegetative
+bird predation
+obliqua)
+feeders and are
+stage till
+Avoid pre monsoon sowing
+concentrated
+maturity.
+Use optimum seed rate and adequate plant
+on few plants.
+spacing should be followed
+Mature
+Use tolerant varieties like Tilotama and
+caterpillars
+Rama
+migrate to
+Destroy egg masses and young larvae
+other plants
+during gregarious phase
+and feed
+Install one light trap/ha to catch the adults
+voraciously
+Use bird perches 40-50/ha
+leaving only
+Use Trichogramma evanesuns or
+T.
+19
+the stem.
+minutam or T. riely or Apanteles oblique
+Welkinson as egg parasite
+Use Bacillus thuringiensis var. Kurstaki as
+larval parasite
+Spray NSKE 5 g/l
+Two sprayings of any one of the
+following insecticides
+Chloropyriphos 20 EC 1.5 ml/l or
+Triophos 40 EC 1 ml/l or Quinalphos 25
+EC 1.5 ml/l or Acephate 75% SP 1.5 g/l
+or Indoxacarb 15.8 EC 0.5 ml/l first at 30
+DAS (days after sowing) and second at
+45 DAS
+Table 11: Important sesame diseases and their management.
+Disease
+Symptoms
+Stage of
+Management
+crop
+when
+disease
+appears
+Phytophthora
+Initially water soaked
+Seedling
+Deep ploughing in summer
+blight
+spots appear on leaves
+to
+Improve drainage
+(Phytophthora
+and stem. The spots are
+flowering
+Two years crop rotation
+parasitica
+brown in beginning, later
+stage.
+Use disease free seed
+Sesami)
+turn to black. In humid
+Sesame + pearlmillet (3:1), Intercropping,
+weather severity of
+should be followed
+disease increases and
+Use tolerant varieties viz. TKG-21, TKG-22,
+causes death of plant and
+TKG-55, JTS-8, AKT-64
+give blighted appearance.
+Seed treatment before sowing with Thiram
+(0.2%) + Carbendazim (0.1%) 3g/kg seed or
+Apron 35 SD (0.3%) or Ridomil Mz (0.25%) or
+Trichoderma harzianum or T. viride or Bacillus
+subtilis (0.5%)
+For root/stem infection, 2-3 times drench soil
+with Kavach (0.25%) or Ridomil Mz (0.25%) at
+7 days interval
+Spray crop three times with Ridomil Mz
+(0.25%) or Copper oxychloride (0.25%)
+alternately at an interval of 10 days from the
+initiation of disease
+Stem and root
+Disease appears on root
+Seedling
+Two years crop rotation
+rot
+and stem. The affected
+to
+Deep ploughing in summer
+(Macrophomina
+plants show wilting. At
+maturity.
+Use disease free seed
+phaseolina)
+ground level stem
+Follow intercropping sesame + mothbean 1:1
+becomes black which
+or 2:1 ratio
+extends
+upward
+Use tolerant varieties viz. RT-46, RT-54, RT-
+rupturing the stem. Black
+103, RT-125, RT-127, TKG-55, JTS-8, MT-75,
+dots appear on the
+Nirmala
+infected stem, which are
+Treat the seed with T. viride or T. harzianum or
+the pycnidia of the
+Bacillus subtilis (0.5%) or Thiram 75 SD
+fungus. If wilted plant is
+(0.2%) + Carbendazim (0.1%) 3g/kg seed or
+uprooted, black coloured
+Thiram 75 SD (0.3%)
+roots are observed having
+Uproot and destroy the infected plants
+sclerotia of the fungus
+On appearance of the disease, drench soil with
+and looks as charcoal is
+Thiram + Carbendazim (1:1) at 7 days interval
+20
+sprinkled on the root. The
+Irrigate field to avoid stress condition
+roots become brittle.
+Bacterial blight
+Water soaked, small and
+Spots
+Seed treatment with hot water at 52 °C for 10
+(Xanthomonas
+irregular spots are
+appear
+minutes
+campestris pv.
+formed on the leaves,
+from 4-
+Steep the seed in Agrimycin-100 (250 ppm) or
+sesami)
+which later increase in
+leaf stage
+Streptocycline suspension (0.05%) for 30
+number and turn brown,
+of
+the
+minutes
+under
+favorable
+crop and
+Foliar spray of Streptocycline (500 ppm) +
+conditions,
+severely
+continue
+Copper Oxychloride 0.25% as soon as
+infected leaves defoliate.
+till
+symptoms are noticed. Continue alternately
+Later, the spots are
+maturity.
+two more sprays at 15 days interval if
+formed on the twigs,
+necessary
+which bear poor capsules.
+Bacterial leaf
+Small angular light brown
+From 4-6
+As in bacterial blight
+spot
+to brown spots confined
+leaf stage
+(Pseudomonas
+to veins with dark
+of crop
+syringae pv.
+margins. In high humidity
+and
+sesami)
+and temperature the
+continue
+spots increase and
+till
+coalesce. The disease may
+maturity.
+advance alongwith veins
+and
+petiole
+and
+defoliation may occur.
+Cercospora leaf
+Disease appears as small,
+4-6 leaf
+Early planting i.e. immediately after onset of
+spot
+angular brown leaf spots
+stage of
+monsoon
+(Cercospora
+of 3mm diameter with
+the crop
+Follow intercropping of sesame + pearl
+sesami)
+gray center and dark
+and
+millet (3:1)
+margin delimited by
+continue
+Treat the seed with Thiram (0.2%) +
+veins. In severity of the
+till
+Carbendazim (0.1%) 3g/kg seed
+disease,
+defoliation
+maturity.
+Use tolerant variety TKG-21
+occurs. In favorable
+Three sprays of Indofil M 45 (0.25%) +
+conditions the disease
+Carbendazim (0.1%) or Topsin M (0.1%)
+spreads to leaf petiole,
+alternately at 15 days interval
+stem and capsules
+producing linear dark
+coloured deep seated
+lesions.
+Alternaria leaf
+Spots on leaves are
+Spots
+Use tolerant varieties viz. TC-25, RT-46, RT-
+spot
+brown circular to
+appears
+54, JTS-8, Sekhar, Usha, TSS-6, Nirmala, RT-
+(Alternaria
+irregular in shape and
+when the
+125
+sesami)
+often have concentric
+crop is
+Treat the seed with Thiram (0.2%) +
+rings.
+nearly
+Carbendazim (0.1%) in 1:1 ratio
+one
+Spraying with Indofil M 45 (0.25%) +
+month
+Carbendazim (0.1%) or Topsin M (0.1%) at
+old.
+15 days interval when disease appears
+21
+Powdery
+Small
+cottony
+spot
+45 days to
+Early planting i.e. immediately after onset of
+mildew
+appears on the infected
+maturity.
+monsoon
+(Oidium sp,
+leaves, which gradually
+Follow intercropping system of Sesame +
+Sphaerotheca
+spread on the lamina.
+Pearlmillet (3:1)
+sp., Leveillula
+Defoliation of severely
+Use tolerant varieties viz. Swetha, RT-127,
+sp.)
+infected plant occurs
+MT-75
+before maturity.
+2 to 3 Foliar spray of Wettable sulphur
+(0.2%) or Carbendazim (0.1%) or Tilt
+(0.1%) or Karathane (0.1%) alternately at 10
+days interval
+Phyllody
+All floral parts are
+Vegetative
+Rogue out diseased plants
+(Phytoplasma)
+transformed into green
+growth
+Delay in planting of sesame about 3 weeks
+leafy structures. Infected
+and
+after onset of monsoon
+plant is conspicuous by
+Flowering
+Follow intercropping, Sesame + Pigeon pea
+its stout internodes,
+stage.
+(1:1)
+abundant
+abnormal
+Use tolerant varieties viz. JT-21, Swetha,
+branching which cause
+Rama, Sekhar
+top portion to bend down,
+Soil application of Phorate 10 kg/ha
+such plants generally do
+Three sprays of neem oil (0.5%) at 30, 40
+not bear capsules but if
+and 60 days after sowing or Three sprays of
+capsules are formed on
+Dimethoate (0.3%) alternately at 30, 40 and
+lower portion of plant
+60 days after sowing
+they do not yield quality
+seed.
+IPM PACKAGE: Pest resistant variety + seed treatment with Carbendazim 50 wp (0.2%) or
+Carbendazim (0.1%) + Thiram (0.2%) or Trichoderma viride (0.5%) + two sprays of Azadirachtin
+(0.5%) or Indofil M 45 (0.25%) + Quinalphos (0.05%) at 30-40 and 45-55 days after sowing.
+Intercropping with Green gram/pigeon pea/Black gram minimizes the incidence of leaf roller, gall fly
+and major diseases.
+HARVESTING AND THRESHING: The best time of harvesting is when the leaves turn yellow and start
+drooping while the bottom capsules are lemon yellow. Do not postpone harvesting and allow the crop
+to dry completely in the field because such practice leads to losses due to shattering. Usually the crop is
+threshed by gentle beating of well dried plants with sticks.
+ECONOMICS OF CULTIVATION
+With the adoption of improved technology, on an average, the seed yield of 508 kg/ha, gross returns of
+Rs. 35245/ha, additional net return of Rs. 8458 /ha and the benefit cost ratio of 2.11 can be obtained.
+The seed yield and economics of sesame cultivation in major sesame growing states are given in Table
+12.
+Table 12: Economics of improved technology under real farm situations (FLD's).
+S.
+State
+Rainfed/
+Seed
+Cost of
+Gross
+Additional
+Benefit
+No.
+Irrigated
+yield
+cultivation
+returns
+net
+cost
+(kg/ha)
+(Rs./ha)
+(Rs./ha)
+returns
+ratio
+(Rs./ha)
+1
+Rajasthan
+R
+451
+12555
+38335
+5219
+3.04
+2
+Uttar Pradesh
+R
+360
+10764
+28080
+9007
+2.61
+22
+3
+Maharashtra
+R
+654
+15015
+44040
+9969
+2.93
+4
+Bihar
+R
+393
+10035
+23568
+8235
+2.34
+5
+Kerala
+I
+610
+36175
+48800
+11190
+1.34
+6
+Jharkhand
+R
+684
+12000
+34200
+9400
+2.85
+7
+Haryana
+R
+326
+16890
+26080
+2624
+1.54
+8
+Punjab
+R
+576
+15735
+43200
+15699
+2.75
+9
+Karnatka
+R
+515
+20645
+30900
+4780
+1.49
+10
+India
+508
+16646
+35245
+8458
+2.11
+CROP DEVELOPMENT PROGRAMME: The country ranks first in area (1700 thousand ha) under
+sesame and earned Rs. 2880 crore through sesame export. In the recent past, the international demand
+and market for sesame has witnessed substantial growth. It is grown in all seasons of the year and
+being a short duration crop, fits well in to various cropping systems.
+To promote sesame as summer crop where protective irrigation is available: During summer
+season the potential of sesame is about 1 tonne/ha (double of kharif season). It is less infested, during
+summer by diseases, insects and weeds. Cultivation should be encouraged in summer in the states viz.,
+West Bengal, Orissa, Andhra Pradesh, Gujarat, Maharashtra and Tamil Nadu.
+Timely availability of quality seed of improved varieties: Unfortunately quality seed of high
+yielding varieties to the farmers is not available. Improvement in the seed chain is needed so that
+foundation and certified seed are produced in larger quantities. Replacement of old local varieties has
+to be ensured for improvement in production.
+Improvement in crop husbandry: Sesame is generally cultivated during Kharif on marginal lands,
+with negligible inputs. It is often attacked by diseases, insects and infested by weeds. The farmers do
+not adopt line sowing and plant protection. The improved production technology would increase
+productivity considerably. Sustainability in production can be achieved, with adoption of long term
+measures. Seed chain, which is very poor at foundation and certified stages need to be improved. Need
+based use of major and micro nutrients based on soil test values should be encouraged.
+There is a vast realizable yield reservoir available with the existing level of technologies. Hence, quick
+and effective transfer of technology through the following is the need of the hour. (a). Frontline
+demonstrations (b). On farm research (c). Training to the extension personnel (d). State agricultural
+officers and farmers (e). Seed village adoption (total production technology in integrated manner).
+The oilseed economy has been transformed during the few decades owing to several
+governmental policies and the positive response by the farmers and the line departments. We have a
+network of organizations committed to the oilseeds research, development and related aspects. The
+research pertaining to the socio economic aspects has by and large been done sporadically and in
+isolation. It is therefore, necessary to take up systematic research on these aspects. Assessment of
+improved technologies and their sustainability from the socio economic point of view, methodologies
+23
+for assessment of sustainability, total factor productivity, performance of regulated markets, trading,
+consumer preferences and demand analysis need to be studied.
+It is drought tolerant, requiring 1/4 the water for corn, 1/3 the water for sorghum and 1/2 the
+water for cotton. Approximately 80-90 percent of sesame grown in the country is dry land and 10-20
+percent has supplemental irrigation. It uses common farming practices, including no till practices, and
+standard farming and handling equipment. The sesame plant conditions, the soil and reduces cotton
+root rot and root knot nematodes, thus lowering the risk and increasing the yield on subsequent cotton
+crop.
+Export and Import: International demand for sesame is increasing continuously every year due to its
+increasing applications. India is the largest exporter of Sesame seed in the World accounting for a share
+of 23%. The total global exports of Sesame seed were at a level of 1.31 million tonnes during 2012-
+13(Source: Oil World 2013). China is the largest importer of sesame seed followed by Japan. Most of the
+importers who supply ingredient distributors and oil processors only want to purchase scientifically
+treated, properly cleaned, washed, dried, color sorted size graded and impurity free seeds packed
+according to international standards. Usually, only seed meeting there criteria may be exported from a
+producing country. India earned the foreign exchange of Rs. 2880 crores by export of sesame seed. The
+export demand is in increasing trend promising a bright future for export potential. The pesticide
+residue free, white seeded sesame is preferred in foreign countries market. Sesame export has
+witnessed a constant increase from 218.97 thousand tonnes (2001-02) to 299.52 thousand tonnes
+(2012-13).
+Table 13: Year-wise Export status of Sesame (India)
+Year
+Sesame seed
+Quantity('000
+Value (Rs. in crores)
+tonnes)
+2001-02
+218.97
+562.23
+2002-03
+118.31
+372.89
+2003-04
+189.11
+708.90
+2004-05
+168.28
+708.95
+2005-06
+199.81
+746.60
+2006-07
+233.34
+939.58
+2007-08
+317.01
+1642.29
+2008-09
+196.98
+1494.26
+2009-10
+215.73
+1494.10
+2010-11
+398.44
+2307.52
+2011-12
+389.15
+2641.66
+2012-13
+299.52
+2881.54
+Source: - Director General of Commercial Intelligence & Statistics, Ministry of Commerce, Kolkata
+SWOT Analysis: Sesame with high export potential (40 % of world natural; 60 % of hulled),
+Irreversible increase in demand and growth of international trade is the strength; Poor transfer of
+24
+recommended technology, energy rich crop grown in energy starved conditions are the weaknesses;
+Very low seed rate, very high seed multiplication ratio, short duration crop, fits well into various
+cropping systems and best contingent crop to manage drought situations are opportunities; High
+pesticide residue, high FFA, low lignans, high anti nutritional factors and shifting of better areas with
+irrigation to low risky crops like soybean and upland rice are the threats. Sudan, China, Korea and
+Thailand are international competitors.
+Diversified Uses: Sesame seeds are the oldest condiment and because of nutty flavour used in cooking
+recipes. They are the main ingredient in tahini (Tahini is one of the main ingredients in famous middle
+eastern dip, hummus). Natural sesame seeds are largely served in bakery products such as bread, bread
+sticks, cookies, candies, pasta, vegetables and curry dishes. Sesame flour, an edible, creamy and light
+brown powder obtained from seed has high protein, high levels of methionine and tryptophan and 10%
+to 12% oil. Sesame meal is excellent feed for poultry and livestock. Among edible oils, sesame has the
+highest antioxidant content. According to Hindu legends and beliefs, til oil represent a symbol of
+immortality and is considered the most auspicious oil next to ghee. Tamil medicine holds that gargling
+with sesame oil after brushing one's teeth will reduce gum disease and mouth ulcers while eliminating
+plaque. Sesame oil is used as a solvent, oleaginous vehicle for drugs, skin softener and used in the
+manufacture of margarine and soap. Sesame seeds are rich in quality vitamins and minerals. They are
+very good sources of B-complex vitamins such as niacin, folic acid, thiamin (vitamin B₁), pyridoxine
+(vitamin B₆) and riboflavin and also contain dietary fiber and monounsaturated fats. The mono
+unsaturated fatty acid oleic acid, which comprises 40-50% fatty acids, helps to lower LDL or bad
+cholesterol and increases HDL or good cholesterol in the blood. Calcium, iron, manganese, zinc,
+magnesium, selenium, and copper are specially concentrated in sesame seed. Many of these minerals
+have a vital role in bone mineralization, red blood cell production, enzyme synthesis, hormone
+production, as well as regulation of cardiac and skeletal muscle activities. Sesame seed contain three
+times more calcium than a comparable measure of milk. In addition to these, sesame seeds also contain
+health benefiting compounds such as sesamol and sesaminol. Sesame is used to prepare perfumes.
+Several pharmaceutical uses have been identified from sesame. Myristic acid is used as an ingredient in
+cosmetics. Sesame flower extract possesses tumor inhibiting effect. Chlorosesamone obtained from
+roots of sesame has antifungal activity. Its oil and seed are sources for some phytonutrients such as
+omega-6 fatty acids, flavonoid phenolic antioxidants, vitamins and dietary fiber with anticancer as well
+as health promoting properties.
+Exploitable Yield Reservoir: The impact of improved sesame production technologies under real farm
+situations indicated that there is a huge gap between actual and attainable yield, which be harnessed
+through adoption of improved technologies. An attempt has been made to estimate the extent of yield
+reservoir through adoption of technologies. For this purpose, the whole package demonstrations of
+25
+three years (2010-11, 2011-12 and 2012-13) conducted in Maharashtra (35), Tamilnadu (44), Uttar
+Pradesh (91), Karnataka (25), Rajasthan (53) and India (248) were considered (Table 14). The yield
+Gap-I (between IT and FP) was ranging from 23.5% in Rajasthan to 72.1 % in Uttar Pradesh. The
+national sesame production could be increased to 1145.4 thousand tonnes from 785.6 thousand tonnes,
+if the yield gap was bridged. Similarly, the yield gap-II (between IT and state average productivity) was
+ranging from 5.9 % in Karnataka to 775.1 % in Uttar Pradesh. The national sesame production could be
+increased to 2097.6 thousand tonnes from 1145.4 thousand tonnes by bridging the yield gap-II. This
+situation warrants a need to effectively transfer the improved sesame production technologies among
+the sesame growers, so that the huge exploitable yield reservoir be harnessed.
+Table 14: Exploitable yield reservoir in sesame
+State
+No. Of
+FLD'S Average
+Yie
+Avera
+Yiel
+Average
+Expected
+Demo
+Yield (kg/ha)
+Id
+ge
+d
+Product
+production
+ns.
+ga
+yield
+ion
+('000 tonnes)
+IT
+FP
+p-I
+(kg/h
+gap-
+('000
+EP-I
+EP-II
+(%
+a)
+II
+tonnes)
+)
+(%)
+Maharashtr
+1199.
+927.
+29.
+269.
+35
+324.3
+14.7
+19.0
+54.3
+a
+7
+3
+4
+9
+Tamilnadu
+1385.
+891.
+55.
+163.
+44
+526.0
+24.2
+37.7
+63.8
+3
+3
+4
+4
+Uttar
+1747.
+101
+72.
+775.
+91
+199.7
+68.3
+117.6
+598.0
+Pradesh
+3
+5.3
+1
+1
+Karnataka
+390.
+27.
+25
+498.0
+470.3
+5.9
+31.7
+40.4
+33.5
+7
+5
+Rajasthan
+578.
+23.
+108.
+53
+714.3
+342.0
+170.5
+210.6
+356.2
+3
+5
+9
+All India
+1108.
+760.
+45.
+167.
+1145.
+2097.
+248
+415.3
+785.6
+9
+6
+8
+0
+4
+6
+IT=Improved Technology; FP=Farmer's Practices; yield gap-I=Increase in IT over FP expressed in percentage.
+Tips to obtain higher yield:
+Use good quality seed of recommended variety.
+Sow at appropriate time with proper spacing and maintain population by thinning
+Select well leveled field and provide good drainage. Prepare a fine seed bed free from clods.
+Apply recommended dose of fertilizers at appropriate time and foliar spray of 2% urea, DAP at
+flowering and capsule development stage.
+Keep the field weed free, particularly up to 40 days after sowing.
+Apply irrigation at critical stages for rabi-summer crop and provide protective irrigation wherever
+possible during kharif.
+Treat the seed with fungicide/bactericide as recommended.
+Adopt need based plant protection measures against insect pests and diseases.
+26
+Plant infested by Antigastra
+Different life stages of Antigastra
+Til hawk moth
+Bihar hairy caterpillar
+Macrophomina stem/root rot
+Alternaria leaf spot
+Phytophthora blight
+Bacterial leaf spot
+All India Co ordinated Research Project on Sesame and Niger
+(Indian Council of Agricultural Research)
+JNKVV Campus, Jabalpur - 482 004 (M.P.) India
+Phone : +91 (0761) 4030409, 2680254, Fax : +91 (0761) 2681050, 4030409
+E-mail : pcunitjabalpur@rediffmail.com, argranga@gmail.com
+Gram : KRISHIVISWA

@@ -1,0 +1,1509 @@
+
+CASTOR
+Production Technology
+with LIBHTE raway
+ICAR-Indian Institute of Oilseeds Research
+RIGHT 030, RTGY Rajendranagar, Hyderabad-500 030, Telangana State
+An ISO 9001 : 2015 Certified Institute
+IIOR
+ICAR
+Variety GAC-11
+/ Hybrid ICH-66 ICH-66
+CASTOR
+Production Technology
+(Indian Council of Agricultural Research)
+ICAR-Indian Institute of Oilseeds Research
+Rajendranagar, Hyderabad 500 030
+ICAR
+IIOR
+Citation
+Castor: Production Technology. ICAR-Indian Institute of Oilseeds Research,
+Hyderabad. p.26.
+7th Revised Edition: January 2020
+Compiled and Edited by
+G. Suresh
+C. Lavanya
+P. Duraimurugan
+M. Santha Lakshmi Prasad
+T. Manjunatha
+Lakshmi Prayaga
+J. Jawahar Lal
+A. Vishnuvardhan Reddy
+Published by
+Dr. A. Vishnuvardhan Reddy
+Director
+ICAR-Indian Institute of Oilseeds Research
+Rajendranagar, Hyderabad 500 030
+Printed at
+Balaji Scan Pvt. Ltd., Nampally, Hyderabad-500001.
+Tel: 040-23303424/25
+Website: balajiscan.com; E-mail: bsplpress@gmail.com
+PREFACE
+Castor (Ricinus communis L.) provides an important industrial oil, which
+is completely biodegradable. Castor oil is used for deriving a number of industrial
+products viz., dye, detergents, plastics, printing ink, patent leather, ointment, polishes,
+surface paints, adhesives, lubricants and hydraulic fluids. Castor cake is considered
+to be an excellent organic manure. In eri-silk producing areas, castor leaves are fed
+to eri-silk worms. India holds a premier and dominant position in the world in castor
+production and supplies. During 2018-19, castor crop was grown in an area of 7.61 lakh
+hectares, with 12.15 lakh tonnes production and a productivity of 1597 kg/ha. Despite
+phenomenal increase in the production and productivity over the last two decades, there
+are wide regional disparities in the productivity of castor. With the exception of Gujarat
+and Rajasthan, where the productivity has registered a significant jump since 1970,
+the general productivity level of rainfed castor in all other parts of the country is very
+low. A multitude of factors such as its cultivation in sub-marginal and marginal lands,
+uncertainty of rainfall and its erratic distribution, delayed sowings, poor management
+of the crop with little or no inputs and use of poor quality seed are responsible for low
+yields under rainfed situations.
+This publication entitled Castor: Production Technology is a compilation
+of concerted research efforts made at ICAR-Indian Institute of Oilseeds Research and
+All India Coordinated Research Project on Oilseeds (castor), which has resulted in the
+development of improved hybrids and varieties; improved management practices and
+protection technologies capable of boosting the productivity in different agro-ecological
+conditions in the country.
+I take this opportunity to thank Dr. T. Mohapatra, Secretary, DARE and
+Director General, ICAR, New Delhi, Dr. A.K. Singh, Former DDG (CS) and Dr.
+T.R. Sharma, Deputy Director General (CS), ICAR, Dr. S.K. Jha, Assistant Director
+General (OP), ICAR for their constant encouragement and support in bringing out
+this publication. I sincerely thank my colleagues at IIOR in respective disciplines for
+their efforts in assembling and summarizing the work to make the publication useful to
+extension workers, KVKs, Agriculture department officials and farmers.
+My
+Date: 31.01.2020
+(A. Vishnuvardhan Reddy)
+Place: Hyderabad
+Director
+CONTENTS
+Particulars
+Page No.
+1
+Introduction
+Areas of cultivation
+2
+Production constraints
+2
+Climate
+2
+Soils
+3
+Varieties/Hybrids
+3
+Cropping System
+4
+Intercropping systems
+4
+Crop sequences/rotations
+6
+Agronomic Management
+7
+Tillage and seed bed preparation
+7
+Seeding time
+7
+Quality seed
+8
+Spacing and plant population
+8
+Seed treatment
+8
+Seeding methods and devices
+8
+Fertilizer application
+9
+Irrigation
+12
+Weeding and interculture
+13
+Crop Protection
+14
+Selective Mechanization
+14
+Harvesting and threshing
+15
+Realizable yield potential
+15
+Exploitation of perennial castor
+15
+Value addition
+16
+Introduction
+Castor (Ricinus communis L.) is one of the ancient and important non-edible
+oilseeds having immense industrial and medicinal value. It is an ideal candidate
+for production of high value industrial and oil feed-stocks because of the very
+high oil content (48-56%) in seed. The plant has unique ability to produce
+oils with extremely high levels (80-90%) of ricinoleic acid. The potential seed
+yield and unique fatty acid composition of castor, allows this oil to provide
+economically, competitive feed-stocks needed for the production of premium
+quality biodiesel, short chain aviation fuels, fuel lubrication additives and
+very high value biopolymers. Castor oil has varied and versatile uses. Castor
+oil and its products are widely utilized in manufacturing of nylon fibres, jet-
+engine lubricants, hydraulic fluids and other products. The oil and its products
+are widely used in preparation of toilet soaps, shaving cream, nail polish,
+shampoo, sun cream, hair conditioner, antiperspirant and talcum powders. Not
+only the seed and its products, but castor leaves, roots, flowers and stalks have
+various curative properties and other benefits. Castor cake is considered to be
+an excellent organic manure. In eri-silk producing areas, castor leaves are fed
+to eri-silk worms.
+India holds a premier and dominant position in the world in castor
+production and supplies. During 2018-19, castor crop was grown in an area
+of 7.61 lakh hectares, with 12.15 lakh tonnes production and a productivity of
+1597 kg/ha. Despite phenomenal increase in the production and productivity
+over the last two decades, there are wide regional disparities in the productivity
+of castor. With the exception of Gujarat and Rajasthan, where the productivity
+has registered a significant jump since 1970, the general productivity level
+of rainfed castor in all other parts of the country is very low. A multitude of
+factors such as its cultivation in sub-marginal and marginal lands, uncertainty
+of rainfall and its erratic distribution, delayed sowings, poor management of
+the crop with little or no inputs and use of poor quality seed are responsible
+for low yields under rainfed situations. However, concerted research efforts
+made at ICAR-Indian Institute of Oilseeds Research and under the All India
+Coordinated Research Project on Oilseeds (castor) have resulted in the
+development of improved hybrids and varieties coupled with production
+and protection technologies capable of boosting the productivity in different
+agro-ecological conditions in the country. The improved production practices
+recommended for different castor growing areas in the country are presented
+in this bulletin.
+1
+Areas of cultivation
+Gujarat is the leading state in area (5.22 lakh ha), production (9.57 lakh tonnes)
+and 1834 kg/ha productivity followed by Rajasthan, Telangana and Andhra
+Pradesh. Gujarat contribute about 63 per cent of the area and 78 per cent of
+the total castor production of the country. The other producing states are Tamil
+Nadu, Karnataka, Odisha, Maharashtra and Haryana. The following states
+have potential to produce castor viz., Uttar Pradesh, Madhya Pradesh, Bihar
+and Jharkhand.
+Production constraints
+The constraints for castor production in rainfed areas are:
+Low and erratic distribution of rainfall leading to drought
+Delayed monsoon leading to late sowings in Telangana, Andhra Pradesh,
+Tamil Nadu, Maharashtra and Odisha
+Marginal and sub-marginal lands having shallow depth and poor fertility
+Poor quality seed of varieties/hybrids
+Low input use by the resource-poor farmers
+Lack of seed production of hybrids with low seed replacement ratio (SRR)
+Occurrence of diseases like wilt, Botrytis and insect pests viz., capsule
+borer, tobacco caterpillar, semilooper.
+The constraints for castor production in irrigated areas are:
+Salinization of soils
+Wilt and root rot problems due to continuous cropping
+Incidence of semilooper in early stages
+Non-availability of quality seeds of hybrids
+Menace of blue bull in Gujarat, Rajasthan and Haryana
+Climate
+Castor is tolerant to drought and grows well in relatively dry and warm regions
+having a well distributed rainfall of 500-750 mm. In heavy rainfall areas,
+the crop puts on excessive vegetative growth and assumes a perennial habit.
+2
+The crop can grow even at an altitudes of 1200 to 2100 m and the perennial
+varieties are grown even at higher altitudes for shade in coffee plantations.
+Castor requires a moderate temperature (20-26°C) with low humidity (RH
+60%) throughout the growing season to produce maximum yields. In India,
+the crop is usually raised during kharif. It is also cultivated as a rabi crop in
+Telangana, Andhra Pradesh, Tamil Nadu and in some parts of southern India
+with assured irrigation. The crop is also grown on the river banks in Odisha,
+Madhya Pradesh and Uttar Pradesh. It can withstand long dry spells as well as
+heavy rains, but is highly susceptible to waterlogging.
+Soils
+Castor requires well-drained soils. It is generally grown on red, sandy loams in
+southern and peninsular India and on light alluvial soils in the north-western
+states of Gujarat and Rajasthan. Castor can also be grown in well drained light
+black soils. Soils that are not suitable for growing valuable commercial and
+food crops are often used for raising castor crop.
+
+Cropping systems
+Intercropping
+Castor+redgram (4:1 or 6:1) was the most predominant intercropping
+system in Telangana, Andhra Pradesh and other southern states. For
+realizing higher economic returns, Castor+redgram (1:1) should be
+followed.
+In North-Gujarat, relay intercropping of Castor+greengram (1:1); in
+Saurashtra relay intercropping of Castor+soybean (1:2) were profitable.
+In Tamil Nadu, Castor+groundnut (1:5); Castor+blackgram/greengram
+(1:2) and Castor+small onion (1:2) were found profitable.
+Castor+green pea and other vegetables were found profitable in Haryana.
+4
+The following are some of the remunerative and viable intercropping systems
+recommended for different states of the country.
+State
+Intercropping
+Row proportion
+Andhra Pradesh
+Castor+groundnut
+1:5/7
+North Gujarat
+Castor+greengram
+1:1
+(S.K.Nagar)
+Castor+sesame
+1:1
+Castor+cotton
+1:1
+Gujarat (Saurashtra)
+Castor+groundnut
+1:3
+Castor+soybean
+1:2
+Rajasthan
+Castor+greengram
+1:2
+Castor+mothbean
+1:2
+Telangana
+Castor+redgram
+1:1
+Castor+greengram
+1:3
+Castor+blackgram
+1:3
+Castor+groundnut
+1:5/7
+Tamil Nadu
+Castor+groundnut
+1:6
+Castor+blackgram
+1:2
+Castor+greengram
+1:2
+Castor+small onion
+1:2
+Karnataka
+Castor+groundnut
+1:5/1:8
+Castor+finger millet
+1:10
+Castor+maize
+1:6
+The additional net returns from castor+redgram ranges from Rs.14000 to 20000/
+ha under rainfed conditions; from castor+groundnut (1:5) between Rs.78,000
+to 80,000/ha under irrigated conditions; castor+greengram (1:3) ranges from
+Rs.9660 to 13050/ha, from castor+sesame (1:1) between Rs.4920-10290/
+ha, from castor+cotton Rs. 18930 to 33200/ha, from castor+blackgram (1:2)
+between Rs.31500 to 47500/ha and from castor+small onion (1:2) Rs.15000 to
+25000/ha can be realized.
+5
+Short and medium duration hybrids/varieties are preferred for
+realizing higher yields from sole cropping while for mixed/intercropping,
+prefer improved medium duration hybrids/varieties. Maintain the population
+of base crop as per the recommended levels and adopt population levels for
+intercrop as per its specific proportion in the system.
+Crop sequences/rotations
+A number of productive and remunerative cereal/legume crop sequences with
+castor are identified for different agro-ecological situations in the country
+either as a regular or contingent measure which are given below for enhancing
+on farm production and income of farmers.
+State
+Crop sequence
+One year/two
+Irrigated/
+year
+rainfed
+Andhra
+Castor-groundnut
+One year
+Irrigated
+Pradesh
+Castor-groundnut
+Two year
+Rainfed
+Castor-sorghum
+Two year
+Rainfed
+Gujarat
+Castor-groundnut
+One year
+Irrigated
+Castor-sesame
+One year
+Irrigated
+Pearl millet-castor
+One year
+Irrigated
+Castor-greengram-mustard
+Two year
+Irrigated
+Castor-groundnut-potato
+Two year
+Irrigated
+Castor-groundnut-groundnut
+Two year
+Irrigated
+Rajasthan
+Castor-pearl millet
+Two year
+Irrigated
+Telangana
+Castor-maize
+Two year
+Rainfed
+Castor-sorghum
+Two year
+Rainfed
+Castor-cotton
+Two year
+Rainfed
+Redgram-castor
+Two year
+Rainfed
+Greengram-castor
+One year
+Irrigated
+6
+One year/two
+Irrigated/
+State
+Crop sequence
+year
+rainfed
+Tamil Nadu
+Paddy-castor
+One year
+Irrigated
+Castor-maize
+One year
+Irrigated
+Castor-groundnut
+One year
+Irrigated
+Castor-sesame
+One year
+Irrigated
+Greengram-castor
+One year
+Rainfed
+Agronomic management
+Tillage and seed bed preparation
+In shallow soils, deep summer ploughing helps to break the hard soil pan
+and facilitates easy root penetration and crop growth apart from controlling
+weeds, insect pests and diseases. For ensuring proper tilth and good seed bed
+preparation, plough the soil immediately after the receipt of pre-monsoon
+showers. Perform 2-3 harrowings with blade harrow after rains.
+Method of planting/soil and moisture conservation
+Ridge and furrow method of land configuration is better than flatbed
+method as it helps in moisture conservation and reduces the impact of dry
+spell. Making conservation furrows (dead furrow) at 2.4 to 3.6 m interval
+after 45 days after sowing also conserves soil moisture.
+In rainfed areas with undulated topography, proper preparation of land,
+sowing the crop across the slope, 2-3 intercultures and strengthening of
+ridges, along the rows after the last interculture (40 days after sowing)
+helps in conservation of soil moisture apart from controlling weeds,
+thereby resulting in increased seed yield.
+Seeding time
+Castor is predominantly grown during kharif season.
+The suggested optimum seeding time for rainfed castor is second fortnight
+of June in Telangana and Andhra Pradesh and first fortnight of July in
+Gujarat and Rajasthan.
+It can also be raised during rabi under irrigated conditions. The yield of
+irrigated rabi crop was found to be higher than that of kharif crop, due to
+relatively low incidence of insect pests, diseases and weeds.
+7
+Planting rabi castor during first fortnight of October was found to be ideal,
+while January is optimum for sowing summer castor.
+In case the other kharif crops could not be sown due to delayed monsoon,
+castor can form a better contingent crop for sowing even up to 15th August
+in rainfed areas of Telangana and Andhra Pradesh.
+Quality seed/source
+Farmers are advised to procure good quality viable seeds of hybrid/variety
+from authorized/registered seed agent.
+Farmers need to renew seed stock of hybrids every year and improved
+varieties once in 4-5 years.
+Pre-soaking and seed treatment
+For quick germination and better stand establishment in dryland conditions,
+soak the seed in fresh water (1:1 W/V) for about 10 hours to eliminate
+chaffy seed and dry under shade.
+Seeds should be treated with thiram or captan @ 3 g/kg seed or carbendazim
+2 g/kg to protect plants from seed borne diseases like Alternaria leaf
+blight, seedling blight and wilt.
+Alternately, treat the seed with Trichoderma @ 10 g/kg seed and soil
+application @ 2.5 kg incubated in 125 kg FYM/ha for managing wilt.
+Seed rate
+A seed rate of 5 kg/ha for hybrids and about 8-10 kg/ha for varieties is
+recommended.
+Spacing and plant population
+A plant population of 18,500/ha and 14,000/ha was found to be optimum for
+rainfed and irrigated areas respectively. The spacing recommended for castor
+in different regions and situations is as follows:
+State-wise recommendation of spacing for castor in different regions and
+situations
+Spacing
+Plant population
+State
+Situation
+(cm)
+No./ha
+Telangana / Andhra
+Rainfed
+90 X 60; 90 X 90
+18,518; 12,346
+Pradesh
+Irrigated
+120 x 60
+13,888
+North-West Gujarat/
+Irrigated
+150 x 90
+7,407
+Rajasthan
+8
+State
+Situation
+Spacing
+Plant population
+(cm)
+No./ha
+Saurashtra, Gujarat
+Irrigated
+120 X 60; 150 x 60
+13,888; 11,111
+Tamil Nadu
+Rainfed
+120 X 60; 150 X 120
+13,888; 6,666
+Irrigated
+150 X 120; 180 x 120
+6,666; 4,630
+Karnataka
+Rainfed
+90 x 45; 90 X 60;
+24,691; 18,518;
+120 X 60
+13,888
+Irrigated
+90 X 60;120 X 90
+13,888; 9259
+Under rainfed conditions of Telangana and Andhra Pradesh, the normal
+spacing adopted is 90 x 60 cm with 18,518 plants/ha. In order to use
+machine operated weeders / tractors adopt wider spacing (120 x 45 cm)
+which will accommodate equal plant population (18,518 plants/ha) as that
+of adopting 90 x 60 cm normal spacing.
+In case of delayed sowings, resort to closer spacing i.e. 60 X 30 cm or 90 x
+20 cm in order to curtail excess vegetative growth and to compensate for
+the reduced growth.
+To achieve required plant stands in drylands, dibble 1-2 seeds/hill and
+thin out one seedling, a week after emergence maintaining one healthy
+seedling. In areas where there is excess moisture due to heavy rains in
+early part of the season or irrigation, adopt wider spacing. There is a
+tendency for the castor crop to put forth excess vegetative growth with
+elongated internodes whenever there is abundant soil moisture and cloudy
+weather. In such situations, adopt wider row spacing of 90 x 90 cm or 120
+x 60 cm or 150 x 60 cm based on soil type.
+Fertilizer application
+Castor responds well to nutrient application and produce higher yields.
+Nearly 5 t/ha of farm yard manure or 1.25 to 1.5 t/ha of vermicompost
+needs to be applied and incorporated into the soil, well in advance to
+sowing for moisture conservation and nutrition.
+Nutrient recommendation must be based on soil test value which helps in
+avoiding excess fertilizer use thus reduces expenditure. Most of the castor
+growing soils in different states are mostly low in nitrogen, medium to
+high in phosphorus and potash.
+9
+Castor crop yielding about 20.0 q/ha removes 80 kg nitrogen, 20 kg
+phosphorus and 35 kg potassium.
+On an average, the nutrient application (kg/ha) for castor grown under different
+agro-ecological conditions is detailed below.
+*Nutrients (kg/ha)
+Region
+Situation
+N
+P₂O₅
+K2O
+S
+Telangana and
+Rainfed
+60
+40
+30
+-
+Andhra Pradesh
+(Varieties)
+(130)
+(250)
+(50)
+Irrigated
+80
+60
+30
+-
+(Hybrids/
+(174)
+(375)
+(50)
+Varieties)
+North Gujarat/
+Irrigated
+120
+25
+0
+20
+Rajasthan
+(GCH-4)
+(261)
+(156)
+(25)
+Irrigated
+180
+37.5
+0
+20
+(GCH-7)
+(391)
+(234)
+(25)
+Saurashtra
+Irrigated
+75 (163)-
+40 (250)-
+40(67)-
+20
+(Gujarat)
+120 (261)
+50 (313)
+50 (83)
+(25)
+Tamil Nadu
+Rainfed
+60
+30
+30
+-
+(130)
+(188)
+(50)
+Irrigated
+90
+45
+45
+-
+(196)
+(281)
+(75)
+Telangana/
+Rabi
+80 (174)-
+40
+30
+I
+Andhra Pradesh/
+(Irrigated)
+120 (261)
+(250)
+(50)
+Tamil Nadu
+*Values in parenthesis indicate quantity of Urea, SSP and MOP
+For rainfed castor, apart from application of basal dose of 20 kg N
+fertilizer, top dressing with 20 kg N/ha each at 35-40 and 65-70 days
+after sowing depending upon the moisture availability in the soil provides
+reasonable economic returns. In the event of a dry spell during 50-55 days,
+first top dressing with 20 kg N/ha has to be done at the time of initiation
+of secondaries with the receipt of rain.
+10
+For irrigated castor in Gujarat, nitrogen has to be given in 5 splits, 40 kg/
+ha each at sowing, 40, 70, 100 and 130 days after sowing. In soils deficient
+in Zn (if the soil available Zn is < 1.2 ppm) and Fe (if the soil available
+Fe is < 3.7 ppm for non calcareous soil and < 6.3 ppm for calcareous
+soil), 10 kg Zn SO₄ and 30 kg Fe SO₄/ha, respectively has to be applied to
+obtain enhanced yields. For irrigated castor in Rajasthan, nitrogen should
+be applied in 3 splits, 40 kg N as basal and 20 kg N/ha each at 35 and 80
+days after sowing.
+For integrated nutrient management in irrigated castor in Rajasthan,
+application of 20 kg N through castor cake, 20 kg N through FYM, 20
+kg N through in situ green manuring together with 20 kg N/ha through
+inorganic fertilizer has been recommended. For irrigated castor in North
+Gujarat and Saurashtra region of Gujarat, it has been recommended to
+apply 30 kg N in the form of FYM, 30 kg N through castor cake, 30 kg
+N through green manure and 30 kg N/ha through inorganic fertilizer for
+reaping higher yields.
+In light soils of Gujarat, seed treatment with Azospirillum or phosphate
+solubilizing bacteria (PSB) @ 50 g/kg seed, apart from application of 75-
+50-0 N: P₂O₅: K2O kg/ha in conjunction with castor cake (1 t/ha) or FYM
+(5 t/ha) is advocated.
+In Saurashtra region of Gujarat, it has been recommended to apply 20 kg
+S/ha through gypsum or single super phosphate for realizing higher yields
+and returns.
+All the fertilizers have to be applied by pocketing method or in the furrow
+made with the help of plough near by the plant and followed by covering
+with soil, rather than broadcasting method or band placement. It helps
+in efficient utilization of applied nutrients by the crop, besides avoiding
+fertilizer wastage and weed growth.
+Seed treatment with phosphate solubilising fungi, biophos (Chaetomium
+globosum) @ 30 g inoculants/50 g seed or PSB (Phosphate solubilising
+bacteria) before sowing along with application of 20 kg P₂O₅/ha as basal is
+sufficient in case of low to medium P soils. It saves half of the expenditure
+on P fertilizer without affecting seed yield of castor. In South Saurashtra
+agro-climatic zone it is recommended to apply 40 kg P₂O₅/ha along with
+biophos seed treatment for realizing higher seed yield and net returns.
+Integrated nutrient management which envisages conjunctive use of
+organic, inorganic and biological sources of nutrients for sustaining the
+11
+soil health and crop productivity, application of 50% RDF (recommended
+dose of fertilizer)+seed treatment with Azospirillum+25% N through
+FYM is advocated for castor under rainfed conditions.
+In case of Zn deficit soils (<0.6 ppm), the most visible deficiency symptoms
+are short internodes and a decrease in leaf size, delayed maturity and
+improper seed filling. To correct this, 0.5% ZnSO₄ at 50 and 90 DAS (days
+after sowing) has to be sprayed which helps in better growth and seed
+filling besides reducing sucking pest load.
+Under normal rainfall distribution, application of FYM along with
+100% or 50% N: P₂O₅: K2O resulted in highest seed yield of sorghum
+- castor cropping system in Alfisol under rainfed conditions. Under
+drought situation, application of 25% N through FYM along with 75%
+N: P₂O₅: K2O as inorganic fertilizer realized significantly highest mean
+seed yield of sorghum (3117kg/ha) and castor (910 kg/ha). The INM
+practice also resulted in higher organic C (0.5%) and available N (210
+kg/ha) with higher moisture content in organic treatments. Substituting
+25% N requirement through FYM could mitigate the effects of drought
+effectively with sustainable soil fertility.
+Irrigation
+Castor crop needs 500-600 mm water for good growth and development.
+Castor is highly sensitive to excess moisture; hence, care should be taken
+to avoid waterlogging at any stage. Sufficient drainage or slope has to be
+provided to drain out excess water from the field.
+During kharif season, castor is mostly grown as rainfed crop. However, in
+case of prolonged dry spells during grand growth period, one protective
+irrigation either at primary spike development or secondary spike initiation/
+development will greatly benefit the crop and improves the yield.
+Under intensive management, all currently recommended popular,
+medium, long duration hybrids/varieties require 5-7 irrigations in sandy
+loams of Gujarat and Rajasthan and six in the red soils of Telangana and
+Andhra Pradesh. For realizing the full productivity potentials, the first
+irrigation should be applied at around 55-75 days or around full flowering
+of primary spike. The subsequent irrigations may be given at intervals
+of 20 days after first irrigation, so as to ensure availability of adequate
+moisture for the development of different spike orders.
+12
+For rabi castor, irrigation has to be given after sowing in a dry soil. After
+establishment of crop with optimum plant population, irrigation has to be
+scheduled at IW/CPE ratio of 0.6 to 1.0 which means 12-15 days interval
+from October to December and 8 days interval from January onwards, for
+reaping higher yields.
+It is also always better to give irrigation by ridge and furrow method rather
+than flat bed method, in order to reduce water wastage.
+In the regions of water shortage with meager irrigation water availability,
+drip irrigation has to be scheduled at 0.8 pan evaporation i.e. for 1.5 to
+2.0 hours from October to December and 2.5 to 3.0 hours from January
+onwards at an interval of three days.
+Planting of rabi castor (DCH-519) during 1st week of October and basal
+soil application of 40 kg P₂O₅ through SSP; 80 kg N in the form of urea and
+30 kg K2O in the form of sulphate of potash applied in equal splits through
+drip-fertigation at 0.8 Epan at an interval of 10 days realized higher seed
+yield (3302 kg/ha), oil yield (1479 kg/ha) with high profitability of rabi
+castor with saving of 27% water in Alfisols of Telangana and Andhra
+Pradesh.
+In South Saurashtra Agro-climatic Zone it is recommended to irrigate the
+crop at 0.8 PE through drip irrigation and apply nitrogen @ 90 kg/ha (20
+kg N/ha as a basal and remaining 70 kg N/ha through drip in the form
+of urea in five equal splits an interval of 12 days starting after cessation
+of monsoon) along with recommended dose of phosphorus (50 kg/ha) as
+basal for realizing higher seed yield and net returns.
+Drip irrigation helps to save nearly 20-25% of irrigation water. At the
+same, water use efficiency can be doubled as compared to flood irrigation.
+Weeding and interculture
+Weed menace is moderate to severe in castor due to slow initial growth
+upto 45 DAS, wider spacing (90 x 60 to 120 x 60 cm) and long duration
+nature of the crop (150-180 days). The critical period of crop weed
+competition for castor is 45-50 DAS.
+In rainfed areas, 2 or 3 intercultures with the help of bullock drawn blade
+harrows starting from 25-30 days after planting combined with one manual
+intra-row weeding after first interculture effectively checks weed growth.
+13
+Alternately in areas of labour shortage, pre-emergence application of
+pendimethalin 30% EC @ 1.0 kg a.i./ha (5.0 ml/l) followed by hand
+weeding at 40 and 60 DAS recorded significantly higher seed yield.
+In irrigated areas, integrated weed management schedule with pre-
+emergence application of pendimethalin 30% EC @ 1.0 kg a.i./ha or
+alachlor 50% EC @ 1.25 kg a.i./ha (5.0 ml/l) within 2-3 DAS in the
+presence of soil moisture + post emergence application of Quizalofop-p-
+ethyl @ 50 g a.i./ha (1.5-2.0 ml/l) + two times intercultivation + one hand
+weeding has been recommended for effective and economical control of
+weeds.
+Of late, power weeders, tractor drawn blades and mini tractors efficiently
+control the weeds.
+Crop protection
+Castor is attacked by a number of insect pests and diseases which impose a
+great limitation in realizing the potential productivity. The magnitude of the
+insect pests problem is quite high in Southern India where castor is grown
+mainly as rainfed crop, while it is low in Gujarat and Rajasthan under late
+kharif irrigated conditions. The important diseases and insect pests of castor
+and their management methods are given in Table 2 and Table 3.
+Selective mechanization
+The impact of selective mechanization on critical operations like inter-
+cultivation (power operated weeders) and sowing (tractor operated/bullock
+drawn line marking and closing the furrow), harvesting and threshing (secateurs
+and power operated threshers) on productivity of castor revealed significant
+seed yield improvement by 14%, 10% and about 5%, at Hiriyur, Palem and
+Yethapur respectively under rainfed conditions. Selective mechanization
+reduced the labour requirement by 22-87 man days in different operations
+resulting in reduction in cost of cultivation and higher economic returns across
+locations.
+14
+Harvesting and Threshing
+Castor, by nature is a multiple branching type. On an average, it produces
+4 to 5 sequential order spikes over a span of 180 to 240 days, one each at
+an interval of about 30 days. The main spike is ready for harvest within
+90-120 days after planting. The subsequent pickings can be taken up at
+intervals of 30 days.
+Physiological maturity in castor is attained when some of the capsules in
+a spike turn brown in colour. The matured spikes are cut and dried in sun
+for a few days for easy threshing. For good seed filling, oil content and
+germinability, harvest when the capsules turn yellow and start drying.
+Threshing is usually done by either beating the capsules with sticks or
+alternatively by trampling with bullocks or tractor wherever possible.
+Power operated mechanical threshers are also available for the purpose.
+Realizable yield potential
+A well-managed kharif crop yields 1200-1500 kg/ha under rainfed conditions
+while rabi crop yields about 2300-2500 kg/ha. Under irrigated conditions and
+adoption of drip irrigation and fertigation can increase the seed yield upto
+3500 kg/ha. Adoption of full package of practices including improved cultivar,
+thinning, timely weed control, proper nutrition, need based irrigation and plant
+health management will certainly improve the yields
+Exploitation of perennial castor
+The perennial nature of castor plant makes it ideally suited for planting on
+field bunds, back yards, near farm houses, waste lands and on the banks of
+rivers, irrigation canals etc. Varieties like CO-1 in Tamil Nadu, T-1, T-4 and
+Kalpi-6 in Uttar Pradesh and Bihar are popular. In Tamil Nadu perennial castor/
+local varieties are grown as boarder crop especially in cotton. All currently
+recommended hybrids and varieties are also suited for such plantings. Adjust
+spacing on the bunds so as to accommodate at least 20-50 plants/ha. The
+perennial castor is grown in North-Eastern India primarily for rearing eri-silk
+worm.
+15
+Value addition
+Castor stubbles and shelled capsules can be incorporated in to the soil or can be
+used in the preparation of vermicompost which in turn can be further applied
+to agricultural fields to improve the soil fertility.
+Castor leaves can be fed to eri silkworms (Ericulture) to produce 'eri silk'
+which resembles cotton and is called as poor man's silk. It has been proved
+to be an ideal subsidiary occupation to a large number of rural and tribal
+populations as it provides ample scope for employment and income. Nearly
+30% defoliation is permissible and the same can be used in ericulture without
+foregoing economic yield. Besides, the farmers can be benefitted with an
+additional income upto Rs. 6000 to 7500/ha through ericulture which is a boon
+for rainfed castor growers.
+Critical interventions for realizing higher yield
+Always use quality seeds (certified hybrid/variety seed) procured from
+authorized agencies.
+Avoid continuous cropping of castor year after year in the same field,
+particularly in the wilt endemic areas, and adopt at least 2 year crop
+rotation.
+Sow the crop at appropriate time with monsoon rains.
+Treat the seed with recommended fungicides before sowing to ward off
+wilt and root rot diseases.
+Maintain optimum plant stand through adoption of recommended spacing
+and seed rate.
+Apply recommended fertilizer dose based on soil test values to ensure
+better crop nutrition and yields.
+Adopt recommended cultural practices.
+During rabi adopt drip-fertigation for realizing higher yield and
+economizing limited water.
+Adopt need-based measures for managing diseases and insect pests.
+Harvest the crop at appropriate time.
+16
+Table 1: Salient features of castor hybrids/varieties recommended for different regions
+Average yield (kg/ha)
+Oil
+Year of
+content
+Recommended for
+Salient features
+Hybrid
+release
+Rainfed
+Irrigated
+(%)
+HYBRIDS
+GCH-4
+1987
+1200
+2200
+48-50
+All India
+Resistant to leafhopper
+Tolerant to wilt
+GCH-5
+1996
+-
+2800
+50
+All India
+Resistant to wilt, tolerant to root rot,
+leafhopper and whitefly
+DCH-177
+1999
+1550
+2100
+49
+Andhra Pradesh, Telangana,
+Resistant to wilt and whitefly
+Tamil Nadu, Karnataka and
+irrigated areas of Maharashtra
+DCH-519
+2006
+1740
+2100
+49
+Both rainfed and irrigated castor
+Resistant to wilt and leafhopper
+17
+growing areas of the country
+GCH-7
+2007
+3000
+48-49
+Irrigated and rainfed areas of
+Resistant to nematode-wilt complex
+Gujarat
+YRCH-1
+2010
+1860
+-
+49
+Tamil Nadu
+Tolerant to whitefly
+PCH-111
+2010
+1400-1500
+2200-2500
+49
+Telangana and Andhra Pradesh
+Resistance to wilt
+PCH-222
+2012
+1600-1800
+3500-3800
+47-48
+Telangana and Andhra Pradesh
+Resistance to wilt
+HCH-6
+2016
+1800
+-
+49
+Karnataka
+Resistant to wilt and whitefly
+GNCH-1
+2017
+-
+2500
+47-48
+Late kharif and rabi season in
+Resistant to wilt and leafhopper
+South Gujarat
+YRCH-2
+2018
+2100
+-
+49
+Tamil Nadu
+Resistant to wilt, tolerant to semilooper,
+(YRCH-1116)
+spodoptera and leafhopper
+GCH-8
+2018
+1900
+3600
+48
+All India
+Resistant to wilt, leafhopper and
+tolerant to root rot
+Average yield (kg/ha)
+Oil
+Year of
+content
+Recommended for
+Salient features
+Hybrid
+release
+Rainfed
+Irrigated
+(%)
+GCH-9
+2018
+-
+3820
+48
+Gujarat
+Resistant to wilt and root rot
+ICH-66
+2019
+1450-1760
+3400
+46-49
+Andhra Pradesh, Telangana,
+Resistant to wilt, root rot and
+Karnataka, Tamil Nadu and
+leafhopper
+Odisha
+VARIETIES
+TMV-5
+1985
+920
+-
+47-49
+Tamil Nadu
+Medium duration
+GC-2
+1994
+-
+2165
+47-49
+Gujarat (rainfed and irrigated)
+Tolerant to wilt, early maturity and
+(SKI-73)
+interspersed spike
+TMV-6
+1997
+930
+-
+52
+Tamil Nadu
+Moderately resistant to wilt, Alternaria
+(TVC-31)
+leaf spot, rust, tolerant to leafhopper
+18
+; Medium duration (110-120 days) to
+first picking
+AKC-1
+1998
+1200
+-
+44.5
+Rainfed areas of Maharashtra
+Tolerant to semilooper and capsule
+(Vidarbha)
+borer
+Jyothi
+1994
+1030
+2460
+48
+Rainfed areas of Andhra Pradesh,
+Resistant to wilt, early (90-100 days) to
+(DCS-9)
+Telangana, Tamil Nadu and
+first picking.
+Karnataka
+Kranti
+1996
+1400
+-
+49
+Rainfed areas of Andhra Pradesh
+Moderately tolerant to semilooper and
+(PCS-4)
+and Telangana
+resistant to drought
+Haritha
+2002
+1400
+1600
+48-51
+Rainfed areas of Andhra Pradesh
+Resistant to wilt, responds to high input
+(PCS-124)
+and Telangana,
+management under irrigated conditions.
+Jwala
+2007
+1100
+2000
+48
+All India
+Resistant to wilt, tolerant to capsule
+(48-1)
+borer leafhopper and gray mold
+Average yield (kg/ha)
+Oil
+Year of
+content
+Recommended for
+Salient features
+Hybrid
+release
+Rainfed
+Irrigated
+(%)
+K-8501
+2010
+-
+1800
+Rainfed areas of U.P
+Tolerant to capsule borer and
+(Chandra-
+semilooper
+prabha)
+DCS-107
+2011
+1100
+1800
+45-47
+All India
+Resistant to wilt and high test weight;
+medium maturity (100-135 days) to
+first picking
+GC-3 (JI-273)
+2012
+-
+2310
+49
+Irrigated areas of Gujarat
+Resistant to wilt and tolerant to root rot
+Pragati
+2015
+1500-1800
+2000-2200
+47-49
+Telangana
+Resistant to wilt
+(PCS-262)
+JC-4
+2019
+-
+2500-2700
+46-47
+Madhya Pradesh
+Tolerant to wilt and root rot
+19
+JC-24
+2019
+-
+2500-3000
+45-46
+Madhya Pradesh
+Tolerant to wilt and root rot
+GAC-11
+2019
+-
+3200
+48-49
+Irrigated areas of middle Gujarat
+Resistant to wilt and early maturity
+Ytp-1
+2019
+1450
+3100/kg/
+49
+Tamil Nadu
+Suitable as both annual and perennial
+(YRCS-1205)
+(Annual)
+ha/yr
+(perennial)
+Table 2: Important diseases of castor and their management
+Disease
+Nature of damage
+Management
+Seedling blight
+Dull green roundish patches develop on both surfaces
+Avoid sowing in low lying areas
+(Phytophthora
+of cotyledonary leaves; infection spreads to form light
+Provide proper field drainage to avoid water logging
+nicotianae)
+to dark brown concentric zones. Infection spreads to
+conditions
+the point of attachment causing the leaf to rot and
+hang down. Seedlings wither and dry either due to
+Treat the seeds with thiram or captan @ 3 g/kg seed
+the destruction of growing point or by the collapse
+Need based spray of copper oxychloride @ 3 g/l (2-3 times
+of stem.
+at 10 days interval during rainy season, to avoid further
+spread of the disease)
+Under severe infections, spray metalaxyl 25WP @ 2 g/l
+(two times at 10 days interval)
+20
+Wilt (Fusarium
+Discolouration of hypocotyls, loss of turgidity of top
+Adopt soil solarization for 6 weeks during peak summer
+oxysporum f. sp.
+leaves and marginal necrosis at the seedling stage. On
+Cultivate disease tolerant/resistant cultivars, viz., DCH-
+ricini Nanda &
+adult plants, gradual yellowing and sick appearance
+177, DCH-519, GCH-7, DCS-107, 48-1 (Jwala), ICH-66,
+Prasad)
+of leaves followed by necrosis, browning of xylem
+GCH-8
+tissues, formation of a dark stripe and pinkish
+overgrowth on the entire stem up to the infected
+Seed treatment with carbendazim @ 2 g/kg or Trichoderma
+leaves. Irreversible wilting with bending of apical
+viride / T. harzianum @ 10g/kg and soil application of T.
+leaves and branches. Symptoms of root degeneration,
+viride / T. harzianum @ 2.5 kg/ha incubated in 125 kg
+FYM/ha reduces wilt disease
+necrotic streaks at the base of stem, chlorosis of
+leaves and necrosis of affected tissues finally leading
+Avoid continuous cultivation of castor in the same field
+to ultimate death of plant.
+Crop rotation with pearl millet/finger millet or cereals
+found to be ideal.
+Disease
+Nature of damage
+Management
+Root rot /
+Plants show signs of water shortage. Dark black
+Burning and destruction of crop debris
+Die back
+lesions develop on the stem near ground level. The
+Crop rotation with cereal crops
+(Macrophomina
+taproot shows signs of drying and root bark shreds
+phaseolina (Tassi)
+off easily. In severe infection entire branch or top
+Use resistant cultivars like GCH-7 and ICH-66
+Goid)
+of the branch withers away. Aerial infection in the
+Avoid waterlogging conditions
+form of small brown depressed lesions on or around
+the nodes. Wilting of leaves start from the apex and
+Seed treatment with Trichoderma 10 g/kg or thiram/captan
+proceeds downwards. Pycnidia develop on woody
+3 g/kg seed or carbendazim @ 2 g/kg
+tissue and in the pith region.
+Soil drenching with carbendazim @ 1 g/l (2-3 times at 15
+days interval found to be effective)
+21
+Alternaria Blight
+Light brown circular spots appear on cotyledonary
+Seed treatment with thiram/captan @ 2-3 g/kg seed
+(Alternaria
+leaves and irregular spots with concentric rings
+Need based spraying of mancozeb @ 2.5 g/l or copper
+ricini (Yoshii)
+surrounded by yellow hallows appear on mature
+oxychloride @ 3 g/l (2-3 times at 15 days interval starting
+Hansford)
+leaves. Spots coalesce and cause foliage blight.
+from 90 days of crop growth)
+Immature capsules wilt suddenly turn brown and
+fall or hang down due to collapse of pedicel. Sunken
+spots develop on mature capsules and gradually
+enlarge to cover the whole capsule with black sooty
+fungal growth.
+Disease
+Nature of damage
+Management
+Cercospora leaf
+Minute circular to angular pale yellow watery lesions
+Treat the seeds with thiram/captan @ 3 g/kg seed
+spot (Cercospora
+with pale green halo appear on the mature leaves
+Need based sprays of copper oxychloride @ 3 g/l or
+ricinella Sace.)
+which later turn into circular to irregular in shape
+mancozeb @ 2.5 g/l (two times at 10-15 days interval)
+with dark brown borders and greyish-white centres.
+The fructifications of the fungus are visible as tiny
+black dots in the white central region. When the spots
+coalesce, the intervening leaf tissue withers and large
+brown patches of dried leaf result.
+Bacterial leaf spot
+Circular water soaked spots with pale green center
+Remove and destroy infected crop debris
+(Xanthomonas
+and dark margin appear on the leaves, which later
+Seed treatment with hot water at 50-60 °C for 10 min
+22
+compestris
+become angular and turn dark brown. Leaves become
+Pv.ricini Yos. &
+brittle and dry up. Dark elongated lesions develop on
+Spray streptocycline @ 1 g/101 of water or a combination
+Tak)
+stem and petioles.
+of paushamycin 0.25 ml/l + copper oxychloride 3 g/l (two
+times at 10-15 days interval)
+Powdery mildew
+Leaves turn pale yellow with whitish superficial
+Spray wettable sulphur 3 g/l twice at 15 days interval
+(Leveillula taurica
+powdery masses on the under surface. Light green
+starting from 3 months after sowing
+(Lev) Arm)
+patches corresponding to diseased areas on the lower
+Spray hexaconazole @ 1 ml/l or dinocap 2 ml/l at fortnight
+surface are visible on the upper side when the leaves
+intervals, under severe conditions
+are held against light. Leaves turn brown and drop off
+prematurely.
+Disease
+Nature of damage
+Management
+Gray mold
+Initially pale, blotch-like spots are formed on
+Adopt wider spacing between rows
+(Botryotinia ricini
+capsules/flowers from which drops of yellow
+Prophylactic spray of carbendazim @ 1 g/l or
+Godfrey) Whetzel
+liquid exude. Later fungal threads grow from these
+propiconazole @ 1 ml/l before onset of cyclonic weather
+spots and transform into dense wooly growth. The
+based on weather forecast/SMS alerts followed by another
+growth may vary from pale to olive gray in colour.
+spray soon after disease appearance
+Severely infected capsules rot and fall. The immature
+seeds become soft and mature ones turn hollow,
+Remove infected spikes/capsules and destroy
+exhibiting discoloured seed coat. Black sclerotia
+Top dress with Urea 20 kg/ha after cessation of rains for
+develop on infected seeds. Circular to sub-circular
+the formation of new spikes
+or irregular lesions develop on leaves. Water soaked
+blackish lesions develop on tender shoots usually
+23
+when infected spikes fall on them leading to rot and
+breakage.
+Cladosporium
+Dark green lesions develop towards the base of the
+Spray mancozeb @ 2.5 g/l (two times at 10 days interval)
+capsule rot
+capsules at the time of maturity, particularly when the
+Harvest at right time when the spikes turn lemon yellow
+(Cladosporium
+capsules start developing cracks/fissures. Capsules
+oxysporum
+rot, shrivel; depress and turn olive black. Infection
+Berk and Cart.)
+spreads to the inner sides the seeds exhibiting
+blackish green sooty growth.
+Table 3: Important insect pests of castor and their management
+Insect pests
+Nature of damage
+Period of activity
+Cultural management
+Chemical control
+Semilooper
+Larvae damage crop by
+July to September
+Hand picking of older larvae
+Spray Bacillus thuringiensis var.
+(Achaea janata)
+defoliation. Older larvae are
+during early stages of crop
+kurstaki (Btk) @ 1 g/l or profenofos
+voracious feeders and leave bare
+growth. Avoid chemical spray
+50EC @ 1 ml/l or flubendiamide
+stems and veins.
+when 1-2 larval parasitoids
+39.35SC @ 0.2 ml/l or malathion
+[Snellenius (Microplitis)
+50EC @ 2 ml/l, if more than 25%
+maculipennis] are observed per
+defoliation is observed.
+plant.
+Tobacco caterpillar
+Larvae damage crop by
+Active during
+Collect and destroy egg masses
+Spray thiodicarb 75WP @ 1 g/l or
+(Spodoptera litura)
+defoliation. During heavy
+August to October
+and gregarious stages of the
+flubendiamide 39.35SC @ 0.2 ml/1
+infestations, larvae damage stem
+larvae along with damaged
+or chlorantraniliprole 18.5SC @ 0.3
+24
+and capsules.
+leaves. Install sex pheromone
+ml/l or profenofos 50EC @ 1 ml/l,
+trap @ 10 traps/ha for
+if defoliation is above 25%. Spray
+monitoring and implementing
+Btk @ 1 g/l or SINPV @ 250LE/ha
+timely control measures.
+against early larval stages.
+Capsule borer
+Larvae bore the capsules and
+Infestation starts
+Good agronomic management
+Spray indoxacarb15.8EC @
+(Conogethes
+characteristic webbing of capsules
+from flowering
+with no or less use of
+1 ml/1 or thiodicarb 75WP @ 1 g/l
+punctiferalis)
+along with excreta is seen. Larvae
+stage. Usually
+insecticides on the crop usually
+or profenofos 50EC @ 1 ml/l, if
+also bore tender shoots and
+active during
+keeps the borer at low level.
+atleast 10% capsules are damaged.
+attached inflorescence killing the
+November to
+Collect and destroy the shoots
+If the damage is severe, spray
+terminal shoots.
+March
+and capsules infested by capsule
+spinosad 45SC @ 0.4 ml/l.
+borer, wherever feasible.
+Insect pests
+Nature of damage
+Period of activity
+Cultural management
+Chemical control
+Hairy caterpillars
+Larvae damage crop by
+Red hairy
+Collect and destroy egg masses
+Spray Bacillus thuringiensis var.
+(Bihar hairy caterpillar,
+defoliation. Often capsules get
+caterpillar active
+and gregarious stages of the
+kurstaki @ 1 g/l or flubendiamide
+Spilosoma obliqua;
+damaged.
+during June to
+larvae along with damaged
+39.35SC @ 0.2 ml/l or profenofos
+Red hairy caterpillar,
+August and other
+leaves.
+50EC @ 1 ml/l or quinalphos 25EC
+Amsacta albistriga;
+hairy caterpillars
+For management of red hairy
+@ 2 ml/l, if defoliation is exceeding
+Castor hairy caterpillar,
+are active during
+caterpillar, set up light traps
+25%.
+Euproctis Sp.; Spiny
+October to
+on community basis (200 watt
+caterpillar; Ergolis
+December.
+mercury lamp covers 10 ha
+merione
+area) with the first monsoon
+rains to attract the moths and
+kill them, sow cucumber
+along field borders or place
+25
+twigs of Ipomoea, Jatropha
+or Calotropis to attract the
+migrating caterpillars and kill
+them mechanically.
+Leafhopper / Jassid
+Nymphs and adults suck sap from
+Peak infestation is
+Growing triple bloom genotypes
+Spray dimethoate 30EC @ 1.7
+(Empoasca flavescens)
+leaves. Hopper burn symptoms
+during November
+like DCH-519, GCH-7, GCH-
+ml/l or acetamiprid 20SP @ 0.2
+are noticed if jassid infestation is
+to January
+4, GCH-8, ICH-66 etc. which
+g/l or profenofos 50EC @ 1 ml/l
+severe.
+usually do not express damage
+or clothianidin 50WDG @ 0.1 g/l,
+symptoms.
+if 10% of leaves in a plant show
+curling symptom.
+Insect pests
+Nature of damage
+Period of activity
+Cultural management
+Chemical control
+Thrips
+Nymphs and adults feed on
+Throughout crop
+Varieties resistant to leafhopper
+Spray dimethoate 30EC @ 1.7
+(Scirtothrips dorsalis)
+terminal leaves and floral parts
+season
+are also usually tolerant to thrips
+ml/l or acetamiprid 20SP @ 0.2 g/l
+resulting in distortion and
+damage
+or profenofos 50EC @ 1 ml/l or
+characteristic wrinkling of leaves
+clothianidin 50WDG @ 0.1 g/l, if
+and drying of flowers without
+damage symptoms appear.
+forming capsules.
+Whitefly
+Nymphs and adults suck sap from
+January to July
+Zero or single bloom cultivars
+Spray dimethoate 30EC @ 1.7
+(Trialeurodes ricini)
+lower surface of the leaves and
+like DCH-177 are tolerant
+ml/l or acetamiprid 20SP @ 0.2
+causing yellowing and drying of
+to whitefly. Double and
+g/l or diafenthiuron 50WP @ 1.5
+the leaves.
+triple bloom genotypes are
+g/l. Repeat spray if required after a
+susceptible.
+fortnight.
+26
+Leafminer
+Maggots enter in between the
+More active
+Use of broad spectrum
+Neem seed kernel extract (5%) and
+(Liriomyza trifolii)
+epidermal layers and feed by
+during July to
+insecticides results in flaring up
+neem based formulations (3 to 5
+making characteristic serpentine
+September
+of the pest due to the elimination
+ml/l) are effective in reducing the
+mines. Drying and drooping of
+of natural enemies.
+pest population.
+leaves due to severe infestation.
+Damage starts with cotyledonary
+leaves and moves upward as the
+plant grows.
+Red spider mite
+Suck the sap from lower surface
+Serious during
+-
+Spray spiromesifen 22.9 SC @
+(Tetranychus telarius)
+of leaves thus plants show
+summer on
+1 ml/l or dimethoate 30EC @
+characteristic yellowing.
+irrigated castor
+1.7 ml/l.
+(March to May)
+Note: Use 500 l/ha of spray fluid using a knapsack sprayer
+Wilt
+Semilooper
+Gray mold
+Spodoptera
+Root rot
+Capsule borer
+R ФСН, R SOR
+ФТ
+Waller
+Ф/Ф DROG
+Agrisearch with a juman touch
+Castor+groundnut intercropping (1:5)
+Castor+redgram intercropping (1:1)
+E
+Drip-fertigation technology
+PAMET ЗАНЯТА
+ICAR-Indian Institute of Oilseeds Research
+/ Rajendranagar, Hyderabad-500 030
+Phone: +91-040-24015222; Fax: 040-24017969; E-mail: director.iior@icar.gov.in Web site: http://www.icar-ilor.org.

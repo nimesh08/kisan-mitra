@@ -1,0 +1,922 @@
+
+5
+a
+HAVE
+BOOKLET
+The Rajasthan Resserch
+Best Management Practices
+for
+Groundnut Cultivation in India
+(SKNAU/2024/54)
+Rajasthan Agricultural Research Institute
+(S.K.N Agriculture University, Jobner)
+Durgapura, Jaipur (Rajasthan) 302018
+Publication No: SKNAU publication No. SKNAU/2024/54 Best Management Practices
+for Groundnut Cultivation in India-Booklet
+Citation: Yadav, M.R., Meena, A.K., Pareek, B., Gupta, S., Praharaj, C.S., Nataraja,
+MV., Yenagi B.S. and Vemana, K. 2024. Best Management Practices for Groundnut
+Cultivation in India-Booklet
+Printed
+:
+April, 2024
+Published by
+:
+Rajasthan Agricultural Research Institute,
+(S.K.N Agriculture University)
+Durgapura, Jaipur (Rajasthan) 302018
+Telephone
+:
+0141-2550229
+Fax
+:
+0141-2550229
+e-mail
+:
+director.rari@sknau.ac.in
+Printed at
+:
+Sonkhiya Computer & Colour Copier
+Shop No.1, Triveni Circle, Gopalpura Bypass, Jaipur
+Phone : +91-9413603050
+Copyright
+:
+With the authors. No part of this Booklet should be reproduced
+in any form without permission of the author.
+AUTHORS
+M. R. Yadav
+A. K. Meena
+Assistant Professor (Agronomy)
+Assistant Professor (PBG)
+RARI, Durgapura
+Rari, Durgapura
+Bheem Pareek
+Shweta Gupta
+Assistant Professor (Agronomy) Assistant Professor (Agronomy)
+RARI, Durgapura
+RARI, Durgapura
+C.S. Praharaj
+MV Nataraja
+Principal Scientist (Agronomy)
+Scientist (Entomology)
+DGR, Junagadh
+DGR, Junagadh
+B.S. Yenagi
+K.Vemana
+Groundnut Agronomist
+Principal Scientist (Pathology)
+UAS, Dharwad
+ANGRAU, Kadiri
+ACKNOWLEDGEMENT
+ICAR- Directorate of Groundnut Research,
+Junagadh for Financial Support
+PUBLISHED BY
+Rajasthan Agricultural Research Institute
+(S.K.N Agriculture University, Jobner)
+Durgapura, Jaipur (Rajasthan) 302018
+Vice Chancellor's Message
+India is the world's second-largest consumer and number one importer of vegetable oil.
+Although the oilseed production in India has grown over the years, the production has
+lagged its consumption, resulting in continuous dependence on import. Groundnut known
+for its multifarious uses including oil production, direct human consumption as food and
+also animal consumption in the form of hay, silage and cake. Being a grain legume,
+peanut has an important nutritional value for human beings, and its nutritional value has
+been exploited for combating malnutrition in children. Groundnut is third important
+oilseed crop in India mainly grown in Gujarat, Andhra Pradesh, Tamil Nadu, Rajasthan,
+Karnataka and Maharashtra. Groundnut has the potential to narrow down the import
+burden of the vegetable oil as there is huge scope for the improvement in the productivity
+with the adoption of improved technologies.
+The average productivity is 2036 kg/ha in India which is quite low as compared to USA
+(4400 kg/ha) and China (3710 kg/ha). The low and fluctuating productivity is primarily
+attributed to cultivation of groundnut is mostly in rainfed condition (80%) especially on
+marginal lands which are poor in fertility, use of local cultivars, inappropriate plant stand,
+lower use of fertilizers and manures, poor weed management and higher incidence of
+disease and insect pest. Many improved technologies have been generated through
+systemic research on the various aspects of the groundnut however, their adoption taking
+place at slower rate. Therefore, there is an urgent need to document the innovative
+groundnut technologies which can help in raising the productivity of groundnut.
+Adoption of good agricultural practices is very important in harnessing the full potential
+of the crop in addition to appropriate variety and quality seed in order to facilitate a
+synergistic effect on crop productivity. Although generalized agronomic
+recommendations are often made, they need to be customized to meet the requirements of
+specific fields and be compatible with the socio-economic conditions under which
+smallholder farmer's function.
+I am extremely pleased to share this space to converse with all of you and to present the
+Booklet "Best Management Practices for Groundnut Cultivation in India". I hope this
+bulletin will serves as a handy reference guide for the farmers, extension personnel,
+students of agriculture and researchers to use improved varieties and associated
+production practices to increase productivity of groundnut in India.
+I congratulate the all authors for giving shape to this important bulletin and convey my
+best wishes to them for grand success of this bulletin "Best Management Practices for
+Groundnut Cultivation in India".
+que
+(Prof. Balraj Singh)
+Preface
+India is amongst the largest producer and consumer of vegetable oils in the World.
+India is a global player in edible oil arena, being the second largest importer, and 3rd
+largest consumer of edible oil as well as fourth largest oilseed producer. Indian
+vegetable oil economy is the fourth largest in the world next to USA, China and
+Brazil. Oilseed crops play the second important role in the Indian agricultural economy
+next to food grains in terms of area and production. On the oilseeds map of the world,
+India occupies a prominent position, both in regard to acreage and production. The
+Indian climate is suitable for the cultivation of oilseed crops; therefore, large varieties
+of oilseeds are cultivated here.
+The major oilseeds cultivated in our country are soybean, rapeseed and mustard,
+groundnut sunflower, castor, sesame, niger, safflower and linseed. Three main oilseeds
+namely, groundnut, soybean, and rapeseed-mustard accounted for over 88% of total
+oilseeds output. Groundnut is third important oilseed mainly grown in Gujarat, Andhra
+Pradesh, Tamil Nadu, Rajasthan, Karnataka and Maharashtra with a combined share of
+about 91% in total groundnut production in the country. Groundnut occupies an area of
+21.5% and production of 25.4% out of the total area and production of oilseed crops
+with an average productivity of 2036 kg/ha in India which is quite low as compared
+to USA and China. The low and fluctuating productivity is primarily because
+cultivation of groundnut is mostly done on marginal lands, which are lacking in
+irrigation and low levels of inputs are used here. Therefore, there is an urgent need to
+improve the productivity of groundnut with the adoption of improved technologies.
+Improved agronomy is crucial in harnessing the full potential of the crop in
+addition to appropriate variety and quality seed in order to facilitate a synergistic effect
+on crop productivity. Although generalized agronomic recommendations are often
+made, they need to be customized to meet the requirements of specific fields and be
+compatible with the socio-economic conditions under which smallholder farmers
+function. Information on harvest and post-harvest operations will help ensure that
+smallholder farmers produce high quality groundnuts fetching them a higher price in
+the market. Looking to the need of farmers, this publication entitled "Best
+Management Practices for Groundnut Cultivation in India" provides an overview of
+different improved technologies to be adopted to enhance the productivity of
+groundnut. Data and photographs in this bulletin have been taken from the published
+articles, reports of AICRP on Groundnut, training manuals and various bulletins.
+We shall consider our effort fruitful if this Booklet serves the purpose of guiding
+farmers, extension personnel, and students of agriculture and researchers to use
+improved varieties and associated production practices to increase productivity of
+groundnut in India.
+We are aware of the possibility of shortcomings and defects in this Booklet. We
+shall appreciate if the readers could bear with them and communicate the same to us
+so that we can bring out a better edition next time.
+Authors
+Introduction
+Groundnut also known as peanut, monkeynut, earthnut or moongfali is not only one of
+the most important oilseed crops but also an important export commodity in India.
+Globally, Groundnut covers 327 lakh hectares with the production of 539 lakh tonnes with the
+productivity of 1648 kg per hectare (FAOSTAT, 2021). With annual all-season coverage of,
+globally, India with acreage of 54.2 lakh hectares ranks first under cultivation and is the
+second largest producer with 101 lakh tonnes with productivity of 1863 kg per hectare during
+2021-22. The cultivation of groundnut in country mainly concentrated to Gujarat, Rajasthan,
+Tamil Nadu, Andhra Pradesh, Maharashtra, Karnataka, and Madhya Pradesh. Gujarat is the
+largest producer of groundnut contributing 36 per cent of the total production followed by
+Rajasthan (17 %), Tamil Nadu (7.5 %). It is one of the important export commodity also and
+India has exported 668,885 MT of groundnut to various countries of the World during the year
+2022-23 which worth of 6735 crore.
+Groundnut plays an important role in the dietary requirement of resource poor woman
+and children. Groundnut kernels are also used for the preparation of food products like
+chikkis, groundnut milk, butter, curd including different bakery products. Groundnut cake
+obtained after extraction of oil, is used as valuable organic manure and feeding material for
+livestock. The peanut haulms contain crude protein 8- 5%, lipids 1-3% and minerals 9-10%.
+These are used as cattle feed either in fresh or in dried stage or preparing hay or silage. The
+peanut shells or pod walls which constitute nearly about 25% of total pod weight are used as
+bedding material for poultry or as mulching material during summer season to reduce the
+evaporative losses. Shell material is also used as filler material for making mixed fertilizers
+and as insulation material for buildings or as fuel in boilers.
+Improved agronomy is crucial in harnessing the full potential of the crop in addition to
+appropriate variety and quality seed in order to facilitate a synergistic effect on crop
+productivity. This farmer friendly booklet provides information on improved cultural practices
+in groundnut cultivation which will empower smallholder farmer to make his/her own decision
+on various components of integrated crop management technology. Although generalized
+agronomic recommendations are often made, they need to be customized to meet the
+requirements of specific fields and be compatible with the socio-economic conditions under
+which smallholder farmers function. Information on harvest and post-harvest operations will
+help ensure that smallholder farmers produce high quality groundnuts fetching them a higher
+price in the market
+Table 1. Year wise acreage, production and productivity of groundnut in India
+Year
+Area (M ha)
+Production (M tonnes)
+Productivity (kg/ha)
+2015-16
+4.60
+6.73
+1465
+2016-17
+5.34
+7.46
+1398
+2017-18
+4.89
+9.25
+1893
+2018-19
+4.73
+6.72
+1422
+2019-20
+4.30
+9.95
+2310
+2020-21
+5.57
+10.21
+1831
+2021-22
+5.42
+10.10
+1863
+2022-23
+4.91
+10.06
+2036
+Source: agricoop.nic.in.
+Cropping Season/sowing time
+Groundnut is a tropical plant that requires a long, warm growing season. A well-
+distributed rainfall of at least 50 cm during growing season, abundant sunshine and relatively
+warm temperatures are best suited for its cultivation. Groundnut is cultivated in one or more
+(kharif, rabi and summer) seasons, but nearly 85% of acreage and production comes from
+kharif crop (June- November). About 85% of groundnut grown in India is sown in the kharif
+season. Kharif groundnut mainly grown in the states of Gujarat, Andhra Pradesh, Tamil Nadu,
+Karnataka, Maharashtra, Rajasthan, Madhya Pradesh and Uttar Pradesh mostly under rain-fed
+conditions. The time of sowing varies from June to November depending on the type of soil
+and rainfall. Groundnut yield in the rainy season is lower than in the post-rainy season due to
+cloudy weather and the presence of diseases and insect pests.
+About 15% of the crop is raised during the rabi/summer season. Rabi groundnut is grown
+from November to April mostly in central, eastern and southern parts of the country. It is
+mostly grown in rice fallow situations under residual moisture conditions or with limited
+irrigation facility and in river-bed fields of Orissa, Assam and West Bengal. In areas where
+irrigation is available or assured, the summer is ideal for groundnut cultivation. The cultivation
+of groundnut during January to May/June as summer crop mainly concentrated to some parts
+of Gujarat, Maharashtra Andhra Pradesh, Karnataka, Tamil Nadu and Rajasthan. Good
+sunshine and high temperature favour pod formation during summer season.
+Soil and field preparation
+Groundnut can be grown in range of the soils in India such as sandy, sandy loam and
+heavy black soils. But well-drained, light-textured, loose sandy-loam or sandy clay loam soils
+with good drainage, having reasonable high calcium and sufficient sulphur, pH 5.5 to 7.0 and
+medium to high organic matter are most suitable soils for groundnut production. The highly
+acidic soils (pH <5.5), and highly alkaline soils (pH >7.8) are not suitable for groundnut
+production. In case the pH is <5.5, lime in appropriate form and quantity should be mixed
+thoroughly into the soil before land preparation or at the time of land preparation so as to bring
+it into the optimal range. The rate of application of lime depends upon the type of lime, soil
+type and depth of application. As a general recommendation, it would require furrow
+application of 2.0 t/ha of lime to raise the soil pH from 5.0 to 6.5.
+Field preparation for groundnut depends on the soil type and onset of monsoon for
+rainfed crops and the previous crops grown for irrigated crop. The soils are usually ploughed
+twice with the summer rains or after application of irrigation water for winter/summer sowing
+followed by two to three harrowing and pulverizing well to obtain a good tilth for optimum
+germination. Summer ploughing is advantageous to kill weed seeds and hibernating insects
+and diseases organisms by exposing them to the heat of summer. In terrace and flat lands of
+high rainfall areas, raised beds with an width of 90 to 120 cm accommodating 3 to 4 rows of
+10-15 cm height are to be prepared to avoid water-logging problems.
+Seed quality and treatment
+Good quality seed of improved varieties suitable for the area is one of the most
+important factors for increasing productivity. Good quality seed is essential for establishing the
+required plant population, good development and yield. Purity, good viability, uniformity of
+seed size, colour, weight and freedom from seed-borne diseases are the chief characteristics of
+good seed. This can be achieved by the use of certified seeds. Bunch types have non-dormant
+seeds whereas semi-spreading and spreading have dormant seeds. The non-dormant seeds
+germinate immediately after maturity. The dormant seeds usually require a resting period of 60
+to 75 days to obtain maximum germination. Dormancy can be broken by exposing seeds to
+ethrel solution of 250 ppm at the time sowing. Groundnut pods for seed purpose are shelled
+either by hand or by using hand decorticator or by power operated decorticator about a week in
+advance of sowing. The viability of seed will be lost if shelled long before seeding. After and
+during the shelling split or damaged, shriveled immature and infected seeds should be removed
+and only well-filled seed should be used for sowing. The seed must be tested for their
+germination and less than 70% is not considered satisfactory as prescribed as seed standards
+for certification of labeled seed.
+Seed should be treated with Carboxin 37.5% + Thiram 37.5 % DS @ 2-3g/kg
+kernel to control seed borne diseases. The seed can also be treated with Trichoderma viride
+@ 10 g/kg seed or it can be applied @ 10 kg/ha as soil application. In white grub and
+termite endemic areas to prevent the seed damage from soil insects at initial stages,
+imidacloprid 600 FS @ 6.5 ml/kg seed can be used. Thereafter, the kernels should also be
+treated with suitable Rhizobium and PSB cultures (3 packets of each).
+Sowing methods
+The groundnut is generally sown on flat beds. Some of the improved methods to get
+higher yield over the conventional method are given below:
+1. Criss-cross sowing
+In this method, total seed lot is divided into two equal halves; first half of the seed is sown in
+one direction adopting 30 cm spacing between rows and then the remaining half in the
+perpendicular direction with the same spacing. Criss-cross method can improve yield by about
+18% as compared to conventional sowing by maintaining uniform distribution of seed and
+optimum number of plants/unit area. The seed rate used in this method is same as in
+conventional method. The only disadvantage in this method is inter-cultivation and earthing up.
+So, this method is suitable for light soils.
+2. Broad-bed and furrow method (BBF)
+BBF method is useful in areas having deep vertisol with high rainfall. This system consists
+of raised beds of 0.90 to 1.2 m width and 15 cm height with two furrows of 30 cm width on
+either side. Each raised bed would accommodate three to four rows with 30 cm spacing between
+rows. On an average, 15% higher yield of groundnut has been reported from the medium
+black soil over the flat bed.
+Raised bed sown groundnut
+Flat bed sown groundnut
+3. Ridge and furrow method
+Groundnut is generally sown on flat beds using a seed drill but sowing on either sides
+of the ridge helps the plants to prevent from come in direct contact with the excess
+water. Furrows are more advantageous as they increase moisture recharge in the soil
+by colleting water and simultaneously help in draining away excess water.
+Spacing and seed rate
+Inadequate crop stand is one of the major factors limiting the productivity of groundnut.
+Optimum plant population depends on plant type (bunch or spreading), soil, moisture and
+management practices. Higher plant population reduces the number of branches per plant while
+lower plant population increases the number of branches/plant. Number of pods/plant increases
+with increase in number of branches/plant. Seed rate depends upon the size of kernels, test
+weight (100-kernel weight), inter-and- intra-row spacing. The most common spacing
+recommended for bunch type varieties is 30 cm X 10 cm to achieve a plant population of 3.33
+lakh/ha The usual seed requirement of bunch type groundnut is 100-110 kg/ha. The most
+common spacing recommended for semi-spreading and spreading varieties is 40-45 cm X 10 cm
+or 30 cm X 15 cm to achieve a plant population of 2.22 lakh/ha in rabi/summer groundnut. To
+achieve the optimum plant stand of semi-spreading and spreading varieties by considering their
+hundred kernel weight and inter-and- intra-row spacing following seed rates should be adequate.
+Table 2 Seed rates of spreading and semi spreading groundnut
+Hundred kernel weight (g)
+Seed rate (Kernel kg/ha)
+40-50
+100-110
+50-60
+120-140
+60-70
+145-160
+70-80
+165-185
+80-90
+190-210
+
+
+Cropping systems
+Crop sequences: In general, groundnut should be rotated with cereals like pearl millet,
+sorghum, maize, wheat, rice or other minor millets. This will check the build-up of pests,
+white grubs, nematodes, soil borne diseases, leaf spots and also maintain soil fertility. Some
+of the promising crop sequences recommended for different states are given below
+Intercropping: The most important cereal intercrops grown with groundnut are bajra,
+sorghum and maize. The other long duration crops suitable for intercropping with groundnut
+are red gram, cotton, castor, cassava while short duration crops are sesame, sunflower,
+cowpea, green gram and black gram. Intercropping systems suggested for different states are
+presented in table 2 along their proportions with the groundnut as base crop.
+Table 4. Promising crop sequences recommended for different states involving groundnut
+State
+Rainfed
+Residual
+Irrigated (Double or
+(Monocropping)-
+moisture
+triple cropping in one
+two years
+(Double cropping
+year
+in one year)
+Andhra Pradesh
+Groundnut-sorghum
+Groundnut-bengal
+Groundnut-maize
+Gram
+Groundnut-millet
+Groundnut-
+Groundnut-wheat
+Safflower
+Groundnut-tobacco
+Groundnut-sesame
+Groundnut-onion
+Gujarat
+Groundnut-sesame
+Groundnut-fodder
+Groundnut-mustard-
+Sorghum
+green gram
+Groundnut-
+Groundnut-wheat-
+Mustard
+green gram
+Karnataka
+Groundnut-sorghum
+Groundnut-
+Groundnut-wheat
+safflower
+Groundnut-maize
+Groundnut-sunflower
+Maharashtra
+Groundnut-sorghum
+Groundnut-
+Rice-potato-
+Safflower
+Groundnut
+Groundnut-fodder
+Groundnut-
+maize
+Rabi sorghum
+Groundnut-safflower
+Tamil Nadu
+Groundnut-sesame
+Groundnut-sesame
+Rice-rice- groundnut
+Groundnut-cotton
+Groundnut-rice-green
+Gram
+Groundnut-maize
+Rajasthan
+Groundnut-pearl millet
+Groundnut-barley
+Groundnut-wheat-
+green gram
+Groundnut-
+Groundnut-wheat
+Mustard
+Madhya Pradesh
+Groundnut-sorghum
+Groundnut-
+Groundnut-wheat/ mustard
+safflower
+Orissa
+Groundnut-
+Groundnut-bengal
+Groundnut-rice/ragi
+sorghum/pearl millet
+Gram
+Groundnut-sesame
+Groundnut-
+coriander/cumin
+(Source: Jain, N.K., Garhwal, R.S., Meena, H.N. and Patel, H.V. 2013. Technologies to Enhance Groundnut Productivity
+-Booklet, Directorate of Groundnut Research, Junagadh- 362 001, Gujarat, India.)
+Table 5.Some intercropping systems in different states.
+State
+Intercropping system
+Ratio to base crop
+(groundnut)
+Andhra Pradesh
+Groundnut + pearl millet
+3: 1
+Groundnut + cowpea
+6 1
+Groundnut + red gram
+6 :1 or 8 : 1 or 10 : 2
+Groundnut + castor
+5 : 1 or 7: 1
+Gujarat
+Groundnut + sesame
+1:1
+Groundnut + sunflower
+1:1
+Groundnut + red gram
+3 :1
+Groundnut + castor
+1 1
+Karnataka
+Groundnut + red gram
+4 1
+Groundnut + cotton
+3: 1 or 5 : 1
+Groundnut + sorghum/ragi
+6 1
+Maharashtra
+Groundnut + sorghum
+4 : 1 or 6 : 2
+Groundnut + red gram
+6 : 1 or 10 : 2
+Madhya Pradesh
+Groundnut + red gram
+8 : 2 or 10 : 2
+Groundnut + soybean
+4 : 1 or 6 : 1
+Groundnut + sesame
+4 1
+Tamil Nadu
+Groundnut + black gram/green gram
+6 1
+Groundnut + cotton
+5: 1
+Groundnut + castor
+7 1
+Groundnut + sesame
+6 : 1
+Rajasthan
+Groundnut + pearl millet
+4 : 1
+Groundnut + sesame
+4 : 1
+(Source: Jain, N.K., Garhwal, R.S., Meena, H.N. and Patel, H.V. 2013. Technologies to Enhance Groundnut Productivity
+-Booklet, Directorate of Groundnut Research, Junagadh- 362 001, Gujarat, India.)
+Manures and fertilizers
+In general, for obtaining high yield of groundnut application of well decomposed farmyard
+manure @ 10 t/ha at least three to four weeks 21 days before sowing followed by
+recommended doses of N, P₂O₅ and K2O through urea, single super phosphate (SSP) and
+muriate of potash, respectively is recommended depending upon the initial soil fertility status
+and nature of crop. If SSP is not available, P₂O₅ can be supplied through DAP, 12:32:16 and
+other complex fertilizers by suitable calculation according RDF.
+Table 6 Recommended doses of N, P₂O₅ and K2O (kg/ha) for different states
+State
+Situation
+N
+P₂O₅
+K2O
+Andhra Pradesh and
+Rainfed
+20
+40
+20
+Telangana
+Irrigated
+30
+60
+45
+Gujarat
+Rainfed
+12.5-25
+25-60
+0
+Irrigated
+25-37.5
+50-70
+0
+Karnataka
+Rainfed
+18
+46
+25
+Irrigated
+25
+75
+25
+Madhya Pradesh
+Rainfed
+20
+40
+20
+Punjab
+Irrigated
+15
+40
+25
+Rajasthan
+Rainfed
+15-20
+60
+30
+Irrigated
+15-20
+60
+30
+Maharashtra
+Irrigated
+20
+40
+0
+Uttar Pradesh
+Rainfed
+15
+30
+45
+West Bengal
+Irrigated
+15
+30
+45
+Tamil Nadu
+Rainfed
+11
+22
+33
+Irrigated
+22
+44
+66
+(Source: Jain, N.K., Garhwal, R.S., Meena, H.N. and Patel, H.V. 2013. Technologies to Enhance Groundnut Productivity
+-Booklet, Directorate of Groundnut Research, Junagadh- 362 Gujarat, India.)
+For a rainfed crop, entire doses of nitrogen, phosphorus and potassium should be applied by
+placement at seeding in the furrow below the seed at sowing. Now a days, it is very easy place
+fertilizer below the root zone by using seed cum fertilizer drill.
+Special requirement of Calcium and Sulphur
+These two nutrients are taken up from the pod zone by the pegs and developing pods.
+Groundnut has the unique characteristic of uptake of Ca and S by the developing pegs and pods.
+The major function of calcium in groundnut is the improvement in the quality of the nuts as
+evidenced by thin strong shell besides well-filled pods. Sulphur is directly involved in the
+biosynthesis of oil and is usually deficient in the groundnut soils. Gypsum (24% Ca, 18.6% S) is
+the cheapest source for Calcium and Sulphur elements. Higher quantities of gypsum than
+necessary are applied at early flowering stage to ensure adequate calcium supply in the pod
+zone. Application of well - powdered gypsum (30 mesh) @ 500 kg/ha at the time sowing is
+recommended to overcome the deficiency of Ca and S and increase the pod yield stage.
+Correction of micronutrient deficiencies
+Groundnut is also sensitive to the deficiency of micronutrients such as B, Zn and Fe. The
+micronutrient deficiency can be corrected by applying them either to the soil or in standing crop
+Table 7. Schedule for controlling micronutrient deficiencies
+Micronutrient
+Form and rate of allocation to soil
+Spray schedule
+Boron
+Borax 5-20 kg/ha
+0.2% borax
+Copper
+Copper sulphate 5-10 kg/ha
+0.1% copper sulphate + 0.05% lime
+Manganese
+Manganese sulphate 10-50 kg/ha
+0.6% MnSo₄+0.3% lime
+Zinc
+Zinc sulphate 10-50 kg/ha
+0.5% zinc sulphate + 0.2 % lime
+Molybdenum
+Ammonium molybdate 0.5-1.0 kg/ha
+0.01% ammonium molybdate
+Iron
+Ferrous sulphate 10 kg/ha
+0.5% ferrous sulphate+ 0.05% lime
+(Source: Jain, N.K., Garhwal, R.S., Meena, H.N. and Patel, H.V. 2013. Technologies to Enhance Groundnut Productivity
+-Booklet,Directorate of Groundnut Research, Junagadh- 362 001, Gujarat, India.)
+Weed management
+Weeds cause much damage to the groundnut crop during the first 35 days of its
+growth. The most critical period of weed competition is from 3-6 weeks after sowing. The
+average yield loss due to weeds is about 45%. When once pegging begins (40 DAS), there
+should not be any disturbance to pegs through manual or mechanical weeding. Important
+weed flora in the groundnut crop can be categorized in three classes :-
+A) Grassy Weeds: Dactyloctenium aegyptium (Crow foot grass); Echinochloa
+colonum (Water grass); Panicum repens (Torpedo grass); Chloris barbata (Many spiked
+chloris); Commelina benghalensis (Tropical spider wort); Cynodon dactylon (Bermuda
+grass); Tragus biflorus (carrot-seed grass); Eragrostis ciliaris (Stink grass); Brachiaria
+ramosa (Signal grass); Saccharum spontaneum (Thatch grass); Sorghum
+halepense (Johnson grass).
+B) Broad Leaved Weeds: Tridax procumbens (Coat-button); Celosia argentea (Feather
+cocks comb); Euphorbia hirta (Pill-pod euphorbia); Phyllanthus niruri (Flyroost leaf
+flower); Amaranthus viridis (Pig weed); Cleome viscosa (Spider flower); Trianthema
+portulacastrum (Dessert horse purslane); Portulaca oleracea (Common purslane);
+Boerhaavia diffusa (Hog weed); Tribulus terrestris (Puncture vine); Euphorbia
+pulcherrima (Common Poinsettia); Acanthospermum hispidum (Star bur); Ageratum
+conyzoides (Tropical ageratum); Croton sparsiflorus (Croton); Coccinia grandis (India
+ivygourd); Cassia occidentalis (Coffee senna); Digera arvensis (Digera) and Solanum
+nigrum (Black night shade).
+C) Sedges: Cyperus rotundus (Motha); Cyperus esculentus (Yellow nut sedge).
+Management
+A good crop cover by adopting right spacing between rows and within the row will smother
+the weed growth.
+Mulching the soil surface in between rows with crop residue material like straw etc may
+prevent the germination of weed seeds and at the same time smothers the established young
+weeds.
+Adopting proper crop rotation practices will help in overcoming the dominance of certain
+weeds and lessening the weed competition in groundnut crop.
+Intercropping practice in groundnut crop not only provide the monetary and land utilization
+advantages but also help in smothering the weeds with good crop cover over the land
+surface.
+Hand pulling of weeds though primitive is an efficient way of controlling weeds especially in
+groundnut.
+Hand weeding should be done twice, first around 20-25 days after sowing and second at
+about 35-40 days after sowing.
+Cost effective weed management under rainfed conditions is repeated inter-cultivation
+(harrowing) up to 35 days after sowing followed by hand weeding.
+Chemical weed control is preferred because of less labour involvement and no mechanical
+damage to the crop that happens during manual weeding. Moreover, the control is highly
+effective as the weeds even within the rows are killed, which invariably escape during
+mechanical control.
+Where labour is scarce and expensive, the use of herbicides either alone or in combination
+with cultural methods to control the weeds effectively and in time has become a necessity.
+Application of Diclosulam 84% WDG @ 20 to 25 g/ha or Pendimethalin+Imazathapyr 32
+EC (Readymix) @1.0 kg ai/ha can be applied to the soil surface within 2 days of groundnut
+sowing. The effect of pre-emergence herbicides lasts 6-7 weeks after which fresh flushes of
+weeds emerge.
+To control the weeds at the later stage of crop post-emergence application of Quizalofop
+ethyl @ 0.50 kg a.i./ha or Imazethapyr @ 0.50 kg a.i./ha should be applied to the crop at 18-
+20 DAS of groundnut or when weeds are at 3 to 4 leaf stage.
+Integrated weed management involving the above two appears most effective and
+economical, provided the crop is not subjected to prolonged drought or soil moisture stress
+during the crop period.
+Application of Diclosulam 84% WDG @ 20 to 25 g ha⁻¹ followed by 1 hand weeding at 30-
+35 DAS or Diclosulam 84 % WDG @ 20-25 g a.i. ha⁻¹ (PE) fb Quizalofop Ethyl 5% EC 50 g
+a.i., ha⁻¹ (POE) at 20-30 days after sowing.
+Groundnut under weedy check
+Groundnut under weed free condition
+Water management
+Groundnut crop is mostly cultivated during kharif under rainfed conditions. Irrigated
+groundnut accounts for over 20% of the total area under the crop in the country and it yields
+around 4.2 t/ha.
+There is no necessity for irrigation or rainfall up to 25 days after emergence of
+groundnut.
+Flowering (20-40 DAS), pod formation and development (40-70 DAS) and pod filling
+and maturation (70-100 DAS) are most sensitive to soil moisture stress.
+Scheduling irrigation at 25% depletion of available soil moisture (DASM) during
+moisture sensitive stages and at 50% DASM during other stages results in high pod
+yield and water use efficiency.
+An IW/CPE ratio of 1.0 at moisture sensitive stages and 0.6 during other stages leads to
+high water use efficiency. Irrigate at 10-12 days interval is usual practice during summer
+groundnut.
+At times of deficit supplies, an irrigation at 25 DAS followed by 2 at 15 days interval
+between 45 and 75 DAS appears to be minimum requirement and it can minimize yield
+losses due to soil moisture stress. The first irrigation is given at 25 DAS to create
+moisture stress in the soil which is desirable:
+to get the good root system.
+to reduce excessive vegetative growth.
+encourage the better nodulation
+induce heavy flowering in a single flush (synchronous flowering)
+Keeping the total quantity of irrigation water applied constant, high frequency irrigation
+increase the pod field of groundnut on sandy and sandy loam soils.
+Depending on soil type, evapotranspiration and crop duration, water requirement of
+groundnut ranges between 450 and 650 mm.
+The crop is usually irrigated by check basin method. Border strip is more suitable than
+other methods.
+Sprinkler irrigation is generally adopted for groundnut considering the crop height and the
+nature of fruiting. The costs are also low for sprinkler compared to drip.
+The irrigation quantum (mm) is decided after studying the soil texture and its infiltration
+capacity. Application rate per irrigation should be equivalent to the infiltration rate of the
+soil of each location approximately this would be 15-20 mm at a time for the soil types
+mentioned above
+Recently drip irrigation is becoming popular among groundnut growers as it increases
+crop yield by 25-40% besides better seed quality and saves up to 40-50% irrigation
+water compared to flood irrigation.
+For drip irrigation in groundnut, drip laterals (having drippers at 30 cm distance and 1.75-
+2.0 kg/cm² pressure and 4 liter/hour discharge rate) should be installed at the interval of
+three rows (row spacing 30 cm) or keep 90 cm distance between two laterals which
+should be operated for 50 minutes in the month of June and 30 minutes during rest of the
+crop period (July to October) on alternate days. This system saves about 60% water and
+gives higher yield in comparison to surface irrigation systems.
+Overview of groundnut crop under drip irrigation
+Plant protection measures
+Major insect pest and management
+Insect pests cause severe losses to groundnut and are recognized as one of the major
+constraints in groundnut production. Although more than 90 species of insect pests attack
+groundnut crop, only a few are economically important over large areas.
+White grub
+White grubs, Holotrichia spp. are serious pests in northern states. The young grubs feed
+on rootlets and nodules, the older grubs in third instar devour the entire tap root and such
+plants wither and die. The damage usually occurs in patches in field and the crop nearer
+to the hosts of adult beetles suffers heavy damage.
+Management
+Summer ploughing helps to collect and destroy the larvae and pupae of the pest.
+Early sowing may be useful in escaping from grub damage.
+Setting up light trap especially during May and June months (a day after the first
+summer rains) to monitor and collect the adult beetles.
+Collect adult beetles of white grubs attracted to trees like neem, Acacia on receipt of
+monsoon shower and destroy them.
+Branches of neem, tamarind and Acacia trees, around the field may be pruned and
+sprayed with chlorpyriphos @ 3 ml/lit of water.
+Hand pick the adults resting in the soil during day time and destroy.
+Seed treatment with chlorpyriphos @ 10-15 ml/kg of seed or with imidacloprid 600 FS
+@ 6.5 ml/kg of seed
+Application of imidacloprid 17.8 SL @ 500 mal/ha or chlorpyriphos @ 4.0 lit of /ha in
+standing crop.
+White grub under field
+Adult beetles of white grubs
+Tobacco caterpillar, Gram pod borer and Red hairy caterpillar
+These defoliators inflict economic losses only when the foliage damage exceeds 25%.
+Management
+Management can be done by growing of resistant/tolerant cultivar, growing of trap crop
+such as sunflower and castor bean on borders or in groundnut field (1 plant 20/m),
+destroying of egg masses on trap crops, encouraging larvae predation by birds by
+providing perches in the field (10-15/ha) and application of nuclear polyhedrosis virus
+(NPV) @ 250 LE/ha, obtained from a reliable source and neem seed kernel extract @
+extract obtained from 10 kg neem seed powder/ha or application of quinalphos 20 EC
+@750 ml/ha in standing crop.
+Tobacco caterpillar
+Red hairy caterpillar
+Leafminer
+Adult light brown in colour, small blister like mines appear on the upper surface of the
+leaf, at sever stage, entire leaflet becomes brown and it rolls, shrivels and dries up and
+gives burnt appearance from the distance in the field.
+Management:
+Collection and destruction of moths by setting light traps, monitoring of pest using yellow
+sticky pheromone traps @ 4 per acre. In field condition, if more than 50% of leaf miner
+infected with natural enemies need not to spray any chemical. Spray with Quinolphos @
+500 ml/ha or Chlorpyriphos @ 1250 ml/ha or Flubendiamide 39.35SC @ 75-100 ml/ha or
+Spinosad 45 SC @ 150 ml/ha.
+Sucking pests
+Aphid
+Nymph and adult attack on young branches, suck sap from young leaves and flowers,
+plants will become weak and stunted, In case of severe infestation, they excrete the honey
+substance. Flower drop occurs in severe cases.
+Jassid
+Nymph and adults suck the sap from under surface of the leaves, as result inverted "V"
+shape yellowing on tip of the leaf. Total leaves become yellowing in severe cases and low
+temperature and high rainfall favors the pest incidence.
+Thrips
+Nymphs and adults suck the sap from the leaf, brown color blisters can be seen under side
+of the leaf, in severe case curling of leaves and stunting of the crop observed. Thrips
+palmi transmits Groundnut bud necrosis virus as virus and vector specificity existed.
+Aphid
+Jassid
+Management:
+Population of natural enemies viz; coccinellids, syrphids and Green lays wings present
+more than 50% , no sprayings against aphids. Seed treatment with Imidacloprid 600 FS
+or Thiamethoxam @ 2 ml/kg seed (1:3 ratio chemical and water), border crop with
+bajra/jowar (4-6 rows), spraying with Imidachloprid @ 150 ml/ha at 20 DAS or
+Thiaclorpid 480 SC @ 125 ml/ha or Thiocloprid 25 WG @ 100 g/ha or Acetamiprid 20
+SP @ 100 g/ha.
+Damage done by thrips
+Major diseases and management
+Aspergillus seedling blight or collar rot/foot rot
+It appears 14 days after sowing. Collar rot led to rapid desiccation of the affected
+plant, affected tissue at collar region is covered with black mass of spores. In immature
+plants, lesions develop on the stem just below the soil surface and then spread upward
+along the branches. In matured plants, symptoms generally do not appear until the wilting
+of the entire plant is apparent. More prevalent in light sandy soils.
+Collor rot Seedling rot
+Black conidial head of fungi
+Management
+Selection of healthy seed, use of tolerant genotypes: J11, JCG-88 and OG-52-1, Seed
+treatment with Mancozeb 50 %+ Carbendazim 25 % WS @ 3 g/kg seed or Corbaxin 37.5
+%+ Thiram 37.5 % DS @ 3 g/kg seed, deep sowing of seed should be avoided, deep
+ploughing of fields and destruction of plant debris, soil application before sowing with
+Trichoderma asperellum 5 kg/ha after enriched by mixing in 225 kg farm yard manure
+after 15 days of incubation.
+Leaf spot diseases (Early leaf spot and late leaf spot)
+Yield loses ranged from 10.0 % to 50.0 %. In the absence of fungicide sprays, leaf spots
+can cause yield losses >50%. Temperatures in the 25 to 30°C range and high relative
+humidity (>80.0 %) favors infection and disease development. In case of early leaf spot,
+the lesions are sub circular and 1-10 mm diameter and dark brown on the upper surface of
+the leaf. In case of late leaf spot, the lesions on the lower surface of leaf are small, more
+nearly circular and darker than those of early leaf spot. Both the lesions also appears on
+the stem, petiole and pegs.
+Early leaf spot
+Late leaf spot
+Management
+Seed treatment with Mancozeb 50%+ Carbendazim 25 % WS @ 3 g/kg seed or Corbaxin
+37.5 %+ Thiram 37.5 % DS @ 3 g/kg seed, spraying of Mancozeb 75 WP @ 1000
+g+Carbendazim 50 WP@ 500 g /ha or Hexaconazole 5% SC @ 500 ml or Chlorothalonil
+75 WP @ 1000 g or Tebuconazole 25.9 EC @ 500 ml/ha in 500 liter of water twice at
+fortnightly intervals starting from first disease appearance.
+Rust Disease (Puccinia arachidis)
+Orange coloured pustules appear on the lower surface of the leaflets, in severe cases,
+lesions also appear on other plant parts except flowers
+Abaxial Surface (Orange pustules)
+Adaxial surface
+Management
+Growing of resistant genotypes viz., Girnar 1, ICGV 87160, ICGV 86590, ICGV 86325,
+DRG 12, TAG 24, ALR 2, BSR 1, OG-52-1, ALR 3, VRI 5, CO 4, ALR 1, CSMG84-1,
+ICGS-5, DRG -17 and GPBD4. Removal of infected plant debris, collect seed from
+disease free areas, seed treatment with Seed treatment with Mancozeb 50 %+
+Carbendazim 25 % WS @ 3 g/kg seed or Corbaxin 37.5 %+ Thiram 37.5 % DS @ 3 g/kg
+seed, spraying of Mancozeb 75 WP @1000 gha or Chlorothalonil 75 WP @1000 g or
+Hexaconazole 5 SC @ 500 ml or Tebuconazole 25.9 EC @ 500 ml/ha in 500 liter of
+water at 15 days interval starting from disease appearance.
+Stem rot (Sclerotium rolfsii)
+Appears generally after 70 days of sowing to harvest stage, yellowing and wilting of
+branches just above the soil, whitish mycelium of the fungus develops around the affected
+stem above the soil level, infection of pegs and pods occurs in severe case and seeds turn
+to bluish colour.
+Symptoms of stem rot
+Management
+Follow the deep ploughing in summer, selection of healthy seed, seed treatment with Seed
+treatment with Mancozeb 50 %+ Carbendazim 25 % WS @ 3 g/kg seed or Corbaxin 37.5
+%+ Thiram 37.5 % DS @ 3 g/kg seed, soil application before sowing with Trichoderma
+asperellum 5 kg/ha after enriched by mixing in 225 kg farm yard manure after 15 days of
+incubation. Gypsum application @ 500 kg/ ha at the time of pegging stage (45-50 DAS)
+is recommended. Timely control of foliar diseases lead to reduction of incidence of stem
+rot at the end.
+Dry root rot (Rhizoctonia bataticola)
+Appears at any stage of the crop and severe during drought period, first water soaked
+necrotic spots appear on the stem just above the ground level, later develop into blackish
+when they spread to aerial parts and down into roots. If the infection girdles the stem,
+wilting follows. Roots are commonly attacked, tap root become black with abundant
+sclerotia and rotten and shredded. Leaf infection characterized by marginal zonate and
+irregular spots.
+Management
+Practice deep ploughing in summer, selection of healthy seed for sowing, seed treatment
+with Seed treatment with Mancozeb 50 %+ Carbendazim 25 % WS @ 3 g/kg seed or
+Corbaxin 37.5 % + Thiram 37.5 % DS @ 3 g/kg seed, Soil application of Trichoderma
+asperellum developed by mixing 225 kg FYM in 5 kg Trichoderma asperellum and allow
+to grow for 15 days under shade by covering gunny bags. Timely management of
+irrigation schedule is required without allowing the plants to dry. Do not allow plants to
+wilt during critical stages of crop.
+Rotten and shredding of tap root
+Peanut bud necrosis disease
+Initial symptoms appear on young leaflets as chlorotic spots and develop in to chlorotic or
+necrotic ring spots, terminal bud necrosis on main stem followed by necrosis of top
+growing buds on all primaries, stunting growth with reduced size of leaflets and petioles,
+infected plants become dwarf and show axillary shoot proliferation with small leaves
+having mosaic and distortion of lamina. Early infection leads to no flower and pods. Late
+infection led to few pods with reduced size and mottled testa.
+Initial chlorotic ring spots
+Death of top growing bud
+Management
+Growing border crop of jowar (4 rows) with higher seed rate (@ 200 kg/ha) of
+groundnut treated with imidacloprid 600 FS @ 1 ml/kg of seed followed by foliar
+application with thiocloprid 480 SC@ 150 ml/ha at 20 DAS, and acetamiprid 20 SP @
+100 g/ha at 35-40 DAS. Seed treatment with Imidacloprid 600 FS @ 1 ml/kg seeds +
+Foliar sprays using Thiocloprid 480 SC @ 0.3 ml/l at 20-25 DAS followed by Fipronil
+5SC @ 1 ml/l @ 40DAS and Acetamaprid 20 SP @ 0.2 g/l at 60 DAS).
+Harvesting and storage
+As groundnut is an indeterminate crop, hence synchronous maturity of its pods can
+not be obtained. Therefore, harvesting should be done when 75-80% of pods are fully
+mature.
+The important indications of maturity are yellowing of foliage, necrotic spotting of
+leaves, dropping of old leaves, pods become very hard and tough, they give cracking
+sound when split open with fingers, the inside of the shell turning dark, with netted
+venation, seed coat develops pink or red colour (normal colour of the varieties) and
+raising of the soil to the base of the stem is observed.
+Generally harvesting is done by pulling or lifting the plants from the soil with pods
+intact. If soil moisture is adequate, then hand pulling. If soil is dry, tractor or bullock
+drawn blades are used for lifting the vines with pods.
+Harvesting before maturity reduces yield and oil percentage and seeds are highly
+susceptible to aflatoxin. If delayed, results in increased incidence of stem rot,
+weakening of gynophore/peduncle and some of the pods may remain in soil
+itself at the time of harvesting.
+The most common method is stripping pods with hand. At the time of harvest, pods
+usually have moisture content around 40-50% and hence need to be dried to 10%
+moisture content for safe storage. Drying should be done rapidly to prevent fungal
+infection. Sun drying is the usual method of drying. Summer groundnut should be
+dried in shade to prevent loss of viability, if it is for seed purpose.
+Immature
+Optimum mature
+Overmature
+Storage at farmer level is invariably in the form of pods. Farmers usually dispose of
+groundnut pods within a month from drying yard itself. A few store it for 6 months
+(till kharif seeding) in anticipation of high price.
+Pods for seed purpose are stored for 7-8 months. Pods for seed purpose are stored in
+earthern pots, mud bins or bamboo baskets or Gunny bags having polythene lining.
+If the seed moisture content is above the critical level of 9-10%, then aflatoxin production
+due to Aspergillus flavus just before the post-harvest drying and mould growth at later
+stage takes place.
+With improved varieties and matching crop production and protection technologies, the
+productivity of groundnut can be achieved in the tune of 2-3 t/ha for the kharif rainfed
+ecologies and 2.5-4.0 t/ha for rabi/summer (irrigated ecologies).
+DIRECTOR
+EXTICTURAL
+Rajasthan Agricultural Research Institute
+(S.K.N Agriculture University, Jobner)
+Durgapura, Jaipur (Rajasthan) 302018

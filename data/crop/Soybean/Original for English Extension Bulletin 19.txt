@@ -1,0 +1,1024 @@
+Extension Bulletin-19
+Revised Edition-2024
+
+Modern methods of Soybean Production and Technical Recommendations
+
+
+ICAR-Indian Institute of Soybean Research
+Khandwa Road, Indore- 452001 (M.P.)
+
+
+Directed & Published by
+Dr. K.H. Singh
+Director,
+ICAR-Indian Institute of Soybean Research, Indore
+
+
+Authored, Compiled & Edited by
+Dr. B. U. Dupare, Principal Scientist (Agril. Extn.) & Head of department (Crop Production)
+
+Co-author and co-editor
+Rakesh Kumar Verma, Raghavendra Nargund, Lokesh Meena, Sanjeev Kumar, Mrinal Kuchlan andK.H. Singh
+
+
+Technology Contributors
+Dr. Anita Rani, Head of department (Crop Improvement)
+Dr. M.P. Sharma, Head of department (Crop Protection)
+Dr. B. U. Dupare, Head of department (Crop Production)
+Dr. Sanjay Gupta, In-charge (AICRPS)
+and all the scientists associated with AICRPS centres
+
+
+
+Correct Citation 
+Dupare, B. U. R.K.Verma, Raghavendra Nargund, Lokesh Meena, Sanjeev Kumar, Mrinal Kuchlan andK.H. Singh 2024. Modern methods of Soybean Production and Technical Recommendations. Extension Bulletin No. 19. ICAR-Indian Institute of Soybean Research Publication. Pp: 74
+Cover Design
+Rahul Dongre, Young Professional
+
+ 
+Contents
+Sr.No	Title 	Page No.
+1	ICAR-Indian Institute of Soybean Research: An introduction	1
+2	Soybean: An introduction	5
+3	Agronomic package of practices for soybean	7
+4	Soil requirement, tillage, use of organic manure	7
+5	Harrowing, sowing techniques	9
+6	Selection of varieties	9
+7	Zone-wise recommended varieties	9
+8	Seed germination test	15
+9	Seed treatment and inoculation	23
+10	Sowing time, spacing and seed rate for soybean	24
+11	Manures and fertilizers	25
+12	Intercropping in soybean	27
+13	Water management	28
+14	Harvesting and threshing	30
+15	Weed management in soybean	32
+16	Management of most important insects	37
+17	IPM Strategies Recommended by ICAR-IISR	42
+18	Major diseases of soybean& their management	48
+19	Strategies to mitigate drought/long dry spells in soybean	52
+20	Climate resilient practices for soybean production	53
+21	Most important points for soybean cultivation	54
+22	Good agricultural practices for soybean	55
+23	Technological recommendations of ICAR-IISR/AICRPS	58
+24	Extension activities of ICAR-Indian Institute of Soybean Research	61
+25	Annexure-1 (Distinguishing characteristics of soybean varieties)	62
+26	Annexure-II (List of insecticides having lable claim for soybean (June 2022)	68
+27	Agri-Business Incubation Centre for Start up in Soybean Sector	69
+
+ 
+
+Page 1
+ICAR-Indian Institute of Soybean Research: An Introduction
+Soybean, a vehicle of socio-economic transformation for millions of small and marginal farmers of central India is continued to occupy the premier position in the oilseed scenario of the country since 2006. Its importance is acknowledged not only for meeting the vegetable oil requirement of India’s population but also for its contribution for national economy in terms of its share in earning foreign exchange through soy meal export. The crop has experienced a successful saga involving tireless efforts of scientists, farmers, officers of state extension machinery as well as those involved in product-processes for value addition, i.e. soy industry for re-introduction and its commercial cultivation in Malwa Region of Central India. Considering the encouraging response from all these actors coupled with policy support from Madhya Pradesh state, the Indian Council of Agricultural Research, an apex research body of India has launched “All India Coordinated Research Project on Soybean” (AICRP on Soybean) in the year 1967 which is considered to be a milestone in the history of soybean cultivation in India. This project was initiated with the basic objective of meeting the research and technological needs to increase the production and productivity of soybean in the country and creation of the basic research infrastructure at national level. The AICRPS was operated initially from two centres. Concomitant with horizontal expansion of soybean in potential non-traditional areas, new centres were added under the AICRPS to conduct location specific research and development programmes. 
+The concerted efforts of the R&D workers, officers of the line departments especially from the OilFed sector and inclination of farmers of the Malwa Region, an epicenter of soybean cultivation, have started bearing fruits by way of a giant leap in area under soybean crop from merely 30,000 ha during 1970-71 to about 1.54 million ha in 1987-88. Realizing the massive commercial success of this newly introduced crop, the ICAR established National Research Centre for Soybean (NRCS) at Indore in the Soy State of Madhya Pradesh in the year 1987. The AICRPS has not only achieved success in creating the basic infrastructure for research and development activities in the country, but also motivated the soy farmers to increase the area under the crop initially in the Central India and subsequently in other neighboring states down south. The soybean production in India for the year 2020-21 is estimated at around 129 lakh tonnes from an area of 128 lakh ha. 
+The research and development work carried out under AICRPS was rightly supported by the extension machinery of the state coupled with efforts of other line departments especially from the OilFed sector culminating in sustained interest to grow this relatively new crop by the farmers of the Malwa Region, an epicenter of soybean cultivation. This has started bearing fruits afterward remarkably in terms of giant leap in area under soybean crop from merely 30,000 ha during 1970-71 to about 1.54 million ha in 1987-88. 
+
+Page 2
+
+Realizing the massive commercial success of this newly introduced crop, the ICAR established National Research Centre for Soybean (NRCS) at Indore in the Soy State of Madhya Pradesh in the year 1987. The AICRPS has not only achieved success in creating the basic infrastructure for research and development activities in the country, but also motivated the soy farmers to increase the area under the crop initially in the Central India and subsequently in other neighboring states down south. The soybean production in India for the year 2020-21 is estimated at around 129 lakh tonnes from an area of 127 lakh ha. 
+The AICRP on Soybean include 22 main centres as well as 12 voluntary centres which are located in different soybean growing states of the country. Successful R&D work carried out by the soybean scientists in above framework was instrumental for positioning soybean a premier coveted place among oilseeds in terms of area and production. Although the crop, by and large, occupied large acreage under monsoon fallow lands earlier in Central India, later it replaced low remunerative crops. Recognizing the contribution of NRCS, the ICAR further upgraded its status to Directorate of Soybean Research (DSR) in the year 2009. The ICAR-DSR has been further elevated to a status of an Institute with change in nomenclature as ICAR-Indian Institute of Soybean Research (ICAR-IISR) during February 2016. This institution is primarily mandated to carry out basic and strategic research and enable and empower AICRPS centres to take up the research on various aspects of soybean production technologies. Also functioning as national headquarters of AICRP on Soybean, it also coordinates Soybean Seed Production Scheme of the country.
+The institute, since its inception has been conducting research on various aspects of soybean production and processing technologies. Besides acting as headquarter of the AICRPS, the institute also coordinated the breeder seed requirement of soybean at the national level. Presently, the institute is producing nearly 12,855 quintals of Breeder Seed of nearly 43 soybean varieties in seed chain. As of now, about 176 improved soybean varieties have been bred, released and recommended for cultivation in varied agro-climatic situations
+The ICAR-IISR has developed number of soybean varieties like NRC 2, NRC 12, NRC 7, NRC 37, NRC 77, NRC 86, NRC 127, NRC 128, NRC 130, NRC 132, NRC 136, NRC 138, NRC 142, NRC 147, NRC 150 NRCSL1, NRC 152, NRC 157, NRC 165. 
+
+
+Page 3
+etc suited to location specific needs of farmers with traits of high yield, short/medium maturity duration, and high oil content. The institute also developed and released some specialty soybean varieties like NRC 127 (India’s first KTI free soybean variety), NRC 142 (free from both KTI as well as lypoxygenase-2 acid) NRC 147 (high oleic acid) in the recent past. Similarly the institute has developed vegetable type soybean genotypes which have been registered with ICAR-NBPGR, New Delhi and few of them has been commercialized among the potential corporate clients for large scale multiplication to meet specific needs. The recently released varieties like NRC 130, NRC 138, and NRC 142 are gaining popularity among the soy growers. In addition to these, the institute has recently identified three soybean varieties namely, NRC 150, NRC 152 and NRC 149 during the 52nd Annual Group Meet of All India Coordinated Research Project on Soybean held at Indore during 17-18 May, 2022.
+The institute, is engaged in conducting research on frontier areas as well as different issues related to o soybean production and processing technologies. Besides acting as headquarter of the AICRPS, the institute also coordinate the breeder seed requirement of soybean at the national level. Presently, the institute is producing Breeder Seed of soybean varieties presently available in seed chain. As of now, about 180 improved soybean varieties have been bred, released and recommended for cultivation in varied agro-climatic situations through soybean R&D system involving AICRPS centres spread across the country. The ICAR-IISR has also a credit of maintenance, characterization and utilization of more than 4,000 germplasm lines.
+The ultimate mission of ICAR-IISR is to increase the production and productivity of soybean in the country without compromising with the ill effects on natural resource base in eco-friendly and sustainable manner. To meet this, the ICAR-IISR is conducting basic and strategic research activities on varied aspects. The mandate of this institute is as follows: 
+Mandates of ICAR-IISR
+•	Basic, strategic and adaptive research on soybean for improving productivity and quality
+•	Provide access to information, knowledge and genetic material to develop improved technology and enhance soybean production
+•	Coordination of applied research to develop location specific varieties and technologies
+•	Dissemination of technology and capacity building.
+•	
+
+
+Page 4
+All India Coordinated Research Project on Soybean 
+Presently, the project operates in 19 states with 33 coordinating centres created for conducting location specific research and assessment/validation of soybean technologies. For smooth functioning as well as suitability of technologies, the states have been classified in six major zones as given below.
+•	Northern Hill Zone: Himachal Pradesh and Hill Region of Uttarakhand
+•	Northern Plain Zone: Punjab, Haryana, Delhi, North Eastern Plains of Uttar Pradesh, Plains of Uttarakhand and Eastern Bihar
+•	Eastern Zone: Chhattisgarh, Jharkhand, Bihar, Orissa and West Bengal 
+•	North Eastern Hill Zone: Assam, Meghalaya, Manipur Nagaland and Sikkim
+•	Central Zone: Madhya Pradesh, Bundelkhand Region of Uttar Pradesh, Rajasthan, Gujarat, North-West Region of Maharashtra
+•	Southern Zone: Karnataka, Tamil Nadu, Telangana, Andhra Pradesh, Southern Part of Maharashtra
+Mandate of AICRP on Soybean
+•	Evaluation of soybean genetic resources
+•	Development of location specific high yielding varieties with other desirable traits and improved agronomical practices
+•	Multilocation testing and evaluation of genotypes (germplasm/technologies and breeding lines) and technologies.
+•	Maintenance of genetic purity and production of breeder seed
+•	Refinement and validation of Integrated Management of nutrients, insect pests, diseases, water and weeds
+•	Technology transfer through demonstrations and trainings
+Page 5
+Soybean-An introduction
+Soybean, rightly called as Golden Bean is a most happening crop of twenty first century, occupying premier position among oilseed crops of the country since 2006. It is also the most important oil bearing leguminous crop of the world. The productivity potential of soybean is higher than that of other legumes. It is a richest source of quality protein which can be used for alleviating protein calorie malnutrition. Soybean contains around 40% protein with all the essential amino acids beside 18-20% oil. The necessity of integrating soy in Indian diet is more, considering presence of vitamins and other minerals like calcium, iron and other nutraceutical and health benefitting compounds. Soybean till now has been an export commodity of valuable foreign exchange mainly for its de-oiled cake (DOC), which contributed greatly to the economy of India. But during the recent years, the trends show that the soybean DOC is also being used domestically in many forms which is a good positive indication for soybean economy. 
+Soybean is also instrumental in bringing the yellow revolution in the country. Out of nine oilseeds grown, soybean alone contributes nearly 28.6% to domestic vegetable oil production. The success of soybean in India is attributed mainly to concerted efforts of workers belonging to soybean R&D system, state agricultural department, cooperatives specially Oilseed Federation, Soy based industries and farmers. All this couldn’t happen in a day. There were many challenges but against all odds, this crop continues to have an important place in the cropping systems followed by soybean growers. 
+The golden crop has also contributed enormously in the socio-economic upliftment of farmers of Central India and is poised to repeat the similar success story in other states too. Presently, this crop is primarily grown in the states of Madhya Pradesh, Maharashtra, Rajasthan, Karnataka, Telangana and Chhattisgarh. Other states like Gujarat and NE states have good potentials and are showing satisfactory growth under the crop.
+Page 6
+Agronomic package of practices for soybean
+Soil requirement
+
+(1) Soybean can be grown in a variety of soil types. However, a well-drained, sandy loam to clayey soils with medium water holding capacity, rich in organic carbon and leveled fields with near neutral pH is ideal for harnessing maximum soybean yield. Soil with excessive salts/ sodium, acidic and poorly drained soil are not suitable for soybean. It is noteworthy that the crop is predominantly grown under black cotton areas at present.
+Tillage
+
+2) Deep summer ploughing using reversible Mould board Plough, facilitates exposing the hibernating insects to extreme heat and predatory birds as well as movement of nutrients and infiltration of soil water. Therefore, one deep ploughing once in 3-4 years, otherwise one normal ploughing in summer followed by 2 criss-cross harrowing or cultivation for breaking of soil clods will make ideal seed bed for a good crop of soybean cultivation is recommended. Also, sub-soiling operation once in 4-5 years at an interval of 10 meter, break the compactness of the sub-soil and also facilitate infiltration of rainwater which is useful for un-interrupted crop growth even during drought period also.
+
+Use of organic manure
+
+(3) In order to have sustainable soybean yield, it is very important to maintain soil health. Hence, farmers are advised to incorporate organic manure (well decomposed FYM @ 5-10 t/ha or Compost @ 5 ton/ha or Poultry Manure @ 2.5 t/ha) at the time of land preparation. If the quantity of organic manure is limited, they are advised to apply the same on rotation basis in their fields every year.
+In case of saline soil (pH >7.5), it is also advised to apply Gypsum @ 150-200 kg/ha along with FYM/Poulty manure before the last harrowing in case the nutritional requirement is to be planned without sulphur sources for maintenance of soil pH. Similarly, in acidic soil (pH <6.5) it is advised to use lime @ 600 kg/ha.
+
+
+Page 7
+
+Harrowing
+Harrowing
+(4) Soon after arrival of monsoon, the land may be prepared by harrowing followed by planking to level the field.
+Sowing techniques
+(5) With increased mechanization and availability of tractor drawn seed drills, farmers have shifted from bullock drawn sowing equipment like dufan/tifan to use of multi-crop seed drills having adjustable row-to-row distance and seed rate as per the requirement of the crops. Normally these seed drill have provision of flat sowing 5-9 rows of soybean crop with adjustable row to row distance of 14-18 inches. Looking to the prevailing climatic aberrations and erratic rainfall, following methods can be used to mitigate the adverse climate.
+a. Broad Bed Furrow planting: The BBF seed drills have a provision of opening the irrigation channels after an interval of 4-5 rows. The furrow mechanism is fitted on both the ends of BBF seed drills. 
+b. Ridges & Furrows planting (FIRB (furrow irrigated raised bed) : Seed drill developed by the institute can be used for sowing each row/paired rows on ridges.
+Selection of varieties
+
+(6) In order to avoid risk of yield reduction due to aberrant climatic situation and biotic factors, farmers are advised to grow 3-4 soybean varieties with varying maturity periods (Varietal Cafeteria Approach) in their fields. Different varieties possess resistance/tolerance to particular insect-pest and diseases. Long duration soybean varieties are able to give more yields subject to application of irrigation in event of early cessation of monsoon. 
+Zone-wise recommended varieties
+(7) Farmers are advised to select 3-4 varieties popular among their zone and ensure the availability of seed of these varieties well in advance i.e. before sowing. The zone-wise list of recommended and notified soybean varieties suitable for different zone is given in Table 1.
+(8)The distinguishing characteristics of the notified soybean varieties are given separately in Annexure-I.
+
+Page 8 (Pages 8-14)
+Table1: Zone-wise list of notified and recommended soybean varieties
+No.	Variety	 Notification Year	Duration (Days)	Max. Yield (q/ha)
+I	CENTRAL ZONE
+1	NRC-181 	93	16-17	2023
+	एन.आर.सी.-165 	90	19	2023
+	एन.आर.सी.-188	77	46.72	2023
+	जे. एस. 22-12	90	21	2023
+	जे. एस. 22-16	91	21	2023
+	NRC 165 (M.P)*	2023	90	19
+	NRC 157 (M.P)*	2022	93	16
+2	Indore Soy-131 (NRC 131) (MP)*	2022	92	15
+3	Indore Soy-136 (NRC 136) (MP)*	2022	105	16
+4	MAUS 725 (Maharashtra)* 	2022	92-94	24
+5	NRC 152	2022	89	18
+6	NRC 150	2022	91	18
+7	Him Palam Soya (Himso 1689) 	2022	101	21
+8	Phule Durva (KDS 992)* Mah)	2022	96	21
+9	JS 21-72	2023	97	21
+10	RVSM 2011-35 (RVSM-35) 	2021	98	22
+11	NRC 138 (Indore Soya -138) 	2021	93	18
+12	AMS 100-39 (PDKV Amba) 	2021	97	21
+13	RVS 76 (Raj Vijay Soybean)	2021	101	21
+14	NRC 142 (Indore Soya-142)	2021	97	20
+15	MACS 1520 	2021	100	22
+16	NRC 130 (Indore Soya- 130) 	2021	92	15
+17	RSC 10-46 	2021	102	19
+18	RSC 10-52 	2021	101	21
+19	AMS-MB-5-18 (Suvarna Soya)	2021	100	20
+20	AMS 1001 (PKV Yellow Gold)	2019	95-100	22
+21	JS 20-116	2019	101	21
+22	JS 20-94	2019	97	21
+23	JS 20-98	2018	96-101	21
+24	NRC 127	2018	102	18
+25	Raj Soya 18 (RVS-18) (M.P.)	2017	92	19
+26	Raj Soya 24 (RVS 2002-4)	2017	99	19
+27	JS 20-69 (M.P.)	2016	93-95	19
+28	NRC 86	2015	95-97	21
+29	JS 20-34 	2014	86-88	21
+30	JS 20-29 (M.P.)	2014	93-96	21
+31	RVS 2001-4 (M.P).	2014	94	23
+
+No.	Variety	 Notification Year	Duration (Days)	Max. Yield (q/ha)
+II-III	Eastern Zone and North Eastern Hill Zone
+1	Shalimar Soybean-2 (SKUA-	2022	-	-
+2	WSB-101) (J&K)*	2022	-	-
+3	Umiyam Soybean-1 (RCS 1-9) 	2022	-	-
+4	Meghalya*	2022	101	25
+5	Birsa Soya 3 (BAUS 40)* Jharkhand	2022	105-110	28
+6	RSC 11-15* (Chhattisgarh)	2021	104	21
+7	Birsa Soya 4 (झारखण्ड)* 	2021	97	23
+8	MACS 1407 	2021	99	17
+9	MACS 1460 	2021	100	23
+10	NRC 132 	2021	106	19
+11	NRC 147 	2021	107	17
+12	NRC 128 	2021	107	17
+13	NRC 136 	2021	102	21
+14	NRCSL 1 	2021	98-103	19
+15	RSC 11-07 	2021	105	18
+16	RSC 10-46 	2020	102	19
+17	AMS 2014-1 (PDKV Purva)	2020	100	21
+18	DSb 32 	2019	95-100 	25
+19	JS 20-116 	2018	100-102	19
+20	KDS 753 (Phule Kimaya)	2018	95-100	24
+
+No.	Variety	 Notification Year	Duration (Days)	Max. Yield (q/ha)
+IV	Northern Plain Zone
+1	SL 1074	2021	124	19
+2	SL 1028	2021	124	21
+3	NRC 128 	2021 	128	22
+4	Uttarakhand Black Soybean (Bhat 202- (UK)* 	2020	100-115	16
+5	SL 979	2020	127	24
+6	SL 955	2020	126	22
+7	Pant Soybean 26 (PS 1572 )	2000	120	20
+8	PS 1477 	2017	113	26
+9	PS 1521 (UK)*	2017	112-115	19
+10	Pant Soybean 23 (PS 1523 UK)*	2017	113-120	28
+11	Pant Soybean 21 (PS 1480 UK)*	2017	123-126	25
+12	SL 958 	2015	142	23
+13	Pusa 12 	2015	124-131	22
+14	PS 1368 (UK)*	2013	117-125	21
+
+
+No.	Variety	 Notification Year	Duration (Days)	Max. Yield (q/ha)
+V	Northern Hill Zone
+1	VL Soya 99 (VLS 99)	2023	118	24
+2	Him Palam Soya-1 (Himachal Pradesh)*	2022	-	-
+3	Pant Soybean 25 (PS 1556 )	2020	120	23 
+4	Shalimar Soybean-1 (J&K)*	2019	140-145	22
+5	VL Soya 89 	2019	116	23
+6	VL Bhat 201 (UK)*	2016	117	16
+7	VL Soya 77 (UK)*	2016	112-127	20
+
+
+No.	Variety	 Notification Year	Duration (Days)	Max. Yield (q/ha)
+VI	Southern Zone
+1	ALSB-50 (Adilabad Indore Soya 	2022	99	24
+2	Chikkudu-1)* Telangana 	2022	92-96	27
+3	MAUS 725 (Maharashtra)* 	2022	101	24
+4	Phule Durva (KDS 992)* (Mah.)	2021	96	21 
+5	MACS NRC 1667 	2021	68**	106***
+6	Karune (KVBS-1)	2021	96	22
+7	NRC-142 (Indore Soya 142)	2021	89	21
+8	MACS 1460 	2021	105	18
+9	AMS 2014-1	2021	97	25
+10	RSC 11-07 	2021	99	23
+11	NRC 132 	2021	96	24
+12	NRC 147 	2021	101-106	27
+13	DSb 34 	2020	95-100	30
+14	KDS 753 (Phule Kimaya)	2020	85-90	25
+15	KBS 23 (Karnataka)	2020	95	35
+16	DSb 28 (DSb 28-3 )	2019	96-97	24
+17	KDS 726 (Phule Sangam)	2019	95-100	22
+18	AMS 1001 (PKV Yellow Gold)* MS	2018	91-95	25
+19	KS 103 	2018	95	24
+20	DSb 23 (DSb 23-2)	2018	91-95	25
+21	MAUS 612 	2018	105-115	27
+22	Basar (Telangana)*	2016	96	25
+23	MACS 1281 	2015	94	26
+24	KDS 344 (Phule Agrani)	2015	90-95	30
+25	DSb 21 	2014	100-103	25
+26	MAUS 162 	2013	101	25
+* Released by the concerned state 
+** days for Pod harvest *** green pod yield
+
+Varieties identified during May 2023 (Waiting for notification)
+No	Variety	Zone	Maturity (Days)	Av. Yileld (q/ha)
+1	JS 22-12  	Central Zone	90	21
+2	JS 22-16 	Central Zone 	91	21
+3	NRC 181 	Central Zone	93	16-17
+4	NRC 188	Central Zone	76.8 Green Pod stage 	46.72 (Green Pods)
+5	Pant Soya 1670 (PS 1670)	Northern Plain Zone 	122 	23-24
+6	NRC 165	Central Zone 	90	19
+7	RSC 11-35 	Eastern Zone 	107	24
+
+•	JS 22-12: Semi-determinate, violet flower, black hilum, pubescence absent, moderate to highly resistant against major diseases of soybean like yellow mosaic disease, charcoal rot, aerial blight and anthracnose/pod blight and low resistant (LR) to highly resistant (HR) for insect reaction against girdle beetle, stem fly and defoliators.
+•	JS 22-16: Semi-determinate, white flower, black hilum, golden brown pubescent, moderate to high resistance for yellow mosaic, charcoal rot, aerial blight and anthracnose/pod blight and moderate resistance against stem fly, girdle beetle and defoliators.
+•	NRC 181: Determinate, white flower, dark brown hilum, brown pubescent, Absence of Kunitz trypsin inhibitor polypeptide, resistance to TLS and YMV, Susceptible to RAB, CR and Anthracnose.
+•	NRC 188:  Determinate, Purple flower, black hilum, pubescence absent, first vegetable soybean variety proposed for release for Central zone.
+•	PANT SOYBEAN 1670 (PS 1670): Determinate, white flower, black hilum, Tawny pubescent, Resistant to Yellow Mosaic Virus, Bacterial Pustule, Bacterial blight, pod blight and Moderately resistant  to  Rhizoctonia Aerial Blight   
+•	NRC 165 :  Determinate, Purple flower, brown hilum, pubescence absent, Resistant to Target Leaf Spot, Alternaria Leaf Spot and Resistant to stem fly, girdle beetle & defoliators, early maturing suitable for timely sown rainfed conditions of Central Zone. 
+•	RSC 11-35: Semi-errect, purple flower, pubescence absence, black hilum. Resistant for biotic stresses like, Bud blights, bacterial pustules, stem fly. Moderately resistant to Rhizoctonia aerial blight. Resistant to defoliators. Moderately resistance to Stem flies & girdle beetle
+
+
+Page 12
+Seed germination test 
+(9) Farmers are advised to check germination status of seed purchased/available with them before sowing. To ensure optimum plant population and thereby good yield, minimum 70% germination is essential. This can be done through sowing of 400 seeds in 4 m X 4 m plot and it is kept moist. From 5-8 days emergence is counted everyday till the count is stabilized. The germination test can also be done by placing seeds in between two newspaper sheets and rolling them with a moist cloth.
+
+Seed germination and seed rate 
+
+Farmers are advised to carry out germination of the available seed using 400 seed on random basis and ensure that it has minimum 70% germination. In case of paucity of seed, the seed with less than 70%, can be used and the seed rate may be increased as given below:
+No. of germinated seeds 	Germination % 	Seed rate (kg/ha)
+280	70	70
+260	65	75
+240	60	80
+220	55	90
+200	50	100
+Note: Use the seed rate as per the availability and germination percentage.
+
+Photographs of varieties Page Nos 16-22
+Page 23
+Seed treatment and inoculation
+
+(10) Seed treatment is very important operation in soybean considering number of fungal, bacterial and viral diseases which causes considerable reduction in plant population and thereby yield. Hence, farmers are advised to treat soybean seed at the time of sowing using premixed fungicides like Azoxystrobin 2.5% + Thiophanate Methyl 11.25% + Thiamethoxam 25% FS (1 ml/kg seed) or Penflufen + Trifloxystrobine 38 FS (1 ml/kg seed) or Carboxin 37.5 + Thiram 37.5 (3g/kg seed) or Carbendazim 25%+ Mencozeb 50% WS (3g/kg seed) as per the list given on page No 51 or Trichoderma viride @ 8-10 g/kg seed.
+(11) In areas where Yellow Mosaic Virus and Stem fly are affecting the soybean crop every year, farmers are recommended to carry out seed treatment with recommended insecticide i.e. Thiamethoxam 30 FS @10 ml/kg of seed or Imidacloprid 48 FS@ 1.25 ml/kg seed.
+(12) Once the seed treatment with fungicides and insecticide is done, farmers are advised to inoculate the treated seed with bio-inoculants like Bradyrhizobium japonicum and Phosphate Solubilizing Mircro-organism (PSM) each @ 5 g/kg seed immediately before sowing. If the soybean is grown in non-traditional/new area, they should increase the quantity of bio-inoculants to at least 10-15 g/kg seed. 
+
+
+Page 24
+
+Farmers are also advised to follow correct sequence of seed treatment with recommended fungicides followed by insecticide and seed inoculation (FIR). Similarly, seed treatment with fungicides as well as seed inoculation in mixed form simultaneously should be avoided as the micro-organisms present in the culture are destroyed. However, if Trichoderma viride has to be used, all the three bio-agents can be used in one go after seed treatment with insecticide.
+
+Sowing Time, Spacing and Seed rate for soybean
+
+(13) The zone-wise details of recommended date of sowing, seed rate and spacing is given in Table 2 given below.
+
+Zone	Sowing Time	Seed rate (kg/ha)	Spacing (cm)
+Central	20th June-5th July	65	45
+North Eastern Hill	15th June - 30th June	55	45
+North Plain	20th June - 5th July	65	45
+Eastern 	15th June - 30th June	55	45
+Southern	15th June-30th June	65	30
+
+(14) Since soybean is a rainfed crop grown during kharif season, it is sown only after the arrival of monsoon. Farmers are advised to sow their crop only after 100 mm rainfall is received to ensure germination and development of the plant till next spell of rains.
+(15) The sowing of soybean seed may be done either using traditional tools like bullock drawn Dufan/Tifan/seed drill or by using tractor drawn machines like less growth. Care should be taken to sow the bold seeded varieties at shallow depth. The seed rate and germination percentage are inversely proportional to seed size of soybean varieties. Early maturing and dwarf varieties should be sown at 30 cm row to row distance while the medium and late maturing varieties the shall be sown at 45 cm distance. It is also advised to follow the recommended sowing depth of 2-3 cm and 10 cm plant to plant spacing. In case of late arrival of monsoon, it is advised to go for sowing of early soybean varieties using the row to row spacing of 30 cm as well as increased seed rate by 25%. Care should be taken that the placement of seed should be at shallow depth.
+Page 25
+16) The seed rate and germination percentage are inversely proportional to seed size of soybean varieties. The small seeded varieties are excellent in germination compared to bold seeded varieties. Therefore, the seed rate should be modified accordingly in order to achieve optimum plant population and yield. The recommended seed rate for soybean varieties having medium seed size is 65 kg/ha while for bold seed varieties, the seed rate should be increased to 75 kg/ha. The seed rate for small seeded varieties should be reduced to only 45-50 kg/ha.
+(17) Immediately after sowing, it is advised to apply the spray of any recommended pre-emergence herbicide but before emergence of soybean. The list of recommended herbicides is given in table 5.
+
+Manures and fertilizers 
+
+18) Soybean is considered to be moderately exhaustive crop. Balanced nutrients application ensures better yield performance of soybean. The integration of Farm Yard Manure (5-10 t/ha) or Compost (5 t/ha) or poultry manure (2.5 t/ha) along with the basal application of Nitrogen, Phosphorus, Potash and Sulphur (as given in Table 3) generally provides balanced nutrition for harnessing the yield potential. In soybean, use of fertilizers is recommended only as basal application. Therefore, farmers are advised not to use any fertilizers in standing crop unless being recommended by the scientists. In general, for harvesting good soybean yield, it requires recommended nutritional dose which can be accordingly tailored after soil testing.
+(19) Farmers are also advised not to mix fertilizers along with seed during sowing of soybean. In close contact with fertilizer it gets rotten in the soil. They should ensure the placement of seed at 2-3 cm and the fertilizer placement at 5 cm in the soil.
+
+Page 26
+Table 3: Fertilizer dose recommended for soybean
+Zone	Recommended Nutritional   dose (NPKS kg/ha)	Fertilizer Sources
+Central	25:60:40:20	56 kg Urea+375 kg SSP+ 67 kg MoP
+Southern	25:80:20:30	56 kg Urea+500 kg SSP+ 34 kg MoP
+North Plain	25:75:25:37.5	56 kg Urea+470 kg SSP+ 42 kg MoP 
+North Eastern Hill	25:100:50:50	56 kg Urea+625 kg SSP+ 84 kg MoP 
+Eastern 	25:100:50:50	56 kg Urea+625 kg SSP+ 84 kg MoP
+
+Note: The fertilizer dose may be supplemented through addition of recommended quantity of organic manures.
+The farmers of central zone can use any one of the below combination of fertilizers sources in order to meet the nutritional requirement (25:100:50:50 kg NPKS/ha) as given below.
+1. 56 kg Urea+625 kg SSP+ 84 kg MoP per hectare or
+2. 125 kg DAP+67 kg MOP+25 kg Bentonite Sulphur per hectare or
+3. 200 kg 12:32:16+ 25 kg Bentonite Sulphur per hectare
+Page 27
+Inter-cropping in soybean
+
+20) Soybean is grown throughout the country as rainfed crop during the June/July to October. It is also successfully grown as intercrop (4:2 or 2:2 combination) with cotton, maize etc. and also in sugarcane and other horticultural crops. Soybean +pigeon pea in 4: 2 combinations are most popular inter-cropping system under rainfed condition in Maharashtra including Vidarbha region.
+(21) Intercropping of soybean with suitable companion crop is found to be remunerative compared to sole cropping. In rainfed areas where only one crop is possible, it is recommended that soybean should be inter-cropped with pigeon pea. Similarly, under irrigated situations, it can be inter-cropped with maize, sorghum, cotton, pearl millet, finger millet so that it does not interfere with the next rabi crop. Soybean can also be successfully planted on the bunds of paddy fields for additional income.
+(22) When inter-cropped, the sowing can be done at 30 cm row to row spacing in 4:2 (soybean + pigeon pea/ maize/ sorghum/ cotton) row ratio. Farmers can also grow soybean at space available in different orchards like mango, jackfruit, guava, and papaya during initial years. The most popular cropping systems as well as inter-cropping systems for different zones are given in Table 4.
+
+Page 28
+Table 4: Remunerative cropping systems for different zones
+Zone	Cropping system	Inter-cropping system
+Central	Soybean-wheat or chickpea 
+soybean-wheat-corn fodder,
+soybean-potato, 
+soybean-garlic/potato-wheat,
+soybean-rapeseed or mustard, 
+soybean-pigeon pea or safflower or sorghum 
+	Soybean + pigeon pea, 
+Soybean + corn, 
+Soybean + sorghum, 
+Soybean + sugarcane,
+Soybean in mango/ guava orchards, Soybean in
+agro-forestry
+Southern	Wheat-soybean-finger millet-peas, 
+oat-cowpea-barley-soybean,
+soybean-finger millet-beans,
+soybean-wheat-groundnut
+	Soybean + pigeon pea, 
+Soybean + finger millet,
+Soybean + sugarcane, 
+Soybean + sorghum, 
+Soybean + groundnut, Soybean in coconut/ mango/ guava orchard and soybean in agro-forestry.
+Northern
+Plain	Soybean-wheat,
+soybean-potato, 
+soybean-chickpea	Soybean +pigeon pea, Soybean + corn,
+Soybean + sorghum, 
+Soybean in mango/ guava orchards, Soybean in agro-forestry
+Northern
+hill	Soybean-wheat, Soybean-pea, 
+Soybean-lentil, Soybean-toria	Soybean + corn, 
+Soybean + pigeon pea,
+North Eastern	Soybean-paddy,
+paddy-soybean	Soybean + finger millet,
+Soybean + paddy, Soybean + pigeon pea
+
+Water management
+(23) Adverse climatic events like delayed monsoon arrival, long dry spells, rainfall of high intensity and rains during maturity stage have been increasingly experiences during recent years. The drought or moisture stress particularly during critical growth stages like seedling, flowering and pod filling causes significant yield losses in soybean. Considering this, farmers are advised to use BBF or Ridge and Furrow methods for soybean planting in order to mitigate such .
+
+Page 29
+
+(Photographs of prominent intercropping)
+
+Page 30
+
+climatic adversities. Those who have irrigation facilities are advised to apply the lifesaving irrigation at these stages before the development of cracks in the soil.
+(24) The ICAR-IISR has developed machines like The BBF Seed Drill and FIRB seed drill, Sub-soiler etc and are found useful to realize yield levels in such climatic adversities. Farmers are advised to sow the crop using BBF/Ridge Furrow methods facilitating dual advantage of moisture conservation beside serving as irrigation chanel in case of drought.
+Harvesting and threshing
+(25) Optimum time of harvesting is very important for soybean as it causes yield loss due to shattering and seed viability loss due to field weathering. The quality of soybean produced is adversely affected due to rains at maturity stage. Therefore, farmers are advised to harvest their crop at optimum time.
+(26) When 90% of the pods changes its color to yellow, it is the right indication to go for harvesting. Harvesting at this stage do not have any adverse effect on germination. At this time, the moisture percentage of soybean seed is around 14-16%. 
+(27) To maintain viability of seed and to avoid loss/mechanical damage, threshing should be done at 350-400 rpm. If threshing is to be performed later, the harvested soybean should be collected at safe place in order to avoid damage from rain/shattering.
+(28)The threshed soybean should again be allowed to sun drying for 3-4 days in order to bring down the moisture up to 10% which is essential to avoid fungal infection during storage.
+(29) The storage place should be cool with aeration and insect free. The soybean bags should be kept upright as far as possible. If stacking is to be done, it should be only up to 4-5 bags of not more than 5 feet height (using platform) in order to maintain the viability/germination of soybean seed.
+(30) While moving the seed bags to storage house, it should be carefully placed at the appropriate place/platform. The seed bags should not be in direct contact with floor/wall. The moisture seepage in the walls/floor may be a source of infection of diseases, hence can be avoided for storage.
+
+Page 31: Photographs Critical Growth Stages for Soybean for Moisture Management
+
+Page 32
+
+Weed management in soybean
+Weeds cause soybean yield losses of 20-70% if not controlled. Yield losses depend on the time of weed occurrence, types of weeds and duration of weeds present in the field. Weed management is very important operation in Vertisols and associated soils because of continuous rains and congenial environment. Weeds compete with soybean for nutrition and other natural resources at very higher rate. Hence, their management is very essential at appropriate stage. This can be done using various methods, i.e. mechanical, agronomical and chemical weed control. 
+Different types of weeds which are commonly found in rainy season crop like soybean are given below: 
+(A) Grassy weed: Echinochloa crusgalli (Sawan), Cynodan dactylon (Doob), Dinebra arebica (Jangli ghans), Digeteria sangunalis (Raimunia), Sachharum spontanium (Kans), Setaria glauca (Bandra bandri) Cyprus rotundus (Motha), Cyprus iria (Nagar Motha) 
+(B) Broad leaved Weeds: Celosia urgentia (Safed murg), Digra arvensis, Commelina beghanlesis (Bokhna, Kankaua), Euphorbia hirta (Chhoti dudhi), Euphorbia geniculate (Badi dudhi), Tridex procumbence (Phulni), Xanthium strumerium (Adhasisi), Corchorus Sp (Jangli jute), Lucus aspera (Gumba), Desmodium triflorum (Tiptia), Oxalis Sp Khatti (meethi), Phylenthis niruri (Hazardana), Parthenium hysteropharus (Gajarghans) etc.
+The critical period of weed crop competition in soybean is 45-60 DAS. Therefore, the weeds should be managed during this period. Two hand weeding at 20 & 40 DAS or intercultural operation (Hand hoe/Dora/Kulpa) using bullock drawn/tractor drawn implements during critical period is found beneficial. In situ mulching with weeds at 20 DAS is also beneficial for controlling weeds as well as to conserve soil moisture and add the organic matter in the soil. If it is not feasible due to continuous rains particularly in vertisols, then one can opt for chemical weed control. In this situation, farmers are advised to use recommended herbicides. 
+For soybean crop, herbicides are divided in to three categories (1) pre-plant incorporation (PPI), (2) pre-emergence (PE) and (3) post-emergence (PoE). The detailed information about the time of application, active ingredient and quantity is given table 5. 
+
+Page 33-34 (photographs of major weeds in soybean)
+
+Page 35
+
+It is also advised to select any one of the recommended herbicide considering the type of weeds i.e. monocot/dicot prevalent in his field. Pre-mix formulations are also recommended for control of both type of weeds. Instead of using same herbicides every year, herbicide rotation is desirable.
+In situ mulching of weeds at 30 DAS is also beneficial for controlling weeds as well as to conserve soil moisture and add the organic matter in the soil. Farmers are advised to carry out inter-culture operation (dora/kulpa) at 20-25 DAS in case of use of PPI/PE herbicides. To control the weeds effectively, it is very necessary to make the appropriate spraying solution and its uniform spray on entire area/weed foliage. Hence, farmers are advised to use 500 litre of water per hectare along with recommended quantity of herbicides using Flat Fan or Flood Jet nozzle.
+Guiding principles for weed management 
+•	Use adequate quantity of water (500 litre) during spray of herbicides.
+•	Use only flat fan or flood jet nozzle for spraying of herbicides.
+•	Avoid spray of herbicides on dry soil.
+•	Ensure uniform spray of herbicide throughout the field.
+•	Follow herbicide rotation. Do not repeat the herbicide every time.
+•	Use only recommended herbicides in soybean as per lable claim.
+•	Ensure that the purchased herbicide is within the expiry date.
+•	Do not mix two or more herbicides and/or herbicides which are not compatible/recommended.
+•	In case the PPI or PE herbicide is used, use of dora/kulpa at 20-25 days after sowing is advised. 
+Page 36
+
+Table 5: Herbicides recommended in Soybean
+
+No	Type of weedicide	Chemical Name	Quantity (per ha)
+1	PPI	Pendimethalin + Imazethapyr  	2.5-3.0 l
+2	PE	Diclosulum 84 WDG	26-30 g
+		Sulfentrazone 39.6 SC	750 g
+		Chlomozone 50 EC	1.5-2.00 l
+		Pendimethalin 30 EC	2.5-3.3 l
+		Pendimethalin 38.7 CS	1.5 – 1.75 kg
+		Flumioxazin 50 SC	250 ml
+		Metribuzin 70WP	0.75- 1 kg
+		Sulfentrazone + Clomazone	1250 ml
+		Pyroxasulfone 85 WG	150 g
+		Metolachlor 50 EC	2.0 l
+3
+	A.	POE (10-12 DAS)	Chlorimuron Ethyl 25% WP + Surfactant 	36 g
+		Bentazone 48 SL 	2.0 l
+	B.	POE (15-20 DAS)	Imazethapyr 70% WG + Surfactant	1.00 l
+		Quizalofop-ethyl 5 EC	100 g
+		Quizalofop-p-ethyl 10 EC	0.75-1.00 l
+		Fenoxaprop-p- ethyl 9.3 EC	375-450 ml
+		Quizalofop -p-tefuryl 4.41 EC	1.11 l
+		Fluazifop-p-butyl 13.4% EC	0.75-1.00 l
+		Haloxyfop R Methyl 10.5 EC	1 -2 l
+		Propaquizafop 10 EC	1-1.25 l
+		Clethodim 25 EC	0.5-0.75 l
+		Fluthiacet methyl 10.3 EC	0.5-0.75 l
+		Fluazifop-p-butyl + Fomesafen	125 ml
+	C.	POE Pre-mix formulations (15-20 DAS)	Imazethapyr + Imazamox 	1 l
+		Propaquizafop + Imazethapyer 	100 g
+		Sodium Aceflourofen + ClodinafopPropargyl 	2.0 l
+		Fomesafen + Quizalofop ethyl 	1.0 l
+		Quizalofop Ethyl 10% EC + Chlorimuron Ethyl 25% WP + Surfactant (0.2) (Herbicide) (Twin pack) 	1.5 l
+		Imazethapyr + Imazamox 	375 ml+36g+0.2%
+
+
+
+
+Page 37
+Management of most important insects of soybean
+1. White grub (Holotrichia consanguinea)
+
+Recently this insect has gained significance in soybean crop in some pockets of Madhya Pradesh. The grubs feed on plant-roots in rows. Consequently, drying of plants in linear patches become visible. The grubs feed voraciously under low soil-moisture conditions. Following measures are to be followed. 
+•	Installation of light trap or pheromone traps for collection and destruction of white grub adults. 
+•	Seed treatment with Imidachloprid 48 FS @ 1.25 ml/kg seed. 
+•	Soil application of Chlorpyrifos (2.5% granular) @16 kg/ha between the rows at 25-30 days after sowing. 
+Page 38
+2. Tobacco caterpillar (Spodoptera litura)
+
+Every year, the soybean crop is reported to be increasingly infested by tobacco caterpillar resulting in heavy yield losses. After hatching from the eggs (laid en-mass) the larvae of this pest remain gregarious for 4-5 days and feed on the chlorophyll content of the leaves. Infested plants can be easily spotted in the field. Later on larvae disperse on neighboring plants and damage the leaves by cutting big holes. This pest have developed resistance to many popular insecticides. Hence, farmers are advised to adopt following control measures 
+•	Use of recommended seed rate. 
+•	Install insect-specific pheromone trap at 4-5 locations in the field. Care should be taken to use clean cloth while handling the septa. 
+•	Use bird perches at 8-10 locations in the field facilitating easy access for birds to feed on insect larvae. 
+•	Regular monitoring of the field and destruction of egg mass/caterpillar in early stage of tobacco caterpillar.
+•	Spray the crop with biological pesticides like SlNPV 250 LE/ha or Bacillus thuringiensis / Beauveria basiana @ 1 l/ha.
+•	If needed, apply the spray with any one of the recommeded insecticide (Table 8).
+
+
+Page 39
+3. Gram pod borer (Heliothis armigera)
+
+This polyphagous insect-pest has become one of the major pests during recent past. Initially it feeds on young developing pods, but subsequently it damages developed pods also feeding on the grains. Considerable variability has been observed in this insect with respect to colour, pattern of body stripes and size. This insect exhibits resistance against most of the chemical insecticides after second instar. Hence, farmers are advised to adopt following control measures: 
+•	Use of recommended seed rate. 
+•	Install insect-specific pheromone trap at 4-5 locations in the field. Care should be taken to use clean cloth while handling the septa. 
+•	Use bird perches at 8-10 locations in the field facilitating easy access for birds to feed on insect larvae. 
+•	Regular monitoring of the field and destruction of egg mass/caterpillar in early stage of tobacco caterpillar. 
+•	Spray the crop with biological pesticides like HaNPV 250 LE/ha or Bacillus thuringiensis / Beauveria basiana @ 1 l/ha. 
+•	Recently, these caterpillars are found feeding on the floral part. Therefore, it is advised to apply the spray with any one of the recommeded insecticide (Table 8) even at the time of flowering stage of the crop.
+
+Page 40
+4. Green semilooper 
+(Crysodexis acuta, Diachrysia orichalcea, Gesonia gemma)
+Soybean is infested by a complex of semiloopers. Differing in colour, shape and size, the young larvae initially cut small holes on foliage and later on completely devour the plants. In the event of heavy incidence they also damage buds, flowers and young pods resulting in non-pod formation situation. Its infestation is found to be more in the areas with less rain coupled with high temperature and humidity and causes heavy yield losses. Farmers are advised to follow control measures as given below: 
+•	Use recommended seed rate. Avoid higher plant population as it attracts the insect causing heavy infestation. 
+•	Avoid higher use of nitrogenous fertilizers as it invites more insects. 
+•	Use bird perches at 8-10 locations in the field facilitating birds to feed on insect larvae. 
+•	Regular monitoring of the field and destruction of egg mass / caterpillar in early stage. 
+•	Spray of biological insecticides Bacillus thuringiensis/Beauveria basiana @ 1 l/ha at early stage. 
+•	Spray Chlorantraniliprole 18.5 SC @ (150 ml/ha 4-5 days before flowering. 
+•	If needed, apply the spray with any one of the recommeded insecticide (Table 8).
+
+Page 41
+5. Girdle Beetle (Obereopsis brevis)
+During recent years, this insect is found to be most commonly seen in major soybean growing states. Generally, its typical infestation is seen after 25 days from sowing. This is a stem-boring insect, owes its significance due to its intricate life cycle. Insects hatching from eggs laid during July and first fortnight of August complete the life cycle during the same crop seasons itself. But those hatching from eggs laid during second fortnight of August and September over winter as pre-pupa and complete the life cycle only after the onset of monsoon in the following year. The infested plants / plant parts show typical drooping and drying due to girdles made by the female for egg laying. Following control measures are suggested for management of this insect. 
+•	Use recommended seed rate. Avoid higher plant population as it attracts the insect causing heavy infestation.
+•	If possible, plant trap crop like Dhaincha on the field boundaries which attract the beetle thereby protecting the soybean crop. 
+•	Destroy the affected plant part during the initial stage of infestation in order to break the life cycle of the insect. 
+•	If needed, apply the spray with any one of the recommeded insecticide (Table 8).
+
+Page 42
+IPM Strategies Recommended by ICAR-IISR
+1.	Summer deep ploughing: Deep ploughing during summer facilitates exposing the hibernating insects to extreme heat and predatory birds.
+2.	Proper sowing time: Crop sown during June end, escapes damage due to stem fly. Whereas girdle beetle infestation can be minimized by delayed sowing in July
+3.	Optimum/Recommended seed rate, spacing and plant population: Higher seed rate results in more densely populated soybean crop which attracts more insects. Further, it promotes lodging resulting in yield loss. Hence, the optimum seed rate of (60-80 kg/ha) depending on seed size and germination with recommended spacing(30-45 cm x 5 cm) is recommended. 
+4.	Selection of insect resistant/tolerant variety: Varieties recommended for a particular agro-climatic zone, should only be used. Cultivation of marginally less yielding but insect-resistant or tolerant variety is always remunerative. 
+5.	Balanced nutrition: Use of excessive nitrogenous fertilizers leads to more incidence of defoliators and girdle beetle. Therefore, use optimum quantity of recommended nutrients only. Use of potassium improves crop health and provides resistance against insect-pests.
+6.	Destruction of infested plants: Bihar hairy caterpillar and tobacco caterpillar are gregarious feeders at initial stage and the infested plants are easily spotted in the field. Removal and destruction of such plants prevents larvae to migrate to and damage other plants. Likewise, girdle beetle infested plants are also easily recognized by dried portion above the girdles. Up to 30-45 days, remove the infested plant parts from below the girdles to destroyeggs and grubs of girdle beetle. Regular scouting and monitoring helps.
+7.	Light trap: Adult moths of most of the defoliating larvae are nocturnal, and are attracted towards light source. These should be collected with the help of “Light Traps" and destroyed. By doing so, adults can be prevented from mating and laying eggs and the crop can be saved. Light traps are also useful for attracting adults of white grubs.
+8.	Pheromone Trap: Infestation by Helicoverpa armigera and Spodoptera litura can be minimized through specific pheromone traps. These traps not only help in monitoring the incidence but also for mass trapping the adults. Care should be taken that the pheromone septa are not touched with bare hands while fixing on the trap.
+
+Page 43
+9.	Bird perches : In order to exploit the potential of insect-predatory birds, ‘T’ shaped bird perches should be installed in the fields.
+10.	Use of botanical insecticides : Simple water extracts of Acacia arabica (leaves or seeds), Custard apple (leaves or seeds), Datura (leaves or seeds), Eucalyptus (leaves), Ipomoea (leaves), Lantana (leaves), tobacco (leaves) and Pongamia (leaves) exhibit insecticidal action against defoliators. Different neem products like, neem oil, seed extract, leaf extract etc. act as feeding deterrent for leaf eating insects. Consequently, insects get repelled from the crop. Continuous starvation leads to insect death in a few days.
+11.	Trap crop : Anethum graveolens (Suva) is excellent trap crop for most of the defoliators. Inter-cropping of soybean with: Suva (in 6:1 or 12:2 row ratio) helps in trapping the insects on Suva crop and saving the main soybean crop. Insects on Suva can be controlled with very less quantity of insecticide
+12.	Use of microbial insecticides : Application of commercially available microbial insecticides like DiPel, Biobit, Delfinetc (Bt based) or Larvocel, Biosoft, Dispel or Biorin (Beauveria bassiana fungus based) @ 1.0 kg/ha can help in controlling defoliating larvae without adverse effect on natural enemies, parasitoids and predators. For control of tobacco caterpillar and gram pod borer, insect specific Nuclear Polyhydrosis Virus like Virin S/Biovirus S or Virin H/Biovirus H can be used for spraying on the soybean crop.
+13.	Use of chemical insecticides : Soybean has capacity to yield normally even with 20-25 per cent foliage loss. Since leaf damage has direct relationship with insect population, it is advisable to use costly chemical insecticides only when insect population increases above "economic threshold level" (Table 6). A number of insecticides have been recommended (Table 8) for the control of soybean insect-pests. Similarly, the list of insecticides having lable claims in soybean as has been listed out during May 2022 by the Central Insecticide Borad of GoI is given in Annexure-II.
+
+Page 44
+
+Table 6: Economic threshold level of some major insects
+No	Insect	ETL and Crop Stage
+1	Blue beetle	4 beetle/m row length at 7-10 days old crop stage
+2	Green semilooper	4 larvae/m row length at flowering or 3 larvae/m row length at podding
+3	Tobacco caterpillar	10 larvae/m row length before flowering
+4	Gram pod borer	10 larvae/m row length at pod development
+
+Precautions to be followed during use of insecticides
+a. Insecticide and quantity of spray solution : Depending upon the crop stage, soybean requires 500 lit spray solution per ha with knapsack sprayer and 120 lit/ha with power sprayer. Spraying with less quantity will not give desired results.
+b. Time of spray and use of appropriate nozzle : Insecticides should be sprayed in morning or in evening. Hollow cone nozzle is found to be best suitable for spray of insecticides which ensure evenly distribution. Also, power sprayer as well as boom sprayer are the suitable alternatives for both required quantity of water as well as time and labor.
+c. Repeating insecticide spray: Insecticides are usually effective for 10-15 days. If at all second spray is required, use different insecticide of the same category (contact or systemic). This is essential to prevent development of insecticide resistance in insects.
+d. Compatibility of insecticides with herbicides: The most suitable and effective combinations of chemical insecticides and post emergence herbicides are given in table 7. These combinations can be used at recommended doses of individual chemicals according to the prevailing conditions of insects and weeds. 
+During last few years, the caterpillares are seen feeding on the floral part of soybean. Therefore it is recommended to apply the spray of recommended insecticides immediately even during the flowering stage.
+Page 45
+
+Table 7: Compatible combinations of insecticides and herbicides for management of major insects and weeds in soybean
+
+
+Insect(s) 	Weed(s) 	Combination(s) 
+Stem fly 	Monocot + Dicot	Chlorantraniliprole + Imazethapyr
+	Monocot	Chlorantraniliprole + Quizalofop Ethyl
+Semi-loopers	Monocot + Dicot	Chlorantraniliprole + Imazethapyr
+	Monocot	Chlorantraniliprole + Quizalofop Ethyl
+	Monocot + Dicot	Indoxacarb + Imazethapyr
+Tobacco caterpillar 	Monocot + Dicot	Chloantraniliprole + Imazethapyr
+	Monocot + Dicot	Quinalphos + Imazethapyr
+	Monocot	Quinalphos + Quizalofop Ethyl
+Girdle beetle 	Monocot + Dicot	Chlorantraniliprole + Imazethapyr
+	Monocot + Dicot	Indoxacarb + Imazethapyr
+
+
+Page 46-47
+
+Table 8: Insecticides recommended against major insects in soybean
+
+Insect 	Insecticides 	Dose/ha 
+Blue beetle 	Quinalphos 25 EC 	1000 ml
+Stem fly 	Thiamethoxam 30 FS (seed treatment)	10 ml/kg seed
+	Imidacloprid 48 FS (seed treatment)	1.25 ml/kg seed
+	Thiamethoxam + Lambda Cyhalothrin	125 ml
+	Lambda cyhalothrin 04.90 CS	300 ml
+	Chlorantraniliprole + Lambda cyhalothrin	200 ml
+White fly 	Imidacloprid 48 FS (seed treatment)	1.25 ml/kg seed.
+	Thiamethoxam 30 FS (seed treatment	10 ml/kg seed
+	Betacyfluthrin + Imidacloprid	350 ml
+	Acetamiprid 25% + Bifenthrin 25 % WG	250 g
+Defoliators (Semiloopers, Tobacco caterpillar, Helicoverpaarmigera)	Chlorantraniliprole 18.5 SC 	150 ml
+	Indoxacarb 15.8 EC	333 ml
+	Profenofos 50 EC 	1000 ml
+	Quinalphos 25 EC 	1000 ml.
+	Spinetoram 11.7 SC 	450 ml
+	Betacyfluthrin + Imidacloprid 	350 ml
+	Flubendiamide 39.35 SC 	150 ml
+	Flubendiamide 20 WG 	250-300 g
+	Thiamethoxam + Lambda Cyhalothrin	125 ml
+	Imamectin Benzoate 01.90 % EC	425 ml
+	Novalyuron+Indoxacarb SC 	825-875 ml
+	Chlorantraniliprole + Lambda cyhalothrin	200 ml
+	mamectin Benzoate 01.90 % EC	425 m
+	Broflanilide 300 g/l SC	42-62 g
+	Acetamiprid 25% + Bifenthrin 25 % WG	250 g
+Girdle beetle 	Ethion 50 EC	1500 ml
+	Tetraniliprole 18.18 SC	250-300 ml
+	Thiacloprid 21.7 SC 	750 ml
+	Imamectin Benzoate 01.90 % EC	425 ml
+	Profenofos 50 EC 	1250 ml
+	Betacyfluthrin + Imidacloprid 	350 ml
+	Thiamethoxam + Lambda Cyhalothrin 	125 ml
+	Chlorantraniliprole + Lambda cyhalothrin	200 ml
+	Acetamiprid 25% + Bifenthrin 25 % WG	250 g
+Pod borer (Helicoverpa armigera, Cidia ptychora) 	Profenofos 50 EC 	1000 ml
+	Chlorantraniliprole 18.5 SC 	150 ml
+	indoxacarb 15.8 EC 	333 ml
+	Imamectin Benzoate 01.90 % EC	425 ml
+	Broflanilide 300 g/l SC	42-62 g
+Leaf weevil	Malathion 50.00% EC	1500 ml/ha
+Rat control	Flomkufen 0.005% Block Bait (Strom)	15-20 bait
+
+
+Page 48
+Major diseases of soybean and their management
+1. Charcoal rot (Macrophomina phaseolina)
+
+Disease is incited by Macrophomina phaseolina fungus, which also causes dry root rot, ashy or stem blight. The infection of soybean usually occurs early in the season during seedling emergence and early growth stages. These seedling infections remain latent until environmental stresses (drought and high ambient temperatures ranging from 30-40 degree Celcius) occur during the R1 (flowering) -R7 (mature pod) growth stages which may cause yield loss up to 77%. Imbalanced fertilizer application and high plant density influence disease prevalence and severity. The pathogen is soil and seed borne. Infected plants produce slightly smaller leaflets than healthy plants and have reduced vigor. As the disease advances, leaflets turn yellow followed by browning and wilting. The brown leaves remain attached to the petioles. A light gray of silver discoloration is visible in the taproot and lower stem, when plants are split open. Black specs (microsclerotia) will be visible in this tissue of the stem and tap root. The control measures for the disease are given in Table 9.
+
+2. Anthracnose and Pod blight (Colletotrichum truncatum)
+Anthracnose disease is incited by Colletotrichum truncatum fungus. It occurs in severe form at time of continuous and prolonged drizzling alongwith high humidity. Pathogen survives in seed, soil and crop residues. Sunken, dark brown lesions develop on the cotyledons of seedlings. Seedling lesions may expand to the stem and kill young plants. Crop can be infected at all growth stages but symptoms are evident in the early reproductive stage on stems, petioles and pods. Generally, irregular reddish to dark brown areas appear on infected parts. Later on these are covered by black fungal fruiting bodies (acervuli) with setae (minute black spines), which can be seen by unaided eye. These are diagnostic character of the disease. Foliar symptoms are expressed in the form of laminar veins necrosis, leaf rolling, yellowing of leaves with brown spot and defoliation of leaves under prolonged period of high humidity. Owing to infection, pods turn yellow to brown and twisted, seed formation is also affected as they become brown, shriveled and mouldy, and sometimes seeds do not form in the pods. Some time leaves remain green while only pods turn yellow to brown. The disease can be prevented by seed treatment with recommended chemicals.
+
+Page 49
+3. Collar rot (Sclerotium rolfsii)
+It is a soil borne, caused by Sclerotium rolfsii. Hot and humid conditions favour the disease. Pathogen attacks collar region and causes damping off in younger and collar rot in older plants resulting drooping or wilting of plants. The characteristic symptom is formation of white cottony mycelium with reddish brown to dark brown mustard size sclerotia on the surface. The disease can be prevented by carrying out seed treatment with recommended fungicides.
+
+4. Yellow Mosaic Virus & White Fly
+YMD caused by Mungbean Yellow Mosaic India Virus (MYMIV) is one of the important constraints to soybean in Central India, while Mungbean Yellow Mosaic Virus (MYMV) in South India. Initially small yellow patches or spots appear on young leaves. The next trifoliate leaves emerging from the growing apex show irregular yellow and green patches alternating with each other. The yellow discoloration slowly increases and newly formed leaves may completely turn yellow. Infected leaves also show severe mottling and crinkling of leaves. The infected plants normally mature late and bear a very few flowers and pods. The pods are small and distorted. The early infection causes death of the plant before seed set. The infection results in decrease in oil. The virus is sap transmitted and spread by white fly Bemisia tabaci in semi persistence manner. The YMV has a wide host range, which includes pulses and weeds. Farmers are advised to carry out seed treatment with Thiamethoxam 30 FS @ 10 mL/kg of seed or Imidachloprid 48 FS @ 1.25 mL/kg seed. Further, in order to control white fly, spray the crop with Thiamethoxam 25 WG @ 100 g/500 litre water/ha immediately after the symptoms are visible. Further, prophylactic spray with any of the above mentioned chemicals may be given at 21 days after sowing.
+
+Page 50
+5. Rust (Phakopsora pachyrhizi)
+This is a disease of fungal origin caused by Phakopsora pachyrhizi. Very often, it is observed during the flowering stage. Rains during these period (July-September) result in low temperature (22-27 degree celcius) and high humidity (80-90%) keeps the leaf surface moist/wet for 3-4 hours continuously which further increases the chances of incidence of rust. Night/morning fog also increases the possibility of rust infection. Pathogen survives mainly in collateral hosts. Initially chlorotic gray brown spots appear on the leaves, abundantly on lower surface. Slowly spots increase in size to form pustules. Eventually, leaves turn brown within short time causing early defoliation and reduction in number of pods, seeds and seed weight. Presence of loose brown powder owing to rupture of pustules is a characteristic symptom. For management of rust disease avoid rabi soybean. Rouging may be done for the self grown plants in rabi season. 
+Disease management in soybean
+•	Soybean cultivation during rabi and summer facilitate disease cycle of rust pathogen. To break this, soybean cultivation is recommended only during kharif season. Removal ofself grown plants of rabi season. 
+•	Avoid using seed of affected area for sowing in the next season. 
+•	Use clean healthy and disease free seeds from authentic sources. 
+•	Basal application of Zinc Sulphate @ 25 kg/ha along with Boron @ 0.5 kg/ha reduces the infection of charcoal rot 
+•	Use of recommended chemicals as given in Table 9..
+•	Use of Resistant/tolerant varieties as given below: 
+Page 41
+Table 9: Recommended chemicals and mode of application for disease control in soybean
+
+
+No.	Mode/Chemical	Dose	Disease
+A	Seed Treatment
+1	Thiophanate Methyl 45%+ Pyraclostrobin 5% FS 	3 ml/kg seed	Charcoal rot, anthracnose, & bud blight, collar rot, purple seed stain, frog eye leaf spot
+2	Carboxin 37.5%+Thiram 37.5% 	3 g/kg seed	
+3	Penflufen+Trifloxystrobin 38FS 	1 ml/kg seed	
+4	Azoxystrobin 2.5%+ Thiophanate Methyl 11.25%+ Thiamethoxam 25% FS	10 ml/kg seed	
+5	Carbendazim 25%+ Mancozeb 50% WS	3 g/kg seed	
+6	Thiamethoxam 30 FS	10 ml/kg seed 	Yellow mosaic disease
+7	Imidacloprid 48 FS	1.25 ml/kg seed 	
+B	First spray during initiation of the disease and second after 15 days based on disease severity
+1	Hexaconazole 5 EC 	800 ml/ha.	Rust
+2	Kresoxim-Methyl 44.3% SC	500 ml/ha.	Rust
+3	Picoxystrobin 22.52% SC	400 ml/ha.	Rust
+4	Fluxapyroxad 167 g/l + Pyraclostrobin 333 g/l SC	300 g/ha	Frog eye leaf spot
+5	Pyraclostrobin +Epoxiconazole 50g/l SE	750 ml/ha.	Cercospora leaf spot 
+6	Tebuconazole+Sulphur	1 kg/ha 	leaf spot & Pod blight
+7	Tebuconazole	625 ml/ha. 	Anthracnose Pod Blight
+8	Pyraclostrobin 20% WG 	500 g/ha.	Frog eye leaf spot
+
+
+
+
+
+
+Page 52
+Strategies to mitigate drought/long dry spells in soybean
+Soybean is, by and large, grown as a rainfed crop during kharif season. Since last few years, the distribution of rainfall was found to be uneven and erratic. Farmers are advised to use BBF or Ridge and Furrow for soybean planting in order to mitigate the climatic adversities. In case of flat sowing, if there is a long dry spell, particularly during critical growth stages affect the yield adversely. Hence, farmers are also advised to apply life saving irrigation during these critical stages in order to sustain yield levels.
+The institute has developed sub-soiler which is useful for more infiltration of rainwater/conservation of soil moisture. Use of this machine has recently been recommended considering the long dry spells/drought situation prevailing in most of the areas. Therefore, depending upon the availability of this machine, one can go for this operation once in 4-5 years at 10 meter interval. 
+In absence of these machines, a very simple technique of making conservation furrows after every 3/6/9 rows of soybean will facilitate both to conserve moisture as well as drain out excess water from the field to a certain extent. During long dry spells, the crop sown on flat land should carry out inter-culture (dora/kulpa/hoeing) operation to reduce moisture loss from soil during early growth period (upto one month from sowing).
+Farmers should also spray the crop with anti-transpirants like potassium nitrate (1%) or Magnesium Carbonate/glycerol (5%) during long dry spells in order to save the crop from drought. Alternatively, farmers can use crop straw @ 5 t/ha after emergence of soybean crop for mitigating the adverse effect of drought.
+ 
+Page 53
+Climate Resilient Practices for Soybean Production 
+•	Application of organic manure (through FYM/Poultry Manure) for sustaining the soil fertility.
+•	Adoption of resource conservation technologies like minimum/reduced tillage for soybean production 
+•	Planting of soybean on modified land configuration systems for moisture conservation (Broad bed and furrow or ridge and furrow system). Alternatively, opening of irrigation furrows at suitable interval for proper drainage and moisture conservation.
+•	Sub-soiling at suitable interval for increased moisture retention. 
+•	Varietal Diversification: Growing of more than one (preferably 3-4) variety with varying maturity durations.
+•	Application of Need based irrigation in event of drought.
+•	Use of Inter-culture operations for weed management and soil mulching.
+•	Use of weed mulching during first hand weeding.
+•	Application of spray of anti-transpirants like potassium nitrate (1%) or Magnesium chloride/glycerol (5%). Alternatively, straw mulch @ 5 ton/ha can also be used.
+•	Regular scouting for insect, diseases and weeds
+•	Integrated approaches for management of insect-pests and diseases.
+
+
+Page 54
+Most important points for soybean cultivation 
+•	Application of organic manure (through FYM, Poultry Manure/ Vermicompost) in order to maintain the soil fertility. Tailoring the fertilizer dose after soil testing. 
+•	Application of seed rate depending upon the minimum germination percentage of seed (70%) as well as seed size.
+•	Follow the correct sequence of seed treatment chemicals and bio-inoculants which should be FIR (Fungicide, Insecticide and Rhizobium/PSB/Micorrhiza). 
+•	Do not mix fertilizer with seed while sowing. Instead, use of Ferti-seed-drill is advised. 
+•	As far as possible, sowing may be done during the recommended time (Second week of June to First week of July) while ensuring at least 100 mm monsoon rainfall. 
+•	For weed management in soybean, the most efficient measures include Manual Weeding, Inter-cultivation using Dora/Kulpa and Use of chemical herbicides. The priority for the same may be accorded as per the suitability.
+•	Use of only recommended chemicals are advised for control of weed, insect-pests and diseases.
+•	During last few years, the caterpillares are seen feeding on the floral part of soybean. Therefore it is recommended to apply the spray of recommended insecticides immediately even during the flowering stage. 
+•	In order to get the desired results, use of recommended quantity of water (120 litre/ha for power sprayer and 500 litre/ha for knapsack sprayer) while spraying the coastly chemicals is advised.
+•	To avoid shattering losses, harvest the soybean crop after immediately after attaining physiological maturity (turning the pod color to grey/black). The harvested crop should be allowed for sun-drying for 2-3 days after which can be shifted to threshing floor. 
+•	In order to maintain seed purity, uproot the plants of other varieties 2-3 times distinguishing the plant type, leaf shape, pubescence and flower color. 
+•	Store the soybean seed at clean, aerated room on an appropriate platform while avoiding direct contact with moisture.
+•	
+Page 55
+Good Agricultural Practices for Soybean - General Guidelines
+Good Agricultural Practices (GAPs) are a set of principles, regulations and technical recommendations applicable to production, processing and food transport, addressing human health care, environment protection and improvement of worker conditions and their families. It has been documented that implementation of GAP encourages promotion of the optimum use of resources such as pesticides, fertilizers, and water, and eco-friendly agriculture. 
+Soil management 
+•	Select the soil with moderate to high fertility. 
+•	Plough in crop residues and vegetation to improve soil fertility. Break up large lumps of soil and level.
+•	Frequently apply well decomposed compost or other organic materials (including crop residues) and incorporate in to the soil. 
+•	If necessary, acid soil can be corrected by liming, whereas alkaline soil can be corrected by gypsum. 
+•	Do not plant soybean in low land and too shallow soils. 
+•	Avoid over tillage.
+Seed 
+•	Look for varieties which are resistant to biotic (weeds, insect-pest and disease) and abiotic (drought, heat) factors. 
+•	Plant more than 2 varieties (Varietal cafeteria approach). 
+•	Test seed for germination before the start of the rainy season. 
+•	Do not recycle seed for more than 3 seasons. 
+•	Treat the seed with potent cultures of Tricoderma viride 5 g/kg seed than inoculate with Bradyrhizobium japonicum and PSB/PSM, both @t 5 g/kg seed.
+Use of fertilizers 
+•	Apply the required level of nutrients through right sources at the right time and right place. 
+•	Use organic manure/well composted manure. 
+•	Do not apply any nitrogenous fertilizer in standing crop. 
+•	Keep fertilizers in a dry, clean and sheltered place.
+Planting
+•	Plant soybean with broad bed furrow (BBF) or ridge furrow (FIRBS) or open furrow after every 3/6/9 rows of soybean to avoid the adverse effect of drought or excess rain.
+•	Apply required seed rate based on seed index and germinability.
+•	Maintain planting geometry.
+•	Use 1.25 times seed quantity in delayed planting
+•	
+Page 56
+Insect-pest and disease management
+•	Monitor the crop regularly through effective surveilance. 
+•	Always use preventive methods (using disease-free seeds, adopting crop rotation and inter-cropping, crops with pest deterring value (trap crop-Suva), and instant removal of infected/diseased materials). 
+•	Adopt physical control measures (simple hand-picking, erecting traps and mulching) 
+•	If really necessary, use bio-pesticides/ synthetic pesticides. 
+•	Follow chemical rotation. 
+•	Weeding in scheduled time frame.
+Use of pesticides
+•	Only purchase and use registered pesticides. 
+•	Do not apply pesticides during strong winds and heavy rain. 
+•	Spraying of insecticides may be done preferably during morning/evening.
+•	Strictly adhere to the withholding period (i.e. the lag between pesticide application and harvesting) on the pesticide label. 
+•	Hold pesticides in original containers and keep them tightly closed in a cool, well-ventilated location. 
+•	Do not recycle or re-use pesticide containers for other usage. 
+•	Spray pesticides with complete sets of protective clothing.
+Irrigation
+•	Adopt micro-irrigation methods such as drip or sprinkler. 
+•	Irrigate fields early in the morning, late in the evening or at night during long dry spell at critical stages i.e. seedling, flowering and pod filling. 
+•	Irrigate the soybean crop before development of soil cracks.
+•	Avoid uneven application of water. 
+Harvesting and post-harvesting 
+•	Harvest at the right stage of maturity to avoid the losses due to pod shattering. 
+•	If the produce is to be used for seed purposes, thresh the material at the speed of 350 to 400 rpm of thresher. 
+•	If the produce is to be kept as seed for next season, keep the seed in gunny bags not more than 40 kg capacity than store in a cool and dry place. 
+•	Always keep containers, tools, equipment, packing and storage areas clean and tidy.
+Page 57 (photographs of GAPs)
+
+Page 58
+Technical Recommendations of ICAR-IISR/AICRPS
+2021 
+•	Based on yield, maturity period, resistance against diseases and insect-pests, 6 soybean varieties were identified for different zones: NRC 150, NRC 152, JS 21-72, Himso 1689 (Central zone);  NRC 149, (Northern Plain Zone) and VLS-99 (North Eastern Hill Zone).
+2020 
+•	Based on yield, maturity period, resistance against diseases and insect-pests, 8 soybean varieties were identified for different zones: NRC 138, NRC 142, RVSM 2011-35, AMS 100-39 (Central zone) and MACSNRC 1667, NRC 142, KDS 992, Karue (Southern Zone)
+•	Combined application of Paenibacillus polymyxa HKA 15+AMF with 75% RDF was recommended for higher grain yield and B:C ratio (1.72) as compared to 100% RDF (1.39) by saving 20% chemical fertilizer usage in soybean.
+2019
+•	Based on yield, maturity period, resistance against diseases and insect-pests, 5 soybean varieties were identified for different zones: SL 1104 for North Plain Zone, DSb 32 for Assam & North Eastern States, RSC 10-52 for Eastern & Central Zone, MACS 1520 and AMS-MB5-18 for Central Zone.
+•	Bt 127 SC formulated by an ICAR Institute (IIOR, Hyderabad) from indigenous strain and would be very cost effective. Promotion of such bio-control products developed by public R&D set up should be encouraged.
+•	Seed treatment with pesticides (pre-mix Pyroclostrobin+Thiophanate Methyl) + (pre-mix Thiram and Carboxin) + Thiamethoxam) along with polymer coating can be done much before the actual sowing to suitably adjust within the narrow planting window. 
+•	AMS MB 5-18, SL 958, DS 3050, JS 20-71 and MACS 1336 identified as resistant sources for Charcoal rot and DSb 32, DSb 23 for rust can be used as resistant sources in breeding programme. 
+2018
+•	Based on yield, maturity period, resistance against diseases and insect-pests, 9 soybean varieties were identified for different zones: VLS 89 for North Hill Zone, SL 1074, SL 1028, PS 1572 for North Plain Zone, JS 20-116, JS 20-94, RSC 10-46, RVS 2007-6, NRC 127 for Central Zone.
+•	The foliar application of nutrient at pod initiation: North plain zone- RDF + Urea @ 2%, Eastern zone- RDF + 19:19:19 (NPK) 2%, North Eastern hill zone- RDF + MOP 0.5%, Central zone and Southern Zone- RDF + DAP 2%. 
+Page 59
+•	Fertigation or irrigation at all the three critical stages i.e. flowering, pod initiation and seed filling was found to be beneficial than flat sowing, therefore it is recommended for Eastern and Central zone.
+•	Sulfentrazone + Clomazone 58 % WP (F 8072) premix @ 725 g a.i./ha as pre emergence and Pyroxasulfone 85 WG (PIH 485) @ 127 g a.i./ha as pre-plant incorporation is recommended for controlling the weeds in Central, North plain and Eastern zones subjected to label claim.
+•	Application of FYM @ 2.5 t/ha along with lime @ 600 kg/ha is recommended for amelioration of acidic soil and sustainable soybean productivity and profitability.
+•	Seed treatment with Carboxin + Thiram (3g/kg) or carbendazim + mancozeb (2g /kg) followed by two sprays of Thiophanate methyl@0.1% at 55 and 75 days after sowing be recommended for the management of pod blight complex.
+2017
+•	Based on yield, maturity period, resistance against diseases and insect-pests, 6 soybean varieties were identified for different zones: PS 1556 for North Hill Zone, JS 20-98 for Central Zone, RSC 10-46 for Eastern Zone, MACS 1460 for North Eastern Hill Zone, Eastern Zone and Southern Zone. KDS 753 for North Eastern Hill Zone, and DSb 28-3 for Southern Zone.
+•	The new herbicide molecule Fluthiacet-methyl 10.3% EC (F7121) @ 12.5g ai/ha (121.30 g/ha) + NIS @ 2.5% as PoE is recommended for management of broad leaf weeds in Eastern and Central zone subjected to the label claim.
+•	Hydrogel @ 2.5 kg/ha is recommended under the moisture deficit condition across the zones.
+•	On the basis of two year field trials at AICRPS centres of NEH Region, following insecticides were found effective against bihar hairy caterpillar, aphid and blister beetle and are therefore recommended. 
+Bihar Hairy Caterpillar : Chlorantraniliprole 18.5 SC @ 100 ml/ha, Indoxacarb 15.8 SC @ 
+300 ml/ha, Quinalphos 25 EC @ 1500 ml/ha, Triazophos 40 EC 800 ml/ha
+•	Aphids : Thiacloprid 21.7 SC @ 650 ml/ha, Thiamethoxam 30 FS @ 10 ml/kg seed, Imidacloprid 48 FS @ 1.25 ml/kg seed
+•	Blister beetle : Thiacloprid 21.7 SC @ 650 ml/ha, Chlorantraniliprole 18.5 SC @ 100 ml/ha, Indoxacarb 15.8 SC @ 300 ml/ha
+Page 60
+2016 
+•	Based on yield, maturity period, resistance against major insects and diseases, six soybean varieties were identified for different zones: MACS 1407 and RKS 113 for North Eastern zone, DSb 23-2 and KDS 726 for Southern zone, RVS 2002-4 for Central zone and SL 955 for North Plain zone. 
+•	Integrated strategies for the management of White fly/ YMV was recommended as follows: Use YMV Resistant Varieties, Treat Seed with Thiamethoxam 30 FS @ 10 ml/kg seed, Intercrop with maize, Spray Thiamethoxam 25 WG at 25 DAS @ 100 g/ha, Use yellow sticky trap of 12”x10”, Spray 0.5% Neem kernel extract at 35 DAS, Spray Imidacloprid 17.8 SL @ 650 ml/ha at 40-45 DAS, Cultivate virus resistant Moong bean and Urd bean during summer., Avoid using Synthetic pyrethroids
+2015
+•	Soybean entry SL 979 (Northern Plan Zone) and MAUS 612 (Southern Zone) have been identified.
+•	Application of straw mulch 5 t/ha with anti-transparent KNO3 @ 1% or MgCO3@ 5% or Glycerol @ 5% 15 days after flowering is recommended in all the zones for water stress tolerance in soybean.
+•	Application of Sulfentrazone 48% SC @ 360 g ai/ha (750 ml/ha) as pre-emergence herbicide is recommended in all the zones for controlling of weeds subjected to crop label claim.
+•	Planting of soybean on Ridge and Furrow under Rice-fallow system is recommended for North Eastern and Southern Zone.
+•	For effective management of soybean rust application of Hexaconazole (0.1%) in
+•	combination 1% multi-nutrients is recommended.
+•	For better management of broad spectrum diseases and insect pests following integrated approach is recommended: Seed treatment with Thiram + Carboxin @ 2 g/kg + spray with Lamda-cyhalothrin @ 0.05% and Hexaconazole @ 0.1% at 45 DAS followed by second spray at 60 DAS with Hexaconazole @ 0.1% and
+•	Spinosad @ 0.05% and third and fourth sprays with carbendazim @ 0.1% at 70 and 85 DAS.
+Note : Farmers are advised to use only those listed chemicals which are and having lable claims approved by the Central Insecticide Board of GOI for the current year.
+Page 61
+Extension Activities of ICAR-Indian Institute of Soybean Research
+•	Use of popular social media for dissemination and evaluation of information related to improved soybean production technologies in line with the digital era.
+•	Promotion of improved soybean production technologies through conduct of frontline demonstrations on farmers’ field.
+•	Organization of Trainers’ Training Programmes for extension personnel and other stakeholders especially those involved in dissemination of improved soybean production technologies. 
+•	Organization and/or representation in the farmers’ training programmes sponsored by government agencies/NGOs and Voluntary organizations actively involved in soybean sector.
+•	Organization of training/awareness programmes for promotion of nutritional security through domestic consumption of processed soybean based products. 
+•	Organization and/or representation in Field Days and Agricultural Exhibitions.
+•	Addressing the queries of farmers through letter/email .
+•	Communication of Weekly Advisories on soybean crop during the crop season comprising ways and means of increasing the productivity through management of biotic and abiotic stresses using popular digital/social media tools.
+•	Dissemination of timely information on soybean using electronic media particularly All India Radio & Doordarshan/ Kisan Channel.
+•	Dissemination of information on improved soybean production technologies to the farmers’ group visited throughout the year. 
+
+
+Page62-68
+Annexure-1
+Distinguishing characters of notified soybean varieties
+•	NRC 157 (Indore Soya-157): Climate resilient , suitable for delayed sowing condition. Semi-determinate, glabrous pods, purple flower. Susceptible for YMV disease but suitable for mechanical harvesting. 
+•	NRC 131 (Indore Soya-131): Semi-determinate, glabrous pods, dot on hilum. Resistant to charcoal rot and anthracnose but susceptible for YMV disease. Suitable for mechanical harvesting. 
+•	NRC 136 : Semi-determinate, pointed ovate leaves, white flowers, tawny pubescence, seeds with dark brown hilum. Highly resistant to Indian Bud Blight and moderately resistant to defoliators.
+•	JS 21-72: Semi-determinate, pointed ovate leaves, semi-errect, white flower, tawny pubescence, brown pods.  Elliptical seed, brown hilum. Absolute to Highly resistant reaction to charcoal rot and yellow mosaic disease. highly resistant to moderately resistant reaction to Aerial blight and pod blight/Anthracnose diseases
+•	NRC 150 (Indore Soya-150):  Semi-determinate, white flowers , pointed ovate leaves, tawny pubescence and black hilum. Null Lipoxygenase-2 variety, resistant to charcoal rot and moderately resistant to YMV disease.
+•	NRC 152 (Indore Soya-152): Semi-determinate, purple flower, pointed ovate leaves, tawny pubescence and brown hilum. Double null variety (free from Kunitz Trypsin inhibitor as well as Lipoxygenase-2), Moderate to high resistance for YMV and moderate resistance for anthracnose. Resistance for defoliators, stem fly and girdle beetle.
+•	Himso-1689: Pointed leaves, purple flower, susceptible for charcoal rot and anthracnose. 
+•	Phule Durva (KDS 992): Semi-determinate variety. Moderately resistant to pest and diseases.
+•	RVSM 2011-35 (RVSM-35) : Semi-determinate; brown pubescence, white flower, black hilum, medium broad pointed leaf, Oval yellow seed. Moderately resistant to PB(ct), YMV and TLS. Susceptible to CR, RAB and MLS, multiple resistant for Stem fly, Girdle beetle and Defoliators.
+•	NRC 138 (Indore Soya -138) : Determinate, pointed ovate leaf, white flower, brown pod, dark brown pubescence, brown hilum. Moderately resistant to PB(ct), TLS, Resistant to YMV, susceptible to CR, RAB and MLS. 
+•	AMS 100-39 (PDKV Amba) : semi-determinate, rounded ovate dark green leaves, purple flower, yellow pod, spherical light yellow shiny seed, black hilum. MR to Charcoal rot and MLS and MS to RAB and YMV, S to Pb(ct) & TLS, Antibiosis reaction for defoliators, Resistant to defoliators, stem fly and R-HY/S-HY reaction to pest complex. 
+•	RVS-76 (Raj Vijay Soybean) : Semi-determinate, medium broad leaves, purple flower, glabrous pods, yellow shining seed, black hilum. Resistant to Collar Rot. 
+•	NRC 142 (Indore Soya-142) : Null lox 2 and Null KTi, purple flower, black hilum, determinate, dark ovate green leaf, brown pubescence, purple flower, black hilum, oval seeds. Resistant to YMV, MR to RAB and TLS and S to CR, Pb(ct)and MLS, Slight Antixenosis for defoliators and R-HY/S-HY reaction to pest complex. 
+•	MACS 1520 : Purple flower, brown pods with tawny pubescence, black hilum. Resistance to charcoal rot, YMV, bacterial pustule, rhizoctonia aerial blight, alternaria leaf spot and also has high resistance to stem fly, girdle beetle defoliators, leaf hopper, stink bug, bean bugs and pod borer.
+•	MACS 1460 : Determinate, white flowers, light black hilum. Resistance to Indian bud blight, YMV, bacterial leaf blight, pod blight, charcoal rot, target leaf spot and Rhizoctonia aerial blight. Resistance to aphid, stem fly, pod borer, white fly, defoliators, leaf miner, Bihar hairy caterpillar. 
+•	NRC 130 (Indore Soya-130) : Determinate, glabrous pods, light yellow seed with yellow hilum. Moderately Resistant to Charcoal rot, TLS & PB(Ct).
+•	RSC 10-46 : Semi-determinate, purple flower, absence of pubescence, black hilum.. Resistant to YMV, charcoal rot, blights, bacterial pustules, leaf spots, stem borers and defoliators. RSC 10-52 : Purple flower, brown hilum. Resistant to bud blights, bacterial pustules, target leaf spots, charcoal rot, stem borer. Moderately resistant to rhizoctonia aerial blight and defoliators.
+•	RSC 10-52 : Purple flower, brown hilum. Resistant to bud blights, bacterial pustules, target leaf spots, charcoal rot, stem borer. Moderately resistant to rhizoctonia aerial blight and defoliators.
+•	AMS-MB- 5-18 (Suvarn Soya) : White flower, brown hilum. Resistant to charcoal rot, moderately resistant to YMV, SMV, bacterial pustules, rhizoctonia aerial blight and alternaria leaf spot. Moderately resistant to girdle beetle, defoliators and stem fly.
+•	AMS 1001 (PKV Yellow Gold) : Determinate growth, semi erect, pointed ovate dark green leaves, purple flower, pod pubescence absent, yellow spherical seeds with grey hilum . Resistant to root rot, YMV, alternaria leaf spot. 
+•	JS 20-116 : Semi-determinate, rounded ovate leaves, white flowers, excellent germination, absence of pubescence, black hilum. Multiple resistance against YMV, charcoal rot, rhizoctonia aerial blight, bacterial pustules, leaf spots, stem fly, stem borers. Suitable for mechanical harvesting.
+•	JS 20-94 : Semi-determinate, excellent germination, rounded ovate leaves, violet flowers, tawny pubescence, black hilum. Resistant to yellow mosaic virus, charcoal rot, blights, bacterial pustules, leaf spots as well as stem fly, stem.
+•	JS 20-98 : Semi-determinate, pointed ovate leaves, white flowers, tawny pubescence, medium spherical seed with black hilum. Excellent germinability and longevity. Multiple resistance for biotic stresses like YMV, charcoal rot, blights, bacterial pustules, leaf spots and stem fly. Resistant to tolerant reactions against stem fly, stem borers and defoliators.
+•	NRC 127 : First Kunitz Trypsin Inhibitor (KTI) free variety. Semi-determinate, white flowers, tawny pubescence, black hilum. Resistant to YMV, Soybean Crinkle virus (SCV) and alternaria leaf spot (ALS) and bacterial pustule. Resistant / tolerant against pod borer and lepidopteron defoliators. 
+•	Raj Soya 18 (RVS-18 ) : Semi-determinate, lanceolate leaves, white flower, glabrous, black hilum.
+•	Raj Soya 24 (RVS 2002-4) : Semi-determinate, pointed ovate leaves, white flower, glabrous, black hilum, Resistant to YMV. 
+•	JS 20-69 : Semi-determinate, white flower, rounded ovate leaf, black hilum, Resistant to charcoal rot, bacterial pustule, YMV and pod blight.
+•	NRC 86 : Determinate, purple flower, tawny pubescence, brown hilum. Tolerant to bacterial pustule, pod blight and collar rot but highly resistant to charcoal rot. Tolerant to girdle beetle; moderately resistant to stem fly.
+•	JS 20-34 : Determinate, white flower, pod pubescence absent, black hilum. Resistant to charcoal rot. Tolerant to girdle beetle, and stem fly. 
+•	JS 20-29 : Semi-determinate, white flower, glabrous, black hilum. Resistant to YMV and charcoal rot. Resistant/tolerant to insect-pests.
+•	RVS 2001-4 : Semi-determinate, white flower, glabrous, brown hilum, Tolerant to major leaf, pod and root diseases as well as girdle beetle and semilooper.
+•	Shalimar Soybean-2 (SKUA-WSB-101) Released by Govt of Jammu and Kashmir 
+•	Umiam Soybean-1(RCS 1-9) Released by State Govt of Meghalay
+•	Birsa Soybean-3 (BAUS- 40)* Released by State Govt of Jharkhand
+•	RSC 11-15* : Released by State Govt of Chhatisgarh 
+•	Birsa Soybean 4: )* Released by State Govt of Jharkhand
+•	MACS 1407 : Determinate, white flower, brown hilum. Resistant to YMV, bacterial leaf blight, rhizoctonia aerial blight, pod blight. Moderately resistant to stem fly, defoliators and aphids.
+•	NRC 132 : India’s first Lypoxygenase-2 free soybean variety Semi determinate, Pointed ovate leaves with brown pubescence, spherical medium seed with black hilum. Highly resistant to purple seed stain and moderately to pod blight. Resistant to tobacco caterpillar, girdle beetle and semilooper.
+•	NRC 147 : India’s first high oleic acid (42%) variety. Semi determinate, point ovate leaves with brown pubescence, purple flower, spherical medium seed with dark brown hilum. Resistant to Indian bud blight, pod borer, girdle beetle and stem tunneling. 
+•	NRC 128 : Semi-determinate, Pointed ovate leaves, pubescence on stem leaves and pods, purple flower, and brown hilum. Resistance to MYMIV, moderately resistance to charcoal rot. Tolerance to water logging conditions.
+•	NRCSL 1 : Determinate, pointed ovate leaves, purple flower, Spherical, Medium with black hilum. Highly resistant to YMV and pod blight, resistant to charcoal rot, Brown spots, Purple seed spot, alternaria leaf spot, bacterial pustule, Soybean mosaic virus. Resistant to defoliators.
+•	RSC 11-07 : Pubescence absent, purple flower, Elliptical seed with black hilum. Resistant to bud blights, bacterial pustules, target leaf spots, charcoal rot stem fly. Moderately resistant to rhizoctonia aerial blight. Resistance for stem borer, defoliators and stem fly.
+•	AMS 2014-1 (PDKV Purva) : Semi determinate, Rounded ovate leaves, purple flower, spherical seed with brown hilum. Resistance to IBB, BP, BLB, ALS and Charcoal rot and moderately resistance to other biotic stresses like PB (ct) and RAB diseases. Moderately resistant to stem fly, girdle beetle and pest complex.
+•	DSb 32 : Semi-determinate, medium thick dark green lanceolate leaves, purple flower, light yellow seed, almost glabrous pods. Highly resistant to rust & MR to PB(Ct).
+•	KDS 753 (Phule Kimaya) : Semi-determinate, purple flower, tawny pubescence, large size seed, brown hilum. Tolerant to drought and high yield. 
+•	Kota Soaya-1 (RKS 113) : Determinate, purple flower, tawny pubescence. Resistant to YMV, SMV and rhizoctonia aerial blight but moderately susceptible to rust, collar rot and pod blight. Resistant to defoliators, stem fly, aphids and leaf miner.
+•	KS-103 : Semi-determinate, absence of pubescence, purple flower and light brown hilum. Resistant to rust. 
+•	Chhattisgarh Soya 1 : Semi-determinate, white flower, tawny pubescence, brown hilum. Resistance to Indian bud blight, myrothecium leaf spot and bacterial pustule.
+•	SL 1074 : Semi-determinate, smooth medium light green leaves, brown pubescence, white flower, grey hilum. Tolerant to YMV.
+•	SL 1028 : Semi-determinate, smooth medium light green leaves, brown pubescence, white flower, grey hilum. Moderately resistant to YMV. 
+•	Uttarakhand Black Soybean (Bhatt 202) : Highly resistant reaction against frog eye leaf spot and moderately resistant to pod blight which are the most important diseases of soybean in hills as well as resistant to aphids, soybean beetles and moderate resistant to white flies and defoliators.
+•	SL 979 : Semi-determinate, light green, white flower, light yellow seed, oval seed, brown hilum. Tolerant to YMV
+•	SL 955 : Semi-determinate, light green smooth leaves, white flower, light yellow oval seed, brown hilum. Tolerant to YMV. 
+•	Pant Soybean 26 (PS. 1572) : Purple flower.
+•	PS 1477 : Determinate, purple flower, tawny pubescence, brown hilum. Resistant to YMV, bacterial Pustule, and moderately resistant to rhizoctonia arial blight.
+•	PS 1521 : Determinate, white flower, gray pubescence, black hilum. Resistance to major foliar diseases viz. YMV, bacterial pustule and rhizoctonia aerial blight.
+•	Pant Soybean 23 (PS 1523 UK) : Determinate, dark green narrow leaflet, purple flower, tawny pubescence, yellow bold seed, brown hilum. Resistant to YMV, Bacterial Pustule, and moderately resistant to rhizoctonia aerial blight. Resistant to lodging and shattering.
+•	Pant Soybean 21 (PS 1480 : UK) : Determinate, white flowers, gray pubescence, black hilum. Resistant to Yellow Mosaic Virus, SMV and bacterial pustule. Tolerant to rhizoctonia aerial blight.
+•	SL 958 : Semi-determinate, white flower, tawny pubescence black hilum. Resistant to YMV and SMV.
+•	Pusa 12 : Determinate, tawny pubescence, white flower, black hilum. Resistant to YMV, rhizoctonia aerial blight and bacterial pustules.
+•	PS 1368 : White flower, tawny pubescence, brown hilum. Resistance to YMV, bacterial pustule and charcoal rot.
+•	VL Soya- 99 
+•	Him Palam Soya -1 (Released by Govt of Himachal Pradesh)
+•	Pant Soybean 25 (PS 1556 ) : White flower, tawny pubescence, brown hilum. Moderately susceptible to FLS, resistant to YMV and Bacterial pustule.
+•	Shalimar Soybean-1 : Purple flower, leaf shape intermediate, leaf colour green, tawny colour dense pubescence on plants and pods. Resistant to root rot and rust and moderately resistant to yellow mosaic virus as well as Alternaria blight.
+•	VL Soya 89 : Semi-determinate, gray pubescence, white flowers, brown hilum. Moderately resistant against frog eye leaf spot and pod blight diseases, chauliops and resistant against defoliators.
+•	VL Bhatt 201 : Determinate, white flowers, tawny pubescence, black seeds. Highly resistant to frog eye leaf spot, target leaf spot and moderately resistant to pod blight. Highly resistant to girdle beetle. Moderately resistant to stem fly.
+•	VL Soya 77 : Determinate, purple flower, tawny pubescence and black hilum.
+•	ALSB 50 (Adilabad Indore SoyaChikkudu). Released by the State Govt of Telangana.
+•	MAUS 725: Released by the State Govt of Telangana.
+•	MACS-NRC 1667 : Semi-determinate, purple flower, round seed with black hilum, KTI free soybean variety.
+•	Karune (KVBS-1) : Green seed weight 77.8 g, dry seed weight 30-35 g, 4.8 to 6.5 sucrose content, semi-determinate, puckering leaf surface, oval green leaves, white flowers, light green oval seed, white hilum . MR to PB, MS to Rust and MS to PSS, R-HY reaction to pest complex. 
+•	DSb 34 : Semi-determinate, Lanceolate leaves without pubescence, purple flower, round medium seed with black hilum. Highly resistant to rust and moderately resistant to pod blight. Moderately resistant to defoliators, stem fly, girdle beetle and pod borer.
+•	KBS 23 : Semi-determinate, purple flower, black hilum. 
+•	DSb-28 (DSb 28-3) : 
+•	KDS 726 (Phule Sangam) : Semi-determinate, violet flower, absence of pubescence, brown hilum. Resistant to rust and purple seed stain and moderately resistant to stem fly and defoliators. 
+•	DSb 23 : Semi-determinate, absence of pubescence, purple flower, brown hilum. Highly resistant to rust and moderately resistant to defoliators.
+•	MAUS 612 : Semi-determinate, absence of pubescence, purple flower and blackish hilum. Moderately resistant to stem fly and girdle beetle.
+•	Basar : Semi-determinate, white flower, tawny pubescence, imperfect black hilum.
+•	MACS 1281 : Determinate, purple flower, glabrous pods, black hilum. Moderately resistant to bacterial pustules and bacterial leaf blight, stem fly, defoliators, pod borer and leaf folder.
+•	KDS 344 फूले अग्रणी : Semi-determinate, violet flower, pubescence absent, brown hilum, Tolerant to rust and moderately resistant to stem fly, pod borer and leaf roller.
+•	DSb 21 : Semi-determinate, purple flower, absent of pubescence, brown hilum. Resistant to rust.
+•	MAUS 162 (Maharashtra): Semi-determinate, purple flower, pubescence absent, black hilum. Tolerance against charcoal rot, rhizoctonia root rot and rhizoctonia aerial blight.
+•	MACS 1188: Determinate, black hilum, Resistant to bacterial pustules, rhizoctonia aerial blight and charcoal rot, defoliator, pod borer, leaf folder and leaf miner.
+
+Page 69: List of insecticides having lable claims for soybean as per the list of CIB (May 2022)
+Table 9: List of insecticides approved by Central Insecticide Board (May 2022)
+तलिका 9 : मई 2022 के दौरान  केन्द्रीय कीटनाशक बोर्ड द्वारा अनुमोदित कीटनाशकों की  सूचि 
+S. No.	Insecticides 	Insect	Dose (per ha)
+1.		Quinalphos 25 EC 	Leaf weevil	1000 
+2.		Quinalphos 01.50 DP	Pod borer	250 g
+3.		Thiamethoxam 30 FS (seed dressing)	Shoot fly	10 ml/kg seed 
+4.		Chlorantraniliprole 18.5 SC	Green Semi looper, Stem fly, Girdle beetle	150 ml
+5.		Emamectin benzoate 01.90% EC	Green semi looper, pod borer, Girdle beetle & Tobacco caterpillar	450 ml/ha
+6.		Broflanilide 300 SC 	Helicoverpa armigera, Spodoptera litura, Semilooper (Chrysodeixis acuta)	42-62 g/ha
+7.		Ethion 50 % EC	Girdle beetle & stem fly	1500 ml
+8.		Carbofuran 03 % CG	Root knot nematode	1500 g
+9.		Flubendiamide 20 WG 	Spodoptera litura, Semilooper	250-300 ml/ha
+10.		Flubendiamide 39.35 % w/w SC	Defoliators (Helicoverpa armigera, Spodoptera litura and Semilooper)	150 ml/ha
+11.		Imidacloprid 48 FS 	Jassids	1.25 ml/kg seed 
+12.		Indoxacarb 15.8 EC 	Tobacco caterpillar (Spodoptera litura), Pod borer (Heliothis armigera), Green Semilooper (Chrysodexis acuta), stem fly (Melanogromyza spp.)	333 ml/ha
+13.		Lambda Cyhalothrin 4.9 CS	Stem fly, Semilooper	300 ml
+14.		Malathion 50.00% EC	Leaf weevil	1500 ml
+15.		Profenofos 50 EC	Semi looper & Girdle
+beetle	1000 ml 
+16.		Spinetoram 11.7 SC 	Tobacco caterpillar	450 ml/ha 
+17.		Tetraniliprole 18.18 SC	Girdle beetle (Oberea brevis),  Spodoptera spp. Semilooper (Chrysodeixis acuta)	250-300 ml
+18.		Thiacloprid 21.7 SC 	Girdle beetle	750 ml 
+19.		Beta-cyfluthrin 08.49 % + Imidacloprid 19.81 % w/w OD	Girdle beetle
+Semilooper	350 ml
+20.		Novaluron 5.25% + Indoxacarb 4.5% SC 	Spodoptera, Helicoverpa armigera and Semilooper 	850 ml/ha
+21.		Thiamethoxam 12.60 % + Lambda-cyhalothrin 09.50 % ZC	Stem fly,
+Semilooper, Girdle beetle	125 ml/ha
+22.		Chlorantraniliprole 09.30 % + Lambda-cyhalothrin 04.60 % ZC	Leaf worm, Girdle beetle, Semilooper, Stem	200 ml/ha
+
+
+
+
+
+क्र.	कीटनाशक 	कीट 	मात्रा/हे.
+1	क्विनालफॉस 25 ई.सी. 	लीफ वीविल  	1 ली. 
+2.	क्विनालफॉस 01.50 डी.पी.	पोड बोरर   	250 ग्राम
+3	थायामिथोक्सम 30 एफ.एस. 	शूट फ्लाई (तना मक्खी) : बीजोपचार हेतु 	10 मिली/किग्रा. बीज 
+4	क्लोरएन्ट्रानिलिप्रोल 18.5  एस.सी	हरी सेमीलूपर इल्ली, तना मक्खी एवं चक्र भृंग 	150 मिली 
+5 	इमामेक्टिन बेंजोएट 01.90 	हरी सेमीलूपर इल्ली, फली छेदक, चक्र भृंग एवं तम्बाकू की इल्ली 	425   मि.ली.
+6 	ब्रोफ्लानिलाइड   300 एस.सी.   	चने की इल्ली, तम्बाकू की इल्ली, हरी सेमीलूपर इल्ली	42-62 ग्राम 
+7	ईथिओन 50 ईसी.	चक्र भृंग एवं तना मक्खी	1500 मि.ली.
+8	कार्बोफ्यूरान 03 % सी.जी 	रूट नोट नीमाटोड	1500 ग्राम 
+9	फ्लूबेंडियामाइड 20 डब्ल्यू.जी.		तम्बाकू की इल्ली एवं हरी सेमीलूपर इल्ली,	250-300 ग्रा.
+10	फ्लूबेंडियामाइड 39.35 एस.सी	पत्ती खाने वाली इल्लियाँ (चने की इल्ली, हरी सेमीलूपर इल्ली एवं तम्बाकू की इल्ली)	150 मि.ली.
+11	इमिडाक्लोप्रिड 48 एफ.एस.  	जासिड, 	125 मि.ली.
+12	इंडोक्साकार्ब 15.8  ई.सी.	तम्बाकू की इल्ली, चने की इल्ली, हरी सेमीलूपर इल्ली एवं तना मक्खी	333 मि.ली. 
+13	लैम्बडा सायहेलोथ्रिन 04.90 सी.एस. 	तना मक्खी, हरी सेमीलूपर इल्ली	300 मि.ली.
+14	मेलाथिओंन 50 ईसी.	लीफ वीविल 	1500 मि.ली.
+15	प्रोफेनोफॉस 50 ई.सी. 		हरी सेमीलूपर इल्ली एवं चक्र भृंग	1 ली.
+16 	स्पायनेटोरम 11.7 एस.सी	तम्बाकू की इल्ली	450 मि.ली.
+17 	टेट्रानिलिप्रोल 18.18 एस.सी. 	चक्र भृंग, हरी सेमीलूपर इल्ली एवं तम्बाकू की इल्ली	250-300 मि.ली.
+18 	थायक्लोप्रिड 21.7 एस.सी. 		चक्र भृंग 	750 मि.ली.
+19	बीटासायफ्लुथ्रिन 08.49 %   +इमिडाक्लोप्रिड 19.81 % w/w ओ.डी.	चक्र भृंग, हरी सेमीलूपर इल्ली 	350 मि.ली.
+20 	नोवाल्युरोन + इन्डोक्साकार्ब एस.सी. 	तम्बाकू की इल्ली, चने की इल्ली एवं हरी सेमीलूपर इल्ली	825-875  मि.ली.
+21 	थायमिथोक्सम 12.60 % +लैम्बडा सायहेलोथ्रिन  09.50 % जेड.सी.	तना मक्खी, हरी सेमीलूपर इल्ली एवं चक्र भृंग 	125 मि.ली.
+22 	क्लोरएन्ट्रानिलिप्रोल 09.30 % +लैम्बडा सायहेलोथ्रिन 04.60 % जेड.सी.	लीफ वर्म, चक्र भृंग, हरी सेमीलूपर इल्ली, तना मक्खी 	200 मि.ली.
+
+
+Page 70: Services provided by Agri-Business Incubation Centre of ICAR-IISR
+Page 71: Agri-business opportunities for startups and companies
+Page 72-73: Photographs
+Page 74
+For more information, kindly contact the following
+Dr K. H. Singh, Director 0731-2476188, 9448737473
+Dr Sanjay Gupta, Principal Scientist (Plant Breeding) 0731-2437925, 7415105890
+Dr M.P. Sharma, Principal Scientist (Micro) 0731-2437971, 9926012261
+Dr B. U. Dupare, Principal Scientist (Agril. Extension) 0731-2437976, 9425964016
+Dr Mrinal Kuchlan, Scientist (Seed Technology) 0731-2437916, 9340650457
+Dr Lokesh Meena, Scientist (Entomology) 0731-2437921, 97533 18347
+Dr RK. Verma, Scientist (Agronomy) 0731-2437921, 9977574793
+Dr.Sanjeev Kumar, Scientist (Plant Pathology) 0731-2437959, 9407072727
+
+
+ICAR-Indian Institute of Soybean Research
+Khandwa Road, Indore452 001 (Madhya Pradesh) 
+Phone: 0731-2476188, Fax: 2470520
+Website: www.iisrindore.icar.gov.in
+Email: director.soybean@icar.gov.in/ dsrdirector@gmail.com
+YouTube: IISRSoybean Indore
+Facebook: https://www.facebook.com/ICAR-Indian-Institute-of-Soybean-Research-Indore-507415769433553
+
+
+Page 50
+सोयाबीन उगाइये, खुशहाली पाइए ।
+सोयाबीन खाइए, स्वास्थ्य सुरक्षा पाइए ।।
+
+ICAR-Indian Institute of Soybean Research
+Khandwa Road, Indore452 001 (Madhya Pradesh) 
+Phone: 0731-2476188, Fax: 2470520
+Website: www.iisrindore.icar.gov.in
+Email: director.soybean@icar.gov.in/ dsrdirector@gmail.com
+YouTube: IISRSoybean Indore 
+फेसबुक: https://www.facebook.com/ICAR-Indian-Institute-of-Soybean-Research-Indore-507415769433553
+

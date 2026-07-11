@@ -1,0 +1,1056 @@
+
+NIGEN
+TECHNOLOGY FOR MAXIMIZING PRODUCTION
+НГФ ЗАДЧ
+ICAR
+All India Co ordinated Research Project on Sesame and Niger
+(Indian Council of Agricultural Research]
+JNKW Campus, Jabalpur - 482 004 (M.P.), INDIA
+Citation: Ranganatha, A.R.G.
+Improved Technology for Maximizing Production of Niger
+Revised edition:
+December 2013
+Published by:
+Project Coordinator
+All India Coordinated Research Project on Sesame and Niger,
+Indian Council of Agricultural Research,
+JNKVV Campus, Jabalpur-482004 (MP)
+Compiled by:
+Dr. A.R.G. Ranganatha
+Dr. Alok Jyotishi
+Dr. Mohan Ramuji Deshmukh
+Dr. Rajani Bisen
+Dr. A.K. Panday
+Dr. K. N. Gupta
+Smt. Surabhi Jain
+Dr. Seema Paroha
+Cover Page:
+Amit Singh
+2
+NIGER
+TECHNOLOGY FOR MAXIMIZING PRODUCTION
+Niger [Guizotia abyssinica (L.f.) Cass.] is commonly known as ramtil, jagni or jatangi (Hindi),
+ramtal (Gujrati), karale or khurasani (Marathi), uhechellu (Kannada), payellu (Tamil), verrinuvvulu
+(Telugu), alashi (Oriya), sarguza (Bengali), ramtil (Punjabi) and sorguja (Assamese) in different parts of the
+country. Niger although considered a minor oilseed crop, is important in terms of its 32 to 40% content of
+quality oil with 18 to 24% protein in the seed. Niger oil is slow drying, used in food, paint, soap, and as an
+illuminant. It is used as a substitute for olive oil, can be adultrated with rapeseed, sesame and linseed oil. The
+oil is used in cooking. The oil from the seed is used to treat burns and in the treatment of scabies. The seed is
+eaten fried and used as a condiment. The press cake from oil extraction is used for livestock feed. Niger oil
+has good keeping quality and has < 70% unsaturated fatty acids free from toxins. The oil is considered good
+for health. Whole plants are used as green manure in the pre flowering stage. Plants are used as a 'bee plant'.
+The crop is capable of giving better seed yield even under low soil fertility, moisture stress and poor crop
+management. Niger has an advantage of yielding oil and has good degree of tolerance to diseases, insect
+pests and attack of wild animals. Niger has great potential for soil conservation. These attributes favour its
+cultivation on hilly areas, marginal and sub marginal lands in and around the forests. Niger is primarily
+grown on the denuded soils in the tribal pockets under input starved conditions in India. Further it is the life
+line of tribal agriculture and economy. India ranks first in area, production and export of niger in the world.
+Niger crop grows successfully without chemicals. It has the yield potential of 800-1000 kg/ha under optimum
+growing conditions. The low seed rate, capability to grow on a wide range of soils and sowing period starting
+from the onset of monsoon in June to September-October, makes this crop ideal for contingent cropping
+under rainfed situations.
+The All India Coordinated Research Project on Niger, under the Indian Council of Agricultural
+Research, has developed and refined the improved production technology for enhancing productivity and
+profitability of niger. The states contributing primarily to the niger production of the country are Madhya
+Pradesh, Odisha, Maharashtra, Karnataka and Chhattisgarh (Table 1). Besides, the crop is also cultivated to
+some extent in hilly areas of Andhra Pradesh, Bihar/Jharkhand, Gujarat, Uttar Pradesh, Rajasthan, Tamil
+Nadu, West Bengal, Assam and Arunachal Pradesh in North Eastern Hill region.
+Table 1: Area, production and productivity of niger in major growing states of India (2012-13).
+Area
+Production
+Productivity
+Area
+Production
+Productivity
+State
+('000
+('000
+(kg/ha)
+State
+('000
+('000
+(kg/ha)
+ha)
+tonnes)
+ha)
+tonnes)
+Madhya Pradesh
+86.9
+29.8
+343
+Gujarat
+7.0
+2.0
+286
+Odisha
+76.0
+27.4
+360
+Assam
+8.0
+4.0
+500
+3
+Chhatisgarh
+64.2
+11.4
+178
+Jharkhand
+4.6
+2.4
+526
+Maharashtra
+28.0
+8.0
+286
+West Bengal
+4.0
+2.8
+700
+Karnatka
+14.0
+5.0
+357
+Others
+0.1
+0.1
+1000
+Andhra Pradesh
+8.0
+6.0
+750
+All India
+300.8
+98.9
+329
+ANALYSIS OF NIGER SCENARIO: The productivity of Niger is low, around 300 to 350 kg/ha in India.
+Niger production during 2012-13 has increased by 7 % and productivity by 88%, even after a reduction of
+42% in the area over 1965-66. Despite the maximum area (86.9 thousand hectares) and production (29.8
+thousand tones) in Madhya Pradesh, Andhra Pradesh has the maximum seed yield of 750 kg/ha during 2012-
+13.
+Table 2: Change in Area, Production and Productivity of niger crop over 1965-66
+Area of major niger growing states ('000 hectares)
+Area ('000 hectares)
+State
+1965-66
+1975-76
+1985-86
+1995-96
+2005-06
+2011-12
+2012-13
+% Changes
+over 1965-66
+Andhra Pradesh
+14.00
+9.40
+12.60
+19.30
+16.00
+7.00
+8.00
+-42.9
+Karnataka
+22.50
+47.40
+54.80
+44.70
+30.00
+21.00
+14.0
+-37.8
+Madhya
+282.20
+275.90
+227.80
+216.40
+178.70
+117.80
+86.9
+-69.2
+Pradesh
+Maharashtra
+74.50
+104.50
+95.90
+76.80
+54.00
+37.00
+28.0
+-62.4
+Orissa
+75.90
+112.90
+201.20
+210.00
+119.40
+85.7
+76
+0.1
+All India
+525.40
+615.30
+635.00
+600.60
+414.40
+364.40
+300.8
+-42.7
+*Estimates
+Production of major niger growing states ('000 tonnes)
+Production ('000 tonnes)
+State
+1965-66
+1975-76
+1985-86
+1995-96
+2005-06
+2011-12
+2012-2013
+% Changes
+over 1965-66
+Andhra Pradesh
+1.80
+7.90
+2.70
+7.90
+6.00
+3.00
+6
+233.3
+Karnataka
+2.90
+9.30
+9.80
+7.00
+6.00
+7.00
+5
+72.4
+Madhya Pradesh
+42.60
+52.60
+49.20
+44.60
+36.00
+20.70
+29.8
+-30.0
+Maharashtra
+10.50
+13.40
+20.70
+15.20
+14.00
+12.00
+8
+-23.8
+Orissa
+15.60
+47.60
+94.00
+98.80
+37.70
+31.80
+27.4
+75.6
+All India
+91.90
+150.50
+192.30
+190.30
+108.00
+98.10
+98.9
+7.6
+*Estimates
+Productivity of major niger growing states (Kg/ha)
+Yield (Kg/ha)
+State
+1965-66
+1975-76
+1985-86
+1995-96
+2005-06
+2011-12
+2012-13
+% Changes
+over 1965-66
+Andhra Pradesh
+129.00
+840.00
+214.00
+409.00
+375.00
+429.00
+750
+481.4
+Karnataka
+129.00
+196.00
+179.00
+157.00
+200.00
+333.00
+357
+176.7
+Madhya Pradesh
+151.00
+191.00
+216.00
+206.00
+392.71
+176.00
+343
+127.2
+Maharashtra
+141.00
+128.00
+216.00
+198.00
+259.26
+324.00
+286
+102.8
+Orissa
+206.00
+422.00
+467.00
+470.00
+318.26
+371.00
+360
+74.8
+All India
+175.00
+245.00
+303.00
+317.00
+261.00
+269.00
+329
+88.0
+Source: - Directorate of Economics and Statistics New Delhi.
+CLIMATIC REQUIREMENT: The optimum plant growth in niger is seen when the temperatures range
+between 20-38°C during the growing season. Niger may grow on a variety of soils but very coarse or
+heavy soils are not suitable as one will not hold the water and the other would stagnate it. Niger grows
+4
+well with pH values ranging between 5.2 to 7.3. The rainfall ranging between 1000 to 1300 mm is
+optimum for the crop. However, rainfall beyond 800 and 2000 mm would be unsuitable.
+VARIETAL REQUIREMENT: For improving seed yield dwarf types must be developed which have
+uniform maturity resulting in reduced shattering losses. The Ethiopian germplasm collection contains
+short stature plants which could be used for the development of dwarf types. There is also genetic
+variation for number of heads per plant that could be utilized in breeding programmes to select single
+headed types. The presently used normal height niger material has many leaves and a low harvest index.
+Reducing plant height would decrease the number of leaves per plant and result in a better harvest index.
+Shorter plants would be capable of utilizing fertilizer more efficiently thus seed yield could be increased
+through the application of fertilizer. Standard niger types respond to fertilizer application with increase
+vegetative growth, promotes lodging of the crop and with seed yield.
+The second most important breeding objective in niger improvement is increasing the seed oil
+content. There exists a great genetic variability for oil content in Ethiopian and Indian germplasm
+collections which could be used, in a breeding programme, to significantly increase oil content. An
+increase in oil content of 5 percentages seems to be feasible. A genetic improvement programme for niger
+must be based on its pollination behavior. Because of its self incompatibility nature, breeding procedures
+used in the improvement of cross pollinating crops are the methods of choice for niger breeding. The
+standard breeding procedure for cross pollinating crops is recurrent selection. The resulting varieties are
+open pollinated population's varieties. Thus niger is a candidate for hybrid development. The
+identification of genetic male sterility in India and recently in Ethiopia has opened the way for the
+exploitation of heterosis in niger.
+Niger is less attacked by insects and fungal diseases. As modern high yielding, genetically
+uniform cultivars are used, threats from diseases will increase which will require increased emphasis on
+resistance breeding. Wild species of the genus Guizotia could serve as sources for disease resistance genes
+which could be introgressed into the cultivated species. During the last few years modern techniques of
+plant tissue culture, doubled haploid technology and transformation are increasingly used by breeders.
+Protocols to regenerate plants from niger hypocotyl and cotyledon tissues and seedlings were developed.
+Plant regeneration was dependent on genotype and media composition. If niger is susceptible to
+Agrobacterium tumefaciens infection, then it will be a good candidate for gene transfer. Dihaploid plants
+of niger have been produced by anther culture. Self compatible lines, dwarf and single headed doubled
+haploid plants were obtained from anther culture. Anther and microspore derived dihaploids can be used
+to develop homozygous inbred lines in a short time. Recessive, simply inherited and easily identifiable
+marker traits which are important for niger seed production to ensure genetic purity of varieties could be
+obtained through microspore culture technology. Germplasm exchange between Ethiopia and India,
+already a delicate issue, should be explored. However, the Indian materials are early to make use of the
+long Ethiopian growing seasons. Therefore elite lines, e.g. male sterile and dwarf lines, rather than
+5
+accessions would be preferred for Ethiopia. Striking genetic differences exist between the Ethiopian and
+Indian niger. These differences could be investigated using isozyme and molecular markers. It would be
+interesting to investigate which niger ecotype migrated to India. The variation among 'abat', 'bungne' and
+'mesno' niger ecotypes could be differentiated using isozyme and molecular markers. All species within
+the genus Guizotia are diploids with chromosome number of 2n=30. Speciation within the genus Guizotia
+was not as a result of changes in chromosome number. The four species G. abyssinica, G. scabra subsp.
+scabra, G. villosa and G. scabra subsp. schimperi are not reproductively isolated so hybrids among these
+species could be obtained with ease. It would be important to study the progenitor of niger using isozyme
+and molecular markers such as random amplified polymorphic DNAs. The solution to the problem of the
+phylogeny of the species could come from molecular techniques.
+It is often reported that niger has an allopathic and mycorrhizal association. It will be interesting
+to identify the substance associated with the weed suppressing effect of niger. It is important to study the
+mycorrhizal association of niger further. Efficient genotypes and the possibility of biofertilizers should be
+investigated.
+IMPROVED VARIETIES: Under the All India Coordinated Research Project on Niger, a number of varieties
+have been developed and recommended for different niger growing areas. Farmers generally prefer particular
+varieties in different regions/ states for their popularity on the basis of the desirable traits viz., seed colour,
+resistance to biotic and abiotic stresses and higher market prices. The salient features of the recommended
+varieties are given in Table 4.
+
+Note: The details of varieties like seed yield and other salient features are given in the respective states.
+Seed Scenario: The All India Coordinated Research Project on Niger has developed the technology for
+enhancing seed production. The production areas may not necessarily be suitable for seed production
+due to parallel build up of diseases and pests. The seed production shall be undertaken in the areas
+where the environment allows full expression of the diagnostic characters; facilities for protective
+irrigation exist and the productivity and seed quality is high. Cuscuta weed is the major menace for
+seed production. The areas for seed production have to be essentially free from this problem. The
+suitable areas for seed production are Vishakhapatnam and Rangareddy districts in Andhra Pradesh;
+Singhbhun, Dumka and Ranchi in Bihar; Chitradurga, Tumkur and Bangalore in Karnataka; Sidhi,
+Narsingpur, Vidisha, Khandwa and Shivpuri in Madhya Pradesh; Bilaspur in Chattisgrah; Solapur,
+Ratanagiri, Nasik and Latur in Maharashtra; Malakangiri, Koraput, Kalahandi and Navrangpur in
+Orissa.
+Table 5: Estimated requirements of the quality seed in India
+Category
+Seed (Quintals)
+Area (ha)
+Nucleus seed
+0.15
+0.03
+Breeder seed
+10.50
+2.00
+Foundation seed
+675.00
+135.00
+Certified seed
+40000.00
+8000.00
+Niger being cross pollinated crop with self incompatibility mechanism it is very difficult to
+maintain the genetic purity without adopting appropriate isolation distance. An isolation distance of 1000
+m is recommended for nucleus, breeder and the foundation stages of seed production, whereas 500 m for
+certified stage production and should be rigorously followed to produce genetically pure quality seed.
+Rouging should be done strictly to remove all the off type plants, which exhibit variation from the
+parental variety. The plants infested by diseases and pests especially by Cuscuta weed, should be
+removed. The field should be inspected thoroughly at seedling, vegetative, flowering and maturity stages
+by monitoring team consisting of experts. Presently two seed production systems are operating in the
+country. The formal system is being operated through public sector agencies like NSC, SFCI, SSC's, SAU
+and oil federations etc. The seed multiplication ratio in this system is extremely poor. The main advantage
+of this system is that the identity, genetic purity, quality and source of the seed is known to the farmers.
+The Informal system includes multiplication of varieties by private growers or individual farmers and
+sharing the seed by the farmers. The seed of most of niger varieties under cultivation is being produced
+and supplied through this system. The main disadvantage of this system is that the identity, genetic purity,
+quality and source of the seed is not authenticated. However, the seed produced through this system is less
+expensive and easily available to the farmers. The existing formal system of seed production had been
+hardly sufficient to cope up with the seed requirement. The minor crops like niger receive least priority of
+seed producing agencies and therefore the production of quality seed to the farmers in this crop is
+pathetic. The possibility of improving the supply of quality seed in minor crop like niger through the
+8
+formal system in near future appears not to be so bright. Therefore in this crop, alternative systems of seed
+supply may prove worthy for fulfillment of the requirement. Both, the formal and informal systems of
+seed supply, have their own limitations. To overcome the limitations of the prevalent informal system and
+the existing formal seed supply system, the seed production can be undertaken by the research institutes
+and distributed through farmer fairs/field days/sale counters. The direct supply is quite feasible and will
+be rather more effective in view of the specific advantages. This system has been quite successful to cover
+the maximum area under quality seed of improved varieties.
+Another option to augment the seed supply in niger is seed village concept. The institutes can
+choose a single variety produce seed sufficient to cover one village with the single variety. The seed
+village should grow one and the only one variety. The local or other varieties should not be grown in seed
+village. Clubbing together the programme of demonstrations and seed village will prove synergistic for
+the improvement of seed replacement rate.
+SOILS: Niger is adapted to a wide range of soil types from sandy, sandy loam, clay loam and gravely
+soil, however it thrives best on well drained, loamy soils of good depth and texture with pH range of 5.5
+to 7. It can with stand slight alkalinity and salinity also. Heavy clay and black cotton soils are not suitable
+for high yield.
+CROPPING SYSTEM: Generally, niger is grown as kharif and late kharif crop. Short duration crops
+like cowpea and french bean can be taken up before niger in Odisha. For getting higher yield of both the
+crops the first crop should be sown in such a way that niger could be sown latest by August.
+Sequence cropping: Some of the common crop sequences followed in different niger growing states are
+given below (Table 6).
+Table 6: Sequence cropping in different states.
+State
+Crop sequence
+Madhya Pradesh/ Chhattisgarh
+Early Black gram - Niger
+Maharashtra
+Little millet/ Finger millet - Niger
+Horse gram - Niger
+Odisha
+Common millet (Panicum miliaceum) - Niger
+Little millet (Panicum miliare) - Niger
+Early Finger millet - Niger
+French bean - Niger
+Bihar/ Jharkhand
+Little millet - Niger
+Early Finger millet - Niger
+Black gram - Niger
+Early rice - Niger
+Intercropping: Niger is grown as a mixed crop with various pulses and other crops including millets in
+different states. However, the seed yield of sole crop is higher than that of mixed/intercropping system.
+Following intercropping systems have been found profitable and feasible in certain situations (Table 7).
+Table 7: Inter cropping in different states.
+State
+Intercropping
+Row ratio
+Madhya Pradesh
+Niger + Kodo/ Kutki/ Pearl millet/ Green gram
+2:2
+Niger + Groundnut
+4:2 or 6:2
+9
+Maharashtra
+Niger + Finger millet / Horse gram/ Rice bean
+2:2 or 4:2
+Niger + Finger millet/Little millet
+2:4 or 3:6
+Niger + Pearl millet/ Groundnut
+3:3
+Niger + Groundnut
+2:6 or 3:6
+Odisha
+Niger + Finger millet / Black gram
+2:2 or 4:2
+Niger + Ricebean/ Cowpea/ French bean
+4:2
+Bihar
+Niger + Finger millet / Black gram
+2:2
+Niger + Red gram
+3:2
+Niger + Rice bean / Groundnut
+4:2
+Andhra Pradesh
+Niger + Cow pea
+4:2
+Karnataka
+Niger + Groundnut
+6:3
+Niger + Finger millet
+1:1
+AGRONOMIC MANAGEMENT: Niger is sown under rainfed situations in kharif, late kharif and rabi
+seasons as a sole crop or mixed with little millet, finger millet, pearl millet, groundnut or pulse crops in
+different states.
+Land Preparation: Two deep ploughings followed by harrowing and planking are recommended to obtain
+optimum soil tilth to ensure even depth of seed placement and subsequent emergence.
+Optimum time of Sowing: Niger is mainly grown in Kharif, but it can be successfully grown in semi rabi
+and late kharif seasons with limited irrigation. However it is a winter loving crop and high yield are obtained
+in semi rabi season with protective irrigation. Being exclusively a rainfed crop, niger is grown with the onset
+of monsoon. The optimum sowing time is middle of July to early August for kharif crop and September for
+semi rabi crop. Appropriate sowing period for different states is given below (Table 8).
+Table 8: Sowing period in different states.
+State
+Optimum time of sowing
+Madhya Pradesh/ Chhattisgarh
+Third week of July to second week of August
+Maharashtra
+July to early September
+Odisha
+Second fortnight of August to first week of September
+Bihar/ Jharkhand
+Second fortnight of August to first week of September
+Andhra Pradesh
+Second week of August
+Gujarat
+July-August
+Karnataka
+June-July
+Seed rate: The seed rate depends on the method of sowing. Generally 5 kg/ha seed is required for the sole
+crop. Under inter cropping system, seed rate depends upon the spacing and row proportions of the inter crop.
+Seed treatment: To protect the crop from seed and soil borne diseases, seed should be treated with
+Carbendenzim 5 g/kg or Trichoderma viride 10 g/kg of seed before sowing. Seed treatment with Phosphorus
+solublising bacteria (PSB)/Azotobactor/ Azospirillum 10g/kg of seed results in higher seed yield.
+Sowing method: The crop is generally sown by broadcasting. However, line sowing behind the seed drill or
+plough has been found beneficial and recommended. Seeds are mixed with sand/ powdered FYM/ ash to
+increase the bulk, 20 times to ensure even distribution of seed. Planking is done to cover the seed. On slopes,
+line sowing, across the slope is recommended for better soil as well as moisture conservation and efficient
+utilization of available moisture.
+10
+Seeding depth: In niger Seed should be sown to 2-3 cm deep depending upon soil type in and moisture.
+Sowing should be done in adequate moisture for better germination. Seed bed temperature of 15-22°C is
+optimum. Temperatures below 10 °C and above 35 °C impairs germination.
+Spacing: Spacing depends upon soil type and varieties. To obtain optimum yield, appropriate spacing and
+recommended plant population should be maintained (Table 9).
+Table 9: Plant spacing in different states.
+State
+Spacing (cm)
+Maharashtra
+30 x 10
+20 x 10 (High rainfall areas)
+Madhya Pradesh/ Chhattisgarh, Bihar, Jharkhand,
+30 X 10
+Andhra Pradesh, Karnataka and Odisha
+Thinning The normal seed rate recommended for niger results in higher plant stand under optimum soil
+moisture. To maintain optimum plant population (3.3 lakh/ha), thinning is recommended to remove extra
+plants after two weeks of sowing or when the seedlings attain 8-10 cm height.
+Nutrient management: Following fertilizer doses are recommended to obtain higher seed yield (Table 10).
+Table 10: Nutrient management in different states.
+State
+Recommended dose of fertilizer
+Madhya Pradesh
+20:20:10, N:P:K (kg/ha) at the time of sowing as basal and remaining 20 kg N/ha at
+30 days after sowing
+Maharashtra
+Four tonnes of FYM and 20:20, N:P (kg/ha) at the time of sowing and 20 kg N/ha 30
+days after sowing (Top Dressing)
+Odisha
+20:40, N:P (kg/ha) at sowing and remaining 20 kg N/ha at 30 days after sowing
+Bihar/ Jharkhand
+20:20:20:15, N:P:K:S (kg/ha) as basal
+Andhra Pradesh
+Five tonnes of FYM and 10 kg N/ha at sowing
+Karnataka
+20:20-40:10, N:P:K (kg/ha) at sowing
+Application of recommended N through urea + seed treatment with PSB 10 g/kg seed enhances seed
+yield significantly.
+Application of sulphur (20-30 kg/ha) increases seed yield and oil content.
+Weeding: First weeding is done 15-20 days after sowing coupled with thinning. Second weeding may be
+repeated after 15 days after the first weeding if the weed intensity is too high before top dressing of
+nitrogenous fertilizer. In some states like Odisha, Cuscuta (Cuscuta hyalina/ C. chinensis) infestation has
+become a major problem. Seed should be obtained from Cuscuta free areas. If the Cuscuta seed is found
+mixed with niger seed, sowing should be done after separation by sieving with a 1 mm sieve. The niger seed
+infested with Cuscuta may be treated with 10 % brine solution (Table salt) to obtain a Cuscuta free crop.
+Irrigation: Niger is invariably grown in rainy season without any irrigation. Prolonged moisture stress
+adversely affects plant stand and growth of the plant. In such situations, protective irrigation, wherever
+possible, helps in plant stand establishment and gives better seed yield. For semi-rabi crop one or two need
+based irrigations, one at flowering and other at seed filling stage gives higher yield.
+11
+PLANT PROTECTION: The major insect pests and diseases and their management are given in Table 11
+and 12 respectively.
+Table 11: Insect pests and their management.
+Common name
+Nature of damage
+Management / control
+Niger caterpillar
+The caterpillar green with
+Proper weeding reduces hiding places
+(Condica
+purple markings, feed on
+Crop rotation is effective in reducing pest
+conducta)
+leaves and defoliates the
+population
+plants.
+Birds readily eat the caterpillars and help to check
+when they are numerous, 40-50 bird perches are
+sufficient for one hectare
+For effective control of the pests particularly at
+early stage, apply phorate 10G 10 kg /ha as basal
+application.
+Spray NSKE 5% or Neem based insecticide
+(Nimbecidin 5 ml/l water)
+Two sprays of Chloropyriphos 20 EC 1.5 ml/l or
+Quinalphos 25 EC 1.5 ml/l or Triazophos 40 EC 1
+ml/l of water
+Cutworm
+The moth hides under dried
+Keep grass bundles or crop refuges in cluster in
+(Agrotis ipsilon)
+twigs during day time and
+field for the caterpillars to hide during evening and
+lays eggs on leaves. Larvae
+collect the caterpillars early in the morning and kill
+attack the crop and plants at
+by dusting 4% phosalone or malathion 5% dust
+ground level.
+Proper weeding reduces hiding places
+Crop rotation effective in reducing pest population
+For effective control of the pests particularly at
+early stage, apply phorate 10 G 10 kg/ha as basal
+application
+Spray NSKE 5% or Neem based insecticide
+(Nimbecidin 5 ml/l water)
+Two sprays of Chloropyriphos 20 EC 1.5 ml/l or
+Quinalphos 25 EC 1.5 ml/l of water
+Bihar
+Hairy
+The caterpillars remain
+Collection and destruction of egg masses of early
+caterpillar
+gregarious under neath leaves
+instars of caterpillars
+(Spilosoma
+in early stages and cause
+Spray NSKE 5% or Neem based insecticide
+obliqua)
+serious loss in yield at third
+(Nimbecidin 5 ml/l water)
+and fourth instar.
+Two spraying of any one of the following
+insecticides Chloropyriphos 20 EC 1.5 ml/l or
+Triazophos 40 EC 1 ml/l or Quinalphos 25 EC 1.5
+ml/l or Acephate 75% SP 1.5 g/l or Indoxacarb 15.8
+EC 0.5 ml/l
+Surface
+These are usually active in
+Dusting with 4% phosalone or malathion 5% dust
+grasshopper
+early stage of the crop. These
+25 kg/ha can control the pest in early stage
+(Chrotogonus sp.)
+grass hoppers being general
+feeders also cause damage to
+a great extent in its early
+stage.
+Aphids
+This is one of the sucking pest
+Spray NSKE 5% or Neem based insecticide
+(Uroleucon
+of niger during later period of
+(Nimbecidin 5 ml/l)
+carthami)
+crop growth.
+Spray crop at bud initiation stage with any one of
+the following insecticides dimethoate 30 EC
+1.5ml/l or Quinalphos 25 EC 1.5 ml/l or
+Dichlorvos 76 EC 1 ml/l or Triazophos 40 EC 1
+ml/l or Imidacloprid 17.8% SL 0.25ml/l
+Semilooper
+The semilooper feeds on the
+As recommended in case of hairy caterpillar
+(Plusia
+leaves and defoliates the
+orichalcea)
+plant.
+12
+Niger capsule fly
+Maggot feed on seed and pulp
+Install the light trap one per ha.
+(Dioxyma
+inside the capitula.
+Spray Quinalphos 25 EC 1.5 ml/l or Acephate
+sarorcula)
+75% SP 1.5 g/l of water
+Table 12: Important diseases and their management.
+Disease
+Symptoms
+Management
+(Causal organism)
+Cercospora leaf spot
+Disease appears as small straw to
+Seed treatment with Thiram (0.2%) + Bavistin
+(Cercospora guizoticola)
+brown coloured spots with gray
+(0.1%)
+centre on the leaves, spots may
+Two foliar sprays with Bavistin (0.1%) +
+coalesce causing defoliation.
+Dithane M 45 (0.25%)
+Alternaria leaf spot
+Spots are brown to black with
+Seed treatment with Thiram (0.2%)+ Bavistin
+(Alternaria sp.)
+concentric rings.
+(0.1%)
+Spraying with Dithane M 45 (0.25%) + Bavistin
+(0.1%) at 15 days interval
+Powdery mildew
+Small powdery spots appear on
+Foliar spray of 0.2% Wettable sulphur or
+(Sphaerotheca sp.)
+leaves, which gradually spread on
+Bavistin (0.1%) or Karathane (0.1%) when
+the lamina and stem resulting in
+disease appears
+defoliation.
+Stem/root rot
+Infected roots are light blackish to
+Seed treatment with Thiram (0.2%) + Bavistin
+(Macrophomina
+black in colour, which are covered
+(0.1%)
+phaseolina)
+with black sclerotia and are brittle.
+Deep ploughing in the summer
+The blackening extends from ground
+Crop rotation
+level upward on the stem giving
+Apply 2.5 kg/ha Trichoderma Viride mixing
+black colour to stem.
+with 50 kg FYM in the field before sowing
+Cuscuta weed
+Infested plants are stunted, pale
+Removal of Cuscuta seed by seiving before
+(Cuscuta chinensis/
+yellow with small flowers.
+sowing
+C. hyalina)
+Steeping of Cuscuta seed in brine solution before
+sowing
+Removal of Cuscuta infested niger seedlings at
+the early crop growth
+Pre sowing soil application of Fluchloralin (1 kg
+a.i./ha)
+Pre emergence application of Pendimethalin (1
+kg a.i./ha)
+HARVESTING: Niger usually matures in 95-105 days after sowing. The crop should be harvested when the
+leaves dry up and the capitula turns brownish / blackish in colour.
+THRESHING: After drying for a week by stacking, the crop is threshed by beating with sticks.
+POST HARVEST HANDLING: The threshed material is cleaned by winnowing. The produce is dried for
+quality upgradation to reduce moisture content upto 8% and then stored properly. The quality of produce
+should be upgraded through sieving, as neat and clean produce with bold lustrous seed, free from trash, pests
+and discoloured unfilled seed, find greater demand and fetch better price in the market.
+BEE KEEPING: Existence of self incompatibility, sticky pollen grains not amicable for wind pollination,
+consequently results in entomophyllous pollination. Large number of attractive coloured flowers, well
+distributed long flowering period of 45-80 days, make niger the ideal crop for bee keeping. The productivity
+and profitability of niger is substantially increased through bee keeping. An additional yield (10 to 20 %) +
+Rs. 1500/ha from honey can be realized through bee keeping with niger over open pollinated crop.
+13
+ECONOMICS OF CULTIVATION: With the adoption of improved technology, the seed yield upto 450
+kg/ha, gross returns of Rs. 15000/ha and the net additional returns of Rs. 4200/ha can be obtained.
+Table 13: Economics of improved technology under real farm situations (FLD's).
+Seed yield
+Cost of cultivation
+Gross returns
+Additional net
+Benefit
+State
+(kg/ha)
+(Rs./ha)
+(Rs./ha)
+returns (Rs./ha)
+cost ratio
+Bihar
+446
+7586
+15598
+4328
+2.05
+Jharkhand
+407
+8000
+12210
+2370
+1.53
+Haryana
+422
+11700
+21200
+5340
+1.81
+Maharashtra
+498
+9740
+21260
+7137
+2.18
+Odisha
+332
+7603
+9660
+1700
+1.27
+India
+421
+8926
+15986
+4175
+1.79
+CROP DEVELOPMENT PROGRAMME: In India Niger is predominantly grown in tribal pockets of
+Madhya Pradesh, Orissa, Chattisgarh, Maharashtra, Andhra Pradesh and Karnataka. Niger is cultivated
+under varying agro climatic conditions. Inspite of maximum acreage in the world, the productivity of the
+crop is low in India, around 300 to 350 kg/ha. The short term and long term strategies, which could
+increase the production and productivity of the crop need to be followed. The quality seed of high
+yielding varieties to the farmers is not available. For that improvement in the seed chain is needed so that
+foundation and certified seed are produced in larger quantities. Replacement of old local varieties,
+development of integrated nutrient management, integrated weed management for Cuscuta and low
+cost production technology has to be ensured for improvement in production. The improved production
+technology for niger would increase productivity considerably. Farmers should be encouraged to include
+organic manures and bio pesticides for sustainability in production. For export promotion development
+of black, bold seeded varieties is needed. Seed production programme and quality seed supply could be
+taken through seed villages.
+Improved production technology has been developed for niger. However because of poor
+extension system, the technology does not reach to the farmers. In order to motivate them, they must be
+approached through mass media. Improvement in transfer of technology through large number of FLDs to
+demonstrate the benefit of technology in remote tribal pockets must be encouraged. Supply of bee hives in
+niger growing areas should be ensured.
+Research responsibility of niger centres
+Development of high yielding, fertilizer
+Chhindwara, Semiliguda, Kanke, Igatpuri, Vanarasi
+responsive varieties
+Seed production technology
+Chhindwara, Semiliguda, Kanke, Igatpuri, Vanarasi,
+Integrated management of Cuscuta
+Semiliguda, Kanke
+Export of Niger: Despite low productivity and production, the contribution to the export earnings has
+been encouraging. India is the world leader in production and export of niger therefore, the world markets
+will continue to be influenced by the niger production and marketable surplus. The quality of the produce
+to suit the international standards will continue to be important. Therefore, to enhance the export, a three
+tier strategy involving research, production and export agencies need to be developed. A close
+14
+coordination of these agencies can produce synergistic effect on the export promotion. Niger seed is one
+of the major ingredients of the bird feed, which comprises a mixture of safflower, sunflower seed,
+peanuts, field peas, corn and other ingredients. The size of world bird feed market is increasing every
+year. India could earn the foreign exchange of Rs. 100 crores by export of niger seed and the oil meal.
+India is the largest exporter in the world and USA, Netherlands, Italy, Germany, Belgium and Spain are
+the regular buyers. USA is the largest buyer in the world. In fact, India faces competition from Nepal in
+the export.
+Table 14 : Year-wise Export status of Niger(India)
+Year
+Quantity ('000
+Value (Rs. in
+Year
+Quantity ('000
+Value (Rs. in
+tonnes)
+crores)
+tonnes)
+crores)
+2001-02
+22.22
+47.85
+2007-08
+21.68
+90.23
+2002-03
+36.13
+77.99
+2008-09
+13.72
+64.23
+2003-04
+17.89
+45.41
+2009-10
+6.00
+24.23
+2004-05
+26.14
+64.74
+2010-11
+12.86
+44.51
+2005-06
+28.42
+60.25
+2011-12
+28.22
+117.27
+2006-07
+30.02
+66.87
+2012-13
+17.90
+90.13
+SWOT Analysis: Lifeline of tribal agriculture and economy; Maximum production and largest area in
+world; Maximum export in international market; High export potential, best bird feed; Low vulnerability to
+pests and diseases; Low input requirement, grows successfully without costly chemicals is the strength. Low
+yield levels; Low harvest index; Poor transfer and adoption of improved technology; High susceptibility to
+Cuscuta are the weaknesses. Best crop for waste lands; Honeybees rearing for higher productivity and
+profitability; Contributes to soil conservation and land rehabilitation; Weed suppression due to allelopathic
+effect; Oil good, taste akin to desi ghee; Good for health <70% unsaturated fatty acids; Organic production
+of edible oil, a commodity for 21ˢᵗ century are opportunities. Exploitation of the farmers by the traders;
+Nepal is a potential competitor in the international market; Cuscuta-a major menace of the crop are the
+threats.
+Diversified uses: The niger oil is used for cooking, lighting, anointing, painting and cleaning of machinery.
+The oil is used for pharmaceutical purposes and can be used for soap-making. The meal remaining after the
+oil extraction contains about 24% protein and 24% crude fibre. A niger-based agar medium can be used to
+distinguish Cryptococcus neoformans (Sant) Vaill, a fungus that causes a serious brain ailment, from other
+fungi. The oil is used for birth control and for the treatment of syphilis. Niger sprouts mixed with garlic and
+'tej' are used to treat coughs.
+Exploitable Yield Reservoir: The impact of improved niger production technologies implied that there
+exists a wide yield gap that could have been harnessed by the adoption of recommended niger production
+practices. The efforts were made to work out the extent of exploitable yield reservoir that could be harnessed
+in niger. Keeping in view, the whole package demonstrations of three years (2010-11, 2011-12 and 2012-13)
+conducted in Maharashtra (35), Odisha (32), Madhya Pradesh (38), Jharkhand (52) and All India (157) were
+considered (Table 13). The yield Gap-I (between IT and FP) was ranging from 60.0 % in Maharashtra to
+15
+149.0 % in Odisha. The national niger production could be increased to 185.0 thousand tonne from 101.0
+thousand tonne, if the yield gap-I is bridged. The yield gap-II (Which is the percent increase in the yield in IT
+over the state average yield) ranged between 68 % in Jharkhand to 146 % in Madhya Pradesh with an overall
+yield gap-II of 75.0% for whole country. The exploitable yield reservoir I (EP-I) ranged between 6.89
+thousand tonnes in Jharkhand to 81.0 thousand tonnes in Odisha. The EP-II value ranged between 7.0
+thousand tonnes in Jharkhand to 60.0 thousand tones in Madhya Pradesh. The over all EP-I was 185
+thousand tonnes in India while EP-II was of 178.0 thousand tonnes.
+Table 13 : Exploitable yield reservoir in niger
+No. of
+FLD'S Average
+Yield
+Average
+Yield
+Average
+Expected
+State
+Demos.
+Yield (kg/ha)
+gap-I
+yield
+gap-II
+Production
+production ('000
+(%)
+(kg/ha)
+(%)
+('000
+tonnes)
+IT
+FP
+tonnes)
+EP-I
+EP-II
+Jharkhand
+52
+704.6
+426.3
+65.2
+419.33
+68.04
+4.17
+6.89
+7.00
+Maharashtra
+35
+496.0
+310.00
+60.0
+279.67
+77.35
+9.33
+14.93
+16.55
+Madhya
+Pradesh
+38
+603.0
+293.33
+105.5
+245.00
+146.12
+24.50
+50.36
+60.30
+Odisha
+32
+277.6
+111.33
+149.4
+382.33
+-
+32.67
+81.47
+23.72
+All India
+157
+520.3
+285.25
+82.4
+296.00
+75.79
+101.57
+185.27
+178.54
+IT=Improved Technology; FP=Farmer's Practices; yield gap-I=Increase in IT over FP expressed in percentage.
+Tips to obtain higher yield:
+Use good quality seed of recommended variety for the region.
+Treat the seed with fungicide before sowing.
+Apply recommended dose of fertilizers at proper time.
+Prepare fine seed bed free from clods.
+Take up sowing at appropriate time with proper spacing between rows and maintain proper spacing
+between plants within the rows by thinning 15-20 days after sowing.
+Keep the field weed free up to 30 days after sowing.
+Adopt plant protection measures as and when needed against insect pests and diseases. Avoid
+applying insecticide during flowering period to safeguard the honey bees aiding pollination.
+Harvest the crop at physiological maturity i.e. when the leaves turn yellow and achene's turn black to
+avoid damage and shattering of seed.
+Dry the plants well before threshing; dry the seed well before storage.
+Rearing honeybees in bee hives near niger field will add Rs. 3500/ha in the net income of farmers.
+16
+All India Co ordinated Research Project on Sesame and Niger
+(Indian Council of Agricultural Research)
+JNKVV Campus, Jabalpur - 482 004 (M.P.) India
+Phone : +91 (0761) 4030409, 2680254, Fax : +91 (0761) 2681050, 4030409
+E-mail : pcunitjabalpur@rediffmail.com, argranga@gmail.com
+Gram : KRISHIVISWA

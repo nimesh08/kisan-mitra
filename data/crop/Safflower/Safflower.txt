@@ -1,0 +1,84 @@
+# Characters of notified varieties/hybrids of Safflower (2015 onwards)
+
+## A) Varieties
+
+| Variety | Year of Release | Released Centre | Yield potential (Kg/ha) | Oil content (%) | Recommended states| Salient features/traits |
+|---|---:|---|---:|---:|---|---|
+| NARI-57 | 2015 | AICRP, Nari, Phaltan | 1500 | 29 | Maharashtra, Karnataka, Madhya Pradesh, Rajasthan, Punjab, Uttar Pradesh, Jammu & Kashmir, West Bengal | Resistant to Wilt; recommended for irrigated area |
+| NARI-96 | 2018 | AICRP, Nari, Phaltan | 2023 | 33.21 | Maharashtra, Telangana, Andhra Pradesh, Madhya Pradesh, Chhattisgarh & Rajasthan | Recommended for irrigated area |
+| DSH-185 | 2018 | IIOR Hyderabad | 1740 | 28 | All India | Resistant to Fusarium wilt |
+| Pride (ISF-1) | 2020 | IIOR, Hyderabad | 1236 (R); 1864 (I) | 30.50 | All India; Telangana, Andhra Pradesh, Madhya Pradesh, Chhattisgarh, Karnataka, Maharashtra, Bihar, Uttar Pradesh, Rajasthan | 1st Oleic variety; oleic acid content 76% |
+| Lakshmi Priya (ISF 764) | 2019 | IIOR, Hyderabad | 1583 (R); 2274 (I) | 31 | All India; Karnataka, Maharashtra, Telangana, Andhra Pradesh, Madhya Pradesh, Uttar Pradesh, Bihar, Chhattisgarh, West Bengal, Gujarat, Odisha | Spiny variety; resistant to lodging and seed shattering; high yielding |
+| SSF 12-40 | 2019 | MPKV Rahuri | 1713 | 32.90 | Maharashtra, Karnataka, Telangana, Andhra Pradesh | Moderately tolerant to aphid |
+| Chhattisgarh Kusum-1 (RSS 2012-11) | 2020 | AICRP (Safflower) centre, IGKV, Raipur | 1677 | 33 | Chhattisgarh | Moderately resistant to Alternaria leaf spot |
+| SSF-13-71 | 2020 | AICRP (Safflower), Solapur, MPKV, Rahuri | 1683; 1700–1800 (rainfed); 2500–2700 (irrigated) | 29.5 | Maharashtra, Karnataka, Telangana, Andhra Pradesh | Moderately tolerant to aphid and wilt; tolerant to Alternaria leaf spot |
+| ICKV Kusum (RSS 2016-03) | 2021 | IGKV, Raipur | 2710 | 34.30 | Chhattisgarh, Madhya Pradesh | Moderately resistant to fusarium wilt |
+| Phule Gold (SSF-15-65) | 2021 | MPKV Rahuri | 1642 | 31.48 | Maharashtra, Karnataka, Telangana, Andhra Pradesh | Moderately tolerant to aphid |
+| Phule Kiran (SSF-16-02) | 2021 | MPKV Rahuri | 1747 | 28.39 | Maharashtra, Karnataka, Telangana, Andhra Pradesh, Madhya Pradesh, Chhattisgarh | Moderately tolerant to aphid and Alternaria leaf spot |
+| DSAF-1 (ANG-18-02) | 2021 | ARS, Annigeri | 1802 | 28.20 | Karnataka, Maharashtra, Telangana, Andhra Pradesh | Resistant/moderately resistant to Fusarium wilt; tolerant to abiotic stresses |
+| Annigeri-2020 (ANG17-102) | 2021 | ARS, Annigeri | 1800 | 28.60 | Maharashtra, Karnataka, Telangana, Andhra Pradesh | Resistant to diseases and insect pests; tolerant to abiotic stresses |
+| RVSAF 14-1 (Raj Vijay Safflower 14-1) | 2021 | RVSKVV, Indore (MP) | 1792 | 30.00 | Madhya Pradesh | Moderately tolerant to wilt and aphids |
+| RVSAF 18-1 (Raj Vijay Safflower 18-1) | 2021/2023 | RVSKVV, Indore (MP) | 1766 | 38.99 | Karnataka, Madhya Pradesh, Maharashtra, Telangana, Andhra Pradesh, Chhattisgarh, Jharkhand | Moderately resistant to Alternaria leaf spot; resistant to Fusarium wilt |
+| PBNS-184 | 2022 | AICRP on Safflower, VNMKV, Parbhani | 1531 | 31.30 | Maharashtra, Karnataka, Andhra Pradesh, Telangana | Moderately resistant to Fusarium wilt; tolerant to Alternaria leaf spot; moderately tolerant to aphid |
+| Parbhani Suvarna (PBNS-154) | 2023 | AICRP-Safflower, VNMKV, Parbhani (MS) | 1579 | 30.9 | Maharashtra | Moderately resistant to Fusarium wilt; tolerant to Alternaria leaf spot; moderately resistant to aphid |
+| Rajvijay Safflower 18-3 (RVSAFF18-3) | 2023 | RVSKVV, College of Agriculture, Indore | 1726 | 33.4 | Madhya Pradesh | Spiny; high oil content 33.29%; resistant to wilt |
+| Chhattisgarh Kusum-2 (RSS 2012-7) | 2024 | ICAR-AICRP on Oilseeds, IGKV, Raipur | — | — | Chhattisgarh | Open-pollinated variety |
+| ISF-300 | 2024 | ICAR-IIOR, Hyderabad | 1796 | 38.2 | Maharashtra, Karnataka, Andhra Pradesh, Telangana, Madhya Pradesh, Chhattisgarh | High oil and seed yield; resistant to Fusarium wilt; suited for all safflower areas |
+| ISF-123-Sel-15 | 2024 | ICAR-IIOR, Hyderabad | 1631 | 34.3 | Karnataka, Maharashtra, Andhra Pradesh, Telangana | Resistant to Fusarium wilt (wilt sick plots). Moderately susceptible to Alternaria leaf spot under natural infection. Suited for rainfed cultivation. |
+| Phule Bhumi (SSF-18-02) | 2024 | AICRP on Safflower, MPKV ZARS, Solapur | 1844 | 33.7 | Maharashtra, Karnataka, Telangana, Andhra Pradesh, Madhya Pradesh, Chhattisgarh | Fertilizer responsive; suitable for late sowing up to Oct end (recommended seed rate); less hull content (46.50%) vs check A1 (50.2%) |
+
+## B) Hybrids
+
+| Hybrid | Year of Release | Releasing Centre | Yield potential (Kg/ha) | Oil content (%) | Recommended states | Salient features/traits |
+|---|---:|---|---:|---:|---|---|
+| ISH-402 | 2023 | ICAR-IIOR, Hyderabad | 2325 | 31.2 | Telangana, Andhra Pradesh, Maharashtra, Karnataka, Chhattisgarh, Madhya Pradesh | Resistant to lodging; no shattering |
+
+---
+
+# State-wise recommended varieties of Safflower (2015–2025)
+
+| S.No | State | 2015–2020 Varieties | 2021–2025 Varieties |
+|---:|---|---|---|
+| 1 | Andhra Pradesh | NARI-96 (2018); DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019); SSF 12-40 (2019) | Phule Gold (SSF-15-65) (2021); Phule Kiran (SSF-16-02) (2021); DSAF-1 (ANG-18-02) (2021); Annigeri-2020 (ANG17-102) (2021); PBNS-184 (2022); RVSAF 18-1 (2021/2023); ISF-300 (2024); ISF-123-Sel-15 (2024); Phule Bhumi (SSF-18-02) (2024) |
+| 2 | Arunachal Pradesh | DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | — |
+| 3 | Assam | DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | — |
+| 4 | Bihar | DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | — |
+| 5 | Chhattisgarh | NARI-96 (2018); DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | ICKV Kusum (RSS 2016-03) (2021); Phule Kiran (SSF-16-02) (2021); RVSAF 18-1 (2021/2023); Chhattisgarh Kusum-2 (RSS 2012-7) (2024); ISF-300 (2024); Phule Bhumi (SSF-18-02) (2024) |
+| 6 | Gujarat | DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | — |
+| 7 | Goa | DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | — |
+| 8 | Haryana | DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | — |
+| 9 | Himachal Pradesh | DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | — |
+| 10 | Jammu & Kashmir | NARI-57 (2015); DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | — |
+| 11 | Jharkhand | DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | RVSAF 18-1 (2021/2023) |
+| 12 | Karnataka | NARI-57 (2015); DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019); SSF 12-40 (2019) | Phule Gold (SSF-15-65) (2021); Phule Kiran (SSF-16-02) (2021); DSAF-1 (ANG-18-02) (2021); Annigeri-2020 (ANG17-102) (2021); PBNS-184 (2022); NARI-H-23 (2013); RVSAF 18-1 (2021/2023); ISF-300 (2024); ISF-123-Sel-15 (2024); Phule Bhumi (SSF-18-02) (2024) |
+| 13 | Kerala | DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | — |
+| 14 | Ladakh | DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | — |
+| 15 | Madhya Pradesh | NARI-57 (2015); NARI-96 (2018); DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | ICKV Kusum (RSS 2016-03) (2021); Phule Kiran (SSF-16-02) (2021); RVSAF 14-1 (2021); RVSAF 18-1 (2021); Rajvijay Safflower 18-3 (2023); NARI-H-23 (2013); RVSAF 18-1 (2021/2023); ISF-300 (2024); Phule Bhumi (SSF-18-02) (2024) |
+| 16 | Maharashtra | NARI-57 (2015); NARI-96 (2018); DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019); SSF 12-40 (2019) | Phule Gold (SSF-15-65) (2021); Phule Kiran (SSF-16-02) (2021); DSAF-1 (ANG-18-02) (2021); Annigeri-2020 (ANG17-102) (2021); PBNS-184 (2022); Parbhani Suvarna (PBNS-154) (2023); NARI-H-23 (2013); ISF-300 (2024); ISF-123-Sel-15 (2024); Phule Bhumi (SSF-18-02) (2024) |
+| 17 | Manipur | DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | — |
+| 18 | Meghalaya | DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | — |
+| 19 | Mizoram | DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | — |
+| 20 | Nagaland | DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | — |
+| 21 | Odisha | DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | — |
+| 22 | Puducherry | DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | — |
+| 23 | Punjab | NARI-57 (2015); DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | — |
+| 24 | Rajasthan | NARI-57 (2015); NARI-96 (2018); DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | — |
+| 25 | Sikkim | DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | — |
+| 26 | Tamil Nadu | DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | — |
+| 27 | Telangana | NARI-96 (2018); DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019); SSF 12-40 (2019) | Phule Gold (SSF-15-65) (2021); Phule Kiran (SSF-16-02) (2021); DSAF-1 (ANG-18-02) (2021); Annigeri-2020 (ANG17-102) (2021); PBNS-184 (2022); RVSAF 18-1 (2021/2023); ISF-300 (2024); ISF-123-Sel-15 (2024); Phule Bhumi (SSF-18-02) (2024) |
+| 28 | Tripura | DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | — |
+| 29 | Uttar Pradesh | NARI-57 (2015); DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | — |
+| 30 | Uttarakhand | DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | — |
+| 31 | West Bengal | NARI-57 (2015); DSH-185 (2018); Pride (ISF-1) (2020); Lakshmi Priya (ISF 764) (2019) | — |
+
+## State-wise recommended Hybrids of Safflower (2015–2025)
+
+| State | Hybrids (2021–2025) |
+|---|---|
+| Andhra Pradesh | ISH-402 (2023) |
+| Chhattisgarh | ISH-402 (2023) |
+| Karnataka | ISH-402 (2023) |
+| Madhya Pradesh | ISH-402 (2023) |
+| Maharashtra | ISH-402 (2023) |
+| Telangana | ISH-402 (2023) |
+

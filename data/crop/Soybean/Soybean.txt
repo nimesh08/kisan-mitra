@@ -1,0 +1,1539 @@
+**Characters of notified varieties of Soybean from 2014 onwards**
+
++-------+-----+--------+-----+-----+-------------+------------------+
+| *     | **Y | **Re   | *   | **  | **          | **Salient        |
+| *Vari | ear | leased | *Yi | Oil | Recommended | features**       |
+| ety** | of  | Ce     | eld | and | sta         |                  |
+|       | Rel | ntre** | pot | P   | tes         |                  |
+|       | eas |        | ent | rot |             |                  |
+|       | e** |        | ial | ein |          ** |                  |
+|       |     |        | (Kg | c   |             |                  |
+|       |     |        | /ha | ont |             |                  |
+|       |     |        | )** | ent |             |                  |
+|       |     |        |     | (%  |             |                  |
+|       |     |        |     | )** |             |                  |
++=======+=====+========+=====+=====+=============+==================+
+| RVS   | 2   | RAK    | 226 | 21  | Madhya      | Tolerant to      |
+| 2     | 014 | CoA,   | 4.5 | .50 | Pradesh     | major leaf, pod  |
+| 001-4 |     | RVSKVV |     |     |             | & root diseases. |
+|       |     | S      |     | 42  |             | Tolerant to      |
+|       |     | ehore, |     | .00 |             | girdle beetle &  |
+|       |     | Bhopal |     |     |             | semi looper      |
++-------+-----+--------+-----+-----+-------------+------------------+
+| JS-   | 2   | JNKVV, | 2   | 20  | Madhya      | High oil         |
+| 20-29 | 014 | Ja     | 125 | .90 | Pradesh,    | content,         |
+|       |     | balpur |     |     | M           | resistant to YMV |
+|       |     |        |     | 41  | aharashtra, | and Charcoal     |
+|       |     |        |     | .10 | Rajasthan,  | Rot;             |
+|       |     |        |     |     | Uttar       | re               |
+|       |     |        |     |     | Pradesh     | sistant/tolerant |
+|       |     |        |     |     |             | to insect pests  |
++-------+-----+--------+-----+-----+-------------+------------------+
+| JS-   | 2   | JNKVV, | 2   | 20  | Madhya      | Resistant to     |
+| 20-34 | 014 | Ja     | 052 | .30 | Pradesh,    | Charcoal Rot,    |
+|       |     | balpur |     |     | M           | Girdle beetle    |
+|       |     |        |     | 40  | aharashtra, | and Stem fly     |
+|       |     |        |     | .80 | Rajasthan,  |                  |
+|       |     |        |     |     | Uttar       |                  |
+|       |     |        |     |     | Pradesh     |                  |
++-------+-----+--------+-----+-----+-------------+------------------+
+| M     | 2   | VNMKV, | 250 | 20  | Karnataka   | Resistant to     |
+| AUS-2 | 014 | Pa     | 0 - | .00 |             | bacterial        |
+| (P    |     | rbhani | 3   |     |             | postule and      |
+| ooja) |     |        | 500 |     |             | leafspots, leaf  |
+|       |     |        |     |     |             | miner, stem fly  |
+|       |     |        |     |     |             | and blue beetle  |
++-------+-----+--------+-----+-----+-------------+------------------+
+| MAUS  | 2   | VNMKV, | 2   | 21  | Maharashtra | Tolerant against |
+| -162  | 014 | Pa     | 000 | .37 |             | charcoal rot,    |
+|       |     | rbhani | -3  |     |             | *Rhizoctonia*    |
+|       |     |        | 000 | 41  |             | root rot and     |
+|       |     |        |     | .95 |             | *Rhizoctonia*    |
+|       |     |        |     |     |             | aerial blight    |
++-------+-----+--------+-----+-----+-------------+------------------+
+| D     | 2   | UAS,   | 2   | 18  | Karnataka,  | Resistant to     |
+| sb-21 | 014 | D      | 807 | .20 | Tamil Nadu, | rust             |
+|       | /15 | harwad |     |     | Andhra      |                  |
+|       |     |        |     | 38  | Pradesh,    |                  |
+|       |     |        |     | .20 | Kerala &    |                  |
+|       |     |        |     |     | Maharashtra |                  |
++-------+-----+--------+-----+-----+-------------+------------------+
+| N     | 2   | ICAR - | 2   | 19  | Madhya      | Resistant to     |
+| RC-86 | 015 | IISR-  | 128 | .80 | Pradesh,    | bacterial        |
+| (ahil |     | Indore |     |     | Rajasthan,  | pustule, pod     |
+| ya-6) |     |        |     | 40  | Gujarat,    | blight, collar   |
+|       |     |        |     | .60 | Uttar       | rot, charcoal    |
+|       |     |        |     |     | Pradesh &   | rot, girdle      |
+|       |     |        |     |     | Maharashtra | beetle and stem  |
+|       |     |        |     |     |             | fly              |
++-------+-----+--------+-----+-----+-------------+------------------+
+| KD    | 2   | RRS,   | 2   | 16  | M           | Tolerant to      |
+| S-344 | 015 | MPKV,  | 555 | .80 | aharashtra, | rust. Resistant  |
+| (     |     | Sangli |     | 34  | Karnataka,  | to stem fly, pod |
+| Phule |     |        |     | .60 | Tamil Nadu  | borer and leaf   |
+| Ag    |     |        |     |     | &Telangana  | roller           |
+| rani) |     |        |     |     |             |                  |
++-------+-----+--------+-----+-----+-------------+------------------+
+| Pusa  | 2   | IARI,  | 2   | 19  | North Plain | Resistant to     |
+| 12    | 015 | New    | 286 | .60 | Zone        | YMV,             |
+| (DS   |     | Delhi  |     |     |             | *Rhizoctonia*    |
+| 1     |     |        |     | 37  |             | aerial blight    |
+| 2-13) |     |        |     | .80 |             | and Bacterial    |
+|       |     |        |     |     |             | pustules         |
++-------+-----+--------+-----+-----+-------------+------------------+
+| SL    | 2   | PAU,   | 2   | 19  | Punjab      | Resistant to YMV |
+| 958   | 015 | Lu     | 282 | .80 |             | and SMV          |
+|       |     | dhiana |     |     |             |                  |
+|       |     |        |     | 42  |             |                  |
+|       |     |        |     | .00 |             |                  |
++-------+-----+--------+-----+-----+-------------+------------------+
+| MACS  | 2   | ARI    | 2   | 18  | Southern    | Moderately       |
+| 1281  | 016 | Pune   | 519 | .15 | Zone        | resistant to     |
+|       |     |        |     | 40  |             | bacterial        |
+|       |     |        |     | .00 |             | postule and      |
+|       |     |        |     |     |             | bacterial leaf   |
+|       |     |        |     |     |             | blight, stem     |
+|       |     |        |     |     |             | fly,             |
+|       |     |        |     |     |             | defoliators, pod |
+|       |     |        |     |     |             | borer and leaf   |
+|       |     |        |     |     |             | folder           |
++-------+-----+--------+-----+-----+-------------+------------------+
+| JS    | 2   | JNKVV  | 1   | 20  | Madhya      | Resistant YMV,   |
+| 20-69 | 016 | Ja     | 852 | -22 | Pradesh     | Charcoal Rot,    |
+|       |     | balpur |     | 39  |             | Bacterial        |
+|       |     |        |     | -42 |             | Pustules,        |
+|       |     |        |     |     |             | *Alternaria*     |
+|       |     |        |     |     |             | Leaf spot, Pod   |
+|       |     |        |     |     |             | blight, Indian   |
+|       |     |        |     |     |             | bud blight,      |
+|       |     |        |     |     |             | Target leaf spot |
++-------+-----+--------+-----+-----+-------------+------------------+
+| VL    | 2   | VPKAS, | 1   | 18  | Uttarakhand | Moderately       |
+|       | 016 | A      | 970 | .60 | Hills       | resistant to     |
+| Soya  |     | lmorah |     | 38  |             | frog eye leaf    |
+| 77    |     |        |     | .91 |             | spot, pod        |
+|       |     |        |     |     |             | blight, girdle   |
+|       |     |        |     |     |             | beetle and stem  |
+|       |     |        |     |     |             | fly              |
++-------+-----+--------+-----+-----+-------------+------------------+
+| VL    | 2   | VPKAS, | 1   | 15  | Uttarakhand | Highly resistant |
+|       | 016 | A      | 642 | .42 | Hills       | to frog eye leaf |
+| Bhat  |     | lmorah |     | 41  |             | spot, target     |
+| 201   |     |        |     | .02 |             | leaf spot,       |
+|       |     |        |     |     |             | girdle beetle    |
+|       |     |        |     |     |             | and moderately   |
+|       |     |        |     |     |             | resistant to pod |
+|       |     |        |     |     |             | blight and stem  |
+|       |     |        |     |     |             | fly              |
++-------+-----+--------+-----+-----+-------------+------------------+
+| Raj   | 2   | RAK    | 1   | 2   | Central     | Resistant to YMV |
+| So    | 017 | C      | 905 | 1-2 | Zone        |                  |
+| ya-24 |     | ollege |     | 2.5 |             |                  |
+| (RVS  |     | of     |     | 41  |             |                  |
+| 20    |     | Agricu |     | .00 |             |                  |
+| 02-4) |     | lture, |     |     |             |                  |
+|       |     | R      |     |     |             |                  |
+|       |     | VSKVV, |     |     |             |                  |
+|       |     | Sehore |     |     |             |                  |
++-------+-----+--------+-----+-----+-------------+------------------+
+| Pant  | 2   | G      | 2   | 19  | Uttarakhand | Resistant to     |
+| Soya  | 017 | BPUA&T | 057 | .25 |             | Yellow Mosaic    |
+| 21    |     | Pan    |     | 40  |             | Virus (YMV), SMV |
+| (PS   |     | tnagar |     | .50 |             | & Bacterial      |
+| 1480) |     |        |     |     |             | Pustule.Tolerant |
+|       |     |        |     |     |             | to *Rhizoctonia* |
+|       |     |        |     |     |             | Aerial Blight    |
++-------+-----+--------+-----+-----+-------------+------------------+
+| Pant  | 2   | G      | 1   | 40  | Uttarakhand |                  |
+| Soya  | 017 | BPUA&T | 915 | .50 |             |                  |
+| 23    |     | Pan    |     | 19  |             |                  |
+| (PS   |     | tnagar |     | .80 |             |                  |
+| 1521) |     |        |     |     |             |                  |
++-------+-----+--------+-----+-----+-------------+------------------+
+| Pant  | 2   | G      | 2   | 20  | Uttar       | Resistant to     |
+|       | 017 | BPUA&T | 560 | .50 | Pradesh &   | YMV, Bacterial   |
+| S     |     | Pan    |     |     | Uttarakhand | Pustule, lodging |
+| oy-24 |     | tnagar |     | 40  |             | and shattering   |
+| (PS ) |     |        |     | .00 |             | and moderately   |
+|       |     |        |     |     |             | resistant to     |
+|       |     |        |     |     |             | *Rhizoctonia*    |
+|       |     |        |     |     |             | Aerial Blight    |
++-------+-----+--------+-----+-----+-------------+------------------+
+
+<table>
+<colgroup>
+<col style="width: 0%" />
+<col style="width: 2%" />
+<col style="width: 9%" />
+<col style="width: 2%" />
+<col style="width: 0%" />
+<col style="width: 0%" />
+<col style="width: 6%" />
+<col style="width: 1%" />
+<col style="width: 0%" />
+<col style="width: 0%" />
+<col style="width: 0%" />
+<col style="width: 8%" />
+<col style="width: 3%" />
+<col style="width: 0%" />
+<col style="width: 0%" />
+<col style="width: 0%" />
+<col style="width: 5%" />
+<col style="width: 1%" />
+<col style="width: 0%" />
+<col style="width: 0%" />
+<col style="width: 0%" />
+<col style="width: 5%" />
+<col style="width: 1%" />
+<col style="width: 0%" />
+<col style="width: 1%" />
+<col style="width: 0%" />
+<col style="width: 16%" />
+<col style="width: 0%" />
+<col style="width: 1%" />
+<col style="width: 0%" />
+<col style="width: 0%" />
+<col style="width: 22%" />
+<col style="width: 1%" />
+<col style="width: 0%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="3"><strong>Variety</strong></th>
+<th colspan="4"><strong>Year of Release</strong></th>
+<th colspan="5"><strong>Released Centre</strong></th>
+<th colspan="5"><strong>Yield potential (Kg/ha)</strong></th>
+<th colspan="5"><strong>Oil and Protein content (%)</strong></th>
+<th colspan="4"><strong>Recommended states</strong></th>
+<th colspan="4"><strong>Salient features</strong></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td colspan="3"><p>Raj</p>
+<p>Soya-18 (Pragya)</p></td>
+<td colspan="4">2017</td>
+<td colspan="5">RAK College of Agriculture RVSKVV, Sehore</td>
+<td colspan="5">1911</td>
+<td colspan="5"><p>21.55</p>
+<p>41.00</p></td>
+<td colspan="4">Madhya Pradesh</td>
+<td colspan="4">Semi determinate plants with average plant height
+(49.4cm), white flower, narrow green leaves with black hilum</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="3">Raj Soya-24</td>
+<td colspan="4">2017</td>
+<td colspan="5"></td>
+<td colspan="5">1905</td>
+<td colspan="5"></td>
+<td colspan="4">Madhya Pradesh, Maharashtra, Rajasthan, Uttar
+Pradesh</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="3"><p>CG</p>
+<p>Soya-1</p></td>
+<td colspan="4">2018</td>
+<td colspan="5">IGKV, Raipur, Chhatishgarh</td>
+<td colspan="5">2445</td>
+<td colspan="5">20-23</td>
+<td colspan="4">Chhattisgarh</td>
+<td colspan="4">Resistant to Indian bud blight, <em>Rhizoctonia</em>
+aerial blight, Myrothecium leaf spot and bacterial pustule disease.
+Moderately resistant to pod blight (<em>Colletotricum
+truncatum</em>).</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="3">JS 20-98</td>
+<td colspan="4">2018</td>
+<td colspan="5">JNKVV Jabalpur</td>
+<td colspan="5">2094</td>
+<td colspan="5">19.30 40.90</td>
+<td colspan="4">Madhya Pradesh, Bundelkhand region of Uttar Pradesh,
+Rajasthan, Gujarat and Marathwad and Vidharbha region of
+Maharashtra</td>
+<td colspan="4">Semi determinate plants with medium plant height
+(45.9cm), white flower, pointed ovate leaves, tawny pubescence present
+on pods and stem, black hilum</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="3">Kota Soya-1 (RKS 113)</td>
+<td colspan="4">2018</td>
+<td colspan="5">AAU Kota</td>
+<td colspan="5">1893</td>
+<td colspan="5"><p>20.00</p>
+<p>38-40</p></td>
+<td colspan="4">Assam, West Bengal, Jharkhand, Chhattishgarh&amp; NE
+States</td>
+<td colspan="4">Tolerant to bacterial pustules, bacterial blight, rust,
+collar rot, defoliator, stemfly, aphids and leafminer</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="3">DSb 23</td>
+<td colspan="4">2018</td>
+<td colspan="5">UAS Dharwad</td>
+<td colspan="5">2440</td>
+<td colspan="5">18.63 38.20</td>
+<td colspan="4">Karnataka, Tamil Nadu, Telangana, Andhra Pradesh and
+Southern Maharashtra</td>
+<td colspan="4">Moderately resisitant to defoliators, stem fly and pod
+borer</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="3">KS 103</td>
+<td colspan="4">2018</td>
+<td colspan="5">MPKV, Rahuri</td>
+<td colspan="5">2537</td>
+<td colspan="5">18.10 45.56</td>
+<td colspan="4">Southern Maharashtra, Karnataka, Telangana, Andhra
+Prdaesh and Tamil Nadu</td>
+<td colspan="4">Resistant to field rust</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="3">MAUS-612</td>
+<td colspan="4">2018</td>
+<td colspan="5">VNMKV, Parbhani</td>
+<td colspan="5">2531</td>
+<td colspan="5">20.49 40.50</td>
+<td colspan="4">Maharashtra and Southern India</td>
+<td colspan="4">Scarred grey pubescence, semi determinate with purple
+flower and blackish hilum</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="3">Basara</td>
+<td colspan="4">2018</td>
+<td colspan="5">RRS, PJTSAU, Adilabad</td>
+<td colspan="5">2663</td>
+<td colspan="5">19.51</td>
+<td colspan="4">Telangana</td>
+<td colspan="4">Semi determinate plant, white flowers, tawny pubescence
+present on pods and stem, black hilum, tolerant to pod shattering</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="3">NRC 127</td>
+<td colspan="4">2018</td>
+<td colspan="5">IISR-Indore</td>
+<td colspan="5">1807</td>
+<td colspan="5">18.5-20 38-40</td>
+<td colspan="4">Central Zone</td>
+<td colspan="4">Resistance/tolerance against pest complex, pod borer and
+lepidopteran defoliators. Resistance against YMV, ALS, TLS, SCV and
+bacterial pastule</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="3">KDS 726 (Phule Sangam)</td>
+<td colspan="4">2019</td>
+<td colspan="5">RRS, MPKV Sangli</td>
+<td colspan="5">2442</td>
+<td colspan="5">18.42 38.14</td>
+<td colspan="4">South Zone</td>
+<td colspan="4">Resistant to rust (K. Digraj) and purple seed stain
+disease. Moderately resistance to Stem fly and defoliators.</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="3">VL Soya 89</td>
+<td colspan="4">2019</td>
+<td colspan="5">VPKAS, Almorah</td>
+<td colspan="5">2324</td>
+<td colspan="5">19.07</td>
+<td colspan="4">Himchal Pradesh &amp; Uttarakhand</td>
+<td colspan="4"><p>Moderate resistance against frog eye leaf spot, pod
+blight diseases and <em>Chauliops</em></p>
+<p>resistant against defoliators</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="3">AMS-1001 (PDKV Yellow Gold)</td>
+<td colspan="4">2019</td>
+<td colspan="5">RRS, Dr. PDKV, Amravati</td>
+<td colspan="5">2173</td>
+<td colspan="5">18.93 49.32</td>
+<td colspan="4">Maharashtra</td>
+<td colspan="4">Resistant to root rot, YMV and <em>Alternaria</em> leaf
+spot.</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="3"><p>Shalimar Soybean-1</p>
+<p>(AGR/538)</p></td>
+<td colspan="4">2019</td>
+<td colspan="5">SKUAS&amp;T J&amp;K</td>
+<td colspan="5">2030-2560</td>
+<td colspan="5">13.56 38.00</td>
+<td colspan="4">Jammu &amp; Kashmir</td>
+<td colspan="4">Resistant to root rot and rust and moderately resistant
+to YMV and <em>Alternaria</em> blight</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="3">JS 20-116</td>
+<td colspan="4">2019</td>
+<td colspan="5">JNKVV, Jabalpur</td>
+<td colspan="5">2122</td>
+<td colspan="5">16.32</td>
+<td colspan="4">Assam and NE states, Madhya Pradesh, Uttar Pradesh,
+Rajasthan, Gujarat and Marathwad and Vidharbha region of Maharashtra,
+Bihar, West Bengal, Jharkhand, Chhattishgarh and Odisha</td>
+<td colspan="6">Resistant to YMV and Charcoal rot</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="3">JS 20-94</td>
+<td colspan="4">2019</td>
+<td colspan="5">JNKVV, Jabalpur</td>
+<td colspan="5">2104</td>
+<td colspan="5">20.35</td>
+<td colspan="4">Madhya Pradesh, Bundelkhand region of Uttar Pradesh,
+Rajasthan, Gujarat and Marathwad and Vidharbha region of
+Maharashtra</td>
+<td colspan="6">Resistant to YMV and Charcoal rot, <em>Rhizoctonia</em>
+aerial blight and <em>Alternatia</em> leaf spot</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="3">SL 955</td>
+<td colspan="4">2020</td>
+<td colspan="5">PAU, Ludhiana</td>
+<td colspan="5">2201</td>
+<td colspan="5"><p>18.90</p>
+<p>39.00</p></td>
+<td colspan="4">Punjab, Haryana, Delhi, Uttar Pradesh, Bihar</td>
+<td colspan="6">Tolerant to YMV</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="3">SL 979</td>
+<td colspan="4">2020</td>
+<td colspan="5">PAU, Ludhiana</td>
+<td colspan="5">2335</td>
+<td colspan="5"><p>20.60</p>
+<p>37.90</p></td>
+<td colspan="4">Punjab, Haryana, Delhi, Uttar Pradesh, Uttarakhand,
+Bihar</td>
+<td colspan="6">Tolerant to YMV</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="3">DSb 32</td>
+<td colspan="4">2020</td>
+<td colspan="5">UAS, Dharwad</td>
+<td colspan="5">1917</td>
+<td colspan="5"><p>20.90</p>
+<p>37.80</p></td>
+<td colspan="4">Assam &amp; NE States</td>
+<td colspan="6">Highly resistant to rust</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="3">DSb 28</td>
+<td colspan="4">2020</td>
+<td colspan="5">UAS, Dharwad</td>
+<td colspan="5">2317</td>
+<td colspan="5"><p>20.30</p>
+<p>38.50</p></td>
+<td colspan="4">Maharashtra, Karnataka, Telangana, Andhra Pradesh Tamil
+Nadu</td>
+<td colspan="6">Resistance to rust, defoliators, stemfly and pod
+borer</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="3">Pant Soybean 25 (PS 1556)</td>
+<td colspan="4">2020</td>
+<td colspan="5"><p>GPUA&amp;T,</p>
+<p>Pantnagar</p></td>
+<td colspan="5">2287</td>
+<td colspan="5"><p>18.80</p>
+<p>41.00</p></td>
+<td colspan="4">Himchal Pradesh &amp; Uttarakhand</td>
+<td colspan="6">Resistant to YMV and Bacterial pustule</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="3">Pant Soybean 26 (PS 1572)</td>
+<td colspan="4">2020</td>
+<td colspan="5"><p>GPUA&amp;T,</p>
+<p>Pantnagar</p></td>
+<td colspan="5">1926</td>
+<td colspan="5"><p>17.90</p>
+<p>40.00</p></td>
+<td colspan="4">Punjab, Haryana, Uttar Pradesh, Delhi</td>
+<td colspan="6">Resistant to YMV and Bacterial pustule, bacterial leaf
+blight and SMV</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="3">KBS 23</td>
+<td colspan="4">2020</td>
+<td colspan="5">UAS, Bengaluru</td>
+<td colspan="5">2504</td>
+<td colspan="5"></td>
+<td colspan="4">Karnataka</td>
+<td colspan="6"></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="3">UKD Black Soybean VL Bhat 202</td>
+<td colspan="4">2020</td>
+<td colspan="5">VPKAS, Almorah</td>
+<td colspan="5">1596</td>
+<td colspan="5"><p>16.50</p>
+<p>39.20</p></td>
+<td colspan="4">Uttarakhand</td>
+<td colspan="6">Moderately resistant to pod blight and bacterial
+pustules</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="3">Phule Kimaya KDS 753</td>
+<td colspan="4">2020</td>
+<td colspan="5">MPKV, Rahuri</td>
+<td colspan="5"><p>SZ: 2362</p>
+<p>EZ: 2053</p>
+<p>NEHZ:1697</p></td>
+<td colspan="5"></td>
+<td colspan="4">Maharashtra</td>
+<td colspan="6">SZ: resistant to lepidopteran defoliators, stem fly and
+pod borer. Antixenosis against defoliators</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="3">MACS 1407</td>
+<td colspan="4">2021</td>
+<td colspan="5">ARI, Pune</td>
+<td colspan="5">2100</td>
+<td colspan="5">19.80</td>
+<td colspan="4">Jharkhand, Chhattisgarh, Assam &amp; West Bengal</td>
+<td colspan="6">Suitable for rainfed and irrigated conditions during
+kharif, resistant to girdle beetle, leaf miner, leaf roller. Maturity –
+104 days</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="3">MACS 1460</td>
+<td colspan="4">2021</td>
+<td colspan="5">ARI, Pune</td>
+<td colspan="5"><p>EZ: 2036</p>
+<p>SZ: 2258</p>
+<p>NEHZ: 1958</p></td>
+<td colspan="5">17.6-18.9</td>
+<td colspan="4">West Bengal, Jharkhand, Chhattisgarh, Odisha, Assam,
+Maharashtra, Karnataka, Tamil Nadu, Andhra Prdaesh, Telangana</td>
+<td colspan="6">Suitable for rainfed and irrigated conditions during
+kharif, suitable for mechanical harvesting</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="3">MACS 1520</td>
+<td colspan="4">2021</td>
+<td colspan="5">ARI, Pune</td>
+<td colspan="5">2207</td>
+<td colspan="5">19.00</td>
+<td colspan="4">Madhya Pradesh, Uttar Pradesh, Rajasthan, Gujarat and
+Maharashtra</td>
+<td colspan="6">Resistant to charcoal rot</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="3">NRC 132 (IS 132)</td>
+<td colspan="4">2021</td>
+<td colspan="5">ICAR-IISR, Indore</td>
+<td colspan="5"><p>SZ: 2288</p>
+<p>EZ: 1652</p></td>
+<td colspan="5">18-19</td>
+<td colspan="4">West Bengal, Bihar, Jharkhand, Chhattisgarh, Odisha,
+Maharashtra, Karnataka, Telangana, Andhra Prdaesh, Tamil Nadu</td>
+<td colspan="6">Suitable for rainfed and irrigated conditions during
+kharif, First variety with less beany flavour (null lipoxygenase 2),
+developed through marker assisted selection</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="3">NRC 147 (IS 147)</td>
+<td colspan="4">2021</td>
+<td colspan="5">ICAR-IISR, Indore</td>
+<td colspan="5"><p>SZ: 2362</p>
+<p>EZ: 1400</p></td>
+<td colspan="5">17-19</td>
+<td colspan="8">West Bengal, Bihar, Jharkhand, Chhattisgarh, Odisha,
+Maharashtra, Karnataka, Telangana, Andhra Prdaesh, Tamil Nadu</td>
+<td colspan="4">Suitable for rainfed and irrigated conditions during
+kharif, first variety with 42±5 % oleic acid content.</td>
+</tr>
+<tr class="odd">
+<td colspan="3">NRC 128 (IS 128)</td>
+<td colspan="4">2021</td>
+<td colspan="5">ICAR-IISR, Indore</td>
+<td colspan="5"><p>NPZ: 2269</p>
+<p>EZ: 1871</p></td>
+<td colspan="5">18-19</td>
+<td colspan="8">Punjab, Uttar Pradesh, West Bengal, Bihar, Jharkhand,
+Chhattisgarh, Odisha</td>
+<td colspan="4">Suitable for rainfed and irrigated conditions during
+kharif, Resistance to pod blight, and Indian bud blight. Moderate
+antixenosis against <em>Spodoptera litura.</em></td>
+</tr>
+<tr class="even">
+<td colspan="3">NRC 130 (IS 130)</td>
+<td colspan="4">2021</td>
+<td colspan="5">ICAR-IISR, Indore</td>
+<td colspan="5">1451</td>
+<td colspan="5">17.80</td>
+<td colspan="8">Madhya Pradesh, Uttar Pradesh, Rajasthan, Gujarat,
+Maharashtra</td>
+<td colspan="4"><p>Presence of photo-insensitive allele e3,</p>
+<p>Early maturing 92 days</p>
+<p>MR to AR to charcoal Rot</p>
+<p>Bold Seed Size</p></td>
+</tr>
+<tr class="odd">
+<td colspan="3">NRC 136 (IS 136)</td>
+<td colspan="4">2021</td>
+<td colspan="5">ICAR-IISR, Indore</td>
+<td colspan="5">1700</td>
+<td colspan="5">17.50</td>
+<td colspan="8">West Bengal, Bihar, Jharkhand, Chhattisgarh, Odisha</td>
+<td colspan="4">Suitable for irrigated and rainfed conditions during
+Kharif, first variety developed for drought tolerance, Highly resistant
+to Indian bud blight, moderate antixenosis against <em>Spodoptera
+litura.</em></td>
+</tr>
+<tr class="even">
+<td colspan="3">NRCSL-1 (ISLS 1)</td>
+<td colspan="4">2021</td>
+<td colspan="5">ICAR-IISR, Indore</td>
+<td colspan="5">1815</td>
+<td colspan="5">19.50</td>
+<td colspan="8">West Bengal, Bihar, Jharkhand, Chhattisgarh, Odisha</td>
+<td colspan="4">Suitable for irrigated and rainfed conditions during
+kharif, Tolerant to YMV and Highly resistant to Indian bud blight.</td>
+</tr>
+<tr class="odd">
+<td colspan="3">RSC 11-07</td>
+<td colspan="4">2021</td>
+<td colspan="5">IGKV, Raipur</td>
+<td colspan="5"><p>EZ: 1916</p>
+<p>SZ: 2515</p></td>
+<td colspan="5">18-19</td>
+<td colspan="8">Eastern Zone (West Bengal, Bihar, Jharkhand,
+Chhattisgarh, Odisha), Souther Zone (Maharashtra, Karnataka, Telangana,
+Andhra Prdaesh, Tamil Nadu.</td>
+<td colspan="4">Suitable for irrigated and rainfed conditions during
+kharif, Resistant to Indian bud blight and pod blight, purple seed
+stain, susceptible to rust</td>
+</tr>
+<tr class="even">
+<td colspan="3">RSC 10-46</td>
+<td colspan="4">2021</td>
+<td colspan="5">IGKV, Raipur</td>
+<td colspan="5"><p>CZ: 1947</p>
+<p>EZ: 2043</p></td>
+<td colspan="5">14.8-19.8</td>
+<td colspan="8">Eastern Zone (West Bengal, Bihar, Jharkhand,
+Chhattisgarh, Odisha), Central zone (Madhya Pradesh, Uttar Pradesh,
+Rajasthan, Gujarat, Maharashtra)</td>
+<td colspan="4">Suitable for irrigated and rainfed conditions during
+kharif, Resistant to charcoal rot and Indian bud blights.</td>
+</tr>
+<tr class="odd">
+<td colspan="3">RVSM 2011-35</td>
+<td colspan="4">2021</td>
+<td colspan="5">RVSKVV, Gwalior</td>
+<td colspan="5">2200</td>
+<td colspan="5">19.10</td>
+<td colspan="8">Madhya Pradesh, Chhattisgarh, Rajasthan, Gujarat,
+Bundlekhand region of U.P., North-West Maharashtra</td>
+<td colspan="4">Resistant to pod blight, YMV, stemfly, girdle beetle and
+defoliators. Susceptible to charcoal rot, <em>Ralstonia</em> aerial
+blight</td>
+</tr>
+<tr class="even">
+<td colspan="3">NRC 138</td>
+<td colspan="4">2021</td>
+<td colspan="5">ICAR-IISR, Indore</td>
+<td colspan="5">1789</td>
+<td colspan="5">21.10</td>
+<td colspan="8">Madhya Pradesh, Chhattisgarh, Rajasthan, Gujarat,
+Bundlekhand region of U.P., North-West Maharashtra</td>
+<td colspan="4">Moderately resistant to pod blight, YMV and susceptible
+to charcoal rot, <em>Ralstonia</em> aerial blight</td>
+</tr>
+<tr class="odd">
+<td colspan="3">NRC 142</td>
+<td colspan="4">2021</td>
+<td colspan="5">ICAR-IISR, Indore</td>
+<td colspan="5"><p>CZ: 1999</p>
+<p>SZ: 2206</p></td>
+<td colspan="5"><p>CZ: 22.00</p>
+<p>SZ: 21.70</p></td>
+<td colspan="8">Madhya Pradesh, Chhattisgarh, Rajasthan, Gujarat,
+Bundlekhand region of U.P., North-West Maharashtra</td>
+<td colspan="4"><p>Resistant to<em>Ralstonia</em> aerial blight, YMV and
+susceptible to pod blight, charcoal rot, antixenosis to defoliators</p>
+<p>Food Grade Variety with Null Lox 2 and Null KTI</p>
+<p>Medium Maturing with high yield</p>
+<p>Suitable to mechanical harvesting</p></td>
+</tr>
+<tr class="even">
+<td colspan="6"><strong>Variety</strong></td>
+<td colspan="5"><strong>Year of Release</strong></td>
+<td colspan="5"><strong>Released Centre</strong></td>
+<td colspan="5"><strong>Yield potential (Kg/ha)</strong></td>
+<td colspan="5"><strong>Oil and Protein content (%)</strong></td>
+<td colspan="3"><strong>Recommended states</strong></td>
+<td colspan="4"><strong>Salient features</strong></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="6">Pusa Soybean 06</td>
+<td colspan="5">2021</td>
+<td colspan="5">GPUA&amp;T, Pantnagar</td>
+<td colspan="5">2100</td>
+<td colspan="5"><p>20.70</p>
+<p>32.10</p></td>
+<td colspan="3">NCR Delhi</td>
+<td colspan="4">Resistant to <em>Ralstonia</em> aerial blight, YMV,
+bacterial pustule, stem fly and defoliators</td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="6">MACSNRC 1667</td>
+<td colspan="5">2021</td>
+<td colspan="5">ARI, Pune</td>
+<td colspan="5">2051</td>
+<td colspan="5">19.00</td>
+<td colspan="3">Karnataka, Andhra Pradesh, Tamil Nadu, Kerala and
+Southern parts of Maharashtra</td>
+<td colspan="4">Susceptible to pod blight, rust and purple seed
+stain</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="6">KBVS 1</td>
+<td colspan="5">2021</td>
+<td colspan="5">UAS, Bengaluru</td>
+<td colspan="5">10640</td>
+<td colspan="5"></td>
+<td colspan="3">Karnataka, Andhra Pradesh, Tamil Nadu, Kerala and
+Southern parts of Maharashtra</td>
+<td colspan="4">Moderately resistant to pod blight, Susceptible to rust
+and purple seed stain</td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="6">RVS 76</td>
+<td colspan="5">2021</td>
+<td colspan="5">RVSKVV, Gwalior</td>
+<td colspan="5">2066</td>
+<td colspan="5">18.10</td>
+<td colspan="3">Madhya Pradesh, Chhattisgarh, Rajasthan, Gujarat,
+Bundlekhand region of U.P., North-West Maharashtra</td>
+<td colspan="4">Resistant tocharcoal rot</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="6">SL 1028</td>
+<td colspan="5">2021</td>
+<td colspan="5">PAU, Ludhiana</td>
+<td colspan="5">2196</td>
+<td colspan="5"><p>19.80</p>
+<p>39.20</p></td>
+<td colspan="3">Punjab, Haryana, Delhi, North east plains of U.P. and
+Western Bihar</td>
+<td colspan="4">Moderately resistant to YMV</td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="6">SL 1074</td>
+<td colspan="5">2021</td>
+<td colspan="5">PAU, Ludhiana</td>
+<td colspan="5">1917</td>
+<td colspan="5"><p>19.50</p>
+<p>39.50</p></td>
+<td colspan="3">Punjab, Haryana, Delhi, North east plains of U.P. and
+Western Bihar</td>
+<td colspan="4">Tolerant to YMV</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="6">AMS 100-39 (PDKV Amba)</td>
+<td colspan="5">2021</td>
+<td colspan="5">PDKV, Akola</td>
+<td colspan="5">2087</td>
+<td colspan="5">20.50</td>
+<td colspan="3">Madhya Pradesh, Chhattisgarh, Rajasthan, Gujarat,
+Bundlekhand region of U.P., North-West Maharashtra</td>
+<td colspan="4">Resistant tocharcoal rot and stem fly, susceptible to
+<em>Ralstonia</em> aerial blight, YMV, pod blight. Antibiosis reaction
+to defoliators.</td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="6">AMS 2014-1 (PDKV Purva)</td>
+<td colspan="5">2021</td>
+<td colspan="5">PDKV, Akola</td>
+<td colspan="5">1804</td>
+<td colspan="5">18.50</td>
+<td colspan="3">West Bengal, Bihar, Jharkhand, Chhattisgarh, Odisha</td>
+<td colspan="4">Suitable for irrigated and rainfed conditions during
+Kharif, resistant to charcoal rot, <em>Rhizactonia</em> aerial blight,
+BLB, <em>Alternaria</em> leaf spot (ALS).</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="6">AMS-MB-5-18 (Suvarn Soya)</td>
+<td colspan="5">2021</td>
+<td colspan="5">PDKV, Akola</td>
+<td colspan="5">2044</td>
+<td colspan="5">19.00</td>
+<td colspan="3">Madhya Pradesh, Uttar Pradesh, Rajasthan, Gujarat,
+Maha</td>
+<td colspan="4">Suitable for irrigated and rainfed conditions during
+Kharif</td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="6">DSb 34</td>
+<td colspan="5">2021</td>
+<td colspan="5">UAS, Dharwad</td>
+<td colspan="5">2655</td>
+<td colspan="5">18.60</td>
+<td colspan="3">Karnataka, Telangana, Andhra Prdaesh, Tamil Nadu,
+Maha</td>
+<td colspan="4">Suitable for irrigated and rainfed conditions during
+Kharif, Highly resistant to rust and purple seed stain, MR to pod
+blight.</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="6">Phule Durva (KDS 992)</td>
+<td colspan="5">2021</td>
+<td colspan="5">MPKV, Rahuri</td>
+<td colspan="5">2658</td>
+<td colspan="5">19.30</td>
+<td colspan="3"><p>Maharashtra, Telangana, Andhra Pradesh, Tamil</p>
+<p>Nadu and Karnataka</p></td>
+<td colspan="4">Resistance to purple seed stain, defoliators and
+moderate antixenosis to defoliators. Moderately susceptible to rust and
+pod blight</td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="6"><p>AlSb 50 (Adilabad Indore</p>
+<p>Soya Chikkudu-1)</p></td>
+<td colspan="5">2021</td>
+<td colspan="5">PJTSAU, Hyderabad</td>
+<td colspan="5">2100-3000</td>
+<td colspan="5"></td>
+<td colspan="3">Telangana</td>
+<td colspan="4">Resistant to pod blight, frog eye leaf spot,
+<em>Alternaria</em> leaf spot and charcoal rot</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="6">Birsa Soybean-3 (BAUS40)</td>
+<td colspan="5">2021</td>
+<td colspan="5">BAU, Ranchi</td>
+<td colspan="5">2500-3000</td>
+<td colspan="5"></td>
+<td colspan="3">Jharkhand</td>
+<td colspan="4">Tolerant to pod blight, bacterial blight, target leaf
+spot, aerial web blight, resistant to bihar hairy caterpillar and leaf
+roller</td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="6">Him Palam Hara Soya 1 (HIMSO 1685)</td>
+<td colspan="5">2021</td>
+<td colspan="5">CCSHPKV Palampur</td>
+<td colspan="5">2346</td>
+<td colspan="5"></td>
+<td colspan="3">Himchal Pradesh</td>
+<td colspan="4">Highly resistant against frog eye spot, pod blight,
+bacterial pustule and brown spot disease</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="6">RSC 10-71</td>
+<td colspan="5">2022</td>
+<td colspan="5">IGKV, Raipur</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">West Bengal, Bihar, Jharkhand, Chhattisgarh, Odisha</td>
+<td colspan="4"></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="5">RSC 10-52</td>
+<td colspan="4">2021/22</td>
+<td colspan="5">IGKV, Raipur</td>
+<td colspan="5">2054</td>
+<td colspan="5"><p>18.20</p>
+<p>38-40</p></td>
+<td colspan="6">West Bengal, Bihar, Jharkhand, Chhattisgarh, and
+Odisha</td>
+<td colspan="2">Resistant to charcoal rot, antibiosis to
+<em>Spodopteralitura</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="5"><p>Birsa Soybean-4</p>
+<p>(BAUS-96)</p></td>
+<td colspan="4">2022</td>
+<td colspan="5">BAU, Ranchi</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6">Jharkhand</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="5">Chhattisgarh Soya 11-15</td>
+<td colspan="4">2022</td>
+<td colspan="5">IGKV, Raipur</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6">Chhattisgarh</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="5">VL Soya 99 (VLS 99)</td>
+<td colspan="4">2023</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6">Uttarakhand and Himachal Pradesh</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="5">JS 21-72 (Jawahar Soybean 21-72)</td>
+<td colspan="4">2023</td>
+<td colspan="5"></td>
+<td colspan="5">2140 Kg/ha</td>
+<td colspan="5"></td>
+<td colspan="6">Madhya Pradesh, Budelkhand region of Uttar Pradesh,
+Rajasthan, Gujarat and Vidarbha and Marathwada regions of
+Maharashtra</td>
+<td colspan="2">Multiple resistance against biotic stresses like yellow
+mosaic virus,charcoal rot bacterial</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="5">NRC 150</td>
+<td colspan="4">2023</td>
+<td colspan="5"></td>
+<td colspan="5">1757.5 kg/ha</td>
+<td colspan="5"></td>
+<td colspan="6">Madhya Pradesh, Budelkhand region of U. P, Rajasthan,
+Gujarat and Vidarbha and Marathwada regions of Maharashtra</td>
+<td colspan="2"><p>1. Early Maturing Variety</p>
+<blockquote>
+<p>2.Free from Lipoxygenase-3.Amenable to mechanical harvesting</p>
+</blockquote></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="5">NRC 152</td>
+<td colspan="4">2023</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6">Madhya Pradesh, Budelkhand region of U. P, Rajasthan,
+Gujarat and Vidarbha and Marathwada regions of Maharashtra</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="5">Umiam Soybean 1 (RCS 1-9)</td>
+<td colspan="4">2023</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6">Meghalaya</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="5">Shalimar Soybean-2 (SKUA-WSB-101)</td>
+<td colspan="4">2023</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6">Jammu and Kashmir</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="5">MAUS 725</td>
+<td colspan="4">2023</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6">Maharashtra</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="5">Indore Soy 131 (IS 131) (NRC 131)</td>
+<td colspan="4">2023</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6">Madhya Pradesh</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="5">NRC 157</td>
+<td colspan="4">2023</td>
+<td colspan="5"></td>
+<td colspan="5">1650 kg/ha</td>
+<td colspan="5"></td>
+<td colspan="6">Madhya Pradesh</td>
+<td colspan="2"><p>1.Early maturing:92 days</p>
+<p>2.Good plant height suitable for mechanical harvesting</p>
+<p>3.Provides a wider sowing window and can be sown up to 15 july with
+little yield penalty.</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="5">Pant Soybean (PS 1670)</td>
+<td colspan="4">2024</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6"><p>Punjab, Uttar Pradesh (except Bundelkhand region of
+Uttar</p>
+<p>Pradesh) and Delhi</p></td>
+<td colspan="2">Open Pollinated Variety</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="5">JS 22-12 (Jawahar Soybean 22-12)</td>
+<td colspan="4">2024</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6">Madhya Pradesh, Vidarbha and Marathwada regions of
+Maharashtra, Rajasthan, Gujarat and Bundelkhand region of Uttar
+Pradesh</td>
+<td colspan="2">Open Pollinated Variety</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="5"><p>JS 22-16 (Jawahar</p>
+<p>Soybean 22-16)</p></td>
+<td colspan="4">2024</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6">Madhya Pradesh, Vidarbha and Marathwada regions of
+Maharashtra, Rajasthan, Gujarat and Bundelkh and region of Uttar
+Pradesh</td>
+<td colspan="2">Open Pollinated Variety</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="5">NRC 165</td>
+<td colspan="4">2024</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6">Madhya Pradesh, Vidharbha and Marathwada region of
+Maharashtra, Bundelkhund region of Uttar Pradesh, Rajasthan and
+Gujrat</td>
+<td colspan="2">Open Pollinated Variety</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="5">NRC 181</td>
+<td colspan="4">2024</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6"><p>Madhya Pradesh, Rajasthan, Gujarat, Marathwada
+and</p>
+<p>Vidarbha region of Maharashtra, Bundhelkhand region of Uttar
+Pradesh</p></td>
+<td colspan="2">Open Pollinated Variety</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="5">NRC 188</td>
+<td colspan="4">2024</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6"><p>Madhya Pradesh, Rajasthan,</p>
+<p>Gujarat, Marathwada and Vidarbha region of Maharashtra, Bundhelkhand
+region of Uttar Pradesh</p></td>
+<td colspan="2">Open Pollinated Variety</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="5"><p>Gujarat Soybean 4</p>
+<p>(G.Soy 4: Sorath Sonali)</p></td>
+<td colspan="4">2024</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6">Gujarat</td>
+<td colspan="2">Open Pollinated Variety</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="5">NRC 149 (NRCSC3)</td>
+<td colspan="4">2024</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6">Punjab, Haryana, Delhi &amp; Uttar Pradesh exclusing
+Bundelkhand region</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="5">NRC 197</td>
+<td colspan="4">2024</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6">Himachal Pradesh and Uttarakhand</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="5">MAUS 731</td>
+<td colspan="4">2024</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6">Marathwada region of Maharashtra</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="5">Pusa Soybean 21 (DS 9421)</td>
+<td colspan="4">2024</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6">National capital territory of Delhi</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="5"><p>Shalimar Soybean- 3</p>
+<p>(SKAU-S-3)</p></td>
+<td colspan="4">2024</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6">Kashmir</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="5">JS 23-03 (Jawahar Soybean 23-03)</td>
+<td colspan="4">2025</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6">Madhya Pradesh, Vidarbha and Marathwada regions of
+Maharashtra, Rajasthan, Gujarat and Bundelkhand region of Uttar
+Pradesh</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td colspan="5">JS 23-09 (Jawahar Soybean 23-09)</td>
+<td colspan="4">2025</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6">Madhya Pradesh, Vidarbha and Marathwada regions of
+Maharashtra, Rajasthan, Gujarat and Bundelkhand region of Uttar
+Pradesh</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan="5">CAU-MS 1</td>
+<td colspan="4">2025</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6">Manipur</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+**State-wise recommended varieties of Soybean from 2015 to 2025**
+
++---+-------+-------------------------+-------------------------------+
+| * | **Sta | **Soybean Varieties     | **Soybean Varieties from      |
+| * | tes** | from 2015-2020**        | 2021-2025**                   |
+| S |       |                         |                               |
+| . |       |                         |                               |
+| N |       |                         |                               |
+| o |       |                         |                               |
+| * |       |                         |                               |
+| * |       |                         |                               |
++===+=======+=========================+===============================+
+| 1 | A     | DSb 23 (2018), DSb 28   | MACS 1460 (2021), NRC 132 (IS |
+| . | ndhra | (2018), KS 103 (2018),  | 132) (2021), NRC 147 (IS 147) |
+|   | Pr    |                         | (2021), RSC 11-07 (2021),     |
+|   | adesh | MACS 1281 (2016), KDS   | MACSNRC 1667 (2021), KBVS 1   |
+|   |       | 726 (Phule Sangam)      | (2021), DSb 34 (2021), Phule  |
+|   |       | (2019)                  | Durva (KDS 992) (2021),       |
++---+-------+-------------------------+-------------------------------+
+| 2 | Assam | Kota Soya-1 (RKS 113)   | MACS 1407 (2021)              |
+| . |       | (2018), JS              |                               |
+|   |       | 20-116(2019), DSb 32    |                               |
+|   |       | (2020)                  |                               |
++---+-------+-------------------------+-------------------------------+
+| 3 | Bihar | JS 20-116 (2016), SL    | NRC 132 (IS 132) (2021), NRC  |
+| . |       | 955 (2020), SL 979      | 147 (IS 147) (2021), NRC 128  |
+|   |       | (2020),                 | (IS 128) (2021), NRC 136 (IS  |
+|   |       |                         | 136) (2021), NRCSL-1 (ISLS 1) |
+|   |       | Pusa 12 (DS 12-13)      | (2021), RSC 11-07 (2021), RSC |
+|   |       | (2015)                  | 10-46 (2021), SL 1028 (2021), |
+|   |       |                         | SL 1074 (2021), AMS 2014-1    |
+|   |       |                         | (PDKV Purva) 2021), RSC 10-71 |
+|   |       |                         | (2022), RSC 10-52 (2022)      |
++---+-------+-------------------------+-------------------------------+
+| 4 | Ch    | CGSoya-1 (2018), Kota   | MACS 1407 (2021), MACS 1460   |
+| . | hatti | Soya-1 (RKS 113)        | (2021), NRC 132 (IS 132)      |
+|   | sgarh | (2018), JS              | (2021), NRC 147 (IS 147)      |
+|   |       | 20-116(2019), Raj       | (2021), NRC 128 (IS 128)      |
+|   |       | Soya-24 (RVS 2002-4)    | (2021), NRC 136 (IS 136)      |
+|   |       | (2017), NRC 127 (2018)  | (2021), NRCSL-1 (ISLS 1)      |
+|   |       |                         | (2021), RSC 11-07 (2021), RSC |
+|   |       |                         | 10-46 (2021), RVSM 2011-35    |
+|   |       |                         | (2021), NRC 138 (2021), NRC   |
+|   |       |                         | 142 (2021), RVS 76 (2021),    |
+|   |       |                         | AMS 2014-1 (PDKV Purva)       |
+|   |       |                         | 2021), RSC 10-71 (2022), RSC  |
+|   |       |                         | 10-52 (2022), Soya 11-15      |
+|   |       |                         | (2022)                        |
++---+-------+-------------------------+-------------------------------+
+| 5 | Delhi | SL 955 (2020), SL 979   | Pant Soybean 06 (2021), SL    |
+| . |       | (2020), Pant Soybean 26 | 1028 (2021), SL 1074 (2021),  |
+|   |       | (PS 1572) (2020), Pusa  | Pant Soybean (PS 1670)        |
+|   |       | 12 (DS 12-13) (2015)    | (2024), NRC 149 (NRCSC3)      |
+|   |       |                         | (2024), Pusa Soybean 21 (DS   |
+|   |       |                         | 9421) (2024)                  |
++---+-------+-------------------------+-------------------------------+
+| 6 | Gu    | NRC-86 (ahilya-6)       | MACS 1520 (2021), NRC 130 (IS |
+| . | jarat | (2015), JS 20-98        | 130) (2021), RSC 10-46        |
+|   |       | (2018), JS              | (2021), RVSM 2011-35 (2021),  |
+|   |       | 20-116(2019), JS 20-94  | NRC 138 (2021), NRC 142       |
+|   |       | (2019), Raj Soya-24     | (2021), RVS 76 (2021), AMS    |
+|   |       | (RVS 2002-4) (2017),    | 2014-1 (PDKV Purva) 2021),    |
+|   |       | NRC 127 (2018)          | AMS-MB-5-18 (Suvarn Soya)     |
+|   |       |                         | (2021), (Jawahar Soybean      |
+|   |       |                         | 21-72) (2023), NRC 150        |
+|   |       |                         | (2023), NRC 152 (2023), JS    |
+|   |       |                         | 22-12 (Jawahar Soybean 22-12) |
+|   |       |                         | (2024), JS 22-16 (Jawahar     |
+|   |       |                         | Soybean 22-16) (2024),        |
+|   |       |                         | Gujarat Soybean 4 (G.Soy 4:   |
+|   |       |                         | Sorath Sonali) (2024), JS     |
+|   |       |                         | 23-03 (Jawahar Soybean 23-03) |
+|   |       |                         | (2025), JS 23-09 (Jawahar     |
+|   |       |                         | Soybean 23-09) (2025)         |
++---+-------+-------------------------+-------------------------------+
+| 7 | Ha    | SL 955 (2020), SL 979   | SL 1028 (2021), SL 1074       |
+| . | ryana | (2020), Pant Soybean 26 | (2021), NRC 149 (NRCSC3)      |
+|   |       | (PS 1572) (2020) , Pusa | (2024)                        |
+|   |       | 12 (DS 12-13) (2015)    |                               |
++---+-------+-------------------------+-------------------------------+
+| 8 | Hi    | VL Soya 89 (2019), Pant | Him Palam Hara Soya 1 (HIMSO  |
+| . | mchal | Soybean 25 (PS 1556)    | 1685) (2021), VL Soya 99 (VLS |
+|   | Pr    | (2020                   | 99)(2023), NRC 197 (2024)     |
+|   | adesh |                         |                               |
++---+-------+-------------------------+-------------------------------+
+| 9 | Jammu | Shalimar Soybean-1      | Shalimar Soybean-2            |
+| . | &     | (AGR/538) (2019)        | (SKUA-WSB-101) (2023),        |
+|   | Ka    |                         | Shalimar Soybean- 3           |
+|   | shmir |                         | (SKAU-S-3) (2024)             |
++---+-------+-------------------------+-------------------------------+
+| 1 | Jhar  | Kota Soya-1 (RKS 113)   | MACS 1407 (2021), NRC 132 (IS |
+| 0 | khand | (2018), JS 20-116(2019) | 132) (2021), NRC 147 (IS 147) |
+| . |       |                         | (2021), NRC 128 (IS 128)      |
+|   |       |                         | (2021), NRC 136 (IS 136)      |
+|   |       |                         | (2021), RSC 11-07 (2021), RSC |
+|   |       |                         | 10-46 (2021), AMS 2014-1      |
+|   |       |                         | (PDKV Purva) 2021), Birsa     |
+|   |       |                         | Soybean-3 (BAUS40) (2021),    |
+|   |       |                         | RSC 10-71 (2022), RSC 10-52   |
+|   |       |                         | (2022), Birsa Soybean-4       |
+|   |       |                         | (BAUS-96) (2022)              |
++---+-------+-------------------------+-------------------------------+
+| 1 | Karn  | KDS-344 (Phule Agrani)  | MACS 1407 (2021), NRC 132 (IS |
+| 1 | ataka | (2015), DSb 23 (2018),  | 132) (2021), NRC 147 (IS 147) |
+| . |       | KS 103 (2018), DSb 28   | (2021), RSC 11-07 (2021),     |
+|   |       | (2018), KBS 23 (2020),  | MACSNRC 1667 (2021), KBVS 1   |
+|   |       | MACS 1281 (2016), KDS   | (2021), Phule Durva (KDS 992) |
+|   |       | 726 (Phule Sangam)      | (2021)                        |
+|   |       | (2019)                  |                               |
++---+-------+-------------------------+-------------------------------+
+| 1 | K     | MACS 1281 (2016) , KDS  | MACSNRC 1667 (2021), KBVS 1   |
+| 2 | erala | 726 (Phule Sangam)      | (2021)                        |
+| . |       | (2019)                  |                               |
+|   |       |                         |                               |
++---+-------+-------------------------+-------------------------------+
+| 1 | M     | NRC-86 (ahilya-6)       | MACS 1520 (2021), NRC 130 (IS |
+| 3 | adhya | (2015), JS 20-69        | 130) (2021), RSC 10-46        |
+| . | Pr    | (2016), Raj Soya-18     | (2021), RVSM 2011-35 (2021),  |
+|   | adesh | (Pragya) (2017), Raj    | NRC 138 (2021), NRC 142       |
+|   |       | Soya-24 (2017), JS      | (2021), RVS 76 (2021), AMS    |
+|   |       | 20-98 (2018), JS        | 2014-1 (PDKV Purva) 2021),    |
+|   |       | 20-116(2019), JS 20-94  | AMS-MB-5-18 (Suvarn Soya)     |
+|   |       | (2019) ,                | (2021), JS 21-72 (Jawahar     |
+|   |       |                         | Soybean 21-72) (2023), NRC    |
+|   |       | Raj Soya-24 (RVS        | 150 (2023), NRC 152 (2023),   |
+|   |       | 2002-4) (2017) , NRC    | Indore Soy 131 (IS 131) (NRC  |
+|   |       | 127 (2018),             | 131) (2023), NRC 157 (2023),  |
+|   |       |                         | JS 22-12 (Jawahar Soybean     |
+|   |       |                         | 22-12) (2024), JS 22-16       |
+|   |       |                         | (Jawahar Soybean 22-16)       |
+|   |       |                         | (2024), NRC 165(2024), NRC    |
+|   |       |                         | 181 (2024), NRC 181(2024), JS |
+|   |       |                         | 23-03 (Jawahar Soybean 23-03) |
+|   |       |                         | (2025), JS 23-09 (Jawahar     |
+|   |       |                         | Soybean 23-09) (2025)         |
++---+-------+-------------------------+-------------------------------+
+| 1 | M     | NRC-86 (ahilya-6)       | MACS 1407 (2021), MACS 1520   |
+| 4 | ahara | (2015), KDS-344 (Phule  | (2021), NRC 132 (IS 132)      |
+| . | shtra | Agrani) (2015), Raj     | (2021), NRC 147 (IS 147)      |
+|   |       | Soya-24 (2017), JS      | (2021), NRC 130 (IS 130)      |
+|   |       | 20-98 (2018), DSb 23    | (2021), RSC 11-07 (2021), RSC |
+|   |       | (2018), KS 103 (2018),  | 10-46 (2021), RVSM 2011-35    |
+|   |       | MAUS-612 (2018),        | (2021), NRC 138 (2021), NRC   |
+|   |       | AMS-1001 (2019), JS 20  | 142 (2021), MACSNRC 1667      |
+|   |       | 116(2019), JS 20-94     | (2021), KBVS 1 (2021), RVS 76 |
+|   |       | (2019), DSb 28 (2018),  | (2021), AMS 2014-1 (PDKV      |
+|   |       | PhuleKimaya KDS 753     | Purva) 2021), AMS-MB-5-18     |
+|   |       | (2020), MACS 1281       | (Suvarn Soya) (2021), Phule   |
+|   |       | (2016) , Raj Soya-24    | Durva (KDS 992) (2021),       |
+|   |       | (RVS 2002-4) (2017),    | (Jawahar Soybean 21-72)       |
+|   |       | NRC 127 (2018), KDS 726 | (2023), NRC 150 (2023), NRC   |
+|   |       | (Phule Sangam) (2019)   | 152 (2023), MAUS 725 (2023),  |
+|   |       |                         | JS 22-12 (Jawahar Soybean     |
+|   |       |                         | 22-12) (2024),), JS 22-16     |
+|   |       |                         | (Jawahar Soybean 22-16)       |
+|   |       |                         | (2024) NRC 165(2024), NRC 181 |
+|   |       |                         | (2024), NRC 181(2024), MAUS   |
+|   |       |                         | 731 (2024), JS 23-03 (Jawahar |
+|   |       |                         | Soybean 23-03) (2025), JS     |
+|   |       |                         | 23-09 (Jawahar Soybean 23-09) |
+|   |       |                         | (2025)                        |
++---+-------+-------------------------+-------------------------------+
+| 1 | Megh  | Kota Soya-1 (RKS 113)   | Umiam Soybean 1 (RCS 1-9)     |
+| 5 | alaya | (2018), JS              | (2023)                        |
+| . |       | 20-116(2019), DSb 32    |                               |
+|   |       | (2020)                  |                               |
++---+-------+-------------------------+-------------------------------+
+| 1 | Ma    |                         | CAU-MS 1 (2025)               |
+| 6 | nipur |                         |                               |
+| . |       |                         |                               |
+|   |       |                         |                               |
++---+-------+-------------------------+-------------------------------+
+| 1 | O     | JS 20-116 (2019)        | MACS 1407 (2021), NRC 132 (IS |
+| 7 | disha |                         | 132) (2021), NRC 147 (IS 147) |
+| . |       |                         | (2021), NRC 128 (IS 128)      |
+|   |       |                         | (2021), NRC 136 (IS 136)      |
+|   |       |                         | (2021), RSC 11-07 (2021), RSC |
+|   |       |                         | 10-46 (2021), AMS 2014-1      |
+|   |       |                         | (PDKV Purva) 2021), RSC 10-71 |
+|   |       |                         | (2022), RSC 10-52 (2022)      |
++---+-------+-------------------------+-------------------------------+
+| 1 | P     | SL 958 (2015), SL 955   | NRC 128 (IS 128) (2021), SL   |
+| 8 | unjab | (2020), SL 979 (2020),  | 1028 (2021), SL 1074 (2021),  |
+| . |       | Pant Soybean 26 (PS     | Pant Soybean (PS 1670)        |
+|   |       | 1572) (2020), Pusa 12   | (2024), NRC 149 (NRCSC3)      |
+|   |       | (DS 12-13) (2015)       | (2024)                        |
++---+-------+-------------------------+-------------------------------+
+| 1 | Raja  | NRC-86 (ahilya-6)       | MACS 1520 (2021), NRC 130 (IS |
+| 9 | sthan | (2015), Raj Soya-24     | 130) (2021), RSC 10-46        |
+| . |       | (2017), JS 20-98        | (2021), RVSM 2011-35 (2021),  |
+|   |       | (2018), JS              | NRC 138 (2021), NRC 142       |
+|   |       | 20-116(2019), JS 20-94  | (2021), RVS 76 (2021), AMS    |
+|   |       | (2019) ,                | 2014-1 (PDKV Purva) 2021),    |
+|   |       |                         | AMS-MB-5-18 (Suvarn Soya)     |
+|   |       | Raj Soya-24 (RVS        | (2021), (Jawahar Soybean      |
+|   |       | 2002-4) (2017), NRC 127 | 21-72) (2023), NRC 150        |
+|   |       | (2018),                 | (2023), NRC 152 (2023), JS    |
+|   |       |                         | 22-12 (Jawahar Soybean 22-12) |
+|   |       |                         | (2024), JS 22-16 (Jawahar     |
+|   |       |                         | Soybean 22-16) (2024), NRC    |
+|   |       |                         | 165(2024), NRC 181 (2024),    |
+|   |       |                         | NRC 181(2024), JS 23-03       |
+|   |       |                         | (Jawahar Soybean 23-03)       |
+|   |       |                         | (2025), JS 23-09 (Jawahar     |
+|   |       |                         | Soybean 23-09) (2025)         |
++---+-------+-------------------------+-------------------------------+
+| 2 | Tamil | KDS-344 (Phule Agrani)  | MACS 1407 (2021)              |
+| 0 | Nadu  | (2015), DSb 23 (2018),  |                               |
+| . |       | KS 103 (2018), DSb 28   |                               |
+|   |       | (2018), MACS 1281       |                               |
+|   |       | (2016) , KDS 726 (Phule |                               |
+|   |       | Sangam) (2019)          |                               |
++---+-------+-------------------------+-------------------------------+
+| 2 | Tela  | KDS-344 (Phule Agrani)  | MACS 1407 (2021), NRC 132 (IS |
+| 1 | ngana | (2015), Basara (2018),  | 132) (2021), NRC 147 (IS 147) |
+| . |       | DSb 28 (2018), MACS     | (2021), RSC 11-07 (2021),     |
+|   |       | 1281 (2016), KDS 726    | Phule Durva (KDS 992) (2021), |
+|   |       | (Phule Sangam) (2019)   | AlSb 50 (Adilabad Indore Soya |
+|   |       |                         | Chikkudu-1) (2021)            |
++---+-------+-------------------------+-------------------------------+
+| 2 | Uttar | NRC-86 (ahilya-6)       | MACS 1520 (2021), NRC 130 (IS |
+| 2 | Pr    | (2015), PantSoy-24 (PS  | 130) (2021), RSC 10-46        |
+| . | adesh | 1477) (2017), Raj       | (2021), RVSM 2011-35 (2021),  |
+|   |       | Soya-24 (2017), JS      | NRC 138 (2021), NRC 142       |
+|   |       | 20-98 (2018), JS        | (2021), RVS 76 (2021), SL     |
+|   |       | 20-116(2019), SL 955    | 1028 (2021), SL 1074 (2021),  |
+|   |       | (2020), SL 979 (2020),  | AMS 2014-1 (PDKV Purva)       |
+|   |       | Pant Soybean 26 (PS     | 2021), AMS-MB-5-18 (Suvarn    |
+|   |       | 1572) (2020), Pusa 12   | Soya) (2021(Jawahar Soybean   |
+|   |       | (DS 12-13) (2015), Raj  | 21-72) (2023), NRC 150        |
+|   |       | Soya-24 (RVS 2002-4)    | (2023), NRC 152 (2023), Pant  |
+|   |       | (2017),                 | Soybean (PS 1670) (2024), JS  |
+|   |       |                         | 22-12 (Jawahar Soybean 22-12) |
+|   |       | NRC 127 (2018)          | (2024), JS 22-12 (Jawahar     |
+|   |       |                         | Soybean 22-16) (2024), NRC    |
+|   |       |                         | 165(2024), NRC 181 (2024),    |
+|   |       |                         | NRC 188 (2024), NRC 149       |
+|   |       |                         | (NRCSC3) (2024), JS 23-03     |
+|   |       |                         | (Jawahar Soybean 23-03)       |
+|   |       |                         | (2025), JS 23-09 (Jawahar     |
+|   |       |                         | Soybean 23-09) (2025)         |
++---+-------+-------------------------+-------------------------------+
+| 2 | U     | VLSoya 77 (2016), VL    | NRC 128 (IS 128) (2021), VL   |
+| 3 | ttara | Bhat 201 (2016), Pant   | Soya 99 (VLS 99)(2023), NRC   |
+| . | khand | Soya 21 (PS 1480)       | 197 (2024)                    |
+|   |       | (2017), Pant Soya 23    |                               |
+|   |       | (PS 1521) (2017),       |                               |
+|   |       | PantSoy-24 (PS 1477)    |                               |
+|   |       | (2017), VL Soya 89      |                               |
+|   |       | (2019), JS 20-94        |                               |
+|   |       | (2019), SL 979 (2020),  |                               |
+|   |       | Pant Soybean 25 (PS     |                               |
+|   |       | 1556) (2020), UKD Black |                               |
+|   |       | Soybean VL Bhat 202     |                               |
+|   |       | (2020)                  |                               |
++---+-------+-------------------------+-------------------------------+
+| 2 | West  | Kota Soya-1 (RKS 113)   | MACS 1407 (2021), NRC 132 (IS |
+| 4 | B     | (2018), JS 20-116(2019) | 132) (2021), NRC 147 (IS 147) |
+| . | engal |                         | (2021), NRC 128 (IS 128)      |
+|   |       |                         | (2021), NRC 136 (IS 136)      |
+|   |       |                         | (2021), RSC 11-07 (2021), RSC |
+|   |       |                         | 10-46 (2021), AMS 2014-1      |
+|   |       |                         | (PDKV Purva) 2021), RSC 10-71 |
+|   |       |                         | (2022), RSC 10-52 (2022)      |
++---+-------+-------------------------+-------------------------------+

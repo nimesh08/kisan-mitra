@@ -1,0 +1,68 @@
+# Characters of Notified Varieties/Hybrids of Castor (2012 onwards)
+
+> Source: user-provided document “Castor.docx”
+
+---
+
+## A) Varieties
+
+| Variety | Year of Release | Released Centre | Yield potential (Kg/ha) | Oil content (%) | Recommended States | Safety Features / Traits |
+|---|---:|---|---:|---:|---|---|
+| JI-273 (GC-3) | 2012 | ORS, JAU, Junagadh | 2340 | 49.60 | Irrigated areas of Gujarat | Resistant to wilt; tolerant to *Macrophomina* root rot |
+| DSP-222 | 2012 | Dantiwada Seed Pvt. Ltd | 2600–3000 | 48.40 | Irrigated areas of Gujarat, Rajasthan, Uttar Pradesh, Haryana | Resistant to wilt |
+| GCHB (SHB 896) | 2018 | SDAU, Gujarat | 1895 (Rainfed); 3588 (Irrigated) | 48.60 | J&K, Himachal Pradesh, Punjab, Haryana | Resistant to wilt; tolerant to root rot; suitable for irrigated and rainfed conditions |
+| GAC-11 | 2019 | ARS, Sansoli | 2300–3200 | 48.00 | Gujarat | Suitable for irrigated areas of middle Gujarat; early maturing, high yielding; wilt resistant |
+| YTP-1 (YRCS 1205) | 2019 | TNAU, Yethapur | 3110 | 49.00 | Tamil Nadu | Resistant to wilt, semilooper, and thrips |
+
+---
+
+## B) Hybrids
+
+| Hybrid | Year of Release | Released Centre | Yield potential (Kg/ha) | Oil content (%) | Recommended States | Safety Features / Traits |
+|---|---:|---|---:|---:|---|---|
+| DSP-222 | 2012 | Dantiwada Seed Ltd, Gujarat | 2600–3000 | 48.40 | Gujarat, Rajasthan, Uttar Pradesh, Haryana | Resistant to wilt |
+| HCH-6 | 2016 | UAHS, Shivamogga | 1800 | 48 | Karnataka | Resistant to *Fusarium* wilt |
+| GNCH-1 | 2017 | NAU, Navsari | 2500–3000 | 48 | Gujarat | Resistant to wilt and leafhopper |
+| YRCH-2 | 2017 | TNAU, Yethapur | 2100–3500 | 48 | Tamil Nadu | Resistant to wilt; tolerant to semilooper, *Spodoptera*, leafhopper, and capsule borer; suitable for rainfed conditions |
+| GCH-8 | 2018 | ORS, SK Nagar | 1800–3500 | 48.6 | All India | Resistant to wilt |
+| ICH-66 | 2019 | ICAR-IIOR, Hyderabad | 1500 (Rainfed) | 46–49 | Andhra Pradesh, Telangana, Karnataka, Tamil Nadu, Odisha | Resistant to *Fusarium* wilt; *Macrophomina* root rot |
+| ICH-5 | 2021 | ICAR–IIOR | 1671 | 44.4–45.6 | Andhra Pradesh, Telangana, Karnataka, Tamil Nadu, Odisha, Maharashtra | Moderately resistant to *Fusarium* wilt, *Macrophomina* root rot, and leafhopper; early sown |
+| Tilhan Tec ICH-6 (ICH-1146) | 2024 | ICAR–IIOR | 1516 | 46–47 | Andhra Pradesh, Telangana, Karnataka, Tamil Nadu, Odisha, Gujarat, Rajasthan, Haryana | Moderately tolerant to all sucking pests |
+| Rajasthan Hybrid Castor–2 (MHC-2) | 2024 | Directorate of Research, Jodhpur, Rajasthan | 3547 | 45.2 | Rajasthan | High oil content; resistant to root rot; tolerant to wilt; resistant to thrips and leafhopper; suitable for irrigated castor-growing areas |
+
+---
+
+## C) State-wise Recommended Varieties of Castor (2015–2025)
+
+| S. No | State | Varieties (2015–2020) | Varieties (2021–2025) |
+|---:|---|---|---|
+| 1 | Gujarat | GNCH-1 (2017), GAC-11 (2019) | — |
+| 2 | Haryana | GCHB (SHB 896) (2018) | — |
+| 3 | Himachal Pradesh | GCHB (SHB 896) (2018) | — |
+| 4 | Jammu & Kashmir | GCHB (SHB 896) (2018) | — |
+| 5 | Punjab | GCHB (SHB 896) (2018) | — |
+| 6 | Tamil Nadu | — | YTP-1 (YRCS 1205) (2019) |
+
+> **Note:** Dashes (—) indicate no entries listed in the source.
+
+---
+
+## D) State-wise Recommended Hybrids of Castor (2015–2025)
+
+| S. No | State | Hybrids (2015–2020) | Hybrids (2021–2025) |
+|---:|---|---|---|
+| 1 | Andhra Pradesh | ICH-66 (2019), GCH-8 (2018) | ICH-5 (2021), Tilhan Tec ICH-6 (2024) |
+| 2 | Gujarat | GNCH-1 (2017), GCH-8 (2018) | Tilhan Tec ICH-6 (2024) |
+| 3 | Haryana | GCH-8 (2018) | Tilhan Tec ICH-6 (2024) |
+| 4 | Himachal Pradesh | GCH-8 (2018) | — |
+| 5 | Jammu & Kashmir | GCH-8 (2018) | — |
+| 6 | Maharashtra | ICH-5 (2021), GCH-8 (2018) | ICH-5 (2021) |
+| 7 | Karnataka | HCH-6 (2016), ICH-66 (2019), GCH-8 (2018) | ICH-5 (2021), Tilhan Tec ICH-6 (2024) |
+| 8 | Odisha | ICH-66 (2019), GCH-8 (2018) | ICH-5 (2021), Tilhan Tec ICH-6 (2024) |
+| 9 | Rajasthan | GCH-8 (2018) | Tilhan Tec ICH-6 (2024), Rajasthan Hybrid Castor–2 (2024) |
+| 10 | Tamil Nadu | ICH-66 (2019), YRCH-2 (2017), GCH-8 (2018) | ICH-5 (2021), Tilhan Tec ICH-6 (2024) |
+| 11 | Telangana | ICH-66 (2019), GCH-8 (2018) | ICH-5 (2021), Tilhan Tec ICH-6 (2024) |
+| 12 | Uttar Pradesh | GCH-8 (2018) | — |
+
+---
+

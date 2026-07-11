@@ -1,0 +1,74 @@
+# Characters of Notified Varieties and Hybrids of Sesame (2015 onwards)
+
+> Source: user-provided document “Sesame.docx”
+
+---
+
+## A) Varieties
+
+| Variety | Year of Release | Released Centre | Yield potential (Kg/ha) | Oil content (%) | Recommended States | Salient Features/Traits |
+|---|---:|---|---:|---:|---|---|
+| PKV-NT-11 | 2015 | PDKV, Akola | 800–850 | 46–48 | Maharashtra | Suitable for summer, dark brown seed, tolerant to phyllody |
+| SMARAK (OSC 560) | 2015 | OUAT, Bhubaneswar | 800–900 | 48–52 | Odisha | Golden yellow bold seed, tolerant to *Macrophomina* |
+| DS 5 | 2015 | — | — | — | Karnataka | — |
+| SUBHRA (OSC 207) | 2015 | OUAT, Bhubaneswar | 800–900 | 48–52 | Odisha | White seeded variety |
+| GJT-5 | 2016 | — | 2344 | — | Gujarat | — |
+| Punjab Til-2 | 2016 | — | — | — | Punjab | — |
+| VRI 3 | 2018 | Vridhachalam | 850–950 | 50–52 | Tamil Nadu | MR to *Macrophomina* |
+| CUMS 17 (Suprava) | 2018 | — | 900–1200 | 48–50 | West Bengal, Odisha, Maharashtra, Chhattisgarh, Telangana, Tamil Nadu, Karnataka | Suitable for irrigated summer crop, resistant to root rot, phyllody, PM, tolerant to heat and drought |
+| Guj Til (GT)-6 | 2019 | JAU, Junagadh | 1010–1611 | 46.68 | Gujarat | Suitable for kharif (rainfed) and summer (irrigated) conditions |
+| AST-1 (AAUDR 9304-14-4-1) | 2020 | — | — | — | Assam | — |
+| RT 372 | 2021 | AU, Jodhpur | 600–700 | 48–50 | Rajasthan, Haryana, Punjab, Gujarat, Himachal Pradesh, Uttar Pradesh, Maharashtra, Nagaland | Suitable for rainfed condition, moderately resistant to *Macrophomina*, root rot, phyllody |
+| JNS-2016-1115 | 2021 | JNKVV, Jabalpur | 650–700 | 39–40 | All India | Tolerant to cercospora, alternaria, powdery mildew; moderately tolerant to aphids, semilooper, caterpillar |
+| Gujarat Til 11 (AT 324) | 2021 | JAU, Junagadh | 840–850 | 47–48 | Telangana, Maharashtra, Karnataka, West Bengal, MP, Bihar, AP, Tamil Nadu | Black seeded, resistant to *Macrophomina*, alternaria, cercospora, and phyllody |
+| Jagtiala Til 2 (JCS 2454) | 2021 | PJTSAU, Hyderabad | 950–1000 | 46–49 | Telangana | Suitable for summer; moderately resistant to powdery mildew and alternaria |
+| MT-2013-3 (BUAT Til-1) | 2021 | BUAT, UP | 450–700 | 47.5 | Uttar Pradesh | Suitable for rainfed; resistant to *Macrophomina*, cercospora, bacterial leaf spot, capsule borer |
+| Kalinga Sesame 3-1 (OSC 79) | 2021 | OUAT, Bhubaneswar | 550–750 | 42–46 | Odisha | Resistant to alternaria, *Macrophomina*, phytophthora, powdery mildew |
+| JCS 3202 (Telangana Til-1) | 2022 | RARS, Jagtiyal | 820–980 | 44.2 | Maharashtra, Karnataka, Telangana | Moderately resistant to *Macrophomina*, alternaria, cercospora, phyllody |
+| VRI-4 | 2022 | TNAU, Coimbatore | 957 | — | Maharashtra, Telangana, Karnataka, AP, Bihar, MP, Odisha, WB, Tamil Nadu | Resistant to phyllody and cercospora, moderately resistant to powdery mildew and alternaria |
+| PCUS-18-1 (Unat Rama) | 2022 | JNKVV, Jabalpur | 951 | 46.35 | MP, Bihar, AP, WB, Odisha, Tamil Nadu | Suitable for irrigated Rabi/Summer; moderately resistant to *Macrophomina* and alternaria |
+| AAU SHL TIL1 (AST-1) | 2022 | RARS, Shillongini, Assam | 904 | 46–49 | Assam | Resistant to phytophthora blight and phyllody; resistant to leaf webber |
+| JNS 2016-1413 | 2022 | JNKVV, Jabalpur | 650–750 | 39.5 | Chhattisgarh, Jharkhand | Tolerant to cercospora, alternaria, powdery mildew, whitefly, leaf hopper |
+| Phule Purna (JLT-408-2) | 2023 | MPKV, Rahuri | 750 | 49 | Maharashtra | White bold seed, resistant to cercospora and alternaria, moderately resistant to phyllody |
+| Gujarat Til 7 (Banas Gaurav) (SKT 1501) | 2023 | — | — | — | Gujarat | Open pollinated |
+| VRI 5 (VS 19036) | 2023 | — | — | — | Tamil Nadu | Open pollinated |
+| Ashrit (OUAT Kalinga Sesame-1) | 2023 | — | — | — | Odisha | Open pollinated |
+| Jagtiala Til-1 (JCS 1020) | 2023 | RARS, Polasa, Jagtial | 1125 | 46–49 | Telangana | White seeded, multi-capsular, moderately resistant to powdery mildew |
+| Sabour Til-1 (BRT-04) | 2024 | BAU, Sabour | 950–1050 | 42–44 | Bihar, AP, WB, MP | Black seeded, suitable for Rabi/Summer, moderately resistant to *Macrophomina* and alternaria |
+| Tilhan Tec Til-1 (IIOS1101) | 2024 | IIOR, Hyderabad | 850–950 | 45 | Karnataka, Maharashtra, Telangana, Odisha, WB, Tamil Nadu | White seeded, Rabi/Summer, moderately resistant to *Macrophomina* and capsule borer |
+| Tanjila (CUMS-09A) | 2024 | UoC, Kolkata | 1100–1150 | 48–49 | WB, Odisha, Tamil Nadu | Suitable for Summer; moderately resistant to root rot, phyllody, powdery mildew |
+
+---
+
+## B) Hybrids
+
+| Hybrid | Year of Release | Released Centre | Yield potential (Kg/ha) | Oil content (%) | Recommended States | Salient Features/Traits |
+|---|---:|---|---:|---:|---|---|
+| TLT-10 (Trombay Latur Til) | 2024 | ORS, Latur / VNMKV, Parbhani | 700–800 | 45 | Maharashtra | Lodging resistant, suitable for Kharif & Rabi/Summer; moderately resistant to *Macrophomina* and phyllody |
+| Bharani (GKVKS-1) | 2024 | UAS, GKVK, Bengaluru | 450–550 | 45.8 | Karnataka | Multicapsular, moderately resistant to *Macrophomina* and phyllody |
+| AT-392 | 2025 | AU, Jodhpur | 500–600 | 43.8 | Rajasthan, Punjab, UP, Gujarat, Maharashtra, Telangana | Suitable for kharif rainfed; moderately resistant to *Macrophomina* and capsule borer |
+| Gujarat Til 9 (AT 383) | 2025 | ARS, JAU, Amreli | 831 | 45.4 | MP, UP | White bold seeds, 90-day maturity, drought tolerant |
+| Jagtiala Nuvvulu-3287 (JCS-3287) | 2025 | RARS, Polasa, PJTSAU, Jagtial | 948–1227 | 45–47 | Telangana | Suitable for late kharif & summer; moderately resistant to *Macrophomina*; high nutritional value |
+
+---
+
+## C) State-wise Recommended Varieties of Sesame (2015–2025)
+
+| S.No | State | Varieties (2015–2020) | Varieties (2021–2025) |
+|---:|---|---|---|
+| 1 | Andhra Pradesh | — | Gujarat Til 11 (2021), JNS-2016-1115 (2021), VRI-4 (2022), PCUS-18-1 (2022), Sabour Til-1 (2024) |
+| 2 | Assam | — | AAU SHL TIL1 (2022), JNS-2016-1115 (2021) |
+| 3 | Bihar | — | Gujarat Til 11 (2021), JNS-2016-1115 (2021), VRI-4 (2022), PCUS-18-1 (2022), Sabour Til-1 (2024) |
+| 4 | Chhattisgarh | CUMS 17 (2018) | JNS 2016-1413 (2022), JNS-2016-1115 (2021) |
+| 5 | Gujarat | Guj Til-6 (2019) | Gujarat Til 7 (2023), AT-392 (2025) |
+| 6 | Karnataka | CUMS 17 (2018) | Gujarat Til 11 (2021), JNS-2016-1115 (2021), JCS 3202 (2022), VRI-4 (2022), Tilhan Tec Til-1 (2024), Bharani (2024) |
+| 7 | Maharashtra | CUMS 17 (2018) | PKV-NT-11 (2015), Gujarat Til 11 (2021), JNS-2016-1115 (2021), JCS 3202 (2022), VRI-4 (2022), Phule Purna (2023), Tilhan Tec Til-1 (2024), TLT-10 (2024), AT-392 (2025) |
+| 8 | Odisha | SMARAK (2015), SUBHRA (2015), CUMS 17 (2018) | JNS-2016-1115 (2021), Kalinga Sesame 3-1 (2021), VRI-4 (2022), PCUS-18-1 (2022), Ashrit (2023), Tilhan Tec Til-1 (2024), Tanjila (2024) |
+| 9 | Rajasthan | — | RT 372 (2021), JNS-2016-1115 (2021), AT-392 (2025) |
+| 10 | Tamil Nadu | VRI 3 (2018), CUMS 17 (2018) | JNS-2016-1115 (2021), Gujarat Til 11 (2021), VRI-4 (2022), PCUS-18-1 (2022), VRI 5 (2023), Tilhan Tec Til-1 (2024), Tanjila (2024) |
+| 11 | Telangana | CUMS 17 (2018) | Gujarat Til 11 (2021), Jagtiala Til 2 (2021), JNS-2016-1115 (2021), JCS 3202 (2022), VRI-4 (2022), Jagtiala Til-1 (2023), Tilhan Tec Til-1 (2024), AT-392 (2025), Jagtiala Nuvvulu-3287 (2025) |
+| 12 | Uttar Pradesh | — | RT 372 (2021), MT-2013-3 (2021), JNS-2016-1115 (2021), AT-392 (2025), Gujarat Til 9 (2025) |
+| 13 | West Bengal | CUMS 17 (2018) | JNS-2016-1115 (2021), Gujarat Til 11 (2021), VRI-4 (2022), PCUS-18-1 (2022), Sabour Til-1 (2024), Tilhan Tec Til-1 (2024), Tanjila (2024) |
+
+---
+

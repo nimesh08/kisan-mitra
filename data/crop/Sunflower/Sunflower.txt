@@ -1,0 +1,96 @@
+# Characters of Notified Varieties/Hybrids of Sunflower (2015 onwards)
+
+## Varieties
+
+| Variety | Year of Release | Released Centre | Yield potential (Kg/ha) | Oil content (%) | Recommended states| Salient features/traits |
+|---|---:|---|---:|---:|---|---|
+| Phule Bhaskar (SS-0808) | 2016 | ZARS Rahuri | 1807 | 37.90 | Maharashtra | Suitable for rainfed condition. Moderately resistant to bud necrosis, powdery mildew and *Alternaria* leaf spot. |
+| DRSF-3 | 2018 | UAS, Dharwad | 1800–2000 | 38–39 | Zone 3 & 8 of Karnataka | Early and high seed yield and oil content. |
+
+## Hybrids
+
+| Hybrid | Year of Release | Released Centre | Yield potential (Kg/ha) | Oil content (%) | Recommended states | Salient features/traits |
+|---|---:|---|---:|---:|---|---|
+| PSH 996 | 2015 | PAU, Ludhiana | 1951 | 39 | Punjab | Medium, high-yielding hybrid; moderately resistant to downy mildew and charcoal root rot. |
+| NSFH 1001 (Sunlight) | 2015 |  |  |  | Maharashtra, Karnataka, Andhra Pradesh & Telangana |  |
+| PSH-1962 | 2016 | AICRP PAU Ludhiana | 2054 | 41 | Punjab | For irrigated conditions. |
+| RSFH-1887 | 2016 | AICRP UAS Raichur | 1800–2500 (I); 1200–1600 (RF) | 38–40 | Karnataka | Tolerant to viral necrosis and *Alternaria* leaf spot. |
+| PDKVSH-952 | 2017 | PDKV Akola | 1600–1800 | 38 | Maharashtra | Moderately resistant to powdery mildew. |
+| Prabhat (NDSH-1012) | 2017 | RARS Nandyal | 1500–2000 (RF); 2000–2500 (I) | 40 | Andhra Pradesh | Tolerant to downy mildew. |
+| Kaveri Champ | 2017 | Kaveri Seed Hyderabad (Private company) | 2600–2800 | 40 | Haryana, Bihar, West Bengal, Odisha | Tolerant to downy mildew and leaf hopper. |
+| DSFH-3 | 2018 | UAS, Dharwad | 1800–2000 | 38–39 | Karnataka (Rabi) | Early and high seed yield and oil content. |
+| COH 3 | 2018 | TNAU, Coimbatore | Kharif: 1613; Rabi: 1822 | 42 | Tamil Nadu | Non-lodging and fertilizer responsive. Moderately resistant to leaf spot, necrosis and powdery mildew. |
+| Arko Provo (WBSH-2021) | 2022 | Pulses and Oilseeds Research Station, Berhampore – West Bengal | 3245 | 38.50 | West Bengal | Resistant to leaf curl, collar rot; moderately resistant to *Alternaria* leaf spot, powdery mildew and downy mildew. |
+| KBSH-78 | 2020 | UAS, Bengaluru | 1700–2300 (I); 1000–1200 (RF) | 39–41 | Karnataka | Short duration and medium-height hybrid. |
+| Tilhan Tech SUNH-1 | 2021 | ICAR-IIOR | 1500–2000 (RF); 2000–2657 (I) | 37.5 | Uttarakhand; UT of Jammu & Kashmir; Gujarat; Maharashtra; Karnataka; Andhra Pradesh; Tamil Nadu; Telangana | Resistant to downy mildew. Moderately resistant to *Alternaria* aster leaf blight and powdery mildew. |
+| PSH 2080 | 2021 | PAU, Ludhiana | 2636 | 43.70 | Punjab | High yield and oil content. |
+| KBSH-85 | 2022 | AICRP on Sunflower, UAS, GKVK, Bengaluru | 1829 | 35.70 | Gujarat; Maharashtra and Northern Karnataka; Andhra Pradesh; Southern Karnataka; Tamil Nadu; Telangana | Resistant to downy mildew under artificial epiphytotic conditions; suitable for early & late sowing. |
+| BLSFH-15004 (LG 5081) | 2022 |  | 1959 | 37.80 | Bihar; Haryana; Punjab; Odisha; Chhattisgarh; Maharashtra; Karnataka; Telangana | Highly resistant to downy mildew; moderately resistant to *Alternaria* and powdery mildew; suitable for early and late sowing. |
+| RSFH-700 | 2023 | MARS, Raichur – 584104 | 2000–2200 (I); 1200–1400 (R) | 38–40 | Karnataka | Tolerant to viral sunflower necrosis disease, *Alternaria* blight and powdery mildew (major diseases causing economic yield loss). |
+| COH 4 (CSH 15020) | 2023 |  |  |  | Tamil Nadu |  |
+| Tilhan Tec–SUNH-2 (IIOSH-460) | 2024 | ICAR-IIOR | 1570 | 38.1 | Gujarat; Maharashtra; Andhra Pradesh; Karnataka; Tamil Nadu; Telangana | Responsive to higher fertilizer doses; suitable for early and late sowing; resistant to lodging and shattering; moderately resistant to leafhopper; resistant to downy mildew. |
+| KBSH-88 | 2024 | AICRP on Sunflower, UAS, GKVK, Bengaluru | 1557 (1450–1850 RF; 1850–2500 IR) | 35.3 | Uttarakhand; Jammu & Kashmir; Gujarat; Maharashtra; Northern Karnataka; Andhra Pradesh; Southern Karnataka; Tamil Nadu; Telangana | Responsive to higher fertilizer doses; suitable for early and delayed sowing; resistant to lodging and shattering; tolerant to drought; moderate resistance to leafhoppers, and comparatively less incidence of thrips, whitefly and head borer; resistant to downy mildew under artificial epiphytotic conditions. |
+| PDKV Suraj (PDKVSH-964) | 2024 | Dr. PDKV, Akola | 1982 | 35–40 | Maharashtra | High seed and high oil yield. Disease resistance: Moderately resistant to *Alternaria*. Insect tolerance: Moderately resistant to leaf hopper. |
+| TilhanTec–SUNH-3 (IIOSH-434) | 2025 | ICAR-IIOR | 1500–2000 (RF); 2000–2600 (I) | 37.8 | Uttarakhand; Jammu & Kashmir; Gujarat; Maharashtra and Northern Karnataka; Andhra Pradesh; Southern Karnataka; Tamil Nadu; Telangana | Responsive to higher fertilizer doses; suitable for early and late sowing; resistant to lodging and shattering. |
+| KBSH-90 | 2025 | AICRP on Sunflower, UAS, GKVK, Bengaluru | 1442–1905 (RF); 2500–2800 (I) | 36.3 | Uttarakhand; Jammu & Kashmir; Gujarat; Maharashtra and Northern Karnataka; Andhra Pradesh; Southern Karnataka; Tamil Nadu; Telangana | Responsive to higher fertilizer doses; suitable for early, delayed sowing and contingent crop planning; resistant to lodging and shattering. (Agronomy data of KBSH-90, KBSH-44 and DRSH-1 in AICRP trial from UAS, Bangalore is available.) |
+
+## State-wise Recommended Hybrids of Sunflower (2015–2025)
+
+### Andhra Pradesh
+- Prabhat (NDSH-1012) (2017)
+- Tilhan Tech SUNH-1 (2021), KBSH-85 (2022)
+- TilhanTec–SUNH-2 (IIOSH-460) (2024), KBSH-88 (2024), TilhanTec–SUNH-3 (IIOSH-434) (2025), KBSH-90 (2025)
+
+### Bihar
+- Kaveri Champ (2017)
+- BLSFH-15004 (LG 5081) (2022)
+
+### Chhattisgarh
+- BLSFH-15004 (LG 5081) (2022)
+
+### Gujarat
+- Tilhan Tech SUNH-1 (2021), KBSH-85 (2022), TilhanTec–SUNH-2 (IIOSH-460) (2024), KBSH-88 (2024), TilhanTec–SUNH-3 (IIOSH-434) (2025), KBSH-90 (2025)
+
+### Haryana
+- Kaveri Champ (2017)
+- BLSFH-15004 (LG 5081) (2022)
+
+### Jammu & Kashmir
+- Tilhan Tech SUNH-1 (2021), KBSH-88 (2024), TilhanTec–SUNH-3 (IIOSH-434) (2025), KBSH-90 (2025)
+
+### Karnataka
+- RSFH-1887 (2016), KBSH-78 (2020)
+- Tilhan Tech SUNH-1 (2021), KBSH-85 (2022), BLSFH-15004 (LG 5081) (2022), RSFH-700 (2023), TilhanTec–SUNH-2 (IIOSH-460) (2024), KBSH-88 (2024), TilhanTec–SUNH-3 (IIOSH-434) (2025), KBSH-90 (2025)
+
+### Maharashtra
+- PDKVSH-952 (2017), KBSH-85 (2020)
+- Tilhan Tech SUNH-1 (2021), BLSFH-15004 (LG 5081) (2022), TilhanTec–SUNH-2 (IIOSH-460) (2024), KBSH-88 (2024), PDKV Suraj (PDKVSH-964) (2024), TilhanTec–SUNH-3 (IIOSH-434) (2025), KBSH-90 (2025)
+
+### Odisha
+- Kaveri Champ (2017)
+- BLSFH-15004 (LG 5081) (2022)
+
+### Punjab
+- PSH-1962 (2016)
+- PSH 2080 (2021), BLSFH-15004 (LG 5081) (2022)
+
+### Tamil Nadu
+- Tilhan Tech SUNH-1 (2021), KBSH-85 (2022), TilhanTec–SUNH-2 (IIOSH-460) (2024), KBSH-88 (2024), TilhanTec–SUNH-3 (IIOSH-434) (2025), KBSH-90 (2025)
+
+### Telangana
+- Tilhan Tech SUNH-1 (2021), KBSH-85 (2022), BLSFH-15004 (LG 5081) (2022), COH 4 (CSH 15020) (2023), TilhanTec–SUNH-2 (IIOSH-460) (2024), KBSH-88 (2024), TilhanTec–SUNH-3 (IIOSH-434) (2025), KBSH-90 (2025)
+
+### Uttarakhand
+- Tilhan Tech SUNH-1 (2021), KBSH-88 (2024), TilhanTec–SUNH-3 (IIOSH-434) (2025), KBSH-90 (2025)
+
+### West Bengal
+- Kaveri Champ (2017)
+- Arko Provo (WBSH-2021) (2022)
+
+## State-wise Recommended Varieties of Sunflower (2015–2020)
+
+### Karnataka
+- DRSF-3 (2018)
+
+### Maharashtra
+- Phule Bhaskar (SS-0808) (2016)

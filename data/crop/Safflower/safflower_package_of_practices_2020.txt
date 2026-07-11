@@ -1,0 +1,695 @@
+SAFFLOWER
+
+Package of Practices for Increasing Crop Productivity 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Indian Council of Agricultural Research)
+ICAR-Indian Institute of Oilseeds Research
+Rajendranagar, Hyderabad 500 030 
+ Citation
+
+
+Safflower: Package of Practices for Increasing Crop Productivity, ICAR-Indian Institute of Oilseeds Research, Hyderabad, --p
+
+7th Revised Edition: January 2020
+
+No. of copies: 
+
+Compiled and Edited by
+
+P. Padmavathi
+N. Mukta
+P.S Srinivas
+R.D. Prasad
+Lakshmi Prayaga
+A. Vishnuvardhan Reddy
+
+Cataloguing-in-publication
+
+Main entry under title
+Safflower: Package of Practices for increasing crop productivity/ Compiled and Edited by 
+P. Padmavathi, N. Mukta, P.S. Srinivas, R. D Prasad and A. Vishnuvardhan Reddy --p
+
+1. Safflower – improved technologies
+
+
+Published by
+
+A. Vishnuvardhan Reddy
+Director
+ICAR-Indian Institute of Oilseeds Research
+Rajendranagar, Hyderabad 500 030
+
+
+Printed at
+ 
+FOREWORD
+
+
+Safflower is one of the important rabi oilseed crops of India grown under receding soil moisture conditions in Vertisols. Although safflower is grown mainly for its seed oil, it has many other uses in preparation of edible dyes, textile dyes, medicines from petals, and all plant parts find place in herbal medicines. India ranks second both in area (30%) and production (23%) in the world. In India safflower is grown in an area of 0.44 lakh ha and producing 0.23 lakh t of seed with an average productivity of 527 kg/ha. 
+
+The research and development efforts through All India Coordinated Research Project (AICRP) on safflower and Indian Institute of Oilseeds Research have yielded promising technologies for realizing higher yields and profits from the crop. The average yield is still very low as compared to the production potential realized in the frontline demonstrations. Poor crop management under low input conditions is the main reason for such low yield levels. Hence, this publication entitled “Safflower: Package of Practices for Increasing Production” is an authentic extension bulletin. 
+
+The efforts made by the Indian Institute of Oilseeds Research for compilation of this bulletin is commendable. I hope, it will be very useful to extension personnel, farming community and all others associated with this crop to increase safflower production further.
+
+
+
+						
+
+								(-----------------------)
+New Delhi			      			Deputy Director General (CS)
+January, 2020					Indian Council of Agricultural Research
+								New Delhi
+
+ 
+
+CONTENTS
+
+
+Particulars	Page No.
+Introduction	3
+Regions of Cultivation	3
+Production Problems	4
+Suitable climate and soils	4
+Suitable cultivars	5
+Intercropping systems	6
+Sequence cropping systems	7
+Crop rotation in mono-cropped areas	8
+Agronomic Management	9
+          Soil and moisture conservation 	9
+          Tillage and seed-bed preparation	9
+          Time of sowing	9
+          Seed rate and crop spacing	10
+          Seed treatment	10
+          Seeding depth and devices	10
+          Thinning 	10
+          Fertilizer management	11
+          Weed control	13
+          Parasitic weed - Cuscuta	13
+          Soil mulching	13
+          Cycocel application	14
+          Irrigation and water management	14
+Crop Protection	14
+Harvesting and Threshing	17
+Realizable yield potential	17
+Critical Inputs	17
+Contingency Plan	17
+	
+ 
+Introduction
+
+Safflower (Carthamus tinctorius L.) is one of the important rabi oilseed crops of the country. Apart from its superior adaptability to scanty soil moisture conditions, safflower produces oil rich in polyunsaturated fatty acids (linoleic acid 78%) which play an important role in reducing the blood cholesterol level. Petals are valuable resource for colouring purposes as they contain both carthamin (red) and carthamidin (orange) dyes. Apart from that it also has many medicinal qualities and potential for promoting it as herbal tea.
+
+India is producing 0.23 lakh t of safflower seed from an area of 0.44 lakh ha with an average productivity of 527 kg/ha (2018-19). The productivity of crop is low as compared to the demonstrated production potential on the farmers fields with the improved methods of crop cultivation under various growing conditions (1260 kg/ha). Poor crop management under input starved conditions is the most important reason for such low per hectare yields. However, concerted research efforts made under the All India Coordinated Research Project on Safflower and ICAR-Indian Institute of Oilseeds Research have resulted in development of hybrids, improved varieties and production techniques capable of boosting the productivity levels of safflower in different safflower agro-ecological conditions of the country. Detailed below are the improved production practices recommended for different safflower growing areas in the country.
+
+Regions of cultivation
+
+Maharashtra and Karnataka are the two most important safflower growing states accounting for 48% and 41% of area and 38% and 51% of production respectively. The crop productivity was higher in Karnataka (818 kg/ha) than Maharashtra (548 kg/ha). It is also grown to a limited extent in Telangana, Jharkhand, West Bengal, Madhya Pradesh, Chhattisgarh, Odisha and Arunachal Pradesh which account for 11% of area and production (2017-18). There is tremendous scope for expansion of area and productivity of the crop. 
+
+Majority of the area is concentrated in agro-ecological region 6 (Deccan plateau, hot semi-arid ecoregion).  Very limited area is present in agro-ecological region 5 (Central Malwa highlands, Gujarat plains and Kathiawar peninsula, hot semi-arid ecoregion) and 11 (Eastern plateau Chhattisgarh, hot sub-humid ecoregion. The characteristics of these agro ecological regions are given below.
+
+Agro-ecological region	Sub-region	Rainfall (mm)	Temperature (⁰ C)	Moisture Index (MI)	Length of growing period (days)
+6	6.1	600-700	26-27	-57 to -59	90 - 120
+	6.2	700 - 1000	26-27	-36 to -59	120-150
+	6.3	800-1100	26-27	-44 to -49	120-150
+	6.4	1000-1200	24-25	-27 to -30	150-240
+5	5.2	800-1000	24-25	-35 to -49	120-150
+11	11	1200-1600	25-28	-4 to +13	150-180
+
+ 
+Production problems
+
+Traditional areas 
+(Maharashtra, Karnataka, Telangana) 
+
+•	Limited seed availability of high yielding varieties and hybrids
+•	Majority of area is under rainfed conditions leading to acute moisture stress
+•	Absence of thinning to remove excess plant population
+•	Inadequate irrigation facilities to provide one life saving irrigation
+•	Inadequate and imbalanced fertilizer application 
+•	Waterlogging due to heavy rains in September/ October in many areas
+•	Late sowing of safflower after harvest of kharif crop 
+•	Inadequate soil moisture conservation practices
+•	Poor plant population in kharif cropped areas
+
+Non-traditional areas 
+(Madhya Pradesh, Chhattisgarh, Uttar Pradesh, Bihar etc.)
+
+•	Limited seed availability of high yielding varieties and hybrids
+•	Late sowing of safflower after kharif crop 
+•	Absence of thinning to adjust plant population
+•	Inadequate/imbalanced fertilization of major, secondary and micronutrients 
+•	Spiny varieties of the crop discouraging the farmers for adoption
+•	Lack of marketing facilities for safflower 
+•	Inadequate weed control measures
+
+Climate
+
+Crop is more or less day-neutral but sensitive to temperature. It does not favour extremes of either heat or cold. The crop is tolerant to low temperature at seedling and vegetative stages but sensitive at elongation, flowering and post-flowering stages. Crop requires bright sunshine. 
+
+Crop comes up better in relatively drier areas. It cannot withstand excessive rainfall or humidity at any stage of its growth due to damage from fungal diseases. Frequent and prolonged rains and heavy dew at flowering stage adversely affect pollination, seed development causing discolouration of the seed and petals.
+
+The crop is drought tolerant as the plant is able to extract soil moisture from deeper layers of soil. Crop water requirement at early (rosette stage) and later stages (seed filling) of crop growth is low while, requirement is maximum from rosette termination to flowering stage of crop growth. 
+
+Soils
+
+Black soils: In traditional areas, safflower is being grown under residual soil moisture conditions, in moderate to highly fertile, deep to medium deep, moisture retentive and well drained soils with neutral reaction. Waterlogging due to poor drainage or prolonged rains even for relatively short periods predispose the crop to damage from root rots and wilts and cause substantial yield loss. Therefore, draining the excess water during heavy rainfall events is must for realizing economic yields.
+
+Light soils: Crop comes up equally well in a variety of other soils, sandy loams, clay loams and alluvials. Frequent irrigations are required when the crop is grown in shallow and light textured soils for economic yields. 
+
+Saline soils: Safflower is saline tolerant and is considered next to barley. It is able to tolerate upto 4 dS/m and above this level seed yield starts to decline. Variety Annigeri-1 was tolerant to salinity. Seed treatment with 1% NaCl (1g NaCl/100 ml water) solution, sowing on the side of ridges and application of FYM (2 t/ha) reduces the affect of salinity on the crop. 
+
+Cultivars
+
+The list of recommended cultivars which are in seed chain, most popular and latest ones were given below.  
+
+
+Intercropping
+
+Suggested intercropping systems: Safflower can also be grown as intercrop in a number of traditional crops. Some of the suggested intercrop combinations which are more feasible, productive and profitable for different regions under rainfed conditions are listed below.
+
+State/ Region	Intercropping system	Row proportion
+(Base crop:safflower)
+Maharashtra	Chickpea + safflower 	3:1 or 2:1
+	Wheat + safflower	3:1 or 2:1
+	Linseed + safflower 	3:1 or 4:2
+	Coriander + safflower	3:1
+Karnataka	Chickpea + safflower	3:1
+	Coriander + safflower	3:1 or 2:1
+	Wheat + safflower	3:1 or 5:1
+Telangana	Chickpea + safflower	3:1 or 2:1
+	Wheat + safflower 	3:1 or 2:1
+	Coriander + safflower	3:1 or 2:1
+	Linseed + safflower	3:1 or 2:1
+Madhya Pradesh	Mustard + safflower 	6:2
+	Toria + safflower	6:2
+	Chickpea + safflower	2:1 or 6:2 or 4:2
+	Linseed + safflower	2:1 or 6:2
+	Amaranthus + safflower	6:2
+Chhattisgarh	Chickpea + safflower	2:1 or 6:2 or 4:2
+	Linseed + safflower	2:1 or 6:2
+	Mustard + safflower	6:2
+Eastern Uttar Pradesh and Bundelkhand region	Linseed + safflower	3:1
+	Chickpea + safflower 	3:1
+	Barley + safflower	6:2
+	Toria + safflower	1:2
+
+To derive full benefits from proven intercropping systems with safflower, the following practices are to be followed. 
+
+•	Keep the seed rate of base crop as 75% of the recommended seed rate in 3:1 row ratio and 66% of the recommended seed rate in 2:1 row ratio of intercropping system. In case of safflower as intercrop, use 60 to 75% of recommended seed rate in 3:1 or 2:1 row ratios of intercropping systems.  
+
+•	For deriving maximum benefit from specific intercropping system, avoid too wide an interval between main crop and safflower. Seed safflower at closer intervals of 2:1 or 3:1 or their multiples depending on seedling devices available in a region. 
+
+Fertilizer management in intercropping system: The amount of fertilizer need to be applied in different intercropping systems and row ratios is given below. 
+
+Intercropping system	Row 
+ratio	Recommended level of fertilizer under sole cropping 
+(N:P2O5:K2O kg/ha)	Recommended level of fertilizer under Intercropping (N:P2O5:K2O kg/ha)
+		Base crop	Safflower	
+M.P		
+Chickpea + safflower	3:1	20:60:20	60:40:20	30:55:20
+Linseed + safflower	3:1	20:60:20	60:40:20	30:55:20
+Chickpea + safflower	2:1	20:60:20	60:40:20	20:37.5:0
+Linseed + safflower	2:1	20:60:20	60:40:20	20:37.5:0
+Scarcity zone of Maharashtra		
+Chickpea + safflower	3:1	25:50:0	50:25:0	31.3:43.5:0
+Sorghum + safflower	3:1	50:25:0	50:25:0	50:25:0
+Chickpea + safflower	2:1	25:50:0	50:25:0	33.3:41.6:0
+Sorghum + safflower	2:1	50:25:0	50:25:0	50:25:0
+Karnataka		
+Chickpea + safflower	3:1	20:40:0	40:40:12	25:40:3
+Chickpea + safflower	2:1	20:40:0	40:40:12	25:39.2:6.3
+Telangana 		
+Chickpea + safflower	3:1	20:50:0	40:25:0	20:40.6:0
+Coriander + safflower	3:1	46:16:44	40:25:0	39.5:15.1:33
+Chickpea + safflower	2:1	20:50:0	40:25:0	20:37.5:0
+Coriander + safflower	2:1	46:16:44	40:25:0	37.3:14.9:29.3
+
+Sequence cropping
+
+Suggested safflower based sequence cropping systems: A number of productive and remunerative cereal/ legume-safflower sequences are identified for various agro-ecological regions of the country either as a contingent or regular practice which are given hereunder:
+
+State/ Region	Crop sequence
+Maharashtra	
+Assured moisture areas of Maharashtra 
+(Khandesh tract, parts of Marathwada and Vidarbha)	Mungbean – safflower
+Urdbean – safflower
+Hybrid sorghum – safflower*
+Groundnut – safflower*
+Sesame – safflower
+Sunflower – safflower
+Drought prone areas of Maharashtra	Mungbean –safflower
+Urdbean – safflower
+Karnataka	
+Transitional tract of Karnataka (Dharwad, Belgaum and adjoining areas)	Mungbean – safflower
+Soybean – safflower
+Groundnut – safflower
+Scanty rainfall areas of Karnataka (Medium deep black soils of Bijapur and western parts of Belary)	Hybrid sorghum _ safflower* 
+Mungbean – safflower*
+Telangana	
+Northern part of Telangana (parts of Ranga Reddy and Mahaboobnagar district, Adilabad, Medak and Nizamabad)	Mungbean – safflower
+Soybean-safflower
+Maize – safflower
+Hybrid sorghum – safflower*
+Sesame – safflower
+Madhya Pradesh	
+Malwa plateau of Madhya Pradesh	Soybean – safflower*
+Maize – safflower
+Groundnut – safflower
+Chhattisgarh	Upland rice – safflower
+Uttar Pradesh	
+Bundelkhand region of Uttar Pradesh	Soybean – safflower
+Cowpea (fodder) – safflower
+Mungbean – safflower
+Hybrid sorghum – safflower
+Eastern Uttar Pradesh	Upland rice – safflower **
+Hybrid pearlmillet – safflower
+Mungbean – safflower
+Urdbean – safflower
+Sesame – safflower
+Jharkhand	Upland rice – safflower*
+Maize – safflower **
+Orissa	
+Medium and uplands of Orissa	Upland rice – safflower
+Rajasthan	
+South-eastern Rajasthan (Udaipur and adjoining areas)	Mungbean – safflower
+Urdbean – safflower
+Maize (fodder) – safflower
+Sorghum (fodder) – safflower
+Cowpea (fodder) – safflower
+Cowpea (vegetable) – safflower
+*  As a contingent  practice depending on timely receipt and/or availability of favourable soil moisture conditions.
+** As a contingent practice or alternatively with pre-plant irrigation if conditions warrant
+
+Safflower is also emerging as an ideal sequence crop in irrigated black soils such as in tail end areas of canals where water availability is limited and in other areas where irrigation sources are limited. With the availability of just 1 or 2 irrigations, safflower is preferred over other crops.
+
+Efficient management of safflower in sequence cropping 
+
+•	Choose short duration hybrids/ high yielding varieties of cereals and legumes to ensure timely planting of second crop of safflower when the soil moisture in the seed zone is adequate. Safflower performs better when it succeeds a short duration grain legume than a cereal.
+•	Avoid deep or frequent tillage after harvest of kharif crops as it promotes loss of moisture. Follow minimum tillage or if possible zero tillage to achieve satisfactory plant stand.
+•	Take up kharif sowing immediately after the onset of monsoon so as to vacate the land well in time for rabi sowing of safflower.
+•	Avoid kharif cropping in traditional rabi areas if the onset of south west monsoon is delayed as it will hinder timely planting of safflower.
+•	Adopt relay cropping wherever possible.
+•	Adopt higher seed rates of 15 to 20 kg/ha to overcome the problem of inadequate moisture in the seed zone and the consequent problems of germination and emergence.
+•	Place safflower seed in the moist zone by using appropriate seeding devices.
+
+Crop rotation in mono-cropped areas
+
+Continuous cropping of safflower encourages build up of fungal diseases (wilts, root rots and foliar diseases) besides adversely affecting the long-term soil productivity and hence should be avoided. Rotate safflower with prevailing kharif/rabi crops without any fear or inhibition. However, cultivation of cotton after safflower or vice-versa should be avoided as it results in poor yields and inefficient exploitation of nutrients because of their identical rooting habits. Further, this rotation increases build up of Verticillium wilt. Inclusion of a grain legume in the rotation should be preferred as it not only benefits safflower but also improves soil fertility.
+
+Agronomic management
+
+Soil and moisture conservation practices
+
+Practicing of soil and moisture conservation measures is must for sustainable production of safflower because the crop is grown under receding soil moisture conditions during post-rainy season. 
+(1) Under mono-cropping conditions, where the field is kept as fallow during rainy season, check the soil erosion and conserve maximum amount of rainfall received. In all low to medium rainfall areas, graded bunds combined with interterrace cultivation across slopes is quite effective in arresting runoff and erosion and providing more opportunity for rain water to infiltrate in the soil. Form compartmental bunds in inter-bunded areas to conserve maximum rainfall. Make a provision for proper surface drainage. Check the weed growth and evaporation losses by harrowing 3 to 4 times during the monsoon season.
+(2) Under double-cropping conditions, where short duration legumes/ cereals were grown during rainy season, broad bed and furrow system of land configuration may be followed to conserve the soil moisture as well as to drain the excess rain water. 
+
+Tillage and seed-bed preparation
+
+When safflower is to be planted after a short duration cereal or legume, avoid too deep or repeated tillage after the harvest of kharif crops, prefer zero tillage or give 1 or 2 harrowings or shallow ploughing/ disking followed by planking/ harrowing. Keeping kharif crops weed-free will minimise tillage requirements for safflower. Timely sowing of safflower is possible immediately after harvest of kharif crop under zero tilled conditions in broad bed and furrow method of land configuration. 
+
+Time of sowing
+
+The optimum time of seeding stipulated for different safflower growing areas taking advantage of first soaking rains received in September/ October is as follows:
+
+State/Region	R/I	Seeding time
+Maharashtra		
+Drought prone areas and adjoining 
+areas of W. Maharashtra	R	2nd fortnight of September
+Assured rainfall areas of W. 
+Maharashtra and Marathwada	R/I	Last week of September to mid October
+Vidarbha	R	Last week of September to first week of October
+	I	October
+Karnataka	R	Second fortnight of September
+	I	Mid September to early November
+Gujarat	R/I	Last week of October to first week of November
+Telangana	R	Late September or early October
+Madhya Pradesh		
+Malwa Plateau	I	Last week of September to second week of November
+Chhattisgarh	I	Second week of October to second week of November
+Orissa	I	Second week of September to mid October
+Uttar Pradesh	R	Second to third week of October
+	I	Mid October to first week of November
+Rajasthan	R	Early to mid October
+Tamil Nadu	R	Early to mid October
+Bihar	R	Second week of October
+
+ 
+In case soil moisture conditions are extremely favourable as in seasons with extended monsoon or late rains or where facilities exist for pre-sowing irrigations, plantings of rainfed safflower can safely be extended by 1 to 2 weeks beyond the suggested optimum period for different regions.
+
+Seed rate and crop spacing
+
+The following are the seeding rates and spacings recommended for different regions to achieve the desired plant stand:
+
+State 	Situation	Seed rate (kg/ha)	Spacing (cm)
+Maharashtra	Kharif fallows	10 – 12	45 x 20
+	Double cropped areas	15	45 x 20
+Karnataka	Kharif fallows	7.5	60 x 30
+Telangana	Kharif fallows/Double cropped areas	7.5 – 10	45 x 20
+Gujarat	Double cropped areas	10 12	45 x 20
+Madhya Pradesh	Double cropped areas	20	45 x 20-25
+Chhattisgarh	Rice fallows	10 15	45 x 20
+Orissa	Rice fallows	20	30 x 15
+Uttar Pradesh 	Adequate moisture	12 – 15	45 x 20
+	Scanty moisture	15 – 20	45 x 20
+Bihar	Adequate moisture	12 – 15	45 x 20
+	Scanty moisture	15 – 20	45 x 20
+Tamil Nadu	Double cropped areas	10	45 x 20
+
+
+Seed treatment
+
+Treat the seed with cymoxanil 8% + mancozeb 64% (2g/kg) or carbendazim 12% + mancozeb 63% (2 g/kg) or Trichoderma harzianum Th4d SC (2 ml/kg) or captan 50 WP (3 g/kg ) for effective management of seed and soil borne diseases.
+
+Seeding depth and devices
+
+For better stands, follow line sowing using improved seed drills or fertilizer-cum-seed drills available in different regions. Seeds can be sown behind the plough also. Place the seed at a depth of about 5 cm in the moist zone to facilitate good germination and emergence. Cover the seed with heavy plank.
+
+In scarcity zone of Maharashtra, border method of planting (skipping one row after every two rows and opening a furrow in the skipped row) results an yield advantage of 25% than that of normal method of planting. In Telangana region, tied ridges and furrows system and closing the furrow every 10 m helps in better soil moisture conservation and resulted in 26% higher seed yield than normal method of planting of safflower. 
+
+Many a times, establishment of optimum stand is a serious problem in several non-traditional areas such as in Madhya Pradesh, Chhattisgarh, Gujarat, Uttar Pradesh, Bihar, Odisha and North-Western India. Under such a situation, devices which could place the seed in the moist zone as for example single row dryland deep-furrow seeder or corn planter with adjustable row opener in plateau region of Jharkhand, Malavya seed drill in eastern Uttar Pradesh should be preferred.
+
+Thinning
+
+Thin the excess seedlings within 10 to 15 days after sowing and maintain the desired plant to plant spacing. This practice increases the seed yield by 15 to 30% under rainfed conditions. This practice is very important to realize the potential yield but generally neglected by the farmers.
+
+Fertilizer management 
+
+Fertilizer level: The recommended levels of manures and fertilizers for different regions are given below:
+
+State	Region	R/I*	FYM (t/ha)	Fertilizer (kg/ha)
+				Nitrogen (N)	Phosphorus (P2O5)	Potassium (K2O)
+Maharashtra	Western	R	-	50	25	-
+		I				
+	Scarcity 	R	-	25	12.5	-
+	Marathwada	R	-	40	20	-
+		I	-	60	40	-
+	Vidarbha	R	5-10	25	25	-
+		I	5-10	50	50	-
+Karnataka		R	6	40	40	25
+		I	6	75	75	35
+	Northern transition	R	-	60	40	25
+Gujarat		R	-	25	10	-
+Telangana		R	-	40	25	-
+Odisha		R	6	25	25	-
+Uttar Pradesh		R	-	40	30	20
+		I	-	60	30	20
+Madhya Pradesh	Malwa tract	R	-	40	40	20
+		I	-	60	40	30
+Chhattisgarh		R	-	20-30	15-20	10-15
+		I	-	50-60	20-30	20
+All other areas		R	-	30	20	-
+*R: Rainfed; I: Irrigated
+
+Time of fertilizer application: Under rainfed conditions, apply entire quantity of fertilizers as basal dose by drilling. Place the fertilizers deep in seed furrows (10 cm below the soil in traditional area and 10-15 cm in other areas). In the traditional single cropped rabi tracts of Maharashtra and Karnataka, application of fertilizers 2 to 3 weeks prior to optimum planting time is recommended for maximum efficiency under receding soil moisture.
+
+In scanty rainfall areas of Maharashtra, an additional top dressing of 20 to 25 kg N/ha should be given, if seasonal conditions turn out to be very favourable (high initial stored moisture at planting time, favourable post planting rains).
+
+Under irrigated conditions, apply 50% of N and 100% of P and K fertilizers at the time of seeding and top dress the remaining 50% N after 5 weeks at the time of first irrigation.
+
+Seed treatment with biofertilizers: Seed treatment with Azotobacter or mixed inoculation of Azotobacter and Azospirillum (25 g each/kg seed) could effectively substitute 50% of recommended needs of safflower. Seed treatment with phosphorus solubilizing bacteria (PSB) 25 g/kg seed) benefits the crop.    
+
+
+Kharif legume as preceding crop: In double-cropped areas, the recommended dose of nitrogen to safflower can be reduced by 50% (about 15 to 25 kg N/ha), if the preceding crop is a grain legume like mungbean receiving its full complement of fertilizers. It is advisable to apply phosphorus and potassium based on soil test values.
+
+Substitution of P2O5 with biofertilizers/farm yard manure in safflower based cropping systems:
+
+Mungbean-safflower
+
+•	Substitute 100% P2O5 of either mungbean or safflower with 5 t FYM/ha along with seed treatment with phosphorus solubilizing bacteria (PSB) in Vidarbha region of Maharashtra, Telangana and Karnataka.
+
+Soybean-safflower
+
+•	Substitute 100% P2O5 of either soybean or safflower with 5 t FYM/ha along with seed treatment with phosphorus solubilizing bacteria (PSB) in Malwa plateau of Madhya Pradesh.
+
+•	Substitute 100% P2O5 of safflower with 5 t FYM/ha + seed treatment with phosphorus solubilizing bacteria (PSB) in soybean-safflower cropping system in Western Maharashtra.
+
+Chickpea-safflower (annual rotation)
+
+•	Substitute 100% P2O5 of either chickpea or safflower with 5 t FYM/ha + seed treatment with phosphorus solubilizing bacteria (PSB) in Scarcity zone of Maharashtra.
+
+Substitution of N:P2O5 with biofertilizers in safflower based cropping systems:
+
+Mungbean-safflower
+
+•	Substitute 50% P2O5 of mungbean with PSB seed treatment; and 50% N and P2O5 of safflower with Azotobacter/Azospirillum and PSB seed treatments in Vidarbha region of Maharashtra.
+
+•	Substitute 50% N:P2O5 of either mungbean or safflower with Azotobacter/Azospirillum and PSB seed treatments in Karnataka.
+
+•	Substitute 50% P2O5 of mungbean with PSB seed treatment; and 50% N and P2O5 of safflower with Azotobacter/Azospirillum and PSB seed treatments in Scarcity zone of Maharashtra.
+
+Soybean-safflower
+
+•	Substitute 50% P2O5 of soybean with PSB seed treatment in western Maharashtra.
+
+Blackgram-safflower
+
+•	Substitute 50% P2O5 of black gram with PSB seed treatment (25 g/kg sees); and 50% N and P2O5 of safflower with Azotobacter/Azospirillum (25 g/kg seed) and PSB (25 g/kg seed) seed treatments in Scarcity zone of Maharashtra.
+
+
+Substituting NPK requirement with crop residues in Maharashtra
+
+•	Apply safflower residues to greengram and greengram residues to safflower to save 50% recommended N:P2O5:K2O of greengram/safflower in Vidarbha region of Maharashtra.
+
+•	Apply safflower residues to soybean along with 2.5 t/ha FYM and soybean residues along with 2.5 t/ha FYM to substitute 50% recommended N:P2O5:K2O of soybean and safflower respectively in soybean-safflower system in Marathwada region of Maharashtra.
+
+Sulphur application
+
+Location	R/I*	Sulphur (kg/ha)	Source of fertilizer
+Phaltan	I	15	SSP
+Parbhani	I	30	Gypsum
+Indore	I	30	SSP
+Akola	R	30	SSP
+Solapur	R	45	SSP
+Bhal	R	45	AS
+Tandur	I	45	SSP
+Raipur	I	30	AS
+*R: Rainfed; I: Irrigated
+
+Yield advantage due to sulphur application over no application was 20 to 25% under rainfed conditions and 30 to 40% under irrigated conditions depending on sulphur and moisture availability in the soil.
+
+Micronutrient application
+
+•	In Marathwada region of Maharashtra apply either ZnSO4 or FeSO4 (20 kg/ha) in addition to recommended fertilizer in case the soil is deficient in terms of Zn (<0.7ppm) or Fe (<02 ppm).
+
+•	In scarcity zone of Maharashtra, apply FeSO4 (10 kg/ha) or ZnSO4 (20 kg/ha) in addition to recommended dose of fertilizer or RDF + 5 t FYM/ha to safflower in case the soil is deficient in terms of Zn (<0.7ppm) or Fe (<2 ppm). 
+
+
+Weed control
+
+Give one or two hand weedings and hoeings/ harrowings at 25 to 30 and 45 to 50 days after planting depending on the length of rosette period and the severity of weed infestation. Pre-emergence application of pendimethalin 30 EC @ 1 kg a.i/ha (3.3 l/ha) or pre-plant incorporation of fluchloralin 45 EC @ 1 kg a.i/ha (2.2 l/ha) have been found quite effective. Spray pre-emergence herbicide within 1 to 2 days after sowing. While applying pre-emergence herbicide, ensure that sufficient soil moisture is available on the top layer of the soil. In rice-safflower system, apply oxyflurofen 23.5 EC @ 250 g a.i/ha (1 l/ha) or pendimethalin 30 EC @ 1 kg a.i/ha (3.3 l/ha) or pendimethalin 37.8 EC @ 1 kg a.i/ha (2.6 l/ha) followed by two hand weedings at 25 and 45 days after sowing controls weeds effectively.
+
+Parasitic weed – Cuscuta
+After a cuscuta attaches itself to a plant, it wraps itself around it. If the host contains food beneficial to cuscuta, the cuscuta produces haustoria that insert themselves into the vascular system of the host. 
+•	Spray pre-emergence herbicide of pendimethalin @ 1 kg a.i/ha (3.3 l/ha)  
+•	Use clean seed of the crop. 
+•	Remove physically and destroy immediately it appeared in the field.
+•	Spike harrowing is recommended to prevent initial establishment of cuscuta.
+
+Soil mulching
+
+In black soil areas, cracks begin to appear from December onwards with the loss of sub-soil moisture. To delay cracking, close them superficially with dust mulch as and when they appear and thereby minimise moisture losses. Give one additional interculture or hoeing using bullock drawn hoes/ harrows/ sweeps in December before the crop canopy is closed and the spines become problematic.
+
+Cycocel application
+
+Under rainfed conditions (Akola), spray cycocel (500 ppm or 0.5 g/l) at flower initiation to get 8 to 10% higher seed yield and returns from safflower. Use about 500 litres of spray solution per hectare. 
+
+Irrigation and water management
+
+Under scanty moisture conditions in drylands, yield can be boosted by 40 to 60% by providing just one life saving irrigation (5 to 8 cm) at critical phases of crop growth (early stem elongation or flowering) or before soil moisture becomes limiting for crop growth. When raised as an irrigated crop, safflower can give almost double the yield obtained from rainfed crop. The crop is, however, very sensitive to excessive moisture. In poorly-drained soils like heavy black soils, improper surface irrigation may lead to prolonged waterlogged condtions and the associated problems of wilts and root rots.
+
+Give a light pre-sowing irrigation if the soil moisture in the seed zone is not adequate for germination. Later, depending on the soil moisture status, give one irrigation at 35 days after planting in early elongation stage and another at 65 to 70 days during flowering. After this, no irrigations are generally required unless soils are too light with low water holding capacity. In light soils about 5-6 irrigations are needed including a preplanting irrigation.
+
+Under irrigated conditions, it is advisable to plant the crop on broad beds with furrows laid at intervals of 1.35 to 1.8 m or preferably on flat bed and then form irrigation furrows after every 2 rows at the time of first irrigation. Such a system of planting would greatly help to minimise contact of water with above-ground parts. For getting maximum benefit from irrigation, the following precautions may be followed.
+
+In soils that crack, apply irrigation well before cracks develop for better control of water.
+If there is provision for only one irrigation, apply it before soil moisture becomes very critical for crop growth.
+During irrigation, avoid contact of above ground parts with irrigation water to minimise the chances of diseases.
+
+Crop protection 
+
+Insect pests
+
+Safflower aphid (Uroleucon cpmpositae)
+
+Symptoms: Safflower aphid is a major sucking pest in all safflower growing areas. It can cause a yield loss of 50-100% if no control measure are taken. Nymphs and adults suck sap from the tender shoots and leaves. Sooty mold will develop on leaves effecting photosynthesis. Young plants wilt; leaves turn yellow and dry. 
+
+Management: Aphids multiply faster during December-January in Telangana, Maharashtra and Karnataka. Therefore, avoid late sowing of safflower, November onwards. Sow moderately aphid resistant varieties like A-1 or Bhima. Spray dimethoate 30EC @ 2 ml/l or acephate @ 1.5 g/l or dust quinalphos 4D @ 25 kg/ha in water scarce areas. New insecticides, imidacloprid 17.8SL @ 0.4 ml/l or thiamethoxam 25WG @ 0.25 g/l or clothianidin 50WDG @ 0.1 g/l or combination pesticide  (chloripyriphos 50% + cypermethrin 5% 55EC) @ 2 ml/l one or two times control aphids. 
+
+Safflower caterpillar (Perigaea capensis)
+
+Symptoms: This pest occurs regularly in Karnataka. It infests from early stage of crop growth, feeds on leaves. In severe infestations, eats away whole leaves. Caterpillars are greenish to brownish black. 
+
+Management: Spray indoxacarb 15EC @ 0.3 ml/l or spinosad 45SC @ 0.2 ml/l as soon as the larvae are noticed, but do not have label claims for safflower.  
+
+Gujhia weevil (Tanymecus indicus) 
+
+Symptoms: It is a soil borne insect that can survive deep inside the soil. It is a regular pest in Akola region of Maharashtra and causes extensive damage to safflower. It was also noticed in some parts of Telangana but occasionally. During seedling stage, it feeds on tender stem and eats away the new leaves. In severe infestations, re-sowing of crop may be necessary. It infests the crop at all stages and cause considerable damage to the foliage. 
+
+Management: Apply phorate 10G granules @ 10 kg/ha to soil at sowing and spray chlorpyriphos 20EC @ 2 ml/l/ha or lambda cyhalothrin 5EC @ 1 ml/l two to three times depending on the level of infestation. Above insecticides does not carry label claims for safflower. 
+
+Capsule borer (Helicoverpa armigera) 
+
+Symptoms: Helicoverpa is an occasional pest on safflower. It infests the crop at capsule formation stage. It bores in to capsules and feeds on developing seeds. If crops like chickpea or pigeonpea and other host crops are nearby, the chances of infestation are more. 
+
+Management: In other crops, quinalphos 25 EC (2 ml/l) spray or quinalphos 1.5 DP (25 kg/ha) dust were recommended. These chemicals may also be used in safflower. 
+
+
+Diseases
+
+Alternaria leaf spot (Alternaria carthami)
+
+Symptoms: Incidence is severe in warmer areas particularly with frequent showers of cyclonic cloudy weather. Brown discoloration appears on stem; dark brown spots with concentric rings up to 1 cm in diameter appear on leaves which later develop into large lesions. Incidence at seedling stage results in damping off of seedlings, and at seed filling results in seed rot.  
+
+Management: Spray mancozeb (2.5 g/l) immediately after disease is noticed and repeat the spray after 15 days depending on the intensity of disease. Spray combined formulation (carbendazim 12% + mancozeb 63%) (2 g/l) or iprodione 25% + carbendazim 25% (2 g/l) or mancozeb 75WP (2.5 g/l) immediately after disease is noticed followed by second spray (if required) after 15 days is effective in Western Maharashtra and in Telangana. Foliar application of propiconzole (1 ml/ l) at 15 days interval is effective in Marathwada region.
+
+
+Cercospora leaf spot (Cercospora carthami)
+
+Symptoms: Circular to irregular brown sunken spots of 3 to 20 mm in diameter develop on leaves. The spots have a yellowish tinge at the border. Leaves turn brown and distorted in advanced stages. Under moist conditions, the spots have a velvety greyish-white appearance caused by sporulation of the fungus. All parts of plant are affected by the disease. Flower buds turn brown and dry. Entire capitulum infestation results in no seed development.
+
+Management: Spray the crop with copper oxychloride (3 g/l) or mancozeb (2.5 g/l).
+
+Ramularia leaf spot (Ramularia carthami)
+
+Symptoms: More prevalent in irrigated areas of Western Maharashtra. Round and regular spots of 100 mm or more in diameter occur on both sides of leaves; whitish dense mass of conidia remain at the centre which reflects light; dry spots are brown in colour.
+
+Management: Spray mancozeb (2.5 g/l) immediately after disease is noticed and repeat the spray after 15 days depending on the intensity of disease.
+
+Wilt (Fusarium oxysporum f.sp. carthami)
+
+Symptoms: Start with yellowing of lower leaves on one side of plant followed by upward progress wilting. First symptom of lesion at soil level affects the vascular system. Plant starts to wilt, droop more often. Infected heads have aborted seeds.
+
+Management: Treat the seed with carbendazim (1 to 2 g/kg)  or Trichoderma harzianum (5 to 10 g/kg).
+
+Root rot (Macrophomina phaseolina)
+
+Symptoms: Dark cortical lesions developed on the stem slightly below or at the soil level extends upwards. Lesions frequently girdle the stem. Reduced root development leads to death of seedlings.
+
+Management: Treat the seed with thiram or captan (2 g/kg seed) or Trichoderma harzianum (5 to 10 g/kg seed)
+
+
+Phytophthora seedling blight (Phytophthora nicotianae)
+
+Symptoms: Damping off of emerging seedlings, necrosis of apical meristem, leaf blight  are majorly seen at early stages under high moisture due to frequent rains.
+
+Management: Treat the seed before sowing with cymoxanil 8% + mancozeb 64% (2 g/kg) or captan 50% WP (3 g/kg) or Trichoderma harzianum Th4d SC (2 ml/kg) or Trichoderma harzianum Th4d WP (10 g/kg) or carbendazim + mancozeb (2 g/kg)
+
+Cultural control of insect pests and diseases
+
+•	Plant the crop at recommended time.
+•	Avoid continuous growing of safflower in the same field year after year
+•	Follow crop rotation
+•	Collect and destroy plants infected with diseases
+•	Avoid cultivation in low lying areas/water logging areas
+•	Do not delay irrigation until the crop exhibits moisture stress symptoms
+
+Bird damage
+
+Birds, particularly parrots pose a serious problem to safflower crop when it is grown in isolated pockets as in non-traditional areas. To minimize bird damage, take up safflower cultivation in large contiguous blocks. Safeguard the crop from bird damage during the period from seed filling to physiological maturity which extends by about three weeks through effective bird scaring particularly in the morning and evening hours. 
+
+The birds can be controlled either by visual repellants or auditory repellents. Light reflecting tapes may be tied up above 0.5 to 1 m above the crop surface at 3 to 5 m interval. Audio repellents produce sound at regular intervals. It was either beating drums or empty cans. Acetylene exploders or bird scaring guns have been used to produce loud exploding voice at regular intervals to scare birds. 
+
+
+Harvesting and threshing
+
+The crop is ready for harvest when the leaves and most of the bracteoles except a few on last formed flower heads become dry and brown. Harvest the crop preferably in the early hours when shattering would be minimum and spines relatively soft. Cut plants with the help of sickles at the base or wherever possible uproot (black soils) by pulling and stack them in the field in the form of small and well pressed heaps until they are fully dried.
+
+For easy handling and transport to the threshing yard, arrange sets of plants in the heap in opposite directions with their cut ends overlapping and branched and spiny portions away. If necessary, use improvised sacks and gloves made from used gunny bags to protect legs and hands against spines. Thresh either by beating with sticks or with the help of bullock drawn stone rollers or tractor and the resulting material is winnowed to clean seeds. The threshing and cleaning operation can also be made with power operated thresher used for other crops such as wheat.
+
+Combine harvesters used in wheat could also be used for harvesting and threshing of safflower.
+
+Realizable yield potentials
+
+If all the improved crop production and potential technologies are followed, about 800 to 1200 kg/ha of safflower yields can be obtained under scanty moisture conditions and about 1500 to 2000 kg/ha under favourable moisture conditions. Under minimal irrigation, yield levels of 2000 to 2800 kg/ha could be achieved.
+
+Critical Inputs
+
+It is important to find out the hierarchy of production constraints for improving the productivity of safflower in different regions. Plant protection in transitional tract of Karnataka and Telangana region of Andhra Pradesh, fertilizer use in Malwa plateau of Madhya Pradesh, plant protection followed by fertilizer use in Bhal region of Gujarat, weed control followed by thinning in Khandesh area of western part and Vidarbha region of Maharashtra are the important constraints in improving safflower productivity.
+
+Contingency Plan
+
+Delayed rains 
+
+It is more profitable to go for safflower whenever there are late rains in October/ November
+
+Similarly, in several single-cropped rabi areas, the occurrence of prolonged dry weather conditions immediately after planting coupled with insufficient moisture at seedling time result in poor and uneven plant stand and/or near failure of early sown rabi crops. In such case, scrap the early-sown rabi crop and re-sow with safflower taking advantage of favourable rains in October/ early November
+
+Extended monsoon
+
+Large areas from otherwise traditionally kharif cropped soils are kept fallow in rabi for want of adequate moisture in seeding zone. Whenever favourable rains are received immediately after harvest of kharif crops sometimes in late September/October and soil moisture adequate for second crop, take full advantage of the situation and raise two crops in place of a single crop by planting safflower immediately after harvest of kharif cereals (sorghum, upland rice, pearlmillet, maize, etc.), legumes (mungbean, urdbean, groundnut, etc.) and others (sesame).
+
+Several light and medium textured soils in the potential safflower growing areas of Maharashtra, Karnataka, Andhra Pradesh, Madhya Pradesh, etc., which are normally cropped in kharif can be put to productive use by taking safflower either as a contingent crop after the harvest of kharif crops or as a compensatory crop in the event of total failure of kharif crops whenever near/above normal seasonal conditions prevail in rabi. In case plantings are delayed and/or soil depth is limited, use higher seed rate than normal to curtail excessive vegetative growth of safflower.
+
+Insufficient rainfall and/ or stored soil moisture in rabi
+
+Whenever stored moisture is inadequate and post sowing rains far and few, give either pre-planting irrigation from run-off water collected in dugout ponds or any other source, or alternatively one life saving irrigation at elongation/flowering or earlier if crop shows symptoms of moisture stress.
+
+In situations where water levels in wells/tanks/reservoirs are limited, when favourable and timely rains are received in rabi, plant safflower in place of other high water requiring crops like wheat to achieve efficient use of scarce water resources over a larger command area and obtain higher returns per unit area and unit amount of water.
+
+No rainfall after sowing of crop
+
+Cultivation of crop across the slope and soil mulching upto flowering stage improves the soil moisture status and thereby seed yield. Spray cycocel @ 500 ppm at flower initiation to get higher seed yield and returns from crop.
+
+In scarcity zone of Maharashtra, border method of planting (skipping one row after every two rows and opening a furrow in the skipped rows) helps in better soil moisture conservation.
+
+Tips for increasing production 
+
+•	Take advantage of soaking rain received in September/ October for optimum time of planting
+•	Increase the seed rate of safflower by 50% to obtain satisfactory plant stand under double cropping situations
+•	Do border method of planting (skipping one row after every two rows and opening furrow in the skipped row) to conserve soil moisture in scarcity zone of Maharashtra 
+•	Follow tied ridges and furrows system and closing the furrow every 10 m for soil moisture conservation in Telangana
+•	Grow safflower as an intercrop with chickpea or wheat or linseed or coriander either in 3:1 or 2:1 row ratio
+•	Thin the excess seedlings within 10 to 15 days after emergence and maintain the desired plant to plant spacing 
+•	Choose short duration hybrids or varieties of cereals and legumes to ensure timely sowing of safflower when the soil moisture in the seed zone is adequate
+•	Avoid kharif cropping if the onset of south west monsoon is delayed because it hinders timely sowing of safflower
+•	Give one or two hand weedings and hoeings/ harrowings at 25 to 30 and 45 to 50 days after planting.
+•	Give one additional interculture or hoeing using bullock drawn hoes/ harrows/ sweeps in December before the crop canopy is closed.
+•	Apply recommended dose of fertilizer along with 5 to 10 t FYM/ha
+•	Apply sulphur wherever the soils are deficient in sulphur. Application of P through single super phosphate (SSP) also meets the sulphur needs of safflower 
+•	Use cycle hand drawn hoe to work as mulching till flowering to avoid soil cracking and conserve the soil moisture.
+•	Spray cycocel @ 500 ppm at 50% flowering to improve seed yield under rainfed conditions
+
+
+ 
+
+ 
+
+
+ 
+                                

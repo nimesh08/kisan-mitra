@@ -1,0 +1,497 @@
+RAPESEED-MUSTARD
+
+Rapeseed-mustard (Brassica species) group of crops is the second most important oilseed crop after soybean. The genus Brassica comprises more than 30 species, mainly annual or biennial herbs, and many of them are similar in appearance. Among different Brassica species; B. juncea and B. rapa are highly polymorphic and the most widespread of the various Brassica species (Table 1).
+
+Table 1:  Important cultivated species of Brassica
+
+| Botanical name | Synonyms |
+| Brassica juncea | Brown mustard, Indian mustard, leaf mustard, mustard greens |
+| Brassica rapa var. yellow sarson | Yellow sarson |
+| Brassica rapa var. brown sarson | Brown sarson |
+| Brassica rapa var. toria | Toria |
+| Eruca vesicaria spp. sativa | Rocket-salad, roquette |
+| Brassica carinata | Karan rai, Abyssinian mustard |
+| Brassica nigra | Black mustard, true mustard, Banarsi rai |
+| Brassica napus | Gobhi sarson |
+
+In India, three different types of rapeseed-mustard crops are cultivated. These are brown mustard, Banarasi rai (rai or raya or laha)- B. juncea; sarson (yellow sarson, brown sarson), toria  and taramira or tara - Eruca sativa.  There are three different types of B. rapa, namely yellow sarson (B. rapa var. yellow sarson), brown sarson (B. rapa. var. brown sarson) and B. rapa. var. toria (toria). In trade, sarson, toria and taramira are known as rapeseed and rai as mustard.  Banarsi rai (B. nigra Koch) is a garden crop used as a spice. The cultivation of white mustard (Brassica alba syn. Sinapis alba) is no longer found in India. B. juncea, B. napus, B. carinata and yellow sarson are self-compatible and rest of the cruciferous oilseeds, viz. brown sarson, toria, taramira, Banarsi rai, and white mustard, are self-incompatible.
+
+Indian mustard or brown mustard (rai) was originally introduced from China into north-eastern India, from where it had spread to Afghanistan via Punjab, eastern Afghanistan, together with the adjoining north-western India. It is predominantly cultivated in Rajasthan, Uttar Pradesh, Haryana, Madhya Pradesh and Gujarat. Its cultivation is also being extended to non-traditional areas of southern states like Karnataka, Tamil Nadu and Andhra Pradesh. The cultivation of brown sarson which once dominated the entire rapeseed-mustard growing region, now shadowed by Indian mustard. There are 2 different ecotypes of brown sarson: lotni (self-incompatible) and tora (self-compatible). The lotni is predominantly cultivated in colder regions of the country, particularly in Uttarakhand, Kashmir and Himachal valley. The tora on the other hand is cultivated in limited areas of eastern Uttar Pradesh. Yellow sarson is now mainly grown in Uttarakhand, Assam, Bihar, north-eastern states, Orissa, eastern Uttar Pradesh and West Bengal. Toria is a short-duration crop cultivated largely in Assam, Bihar, Orissa and West Bengal in the east mainly as winter crop. In Haryana, Himachal Pradesh, Madhya Pradesh, Punjab, Uttarakhand and western Uttar Pradesh, it is grown as a catch crop.
+
+Taramira is grown in the drier parts of north-west India including Rajasthan, Haryana and Uttar Pradesh. Taramira is relatively a recent introduction into India. It is believed to be a native of southern Europe and North Africa. Gobhi sarson and karan rai are the new emerging oilseed crops having limited areas of cultivation. Gobhi sarson is a long-duration crop confined to Haryana, Himachal Pradesh and Punjab.
+
+Details of the recommended cultivation practices of rapeseed-mustard
+
+Soil type and prevailing climatic conditions
+
+The rapeseed and mustard crops are of the tropical as well as of temperate zones and require relatively cool temperatures for satisfactory growth. In India, they are grown in the rabi season from September-October to February-March. The rapeseed and mustard crops grow well in areas having 25 to 40 cm of rainfall. Sarson and taramira are preferred in low-rainfall areas, whereas Toria is grown in medium and high rainfall areas, respectively. Indian mustard requires comparatively higher temperature (30-32℃ maximum and 20-22℃ minimum) for germination and vegetative phase, and cool temperature during reproductive stage.
+
+Rapeseed and mustard thrives best in well drained light sandy to clay loams soils of pH around 7-8.5, however, neutral pH is ideal for its growth and development. Raya may be grown on all types of soils, but toria does best in loam to clay loams. Sarson is suited to sandy loam soils and taramira is mostly grown on very light soils in parts of Rajasthan and Haryana. These crops cannot tolerate to water logging condition.
+
+(II) Seed rate and time of sowing
+
+Seed rate and spacing: Optimum plant population is a pre-requisite for a good harvest of the crop. For this, correct seed rate and spacing must be followed. In general, seed rate between 4 and 5 kg/ha is the optimum. Ideal spacing adopted in most of the states is 45 cm row to row and 15 cm plant to plant. Closer spacing of 30 cm × 15 cm is also adopted in some of the irrigated areas. Crop geometry 45 x 15 cm is suitable for hybrid mustard. Seed rate should be increased by 25% under rainfed and salt affected conditions.
+
+Time of sowing: Timely sowing of the crop is very essential for realizing maximum yield. Further, the crop often also escapes insect-pests and diseases. The rapeseed- mustard crops are grown in diverse agroclimatic conditions, hence, optimum sowing dates vary widely. It should also be ensured that crop is sown when the maximum daytime temperature is not more than 32°C, which is essential for proper germination. The optimum sowing time for various crops in different states has been presented in Table 2.
+
+Seed treatment: Seed treatment with pesticides, biofertilizers and drought alleviating microbes should be done to realize the high yield potential. Treat the seeds with Carbendazim @ 2g/kg or garlic bulb extract (2%) for protecting the crop from seed-borne diseases Sclerotina rot. Treat the seeds with biofertilizers; Azotobacter, PSB, and NPK consortia and drought alleviating microbes; CRIDA MI-I and MI-II before sowing/transplanting. Seed treatment with Imidaclorpid @ 6g/kg to protect the seedlings from early pest attack by painted bug.
+
+Table 2. Optimum sowing time for rapeseed-mustard in different states of India
+
+| State | Crop | Sowing time |
+| Assam | Mustard/Toria | Mid-October to mid-November (normal sowing), up to first week of December (late sowing) |
+| Bihar | Mustard | First fortnight of October |
+|  | Toria | 15th September to 10th October |
+|  | Yellow sarson | First   fortnight of October |
+| Gujarat | Mustard | North Gujarat: 15th October to 25th October  Saurashtra: First fortnight of October |
+| Haryana | Mustard | Within October (for normal sowing), first week of November (for late sowing) |
+|  | Toria | First fortnight of September |
+| Himachal Pradesh | Mustard | Late October to end of November |
+|  | Toria Sarson | First fortnight of September |
+|  | Brown Sarson | First fortnight of October |
+|  | Gobhi Sarson | Mid-September to end of November |
+| Madhya Pradesh | Mustard | Late September to mid-October, upto mid-November (for late sowing) |
+|  | Toria | First fortnight of September |
+| Chhattisgarh | Mustard | Second fortnight of October to first fortnight of November (for irrigated), within October (for rainfed) |
+|  | Toria | Second fortnight of September |
+| Maharashtra | Mustard | Second fortnight of October to first fortnight of November |
+| Odisha | Mustard | Third week of October to first fortnight of November |
+|  | Toria | First fortnight of October |
+| Punjab | Mustard | Mid-October to mid-November (for normal sowing), up to November end (for late sowing) |
+|  | Toria | First fortnight of October |
+|  | Taramira | Within October |
+|  | Gobhi Sarson | Second fortnight of October (for direct seeding) November to mid-December (for transplanting) |
+|  | Toria + Gobhi Sarson | Mid-September |
+|  | Karan Rai | Mid-October to November end |
+| Rajasthan | Mustard | Within October (irrigated), up to first week of November (for late sowing), 15th September to 15th October (rainfed) |
+|  | Toria | Up to first week of September |
+|  | Taramira | September last week to mid-October |
+|  | Gobhi Sarson | October |
+| Uttar Pradesh | Mustard | October, late sown upto 15th November |
+|  | Toria | First fortnight of September |
+|  | Yellow sarson | First fortnight of October |
+| West Bengal | Mustard | Third week of October to last week of November. Last week of October to second week of November (for North Bengal) |
+|  | Toria | End of September to early October. Third week of October to second week of November (for North Bengal) |
+|  | Yellow Sarson | Third week of October to second week of November |
+
+Planting method adopted
+
+Method of sowing: The crop is sown as per requirement like, flat sowing, raised bed and furrow sowing, zero-till sowing and transplanting. It is advisable to sow the crop in furrows with ridger-seeder. Seed soaked in water before sowing ensures good germination and early seedling vigour. The crop of rapeseed or mustard is sown at a depth of 4 to 5 cm in lines. Thinning is done three weeks after sowing to maintain the desired plant-plant distance.
+
+System of Mustard Intensification
+
+The System of Mustard Intensification (SMI) is a new cultivation method that involves planting mustard seedlings at a wider distance to provide space for growth and development of plants, and to increase the productivity per unit of time. SMI is also known as the System of Root Intensification (SRI).
+
+Nursery preparation: A nursery of improved variety of mustard as recommended for the location should be raised before 15-20 days of date of transplanting with the help of root trainers or on raised soil beds. The nursery should be prepared in semi-shade conditions.
+
+Field preparation: Field should be prepared as usually prepared for normal sowing. Small pits of 15-20 cm depth should be prepared at spacing of 45 x 15 cm for B. juncea, 60 x 60 cm for  B. carinata and 45 x 45 cm for B. napus. Recommended dose of fertilizers should be broadcasted in the field before 24 hours of transplanting
+
+Transplanting method: Transplanting should be done in the evening hours to avoid any transplanting shock to young seedlings. 20 days old seedlings of 3-4 leaves should be transplanted. Care should be taken to transport the seedlings from nursery to field so that roots should not be exposed to air. After transplanting a light irrigation is to be given to establish the seedlings. Gap filling should be done after 6 days of transplanting.
+
+Water application method and scheduling
+
+Irrigation management: Normally, one irrigation at pre-flowering stage is adequate for toria and yellow sarson. In mustard, two irrigations are recommended in clay loam soils, first at rosette stage (30-35 DAS) and the second at the siliqua formation stage (65-70 DAS), and 4-5 irrigations in sandy to sandy loam soils. Furrow irrigation or flood irrigation methods are generally followed in India. To mitigate the terminal drought stress foliar spray of 1% KNO3 and 0.05% thiourea at 50% flowering and 50% siliqua filling stage should be done to increase seed yield. Soil application of hydrogel @ 2.5 kg/ha along with two foliar sprays of salicylic acid @ 200 ppm at flower initiation and siliquae formation stage is also recommended for higher yield of rapeseed-mustard under rainfed conditions.  The irrigation schedule recommended for different states has been presented in the Table 3.
+
+Table 3: Recommended irrigation schedule for rapeseed-mustard in different states
+
+| State | Crop | Schedule |
+| Assam | Mustard/Toria | One, at 50% flowering or early pod stage |
+| Bihar | Mustard Toria Yellow Sarson | Two, at 30-35 DAS and pod stage (65-70DAS) One, at flower initiation (20-25 DAS)  Two, at 30-35 DAS and pod stage (65-70DAS) |
+| Chhattisgarh | Mustard | Two, at 30-35 and 70-75 DAS |
+| Gujarat | Mustard | Five at 15,35,50,60 and 75 DAS (Saurashtra) Four, at 15, 45,50 and 70 DAS (N. Gujarat) |
+| Haryana | Mustard | Two, at 35-40 and 65-70 DAS (need based) |
+| Himachal Pradesh | Mustard/Toria/Gobhi Sarson/ Karan Rai | Two at 25-30 and 55-60 DAS |
+| J & K | Mustard/Brown Sarson | Two, at 25-30 and 55-60 DAS |
+| Madhya Pradesh | Mustard | Two, at 35-40 and 70-80 DAS |
+| Maharashtra | Mustard | Three, at branching, flowering and pod development stage |
+| Odisha | Toria/Mustard | Two to three, at 25,50 and 80 DAS |
+| Punjab | Mustard/Gobhi Sarson Toria | Two, at 25-30 and 55-60 DAS |
+| Rajasthan | Mustard Taramira | Two, at 30-40 and 70-80 DAS (heavy soils). Four, at 15,45,50 and 70 DAS (light soils). Two at 45-50 DAS and pod filling stage |
+| Eastern UP | Mustard/Yellow Sarson | Two at 20-30 and 50-55 DAS |
+| Central & Western UP | Mustard/Toria | Two at 35-40 and 65-70 DAS |
+| West Bengal | Mustard/Toria Yellow Sarson | One at 30-35 DAS Two at 30-35 and 50-60 DAS |
+
+Water management
+
+Oilseed brassicas are primarily rainfed or dryland crops. But with the availability of high-yielding varieties and remunerative prices, the cultivation of these crops has shifted to irrigated conditions. Presently, about 75% of the area under rapeseed-mustard is irrigated. Mustard requires about 300-400 mm of water and the consumptive use of water varies from 200 to 300 mm. Irrigations should be given at 0.6-0.8 IW/CPE ratio for maximum harvest of Indian mustard. In general, mustard crop requires 2 irrigations, first at branching stage (pre-bloom, 30 DAS) and the second at pod formation stage (pod filling, 60-65 DAS). In light soils, however, 5-6 irrigations gave better monetary returns.
+
+Under rainfed conditions, moisture conservation is very important for getting higher yield. Mulches, Pusa Hydrogel (IARI product) and Jalshakti (a starch polymer and proprietary product developed by the National Chemical Laboratory, Pune), for conserving soil moisture under dryland agriculture conditions and anti-transpirants for reducing moisture loss from mustard plants have been tested and found useful. Seed treatment at 1.5% with Jalshakti accompanied with its soil application at 4-6 kg/ha resulted in 18-42% increase in seed yield of rapeseed-mustard at a number of centres. Soil application of hydrogel @ 2.5 kg/ha along with two foliar sprays of salicylic acid @ 200 ppm at flower initiation and siliquae formation stage is also recommended for obtaining sustainable higher yield of rapeseed-mustard under rainfed conditions.  Drought alleviating microbial formulation like, CRIDA MI-I and CRIDA MI-II should be used to increase the productivity and soil health.
+
+Fertilizer usage and dosage applied
+
+Nutrient management: Application of 40 kg N/ha is optimum for all rapeseed and mustard crops in rainfed areas. Recommended dose of fertilizer for rapeseed-mustard is presented in Table 4. In general, rapeseed-mustard crops are grown on coarse textured soils, which are very low in organic matter. Under such situations, organic manures can be used to boost the production of oilseeds and to improve fertilizer-use efficiency. Application of 10 tonnes FYM/ha was found effective in improving seed yield. Balanced NPK fertilization is all the more essential even at low levels of fertilizer usage for maintaining long-term fertility. Also adequate amounts of S, B and Zn need to be applied as per soil test analysis.
+
+Rapeseed and mustard respond well both to organic and inorganic manures. Threshold level of organic carbon content 0.5% should be maintained to harvest good response to chemical fertilizers. Under irrigated conditions half of nitrogen and full dose of phosphorus and potash should be applied as basal dose at the time of sowing by placement method. The remaining half of the nitrogen should be applied at the time of first irrigation. If the crop is rainfed, use only half of the dose of recommended nutrient. Rapeseed and mustard have higher requirement for Sulphur, therefore, nitrogen should preferably be applied through ammonium sulphate and phosphorus from single super phosphate.
+
+Nitrogen
+
+Rapeseed-mustard group of crops respond well to nitrogen fertilization. Nitrogen deficiency may cause yellowness of lower leaves and stunted plant growth. A significant response has been reported to nitrogen application up to 60-80 kg N/ha under rainfed conditions and up to 120 kg N/ha under irrigated conditions. Higher N application may lead to succulent plant growth and more attack of insect pest and diseases. The nitrogen-accumulation curve during growth period is sigmoid in nature. The rate of nitrogen accumulation exceeds the rate of dry-matter production in early stages of growth up to 70 days after sowing and declines thereafter, resulting in shedding of leaves. So the time of N application in rapeseed-mustard is also important for getting better response to applied nitrogen. Split application of nitrogen 50% as basal and 50% as top-dressing after first irrigation gave better utilization of nitrogen and higher seed yield under irrigated conditions.
+
+Phosphorus
+
+This nutrient is deficient in about 50% of Indian soils. Phosphorus deficiency may cause purple leaves and pods, and stunted roots. Apart from genotype, soil type and soil-fertility status, level of applied nitrogen, potassium and environment for optimum crop growth are the factors that affect response to phosphorus. Single super phosphate is the best source of P as it contains 16% water soluble P, 12% sulphur and 21% calcium. SSP should be applied at the time of sowing, and below the seeds as basal application. However, its availability is highly dependent on pH, Ca, Fe and Zn.
+
+Potassium
+
+Potassium plays role in plant strength, and endurance to pest, diseases, frost and drought. Potassium deficiency may cause leaf margin burning, thin stem and poor plant growth. However, its deficiency may not be a serious problem for the rapeseed- mustard-growing areas. The response to K application had generally been low. The recommendation in different states varies from 20 to 40 kg K2O/ha and application as basal dose.
+
+Sulphur
+
+Sulphur is a vital component of S containing amino acids. Sulphur deficiency may cause yellowness of upper young leaves. To correct S deficiency in rapeseed-mustard in different soils, 30-40 kg S/ha is optimal under most field conditions. In intercropping system with potato, application of 30 kg S improved tuber and seed yield significantly over the control. Bantonite S (90% S) and elemental S (100% S) are the best sources of sulphur. These fertilizers should be applied as basal dose.
+
+Micronutrients
+
+Among several micronutrients, zinc deficiency is fairly widespread. Zinc deficiency may cause general bushiness in plants. Indian mustard responds to zinc application @ 5 kg/ha as basal or 0.5% spray. Zinc application increases internodes elongation and pollen viability in the plant. The best sources zinc is zinc sulphate (33% Zn and 15% S). Next to zinc, boron nutrition is important to mustard in some soils. Boron plays role in pollen fertilization and oil content. Deficiency of boron could be corrected either through soil application (1.0 kg/ha) or foliar application of borax (10.5% B). Besides S, Zn and B, calcium is also an important secondary nutrient which increases the cell wall strength. Calcium deficiency cause drooping of apical buds which ultimately dried up and there will be no seed setting. SSP contains 21% Ca so there is no need to apply extra calcium if we are applying SSP. All the secondary and micronutrients should be applied at the time of sowing as basal dose.
+
+Application of bioregulators,  Biopower @ 25 kg/ha + 2 spary of Bioforce @ 2 ml/lit at 50% flowering and pod filling stage along with RDF increase seed yield by 14-20% and enhance fertilizer use efficiency in mustard.
+
+Nitrogen economy through legumes grown in sequence
+
+Legumes benefit the succeeding non-legume crops in terms of increased yields. In rapeseed-mustard, inclusion of leguminous crop in the sequence may help to economize N fertilizer requirement to the extent of 20-40 kg N/ha. Greengram-mustard and cluster Bean-Indian mustard are best legume sequence giving the maximum seed yield of mustard
+
+Table 4. Recommended dose of fertilizers to rapeseed-mustard in different states
+
+| State | Crop | Rainfed/Irrigated | N: P2O5: K2O (kg/ha) |
+| Andhra Pradesh | Mustard | Irrigated | 80 : 40 : 20 |
+|  |  | Rainfed | 40 : 20 : 20 |
+| Assam | Mustard | Irrigated | 60 : 40 : 40 |
+|  | Toria | Rainfed | 40 : 35 : 15 |
+| Bihar | Mustard | Irrigated | 80 : 40 : 40 |
+|  |  | Rainfed | 40 : 20 : 30 |
+|  | Toria, Yellow Sarson | Irrigated | 60 : 40 : 40 |
+|  |  | Rainfed | 30 : 20 : 20 |
+| Chhattisgarh | Mustard | Rainfed | 60 : 40 : 20 |
+|  | Toria | Rainfed | 50 : 25 : 25 |
+| Delhi | Mustard | Irrigated | 60 : 40 : 40 |
+| Gujarat | Mustard | Irrigated | 60-80 : 40-50 : 20 |
+|  | Yellow Sarson | Irrigated | 50 : 40 : 0 |
+| Haryana | Mustard | Irrigated | 60-80 : 30 : 0 |
+|  |  | Rainfed | 40 : 20 : 0 |
+|  | Brown Sarson | Irrigated | 60 : 20 : 0 |
+|  |  | Rainfed | 40 : 20 : 0 |
+|  | Toria | Rainfed | 60 : 0 : 0 |
+|  | Taramira | Rainfed | 30 : 0 : 0 |
+| Himachal Pradesh | Mustard, Toria, Brown Sarson | Irrigated | 60 : 40 : 40 |
+|  |  | Rainfed | 30 : 20 : 20 |
+|  | Gobhi sarson | Irrigated | 120 : 60 : 40 |
+| Jharkhand | Mustard, Torai, Yellow Sarson | Rainfed | 30 : 20 : 0 |
+| Jammu and Kashmir | Mustard | Irrigated | 80 : 40 : 40 |
+|  | Toria | Irrigated | 60 : 20 : 0 |
+|  | Brown sarson | Rainfed | 30 : 30 : 20 |
+| Madhya Pradesh | Mustard, Toria | Irrigated | 60 : 30 : 20 |
+|  |  | Rainfed | 40 : 20 : 10 |
+| Maharashtra | Mustard | Irrigated | 50 : 40 : 0 |
+|  |  | Rainfed | 40 : 20 : 0 |
+| Odisha | Mustard | Rainfed | 30 : 15 : 15 |
+|  | Toria | Irrigated | 60 : 30 : 30 |
+|  |  | Rainfed | 30 : 15 : 15 |
+| Punjab | Mustard/Gobhi Sarson | Irrigated | 100 : 30 : 0 |
+|  | Toria | Irrigated | 60 : 20 : 0 |
+|  |  | Rainfed | 40 : 0 : 0 |
+| Rajasthan | Mustard | Irrigated | 80 : 30-40 : 20-40 |
+|  |  | Rainfed | 40 : 20 : 20 |
+|  | Toria | Irrigated | 40 : 20 : 20 |
+|  |  | Rainfed | 20 : 10 : 20 |
+|  | Taramira | Rainfed | 40 : 15 : 0 |
+| Uttar Pradesh | Mustard | Irrigated | 80-120 : 40 : 40 |
+|  |  | Rainfed | 40-60 : 20 : 20 |
+|  | Toria | Irrigated | 60-90 : 20 : 0 |
+|  |  | Rainfed | 40 : 20 : 0 |
+|  | Yellow Sarson | Irrigated | 60 : 30 : 0 |
+| Uttarakhand | Mustard/Yellow Sarson/Toria | Irrigated | 80 : 40 : 40 |
+|  | Yellow Sarson | Irrigated | 60 : 30 : 0 |
+| West Bengal | Mustard/Yellow Sarson | Irrigated | 60-80 : 40 : 40 |
+|  |  | Rainfed | 40 : 20 : 20 |
+|  | Toria | Rainfed | 40 : 20 : 20 |
+| NEH States | Mustard/Toria/Yellow Sarson | Rainfed | 50 : 30 : 30 |
+
+Weed management
+
+The most common weeds of rapeseed-mustard are Chenopodium album (bathua), Lathyrus spp. (chatrimatri), Melilotus indica (singe), Cirsium arvense (kateli), Cyperus rotundus (motha) and Fumaria parviflora (gajri). Invasion of Orobanche (broom rape) devastated its cultivation in Rajasthan. Initial 45-60 DAS are critical for crop-weed competition. Uncontrolled weeds in these crops may cause 20-70% reduction in yield. Weeding should be done soon after thinning. This, besides creating soil mulch and reducing moisture losses, helps in better growth and proper development of crop plants. Under rainfed conditions, one hand-weeding 25 DAS, while under irrigated conditions, 2 hand weeding 25 and 40 DAS are necessary for effective weed control. Pre-plant incorporation of Fluchloralin @ 1.00 kg a.i./ha or pre-emergence application of Pendimethalin @ 1.00 kg a.i./ha are quite effective in controlling weeds. If the weeds emerge after planting, Isoproturon @ 0.75 kg a.i./ha 30 DAS or quizalofop @ 50 g a.i./ha at 15-20 DAS should be applied. Intercropping of vegetables, spices and other crops with Indian mustard and Karan rai was found effective in reducing weed infestation as compared to their sole stand. Orobanche is a serious parasitic weed of rapeseed-mustard. The parasite appears as clumps of whitish, yellowish, brownish or purplish broom along with mustard stem at the ground level. It consists of a stout fleshy stem, 25-35 cm high and is covered by small thin and brown scaly leaves. For reducing infestation of Orobanche avoid continuous cropping of toria/mustard on the same field.
+
+(VII) Thinning and inter-culturing
+
+To keep an optimum plant population per unit area and uniform plant growth, thinning operation by removing the extra plants should be done at 15 - 25 days after sowing.  For providing good aeration to the roots, conservation of moisture and removal of weeds, one intercultural operation should be done with double wheel hand hoe before first irrigation, preferably along with thinning to save labour cost.
+
+Cropping systems
+
+Mustard is usually cultivated as a sole crop in rainfed areas of kharif fallows. However, it is intercropped with chickpea or wheat. It is also an important crop in different crop sequences in rainfed and irrigated areas (Table 5,6).
+
+Table 5: Recommended crop sequences for rapeseed-mustard
+
+| State | Crop sequence |
+| Andhra Pradesh | Irrigated | Rice-mustard |
+| Assam | Rainfed | Rice-Toria |
+|  |  | Rice-Toria-Mungbean |
+|  | Irrigated | Jute/summer rice-toria |
+|  |  | Rice-toria, Rice-toria-jute |
+|  |  | Rice-toria-mungbean |
+| Bihar | Rainfed | Maize-mustard/yellow sarson |
+|  |  | Maize/early rice-Toria/mustard/yellow sarson |
+|  |  | White jute-Toria/mustard |
+|  |  | Cowpea-Toria |
+|  |  | Maize/early rice/jute-Toria/spring mungbean |
+|  | Irrigated | Maize-mustard/Yellow Sarson Maize-Toria-Sugarcane |
+|  |  | Maize-Toria-Wheat |
+|  |  | Maize-Toria-Wheat-  Mungbean |
+|  |  | Maize/early Rice/Jute-Toria/Mustard |
+| Chhattisgarh | Irrigated | Rice-Mustard |
+|  | Rainfed | Bastar Plateau: Maize-Toria |
+|  |  | Northern hill region: Maize-Toria |
+|  |  | Chhattisgarh Plain Zone : Rice-Mustard |
+| Gujarat | Irrigated | Pearl millet/Groundnut/Sesame-Mustard |
+|  |  | Mungbean/Urdbean-Mustard |
+|  |  | Cowpea-Mustard-Pearl Millet |
+| Haryana | Rainfed | Fallow-Mustard |
+|  |  | Maize/Pearl millet-Mustard |
+|  | Irrigated | Fodder Sorghum-Mustard |
+|  |  | Groundnut/Pearl Millet-Mustard |
+| Himachal Pradesh | Rainfed | Rice-Toria |
+|  | Irrigated | Maize/Rice-Mustard/Gobhi Sarson/Brown Sarson |
+|  |  | Maize-Toria-wheat |
+| Jammu and Kashmir | Rainfed | Maize-Wheat+Mustard (Jammu) |
+|  |  | Rice-Brown Sarson (Kashmir) |
+|  | Irrigated | Rice-Toria-wheat (Jammu) |
+|  |  | Maize-Wheat+Mustard (Jammu) |
+| Jharkhand | Irrigated | Maize-Mustard/Yellow Sarson |
+|  |  | Maize-Toria |
+|  |  | Maize/Early Rice-Toria/Mustard |
+| Madhya Pradesh | Rainfed | Fallow-mustard |
+|  |  | Soybean-Mustard |
+|  | Irrigated | Soybean/fallow/Mungbean-Mustard |
+| Manipur | Rainfed | Maize+pigeonpea-mustard |
+|  |  | Rice-Toria/Mustard |
+| Meghalaya | Rainfed | Rice-Mustard |
+|  | Irrigated | Rice-Toria-field Pea-Maize |
+| Odisha | Irrigated | Early Rice-Toria-Summer sesame |
+|  |  | Jute-Toria/Mustard-Summer sesame |
+|  |  | Rice-Toria-Rice |
+|  | Rainfed | Early Rice-Toria |
+| Punjab | Rainfed | Pearl Millet-Mustard, Fallow-mustard |
+|  | Irrigated | Cotton-Mustard/Gobhi Sarson |
+|  |  | Pearl millet/Maize(F)-mustard |
+|  |  | Toria-Wheat-Mungbean |
+|  |  | Maize-Toria-wheat/Sugarcane |
+|  |  | Fodder-Mustard-Mungbean |
+|  |  | Rice-Gobhi Sarson-Mungbean |
+|  |  | Fodder-Toria + Gobhi Sarson-Mungbean |
+| Rajasthan | Rainfed | Bajra + Cowpea-Mustard/Taramira |
+|  |  | Fallow-Mustard/Toria |
+|  |  | Soybean/Maize-Mustard |
+|  |  | Urdbean/Mungbean/Cowpea-Mustard |
+|  |  | Cluster bean (green manuring) -Mustard |
+|  | Irrigated | Kharif fodder –Mustard |
+|  |  | Pearl millet/Mungbean/Cowpea-Mustard |
+| Tripura | Rainfed | Jute-Toria/Mustard; Rice-Toria-Rice |
+| Uttar Pradesh | Rainfed | Maize-mustard (central region) |
+|  |  | Maize/pearl millet-toria/mustard |
+|  |  | Rice-mustard |
+|  |  | Sesame-mustard |
+|  |  | Urdbean/mungbean-mustard |
+|  |  | Fallow-mustard |
+|  |  | Sorghum-mustard |
+|  | Irrigated | Pearl millet-mustard |
+|  |  | Fodder/maize-potato+mustard |
+|  |  | Maize-autumn sugarcane+mustard |
+|  |  | Maize/fodder-mustard-mungbean |
+|  |  | Maize-toria-wheat-mungbea |
+
+Table 6: Recommended intercropping systems for rapeseed-mustard
+
+| StateState | Intercropping system | Row ratio  (Rapeseed-mustard) |
+| Assam | Toria + Lentil | 1:1 |
+|  | Toria + Chickpea | 1:1 |
+| Himachal Pradesh | Toria + Gobhi Sarson | 1:1 |
+|  | Mustard + Lentil1:11: | 1:1 |
+|  | Mustard + Chickpea | 1:3 |
+|  | Mustard/Toria/Gobhi Sarson + Sugarcane | 1:1 |
+| Haryana | Mustard + Potato | 1:3 |
+|  | Mustard + Wheat1:9 | 1:9 |
+|  | Mustard + Chickpea | 1:3 |
+| Rajasthan | Mustard + Wheat | 1:9 |
+|  | Mustard + Chickpea | 1:2/1:4/3:7 |
+| Punjab1:1 | Toria + Gobhi Sarson | 1:1 |
+| Uttar Pradesh | Mustard + Potato | 1:3 |
+|  | Mustard + Wheat1:91:1/2:11:3 | 1:9 |
+|  | Toria + Sugarcane | 1:1/2:1 |
+|  | Mustard + Chickpea | 1:3/1:4 |
+|  | Toria + Lentil | 1:1 |
+| Maharashtra | Mustard + Wheat | 2:4 |
+| West Bengal | Mustard + Wheat | 1:9 |
+|  | Toria/Yellow Sarson/Mustard + Sugarcane2:1 | 2:1 |
+|  | Mustard + Chickpea | 1:2 |
+
+(IX). Adoption of IPM practices
+
+Insect-pests
+
+There are at least 38 insects associated with Brassica crops. Among them, mustard aphid is the key pest followed by white mustard fly, painted bug, pea leaf miner and Bihar hairy caterpillar (Table 7).
+
+Diseases
+
+Diseases cause average yield losses about 25.5%. Major diseases affecting the yield are Alternaria blight, white rust, downy mildew, powdery mildew, and Sclerotinia stem rot (Table 8).
+
+Protection of crop from frost
+
+Occasionally, frost prevails from last week of December to January end in north and north-western parts of the country resulting into considerable yield loss or sometimes total crop failure.
+
+The following measures may be adopted to minimize the loss:
+
+Irrigate the fields when the temperature islow.
+
+Spray of Dimethyl sulphoxide (0.5 ml/litre) or Thiourea @ 1g/lit at the time of flowering and pod formation to prevent the effects of freezing onseeds.
+
+Integrated disease management
+
+Seed treatment (ST) with Trichoderma harzianum @ 10g/kg seed, soil application of Trichoderma (1 kg/ 50kg FYM), basal application of zinc sulphate @ 15 kg/ ha+ S (dose location specific) + boron (10 kg borax/ ha), line sowing 45x15 cm, no irrigation during 25th
+
+December to 15th January minimize the disease incidence as compared to control, has been recommended as Integrated Disease Management (IDM) for zone II, III, IV.
+
+Bio intensive IPM module for the management of mustard aphid:
+
+Sow the crop at recommended time and avoid late sowing.
+
+Avoid excessive use of nitrogenous fertilizers (urea) and apply only recommended dose.
+
+At flowering, monitor the crop regularly at weekly intervals.
+
+Apply control interventions only if aphid population increases economic threshold level.
+
+Whenever, aphid population crosses economic threshold, first spray should be done with azadirachtin 3000 ppm @ 5ml/L water followed by second spray after 10 days.
+
+For the chemical control of mustard aphid, spray the crop with thiamethoxam 25 WG @ 0.1 g/1 water (CIB recommended does) when the aphid population reaches economic threshold level. Precaution: Spray should be done in the afternoon when pollinators including honey bees are less active.
+
+Table 7:  Recommended integrated insect-pest management for rapeseed-mustard
+
+| Insect-pest | Integrated management |
+| Mustard aphid (Lipaphis erysimi) | Crops should be sown early at optimum time recommended for particular area. The mustard sown before 15 October in north India often escapes aphid damage. Use balanced dose of fertilizers. Over-dosing of fertilizers particularly nitrogen would attract more aphids. Plucking and destruction of infested twigs is very useful. It should be done 2-3 times at 10 days interval early in the crop season. Spray the crop before the aphid reaches the economic threshold level (ETL). The ETL of mustard aphid in different states are 28-29, 9-19, 44, 50-60, 26-28, 13-15 aphids in central shoot at 30% infestation in Assam, Haryana, Odisha, Punjab, Rajasthan and Uttar Pradesh respectively Foliar spray of Azadirachtin 3000 ppm @ 5ml/lit water followed by second spray after 10 dyas.  Use Oxydemeton methyl 25 EC or Dimethoate 30 EC @ 625, 850 and 1,000 ml dissolved in 625, 850 and 1,000 litres water/ha, respectively, and 3 sprays at 15 days interval. Spray the crop with thiamethoxam 25 WG @ 0.1 g/1 water (CIB recommended does) when the aphid population reaches economic threshold level. The spraying should be done after 2 PM to avoid toxicity to insect pollinators |
+| Mustard saw fly (Athalia proxima) | Follow the crop sanitation practices. Timely irrigation helps in killing larvae through drowning Use Oxydemeton methyl 25 EC @ 875 ml in 875 litres water/ha and repeat spray if population builds up again. |
+| Painted bud (Bagrada cruciferarum) | Follow clean cultivation by weeding, hoeing and burn the debris around the field. Apply first irrigation 3-4 weeks after sowing whenever possible. Dust the crop with Quinalphos 1.5% @ 20-25kg/ha Thresh the crop as early as possible to avoid further losses and dispose off plant material immediately. |
+| Pea leaf miner (Chromatomyia horticola) | Pluck all the infested leaves and burn them to kill the larvae and pupae resting inside Foliar spray with systemic insecticides such as Oxydemeton methyl 25 EC or Dimethoate 30 EC @ 875 ml in 875 litres water/ha |
+| Bihar hairy caterpillar    (Spilosoma obliqua) | Mechanical control is ecofriendly method which provides an effective check by removing infested leaves containing first/second instar gregarious phase larvae and dip them in kerosenized water or insecticidal solution Foliar spray with systemic insecticides such as Oxydemeton methyl 25 EC or Dimethoate 30 EC @ 875 ml in 875 litres water/ha Removal of alternate host plants from the surroundings is beneficial |
+
+Table 8:  Recommended integrated disease management for rapeseed-mustard
+
+| Disease | Integrated management |
+| Alternaria blight (Alternaria brassicae) | Collect and destroy the diseased plants debris to minimize the primary source of inoculum Timely sowing in first fortnight of October enables the crop to escape severe development of Alternaria blight Spray the crop with Ridomil MZ @ 0.25% or Nativo (Tebuconazole 50% + Triflaxostrobin 2%) @ 0.1% at 40 and 70 days after sowing depending upon severity of the disease Judicious use of irrigation, optimum plant population with spacing of 45 x 15 cm, recommended doses of N,P,K, and S fertilizers could minimize the diseases |
+| White rust (Albugo candida)• | Use the seed from staghead free plants to avoid carry- over of oospores through seeds Treat the seed with Apron 35 SD   @ 6 g/kg seed Destroy the diseased plant debris Early sowing preferably in the first fortnight of October  Spray the crop with Ridomil MZ @0 .25% or Nativo (Tebuconazole 50% + Triflaxostrobin 2%) @ 0.1%  at 40 and 70 days after sowing Use the white rust resistant varieties (BPM 11, BPM 1825, BPMQ 47) |
+| Downy mildew (Hyaloperonospora parasitica) | Use the seed from staghead free plants to avoid carry- (over of inoculum through seeds Treat the seed with Apron 35 SD  @ 6 g/kg seed Destroy the diseased plant debris Timely sowing preferably in the first fortnight of October Spray the crop with Ridomil MZ @ 0.25% or Nativo (Tebuconazole 50% + Triflaxostrobin 2%) @ 0.1% 40 and 70 days after sowing |
+| Powdery mildew (Erysiphe cruciferarum) | Sow the crop on normal planting date Destroy plant parts to reduce primary source of inoculum Spray Dinocap @ 0.1% or Mancozeb 0.2% or Propiconazole 25 EC @ 0.05% at the initiation of the disease. Use of Sulphur fertilizer at the time of sowing |
+| Sclerotinia stem rot | Collect and burn the diseased debris  Summer deep plouging of the field. Follow crop rotation preferably with wheat  Avoid irrigation during 25th December to 15th January Adopt optimum plant population with spacing of 45 x 15 cm Use balanced dose of fertilizers Treat the seeds with garlic bulb extract (2%) followed by garlic bulb extract foliar spray (2%) at 65-70 days after sowing Or seed treatment with Trichoderma harzianum (10g/kg) followed by foliar spray with Trichoderma harzianum at 60 and 75 days after sowing  Or Seed treatment with Carbendazim (2 g/kg seed) followed by foliar spray of Carbendazim @ 0.1% at 65-70 days after sowing or Foliar spray of propiconazole 25 EC @ 0.1% or  Nativo (Tebuconazole 50% + Triflaxostrobin 2%) @ 0.1% at 65-70 days after sowing. |
+| Clubroot (Plasmodiophora brassicae) | Soil amendment with lime so as to reach soil pH at the level of 7.2 Usually second irrigation should be avoided Sowing should be done in second fortnight of October |
+| Phyllody | Rogue the virus-affected plants Uproot and destroy parasitic plants before seed setting Continuous cropping of Toria/ mustard should be avoided Follow crop rotation with cereals and legumes Sesame-mustard sequence significantly reduces |
+| Orobanche infestation | Apply Soybean oil on Orobanche Follow crop rotation with wheat |
+
+(X) Harvesting, Threshing and storage
+
+Usually rapeseed-mustard crops are harvested as soon as 75% of pods turn yellow. Toria, which takes 75 to 90 days to mature, is the earliest crop to be harvested. The moisture in the seed should be around 30%. Harvesting can be done with the help of serrated sickles leaving about 15 cm high stubbles in the field. The mechanical reaper or harvester can also be used in large fields.
+
+The crop may be tied in small bundles, stacked and dried in sun till the moisture content of the seed reaches between 12 and 20%. Threshing is done manually or by the usual method of treading by bullocks or by running a tractor over the dried plants spread on the threshing floor. When the produce is more, the combine or multicrop thresher is also used.
+
+For safe storage, the moisture content in the seed should be 8%. Before storage, winnowing is done with the help of natural air current by slowly dropping the produce from a basket or by the use of power-operated cleaner. The seed, after drying in the sun is stored in gunny bags or bins.
+
+(XI). Varieties cultivated and their details (Last 10 years)
+
+| S. No. | Variety | Year of notification | Maturity (days) | Oil content (%) | Average Yield (kg/ha) | Salient features | Recommended for the states |
+| Indian mustard (Brassica juncea) |
+| 1 | RGN-298 | 2015 | 143 | 40 | 2172 | Timely sown rainfed conditions | Rajasthan, Punjab, Haryana New Delhi, Jammu & Kashmir and Uttar Pradesh |
+| 2 | Pant Rai 20 | 2015 | 124 | 40 | 1966 | Timely sown irrigated and rainfed conditions | Plains of Uttarakhand state |
+| 3 | PBR 357 | 2015 | 142-149 | 39-40 | 2467-2830 | Timely sown irrigated condition | Delhi, Haryana, Jammu, Punjab and northern Rajasthan. |
+| 4 | Gujarat Dantiwada Mustard 4 (GDM 4) | 2015 | 105-115 | 38.4-39.02 | 2250-2600 | Irrigated conditions | Gujarat |
+| 5 | Gujarat Dantiwada Mustard 5 | 2016 | 134-155 | 38.0-41.4 | 2081-2360 | Timely sown rainfed condition | Delhi, Haryana ,Punjab,  Jammu & Kashmir and part of Rajasthan |
+| 6 | Raj Vijay Mustard 1 | 2016 | 98-121 | 40.2-43.1 | 1389-2019 | Suitable for rainfed conditions | Madhya Pradesh |
+| 7 | RLC 3 | 2016 | 138 -150 | 41.5 | 2175 -2435 | Irrigated condition/ Double low quality, yellow seeded, white rust resistant | Punjab |
+| 8 | PDZ 1 | 2016 | 142 | 40.7 | 2234 | Timely sown irrigated condition/ Double low quality | Rajasthan, Punjab, Haryana, Delhi, Jammu and Western UP |
+| 9 | CS 1100-1-2-2-3  (CS 58) | 2017 | 128-142 | 38.5-39.5 | 1734-2168 | Timely sown irrigated conditions. Salinity tolerant | Salinity affected areas of mustard growing regions of country |
+| 10 | Pant Rai 21 (PRB 2008-15) | 2017 | 122-125 | 40 | 2500-3000 | Timely sown irrigated conditions. Medium maturity | Uttarakhand plains |
+| 13 | RH 0725 | 2018 | 136-143 | 40.2 | 2500-2600 | Timely sowing rainfed conditions | Jammu, Punjab, Haryana, Delhi and Northern Rajasthan |
+| 14 | CS 60 | 2018 | 125-132 | 39.4 | 1900-2200 | Timely sown condition in salt-affected soil and alkali soils | Haryana, Punjab, Uttar Pradesh and Rajasthan |
+| 15 | RSPR 69 | 2019 | 135-145 | 39.4 | 1990 | Timely sown irrigated and rainfed conditions | Jammu Division (Jammu & Kashmir) |
+| 16 | RH 761 | 2019 | 137-143 | 40.4 | 2500-2600 | Timely sown rainfed conditions. | Delhi, Haryana ,Punjab,  Jammu & Kashmir and part of Rajasthan |
+| 17 | TBM 204 (Trombay Bidhan Mustard-204) | 2019 | 110-115 | 41 | 1500-1800 | Timely sown irrigated condition. | West Bengal, Jharkhand and Odisha |
+| 18 | DRMR 1165-40 (Rukmini) | 2020 | 142 | 41.2 | 2200-2600 | Timely sown rainfed condition. | Delhi, Haryana, Jammu & Kashmir, Punjab and Rajasthan |
+| 19 | DRMR 150-35 (Brij Madhuri) | 2020 | 114 | 36.7-42.8 | 1200-1800 | Timely sown rainfed condition. | Odisha, West Bengal, Bihar, Jharkhand, Chhattisgarh and Assam |
+| 24 | Azad Mahak KMR(E) 15-2 | 2020 | 120-125 | 41.6 | 2047 | Tolerant to high temperature | Uttar Pradesh |
+| 25 | Pusa Mustard 32  (LES 54) | 2021 | 143-147 | 37.5-39.0 | 2067 | Timely sown irrigated conditions Low erucic acid | Jammu, Punjab, Haryana, Delhi and Rajasthan |
+| 26 | DRMR 2017-15 (Radhika) | 2021 | 131 | 40.7 | 1686-1847 | Late sown irrigated conditions | Jammu, Punjab, Haryana, Delhi and Rajasthan |
+| 27 | DRMRIC 16-38 (Brijraj) | 2021 | 120-149 | 37.6-40.9 | 1733 | Late sown irrigated conditions | Jammu, Punjab, Haryana, Delhi and Rajasthan |
+| 28 | RCH 1 (Hybrid) | 2021 | 149-155 | 38.49 | 2666 | Timely sown irrigated conditions | Rajasthan, Punjab, Haryana, Delhi, Uttar Pradesh, Jammu & Kashmir and Himachal Pradesh |
+| 29 | PHR 126 (Hybrid) | 2021 | 145 | 40.20 | 2280 | Timely sown irrigated conditions | Punjab |
+| 31 | Pusa Double Zero Mustard 33 (PDZ-11) | 2021 | 136-155 | 37.5-39 | 2644 | Timely sown irrigated conditions | Rajasthan, Punjab, Haryana, Delhi, Uttar Pradesh, Jammu & Kashmir and Himachal Pradesh |
+| 32 | TAM 108-1 | 2021 | 100-110 | 40.09 | 2333 | Medium maturity group | Vidharbha region of Maharashtra |
+| 33 | Birsa Bhabha Mustard 1(BBM 1) | 2021 | 114-121 | 40.3 | 1556 | Timely sown rainfed conditions | Jharkhand state |
+| 34 | Trombay Him Palam Mustard 1 (THPM 1) | 2021 | 144-160 | 39.9 | 1123 | Timely sown  irrigated conditions | Himachal Pradesh |
+| 35 | KMR 16-2 (Surekha) | 2022 | 125-130 | 40.3-42.4 | 2500-2700 | Timely sown  irrigated conditions | Uttar Pradesh |
+| 36 | TBM 143 (Trombay Bidhan Mustard 143) | 2022 | 104 | 41.3 | 1413 | - | West Bengal |
+| 37 | Jammu Mustard-135 (JM 13-5) | 2022 | 135-145 | 38.0-39.6 | 1600-1800 | Timely sown irrigated and rainfed conditions | Jammu Division (Jammu & Kashmir) |
+| 38 | RH 1424 | 2022 | 139 | 40.5 | 2613 | Timely sown rainfed conditions | Jammu, Punjab, Haryana, Delhi and Northern Rajasthan |
+| 39 | RH (OE) 1706  (RH 1706) | 2022 | 140 | 38 | 2690 | Timely sown irrigated conditions | Jammu, Punjab, Haryana, Delhi and Northern Rajasthan |
+| 40 | Rohini (A4A5)-491 (Rohini-WRR 2) | 2022 | 147 (Zone-II),   139 Zone-III) | 42.8 | 1571 (Zone-II),  1211 (Zone-III) | Timely sown  irrigated conditions.  White rust resistant | Zone-II (Rajasthan , Punjab, Haryana, Delhi, Western Uttar Pradesh, Plains of Jammu & Kashmir and Himachal Pradesh);  Zone-III (Madhya Pradesh, Uttar Pradesh, Uttarakhand) |
+| 41 | Pusa Bold (A4A5)-842 (Pusa Bold WRR 2) | 2022 | 148 (Zone-II),  137 (Zone-III) | 34.3 | 1815 (Zone-II),  1383 (Zone-III) | Timely sown  irrigated conditions.  White rust resistant | Zone-II (Rajasthan , Punjab, Haryana, Delhi, Western Uttar Pradesh, Plains of Jammu & Kashmir and Himachal Pradesh);  Zone-III (Madhya Pradesh, Uttar Pradesh, Uttarakhand) |
+| 42 | Varuna (A4A5)-936-279 (Varuna WRR 2) | 2022 | 144 Zone-II),  134 (Zone-III) | 39.1 | 2107 (Zone-II),  1685 (Zone-III) | Timely sown  irrigated conditions  White rust resistant | Zone-II (Rajasthan , Punjab, Haryana, Delhi, Western Uttar Pradesh, Plains of Jammu & Kashmir and Himachal Pradesh);  Zone-III (Madhya Pradesh, Uttar Pradesh, Uttarakhand) |
+| 43 | Pusa Mustard 34 (LES 60) | 2022 | 147 | 36 | 2609 | Timely sown irrigated condition Low erucic acid | Rajasthan , Punjab, Haryana, Delhi, Utter Pradesh, Jammu & Kashmir, Himachal Pradesh, Madhya Pradesh, Uttar Pradesh and Uttarakhand |
+| 44 | CS 13000-3-2-2-5-2 (CS 61) | 2023 | 132 | 39 | 2046 | Timely sown irrigated conditions Suitable for salt affected soils conditions | Uttar Pradesh |
+| 45 | CS 15000-1-1-1-4-2 (CS 62) | 2023 | 136 | 39 | 1959 | Timely sown irrigated conditions Suitable for salt affected soils conditions | Uttar Pradesh |
+| 46 | CS 2005-143 (CS 64) | 2023 | 135-140 | 38.4 | 2200 | Timely sown irrigated conditions Suitable for Saline/ Alkaline conditions | Rajasthan , Punjab, Haryana, Delhi, Uttar Pradesh, Jammu & Kashmir and Himachal Pradesh |
+| 47 | Pant Rai-22 (PRL-2013-17) | 2023 | 130 | 38.88 | 1530 | Timely sown irrigated conditions | Uttarakhand Plains |
+| 48 | Anand Hema (Gujarat Mustard 8) | 2023 | 94 | 38.39 | 2791 | Timely sown irrigated conditions/ Early maturity | Gujarat |
+| 49 | Sampoorna (OUAT Kalinga Mustard 1) | 2023 | 110-115 | 40.3 | 1337 | Timely and late sown irrigated conditions | Odisha |
+| 50 | Gujarat Mustard 6 (Banas Sona) | 2023 | 111 | 38.89 | 2541 | Timely sown irrigated conditions | Gujarat |
+| 51 | BPM 11 (Bharatpur Mustard 11) (DRMR 2018-19) | 2024 | 123 | 37.8 | 1859 | Late sown irrigated conditions. Resistant to White rust disease | Rajasthan, Uttar Pradesh, Madhya Pradesh, Uttarakhand and Bihar |
+| 52 | RH 1975 | 2024 | 143 | 39.3 | 2720 | Timely sown irrigated conditions | Jammu, Punjab, Haryana, Delhi and northern Rajasthan |
+| 53 | Pusa Double Zero Mustard 35 (PDZ 14) | 2024 | 132 | 42.1 | 2148 | Timely sown irrigated conditions  Double low quality | Madhya Pradesh, Uttar Pradesh, Uttarakhand and Rajasthan |
+| 54 | Pusa Double Zero Mustard 36 (PDZ 15) | 2024 | 131 | 41.8 | 2049 | Timely sown irrigated conditions  Double low quality | Madhya Pradesh, Uttar Pradesh, Uttarakhand and Rajasthan |
+| 55 | Trombay Jodhpur Mustard 1 (TM 108-1) | 2024 | 117-124 | 39-41 | 1808 | Medium maturity | Rajasthan |
+| 56 | Trombay Jodhpur Mustard 2 (TM 267-3) | 2024 | 118-128 | 39.2 – 41.6 | 1831 | Medium maturity | Rajasthan |
+| 58 | NPJ 253 (PM 37) | 2025 | II: 145 III: 134 | II: 38.6 III: 41.2 | II: 2641 III: 2683 | Timely sown irrigated conditions | Zone-II (Jammu, Punjab, Haryana, Delhi, Western Uttar Pradesh and Northern Rajasthan); Zone-III (Uttarakhand, Uttar Pradesh, Madhya Pradesh, Eastern Rajasthan and Bihar) |
+| 59 | DRMR 2018-25 (BPM 1825) | 2025 | 135 | 41.7 | 2630 | Timely sown irrigated conditions White rust resistant | Zone-II (Jammu, Punjab, Haryana, Delhi, Rajasthan); Zone-III (Uttarakhand, Uttar Pradesh, Madhya Pradesh, Eastern Rajasthan and Bihar) |
+| 60 | DRMRCI(Q) 47 (BPMQ 47) | 2025 | 144 | 40.5 | 2348 | Timely sown irrigated conditions Low erucic acid | Jammu, Punjab, Haryana, Delhi and Rajasthan |
+| 61 | Malaviya Nidhi HUJM 10-6 | 2025 | 127-129 | 39.48 | 1576 | Timely sown irrigated conditions | Uttar Pradesh |
+| 62 | RHH 2101 (Hybrid) | 2025 | 142 | 39.7 | 2849 | Timely sown irrigated conditions | Rajasthan , Punjab, Haryana, Delhi, Western Utter Pradesh, Plains of Jammu & Kashmir and Himachal Pradesh |
+| 63 | DRMRCI (Q) 172 (BPM Q 172) | 2025 | 131 | 41.8 | 2304 | Timely sown irrigated conditions  White rust resistant, Low erucic acid | Rajasthan, Uttar Pradesh, Madhya Pradesh, Uttarakhand and Bihar |
+| 64 | CS 2020-10 (CS 68) | 2025 | 131 | 39.3 | 2177 | Timely sown irrigated conditions  Salt effected soils and water conditions | Haryana, Punjab, Rajasthan, Delhi and Uttar Pradesh |
+| 65 | Pusa Mustard 38  (NPJ 261) | 2025 identified | 145 | 40.38 | 2805 | Timely sown irrigated conditions | Jammu, Punjab, Haryana, Delhi, Western Uttar Pradesh and Northern Rajasthan |
+| 66 | PDKV Kartik  (ACN 237) | 2025 identified | 103 | 40.32 | 1545 | Timely sown irrigated conditions | Vidarbha region of Maharashtra |
+| 67 | Goverdhan KMR (L)17-5 | 2025 identified | 125-127 | 39.60-40.0 | 1256 | Late sown irrigated conditions | Uttar Pradesh |
+| Karna rai (B. carinata) |
+| 1 | PC 6 (BJC 1) | 2016 | 157 | 40 | 1930 | Determinate plant canopy. Free from white rust. | Punjab |
+| Brown sarson (B. rapa var. toria) |
+| 1 | HPBS 1 | 2018 | 150 | - | 1000-1100 | Suitable for rainfed farming in late September– October in low and mid hills of Himachal Pradesh | Himachal Pradesh |
+| 2 | Shalimar Sarsaon-2 (KBS-49) | 2019 | 205-215 | 42.7 | 1600-1700 | - | Jammu & Kashmir and Himachal Pradesh |
+| 3 | Shalimar Sarsaon-3 (KBS-3) | 2019 | 150-155 | 40-45 | 900-1200 | Cold tolerant | Jammu & Kashmir |
+| Toria (B. rapa var. toria) |
+| 1 | Sushree | 2015 | 75-83 | 42.15 | 1381 | Suitable for late sown conditions. Non-lodging type | Odisha |
+| 2 | TL 17 | 2016 | 90 | 42 | 1300 | Suitable for multiple cropping systems | Punjab |
+| 3 | Raj Vijay Toria 1 | 2017 | 98-105 | 41.2 | 1276-1874 | Tolerant to drought | Madhya Pradesh |
+| 4 | Pant Hill Toria 1 (PT 2006-4) | 2017 | 122-134 | 42 | 900-1200 | Suitable for sowing under rainfed conditions. | Uttarakhand |
+| 5 | Pant Toria 508 (PTE 20008-2) | 2017 | 91-96 | 42 | 1600-1900 | Suitable for sowing in September under irrigated conditions. | Uttarakhand |
+| 6 | Tapeshwari  (TK 06-1) | 2018 | 90-95 | 41 | 1200-1300 | Suitable for rainfed, irrigated conditions for extra early sowing, i.e. mid-September, tolerant to drought,  Being extra early maturity, it escapes diseases. | Uttar Pradesh |
+| 7 | Tripura Toria 1 | 2018 | 86 | 42.6 | 800-900 | Suitable for rainfed upland and lowland after kharif,  Perform well under residual moisture after kharif rice, also as utera crop,  Resistant to lodging | Tripura |
+| 8 | RSPT 6  (TCN 13-9) | 2019 | 85-90 | 42.6 | 1150 | - | Jammu Division (Jammu & Kashmir) |
+| 9 | Raj Vijay Toria 3 (RTM 08-6) | 2020 | 93-99 | 40-44 | 1388 | - | Madhya Pradesh |
+| 10 | Jeuti ( JT 90-1) | 2020 | 91-95 | 42.2 | 1444 | Suitable for normal sowing condition | Assam |
+| 11 | Azad Chetna (TKM 14-2) | 2021 | 90-95 | 42.2 | 1440 | Being early in maturity it escapes from Alternaria blight, aphid and fog. | Uttar Pradesh |
+| 12 | Raj Vijay Toria 2 (RMT 08-2) | 2021 | 108-110 | 41.9-43.5 | 1042-1195 | Suitable for double cropping system under irrigated and rainfed conditions. | Madhya Pradesh |
+| 13 | AAU TS-38 | 2021 | 85-95 | 42-44 | 1689 | Suitable for timely sown rainfed condition | Assam, Arunachal Pradesh, Nagaland, Manipur, Mizoram, West Bengal, Odisha and Jharkhand |
+| Yellow sarson (B. rapa var. yellow sarson) |
+| 2 | Pant Sweta   (PYS 2007-10) | 2017 | 105-110 | 45 | 1600-2000 | Timely sown    irrigated  conditions in October | Uttarakhand |
+| 3 | Pant Girija | 2020 | 92-128 | 45.3 | 1400-1700 | Medium maturity | Plains of Uttarakhand state |
+| 4 | Sanchita  (YSWB 2014/2) | 2020 | 95-97 | 44-45 | 1400-1600 | Timely sown irrigated condition  Medium maturity | West Bengal |
+| 5 | Anushka  (YSWB 2011-10-1) | 2020 | 85 | 44-45 | 1400-1600 | Timely sown irrigated condition  Early maturity | West Bengal |
+| 6 | Pant Pili Sarson-2 (PYS-2016-8) | 2022 | 109 | 45.1 | 1386 | - | Plains of Uttarakhand |
+| 7 | Jodhpur Yellow Sarson 1  (RMYS 2/GP 29) | 2024 | 116-125 | 42-45 | 2147 | - | Rajasthan |
+| 8 | Jodhpur Yellow Sarson 2 (RMYS 2/GP 79) | 2024 | 114-121 | 42-47 | 2120 | - | Rajasthan |
+| Gobhi sarson (Brasscia napus) |
+| 1 | GSC 7 (GSC 101) | 2015 | 154 | 40.5 | 1911-2190 | Timely sowing irrigated condition  Canola quality | Punjab, Haryana, Himachal Pradesh, Jammu & Kashmir and Rajasthan |
+| 2 | RSPN-25 | 2015 | 145-155 | 39 | 1800 | - | Jammu division |
+| 3 | Him Palam Gobhi Sarson 1  (AKMS 8141) | 2021 | 166 | 37.5-42.8 | 1915 | Timely sowing irrigated condition | Himachal Pradesh, Srinagar, Jammu and Punjab |
+| 4 | PGSH 1707 (Hybrid) | 2021 | 142 | 41 | 2200 | Timely sown irrigated conditions. Canola quality variety.  Resistant to white rust. | Punjab |
+| 5 | PGSH 1699  (GSH 1699) (Hybrid) | 2021 | 160-174 | 41.9 | 1581 | Timely sown irrigated conditions. Canola quality | Himachal Pradesh, Punjab and  Jammu & Kashmir |
+| 6 | Jammu Gobhi sarson 123  (JGS 12-3) | 2022 | 150-160 | 38.0- 41.2 | 1910 | - | Jammu & Kashmir |
+| 7 | Shalimar Gobhi Sarson-1 (KGS-32) | 2022 | 221 | 38.5 | 1307 | Timely sown irrigated conditions | Jammu & Kashmir |
+| 8 | Him Palam Gobhi Sarson 2 (AKGS 19-8 ) | 2023 | 158 | 39.5 | 1847 | Timely sown irrigated conditions | Himachal Pradesh, Punjab and Jammu |
+| 9 | GSH 2155  (PGSH 2155) | 2025 (identified) | 158 | 40.0 | 2301 | Timely sown irrigated conditions. Canola quality | Himachal Pradesh, Punjab and Jammu |
+| Taramira (Eruca sativa) |
+| 1 | Jwala Tara  (RTM 1355) | 2017 | 133-145 | 38.9 | 1300-1400 | Rainfed conditions | Haryana, Punjab, Rajasthan, Uttar Pradesh, Madhya Pradesh, Gujarat and  Delhi |
+| 2 | Jobner Tara  (RTM 1351) | 2017 | 137-142 | 39.7 | 1300-1500 | Rainfed conditions | Haryana, Punjab, Rajasthan, Uttar Pradesh, Gujarat, Delhi, Uttarakhand and Maharashtra |
+| 3 | Krishna Tara  (RTM-1624) | 2022 | 139 | 39.8 | 1203 | Rainfed conditions | Haryana, Punjab, Rajasthan, Uttar Pradesh, Gujarat, Delhi, Uttarakhand and Maharashtra |
