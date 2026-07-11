@@ -1,0 +1,11 @@
+# Caddy reverse proxy for Kisan Mitra.
+# Caddy automatically obtains a real HTTPS certificate (Let's Encrypt) for the
+# domain and transparently upgrades the /live WebSocket. HTTPS is REQUIRED —
+# browsers block camera/microphone (getUserMedia) on plain HTTP.
+#
+# Replace {$DOMAIN} via env, e.g.:  DOMAIN=kisanmitra.duckdns.org caddy run
+{$DOMAIN} {
+	encode zstd gzip
+	# Node app (relay + static PWA) listens on localhost:8080
+	reverse_proxy 127.0.0.1:8080
+}

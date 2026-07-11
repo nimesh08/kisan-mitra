@@ -1,0 +1,22 @@
+# systemd unit that keeps the Kisan Mitra server running and restarts on crash/reboot.
+# Install:  sudo cp deploy/kisan-mitra.service /etc/systemd/system/
+#           sudo systemctl daemon-reload && sudo systemctl enable --now kisan-mitra
+[Unit]
+Description=Kisan Mitra - live AI crop-doctor call server
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/kisan-mitra
+# .env holds GEMINI_API_KEY, PORT, etc. (systemd loads it as env vars)
+EnvironmentFile=/home/ubuntu/kisan-mitra/.env
+ExecStart=/usr/bin/node server/index.js
+Restart=always
+RestartSec=3
+# Basic hardening
+NoNewPrivileges=true
+ProtectSystem=full
+
+[Install]
+WantedBy=multi-user.target
